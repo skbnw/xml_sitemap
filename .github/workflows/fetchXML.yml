@@ -1,0 +1,38 @@
+name: Fetch XML Files
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 毎日午前1時に実行
+  workflow_dispatch:
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch and Save XML Files
+      run: |
+        mkdir -p xml_yom_$(date +\%Y\%m)
+        for i in {0..7}
+        do
+          if [ $i -eq 0 ]
+          then
+            url="https://www.yomiuri.co.jp/sitemap-news-latest.xml"
+            suffix="latest"
+          else
+            url="https://www.yomiuri.co.jp/sitemap-news-past-$i.xml"
+            suffix="past-$i"
+          fi
+          wget $url -O xml_yom_$(date +\%Y\%m)/xml-yom_$(date +\%Y\%m\%d)_$suffix.xml
+        done
+
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add xml_yom_$(date +\%Y\%m)/*
+        git commit -m "Add XML files for $(date +\%Y\%m\%d)"
+        git push
