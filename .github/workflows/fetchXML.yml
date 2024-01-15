@@ -27,7 +27,6 @@ jobs:
             suffix="past-$i"
           fi
           wget $url -O xml_yom_$(date +\%Y\%m)/xml-yom_$(date +\%Y\%m\%d)_$suffix.xml
-          sleep 3  # 3秒間待機
         done
 
     - name: Commit files
