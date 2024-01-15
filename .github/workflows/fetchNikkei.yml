@@ -35,7 +35,7 @@ jobs:
         for i in "${!urls[@]}"
         do
           url=${urls[$i]}
-          suffix=$(basename $url)
+          suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
           wget $url -O xml_nikkei_$(date +\%Y\%m)/xml-nikkei_$(date +\%Y\%m\%d)_$suffix.xml
         done
     - name: Commit files
