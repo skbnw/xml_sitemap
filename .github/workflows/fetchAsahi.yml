@@ -1,0 +1,39 @@
+name: Fetch ASAHI
+
+on:
+  schedule:
+    - cron: '30 1 * * *'  # 毎日午前1時30分に実行
+  workflow_dispatch:
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch and Save XML Files
+      run: |
+        mkdir -p xml_asahi_$(date +\%Y\%m)
+        urls=("https://www.asahi.com/sitemap/sitemap_national.xml" 
+              "https://www.asahi.com/sitemap/sitemap_business.xml"
+              "https://www.asahi.com/sitemap/sitemap_politics.xml"
+              "https://www.asahi.com/sitemap/sitemap_sports.xml"
+              "https://www.asahi.com/sitemap/sitemap_international.xml"
+              "https://www.asahi.com/sitemap/sitemap_culture.xml"
+              "https://www.asahi.com/sitemap/sitemap_science.xml"
+              "https://www.asahi.com/sitemap/sitemap_obituaries.xml")
+        for i in "${!urls[@]}"
+        do
+          url=${urls[$i]}
+          suffix=$(basename $url)
+          wget $url -O xml_asahi_$(date +\%Y\%m)/xml-asahi_$(date +\%Y\%m\%d)_$suffix.xml
+        done
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add xml_asahi_$(date +\%Y\%m)/*
+        git commit -m "Add XML files for $(date +\%Y\%m\%d)"
+        git push
