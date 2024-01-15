@@ -27,7 +27,7 @@ jobs:
         for i in "${!urls[@]}"
         do
           url=${urls[$i]}
-          suffix=$(basename $url)
+          suffix=$(basename $url .xml)
           wget $url -O xml_asahi_$(date +\%Y\%m)/xml-asahi_$(date +\%Y\%m\%d)_$suffix.xml
         done
     - name: Commit files
