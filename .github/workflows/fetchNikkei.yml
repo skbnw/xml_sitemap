@@ -11,32 +11,19 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Fetch and Save XML Files
       run: |
         mkdir -p xml_nikkei_$(date +\%Y\%m)
         urls=("https://www.nikkei.com/sitemaps/economy.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/company.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/international.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/politics.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/stock.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/financial.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/science.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/life.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/sports.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/society.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/eco.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/health.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/internet.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/employment.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/education.sitemap.xml"
+              # その他のURL
               "https://www.nikkei.com/sitemaps/video.sitemap.xml")
         for i in "${!urls[@]}"
         do
           url=${urls[$i]}
           suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
-          wget $url -O xml_nikkei_$(date +\%Y\%m)/xml-nikkei_$(date +\%Y\%m\%d)_$suffix.xml
+          wget $url -O xml_nikkei_$(date +\%Y\%m)/xml-nikkei_$(date +\%Y\%m\%d)_$suffix.xml || true
         done
     - name: Commit files
       run: |
