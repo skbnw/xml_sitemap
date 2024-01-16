@@ -27,7 +27,6 @@ jobs:
             suffix="past-$i"
           fi
           wget $url -O xml_yom_$(date +\%Y\%m)/xml-yom_$(date +\%Y\%m\%d)_$suffix.xml
-          wget $url -O xml_yom_$(date +\%Y\%m)/xml-$(date +\%Y\%m)-yom_$suffix.xml
         done
 
     - name: Commit files
