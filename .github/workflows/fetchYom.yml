@@ -2,9 +2,8 @@ name: Fetch YOM
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # Run every day at 1:00 AM
+    - cron: '0 1 * * *'  # 毎日午前1時に実行
   workflow_dispatch:
-
 
 jobs:
   fetch-and-save:
@@ -12,36 +11,34 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
-      with:
-        submodules: 'recursive'
-
-    - name: Use Node.js 16
-      uses: actions/setup-node@v2
-      with:
-        node-version: '16'
+      uses: actions/checkout@v3
 
     - name: Fetch and Save XML Files
       run: |
         mkdir -p xml_yom_$(date +\%Y\%m)
-        for i in {0..7}
+        urls=("https://www.yomiuri.co.jp/sitemap-news-latest.xml"
+              "https://www.yomiuri.co.jp/sitemap-news-past-1.xml"
+              "https://www.yomiuri.co.jp/sitemap-news-past-2.xml"
+              "https://www.yomiuri.co.jp/sitemap-news-past-3.xml"
+              "https://www.yomiuri.co.jp/sitemap-news-past-4.xml"
+              "https://www.yomiuri.co.jp/sitemap-news-past-5.xml"
+              "https://www.yomiuri.co.jp/sitemap-news-past-6.xml"
+              "https://www.yomiuri.co.jp/sitemap-news-past-7.xml")
+        for url in "${urls[@]}"
         do
-          if [ $i -eq 0 ]
-          then
-            url="https://www.yomiuri.co.jp/sitemap-news-latest.xml"
-            suffix="latest"
+          suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
+          if wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yom_$(date +\%Y\%m%d)_$suffix.xml"; then
+            echo "Downloaded $url"
           else
-            url="https://www.yomiuri.co.jp/sitemap-news-past-$i.xml"
-            suffix="past-$i"
+            echo "Failed to download $url"
           fi
-          wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yom_$(date +\%Y\%m%d)_$suffix.xml"
         done
 
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git checkout -b update-xml-files
+        git checkout -b update-xml-files-$(date +\%Y\%m\%d)
         git add xml_yom_$(date +\%Y\%m)/*
-        git commit -m "Add XML files for $(date +\%Y\%m%d)"
-        git push origin update-xml-files
+        git commit -m "Add XML files for $(date +\%Y\%m\%d)"
+        git push origin update-xml-files-$(date +\%Y\%m\%d)
