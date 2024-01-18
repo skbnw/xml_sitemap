@@ -26,13 +26,14 @@ jobs:
             url="https://www.yomiuri.co.jp/sitemap-news-past-$i.xml"
             suffix="past-$i"
           fi
-          wget $url -O xml_yom_$(date +\%Y\%m)/xml-yom_$(date +\%Y\%m\%d)_$suffix.xml
+          wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yom_$(date +\%Y\%m%d)_$suffix.xml"
         done
 
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git checkout -b update-xml-files  # 新しいブランチを作成
         git add xml_yom_$(date +\%Y\%m)/*
-        git commit -m "Add XML files for $(date +\%Y\%m\%d)"
-        git push
+        git commit -m "Add XML files for $(date +\%Y\%m%d)"
+        git push origin update-xml-files  # ブランチをリモートリポジトリにプッシュ
