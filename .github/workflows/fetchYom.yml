@@ -31,6 +31,7 @@ jobs:
             echo "Downloaded $url"
           else
             echo "Failed to download $url"
+            wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yom_$(date +\%Y\%m%d)_$suffix.xml"  # エラー時にもう一度試行
           fi
         done
 
