@@ -2,7 +2,7 @@ name: Fetch YOM
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 毎日午前1時に実行
+    - cron: '0 1 * * *'  # Run every day at 1:00 AM
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,13 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        submodules: 'recursive'
+
+    - name: Use Node.js 16
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
 
     - name: Fetch and Save XML Files
       run: |
@@ -33,7 +40,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git checkout -b update-xml-files  # 新しいブランチを作成
+        git checkout -b update-xml-files
         git add xml_yom_$(date +\%Y\%m)/*
         git commit -m "Add XML files for $(date +\%Y\%m%d)"
-        git push origin update-xml-files  # ブランチをリモートリポジトリにプッシュ
+        git push origin update-xml-files
