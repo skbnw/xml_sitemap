@@ -17,7 +17,7 @@ jobs:
 
     - name: Fetch and Save XML Files
       run: |
-        mkdir -p xml_yom_$(date +\%Y\%m\%d)
+        mkdir -p xml_yom_$(date +\%Y\%m)
         urls=("https://www.yomiuri.co.jp/sitemap-news-latest.xml"
               "https://www.yomiuri.co.jp/sitemap-news-past-1.xml"
               "https://www.yomiuri.co.jp/sitemap-news-past-2.xml"
@@ -29,11 +29,11 @@ jobs:
         for url in "${urls[@]}"
         do
           suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
-          if wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"; then
+          if wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m)_$suffix.xml"; then
             echo "Downloaded $url"
           else
             echo "Failed to download $url"
-            wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"  # エラー時にもう一度試行
+            wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m)_$suffix.xml"  # エラー時にもう一度試行
           fi
         done
 
@@ -41,7 +41,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add xml_yom_$(date +\%Y\%m\%d)/*
-        git commit -m "Add XML files for $(date +\%Y\%m\%d)"
+        git add xml_yom_$(date +\%Y\%m)/*
+        git commit -m "Add XML files for $(date +\%Y\%m)"
         git push origin main
-
