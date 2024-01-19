@@ -29,11 +29,11 @@ jobs:
         for url in "${urls[@]}"
         do
           suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
-          if wget $url -O "xml_yom_$(date +\%Y\%m\%d)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"; then
+          if wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"; then
             echo "Downloaded $url"
           else
             echo "Failed to download $url"
-            wget $url -O "xml_yom_$(date +\%Y\%m\%d)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"  # エラー時にもう一度試行
+            wget $url -O "xml_yom_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"  # エラー時にもう一度試行
           fi
         done
 
