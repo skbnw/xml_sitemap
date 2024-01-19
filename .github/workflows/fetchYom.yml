@@ -2,7 +2,7 @@ name: Fetch YOM
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 毎日午前1時に実行
+    - cron: '0 1 * * *'  # Run every day at 1 AM
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
 
     - name: Fetch and Save XML Files
       run: |
-        mkdir -p xml_yom_$(date +\%Y\%m)
+        mkdir -p xml_yom_$(date +\%Y\%m\%d)
         urls=("https://www.yomiuri.co.jp/sitemap-news-latest.xml"
               "https://www.yomiuri.co.jp/sitemap-news-past-1.xml"
               "https://www.yomiuri.co.jp/sitemap-news-past-2.xml"
@@ -26,12 +26,12 @@ jobs:
               "https://www.yomiuri.co.jp/sitemap-news-past-7.xml")
         for url in "${urls[@]}"
         do
-          suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
-          if wget $url -O "xml_yomi_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m%d)_$suffix.xml"; then
+          suffix=$(basename $url .xml)  # Remove '.xml' extension
+          if wget $url -O "xml_yom_$(date +\%Y\%m\%d)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"; then
             echo "Downloaded $url"
           else
             echo "Failed to download $url"
-            wget $url -O "xml_yomi_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m%d)_$suffix.xml"  # エラー時にもう一度試行
+            wget $url -O "xml_yom_$(date +\%Y\%m\%d)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"  # Retry on error
           fi
         done
 
@@ -40,6 +40,6 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git checkout -b update-xml-files-$(date +\%Y\%m\%d)
-        git add xml_yom_$(date +\%Y\%m)/*
+        git add xml_yom_$(date +\%Y\%m\%d)/*
         git commit -m "Add XML files for $(date +\%Y\%m\%d)"
         git push origin update-xml-files-$(date +\%Y\%m\%d)
