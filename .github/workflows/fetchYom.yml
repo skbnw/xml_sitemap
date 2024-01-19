@@ -2,16 +2,18 @@ name: Fetch YOM
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # Run every day at 1 AM
+    - cron: '0 1 * * *'  # 毎日午前1時に実行
   workflow_dispatch:
 
 jobs:
-  fetch-and-save:
+  fetch-and-push:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        ref: main  # mainブランチを使用
 
     - name: Fetch and Save XML Files
       run: |
@@ -26,20 +28,20 @@ jobs:
               "https://www.yomiuri.co.jp/sitemap-news-past-7.xml")
         for url in "${urls[@]}"
         do
-          suffix=$(basename $url .xml)  # Remove '.xml' extension
+          suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
           if wget $url -O "xml_yom_$(date +\%Y\%m\%d)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"; then
             echo "Downloaded $url"
           else
             echo "Failed to download $url"
-            wget $url -O "xml_yom_$(date +\%Y\%m\%d)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"  # Retry on error
+            wget $url -O "xml_yom_$(date +\%Y\%m\%d)/xml-yomi_$(date +\%Y\%m\%d)_$suffix.xml"  # エラー時にもう一度試行
           fi
         done
 
-    - name: Commit files
+    - name: Commit and Push files to main
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git checkout -b update-xml-files-$(date +\%Y\%m\%d)
         git add xml_yom_$(date +\%Y\%m\%d)/*
         git commit -m "Add XML files for $(date +\%Y\%m\%d)"
-        git push origin update-xml-files-$(date +\%Y\%m\%d)
+        git push origin main
+
