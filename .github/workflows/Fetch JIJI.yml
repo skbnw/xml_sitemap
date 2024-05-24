@@ -63,12 +63,16 @@ jobs:
         for url in "${urls[@]}"
         do
           suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
-          wget $url -O "xml_jiji_$(date +\%Y\%m)/xml-jiji_$(date +\%Y\%m%d)_$suffix.xml" || echo "Failed to download $url" >> download_errors.log
+          if wget $url -O "xml_jiji_$(date +\%Y\%m)/xml-jiji_$(date +\%Y\%m%d)_$suffix.xml"; then
+            echo "Downloaded $url"
+          else
+            echo "Failed to download $url" >> download_errors.log
+          fi
           sleep 3  # 各ダウンロードの間に3秒待機
         done
 
     - name: Commit and Push files to main
-      if: success() || failure()  # 成功か失敗に関係なく実行
+      if: always()  # 常に実行
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
