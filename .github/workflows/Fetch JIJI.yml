@@ -11,9 +11,12 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4  # Node.js 20を使用するためv4を指定
+
+    - name: Set up Node.js 20
+      uses: actions/setup-node@v3
       with:
-        ref: main  # mainブランチを使用
+        node-version: '20'
 
     - name: Fetch and Save XML Files
       run: |
