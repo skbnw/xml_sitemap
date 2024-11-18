@@ -2,7 +2,7 @@ name: Fetch Shikoku RSS
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 毎日午前1時に実行
+    - cron: '0 4 * * *'  # 毎日午前1時に実行
   workflow_dispatch:
 
 jobs:
