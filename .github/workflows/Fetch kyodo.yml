@@ -2,7 +2,7 @@ name: Fetch Kyodo
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 毎日午前1時に実行
+    - cron: '0 */6 * * *'  # 6時間おきに実行
   workflow_dispatch:
 
 jobs:
@@ -19,26 +19,22 @@ jobs:
       run: |
         mkdir -p xml_kyodo_$(date +\%Y\%m)
         urls=(
-          "http://rss.shikoku-np.co.jp/rss/flash.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_social.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_economy_securities.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_international.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_culture_entertainment.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_science_environmental.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_main.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_economy.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_economy_exchange.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_political.aspx"
-          "http://rss.shikoku-np.co.jp/rss/national_medical_health.aspx"
+          "https://assets.wor.jp/rss/rdf/ynnews/news.rdf"
+          "https://assets.wor.jp/rss/rdf/ynnews/national.rdf"
+          "https://assets.wor.jp/rss/rdf/ynnews/politics.rdf"
+          "https://assets.wor.jp/rss/rdf/ynnews/economics.rdf"
+          "https://assets.wor.jp/rss/rdf/ynnews/world.rdf"
+          "https://assets.wor.jp/rss/rdf/ynnews/sports.rdf"
+          "https://assets.wor.jp/rss/rdf/ynnews/culture.rdf"
         )
         for url in "${urls[@]}"
         do
-          suffix=$(basename $url | sed 's/\.aspx//')  # '.aspx' を取り除く
-          if wget $url -O "xml_kyodo_$(date +\%Y\%m)/xml-kyodo_$(date +\%Y\%m%d)_$suffix.xml"; then
+          suffix=$(basename $url | sed 's/\.rdf//')  # '.rdf' を取り除く
+          if wget $url -O "xml_kyodo_$(date +\%Y\%m)/xml-kyodo_$(date +\%Y\%m%d%H%M)_$suffix.xml"; then
             echo "Downloaded $url"
           else
             echo "Failed to download $url"
-            wget $url -O "xml_kyodo_$(date +\%Y\%m)/xml-kyodo_$(date +\%Y\%m%d)_$suffix.xml"  # エラー時に再試行
+            wget $url -O "xml_kyodo_$(date +\%Y\%m)/xml-kyodo_$(date +\%Y\%m%d%H%M)_$suffix.xml"  # エラー時に再試行
           fi
         done
 
@@ -47,5 +43,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add xml_kyodo_$(date +\%Y\%m)/*
-        git commit -m "Add RSS files for $(date +\%Y\%m%d)"
+        git commit -m "Add RSS files for $(date +\%Y\%m%d%H%M)"
         git push origin main
