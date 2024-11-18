@@ -1,0 +1,51 @@
+name: Fetch Shikoku RSS
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 毎日午前1時に実行
+  workflow_dispatch:
+
+jobs:
+  fetch-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        ref: main  # mainブランチを使用
+
+    - name: Fetch and Save RSS Files
+      run: |
+        mkdir -p rss_shikoku_$(date +\%Y\%m)
+        urls=(
+          "http://rss.shikoku-np.co.jp/rss/flash.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_social.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_economy_securities.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_international.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_culture_entertainment.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_science_environmental.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_main.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_economy.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_economy_exchange.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_political.aspx"
+          "http://rss.shikoku-np.co.jp/rss/national_medical_health.aspx"
+        )
+        for url in "${urls[@]}"
+        do
+          suffix=$(basename $url | sed 's/\.aspx//')  # '.aspx' を取り除く
+          if wget $url -O "rss_shikoku_$(date +\%Y\%m)/rss-shikoku_$(date +\%Y\%m%d)_$suffix.xml"; then
+            echo "Downloaded $url"
+          else
+            echo "Failed to download $url"
+            wget $url -O "rss_shikoku_$(date +\%Y\%m)/rss-shikoku_$(date +\%Y\%m%d)_$suffix.xml"  # エラー時に再試行
+          fi
+        done
+
+    - name: Commit and Push files to main
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add rss_shikoku_$(date +\%Y\%m)/*
+        git commit -m "Add RSS files for $(date +\%Y\%m%d)"
+        git push origin main
