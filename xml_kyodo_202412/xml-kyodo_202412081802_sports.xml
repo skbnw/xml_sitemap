@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/ynnews/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fynnews%2Fsports.rdf">
+    <title>47NEWS 全国 スポーツ</title>
+    <link>https://www.47news.jp/news/sports</link>
+    <description>47NEWS 全国のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2024-12-09T02:11:30+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/11875669.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875639.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875623.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875610.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875497.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875482.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875479.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875369.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875383.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875331.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875098.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875261.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875289.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875270.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875265.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875169.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11874936.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11874544.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875132.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875042.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875061.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11873137.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875383.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875331.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11874936.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/shushoku_hyogaki_shien"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/numo"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/smrj"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/shushoku_hyogaki_shien"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/11875669.html">
+    <title>ジャンプ二階堂、自己最高の6位　スキーW杯男子第6戦</title>
+    <link>https://www.47news.jp/11875669.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875639.html">
+    <title>久保建英、後半途中までプレー　サッカー、スペイン1部</title>
+    <link>https://www.47news.jp/11875639.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875623.html">
+    <title>F1アブダビGP、角田は12位　マクラーレン製造者部門V</title>
+    <link>https://www.47news.jp/11875623.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875610.html">
+    <title>スキー谷地24位、渡部暁44位　W杯複合男子個人第5戦</title>
+    <link>https://www.47news.jp/11875610.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875497.html">
+    <title>サントリーが11勝目　バレーボールSVリーグ</title>
+    <link>https://www.47news.jp/11875497.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875482.html">
+    <title>ワッツ　鹿児島に力負け／プロバスケB2</title>
+    <link>https://www.47news.jp/11875482.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875479.html">
+    <title>⚽ジュビロ磐田、４度目のＪ２降格　鳥栖相手になすすべなく</title>
+    <link>https://www.47news.jp/11875479.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875369.html">
+    <title>キングス2連勝　名古屋Dに92－82　バスケB1（8日の試合）</title>
+    <link>https://www.47news.jp/11875369.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875383.html">
+    <title>白鴎大、史上５校目の連覇　インカレバスケ女子　延長戦４度の激闘で東京医療保健大に111-103</title>
+    <link>https://www.47news.jp/11875383.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875331.html">
+    <title>J1神戸、吉田監督に続投要請　武藤らとも契約延長交渉へ</title>
+    <link>https://www.47news.jp/11875331.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875098.html">
+    <title>錦織らがテニス慈善試合　能登地震支援にトップ選手</title>
+    <link>https://www.47news.jp/11875098.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875261.html">
+    <title>五輪銀の村尾が優勝　柔道GS、藤原や本田もV</title>
+    <link>https://www.47news.jp/11875261.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875289.html">
+    <title>仙台89ERS、三河に64－81　4連敗で最下位転落</title>
+    <link>https://www.47news.jp/11875289.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875270.html">
+    <title>［クラシエ杯準決勝・アルビ新潟Ｌ］ＩＮＡＣ神戸に0－1で惜敗　2季連続の決勝進出はならず</title>
+    <link>https://www.47news.jp/11875270.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875265.html">
+    <title>愛媛ＦＣＬ、４回戦敗退　サッカー皇后杯</title>
+    <link>https://www.47news.jp/11875265.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875169.html">
+    <title>森ひかる、松本悠生が優勝　ジャパンOPトランポリン</title>
+    <link>https://www.47news.jp/11875169.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11874936.html">
+    <title>角田夏実6月の世界柔道を視野に　パリ五輪金メダリスト</title>
+    <link>https://www.47news.jp/11874936.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11874544.html">
+    <title>ハピネッツ、連勝５でストップ　北海道に６１—６９で敗れる</title>
+    <link>https://www.47news.jp/11874544.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875132.html">
+    <title>楽天の鈴木大は1億6千万円　「自分の中で前に進めた」</title>
+    <link>https://www.47news.jp/11875132.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875042.html">
+    <title>三遠、千葉J下し15勝目　バスケB1、渡辺は29得点</title>
+    <link>https://www.47news.jp/11875042.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875061.html">
+    <title>田中将、楽天再契約の可能性否定　「できることをやっていくだけ」</title>
+    <link>https://www.47news.jp/11875061.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11873137.html">
+    <title>【レノファ山口】選手ら契約更新・満了、移籍情報（１２月８日更新）</title>
+    <link>https://www.47news.jp/11873137.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875383.html">
+    <title>白鴎大、史上５校目の連覇　インカレバスケ女子　延長戦４度の激闘で東京医療保健大に111-103</title>
+    <link>https://www.47news.jp/11875383.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875331.html">
+    <title>J1神戸、吉田監督に続投要請　武藤らとも契約延長交渉へ</title>
+    <link>https://www.47news.jp/11875331.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11874936.html">
+    <title>角田夏実6月の世界柔道を視野に　パリ五輪金メダリスト</title>
+    <link>https://www.47news.jp/11874936.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_02">
+    <title>「脱炭素」経営どうしたら？　特許＆AI技術でKenesが導く節水・節湯アプローチ</title>
+    <link>https://www.47news.jp/special/kenes_02</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/shushoku_hyogaki_shien">
+    <title>苦しんできた就職氷河期世代を支えたい　ひきこもり、親の高齢化、心身不調の40－50代…官民連携で支援充実</title>
+    <link>https://www.47news.jp/special/shushoku_hyogaki_shien</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/numo">
+    <title>地域の思いに寄り添って　正確な情報を真摯に　安全に地層処分事業を進めるために</title>
+    <link>https://www.47news.jp/special/numo</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/smrj">
+    <title>災害に負けず事業を続け地域経済を守るために　中小企業は「ジギョケイ」認定を。中小機構に聞く</title>
+    <link>https://www.47news.jp/special/smrj</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_05">
+    <title>幅広い分野の優れたサービスを日本全国から大募集！第５回「日本サービス大賞」</title>
+    <link>https://www.47news.jp/special/serviceaward_05</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_02">
+    <title>「おもてなし」でアジアに買取文化を　いーふらん鹿村大志社長、田中僚介代表が描く海外戦略</title>
+    <link>https://www.47news.jp/special/e-fran_02</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_02">
+    <title>「脱炭素」経営どうしたら？　特許＆AI技術でKenesが導く節水・節湯アプローチ</title>
+    <link>https://www.47news.jp/special/kenes_02</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/shushoku_hyogaki_shien">
+    <title>苦しんできた就職氷河期世代を支えたい　ひきこもり、親の高齢化、心身不調の40－50代…官民連携で支援充実</title>
+    <link>https://www.47news.jp/special/shushoku_hyogaki_shien</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
