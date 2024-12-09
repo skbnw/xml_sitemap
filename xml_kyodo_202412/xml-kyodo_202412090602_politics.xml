@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/ynnews/politics.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fynnews%2Fpolitics.rdf">
+    <title>47NEWS 全国 政治</title>
+    <link>https://www.47news.jp/news/politics</link>
+    <description>47NEWS 全国の政治に関するフィードをお届けします。</description>
+    <dc:date>2024-12-09T14:11:40+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/11877342.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11877276.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11877090.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876988.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876914.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876736.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876525.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876151.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876392.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876476.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876469.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876393.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876387.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876017.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875793.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875618.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11874540.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875192.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875086.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11874981.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875086.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875793.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876151.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11876017.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11875618.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/shushoku_hyogaki_shien"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/numo"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/smrj"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/shushoku_hyogaki_shien"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/11877342.html">
+    <title>公明・国民、10日に法案提出へ　政治資金監査強化へ機関設置</title>
+    <link>https://www.47news.jp/11877342.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11877276.html">
+    <title>【速報】公明幹事長、国民民主と共同提出意向表明</title>
+    <link>https://www.47news.jp/11877276.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11877090.html">
+    <title>【速報】与野党10日の衆院政治改革特委開催で合意</title>
+    <link>https://www.47news.jp/11877090.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876988.html">
+    <title>【速報】阿蘇市長選　現職の佐藤氏が6選出馬へ　2人目の表明</title>
+    <link>https://www.47news.jp/11876988.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876914.html">
+    <title>【速報】国民、公明が第三者機関設置法案共同提出へ</title>
+    <link>https://www.47news.jp/11876914.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876736.html">
+    <title>官房長官「人道状況改善に期待」　シリア政権崩壊</title>
+    <link>https://www.47news.jp/11876736.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876525.html">
+    <title>大垣市長選挙、現職の石田仁さんが出馬表明　再選目指す</title>
+    <link>https://www.47news.jp/11876525.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876151.html">
+    <title>大仙市長選、老松氏が３選出馬へ　市議会で表明</title>
+    <link>https://www.47news.jp/11876151.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876392.html">
+    <title>来夏参院選の自民公認候補　古賀、山下両氏を上申へ　長崎県連</title>
+    <link>https://www.47news.jp/11876392.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876476.html">
+    <title>政府、子育て公務員に時短拡充　年10日休暇新設、両立支援</title>
+    <link>https://www.47news.jp/11876476.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876469.html">
+    <title>【速報】人道状況改善の可能性に期待と官房長官</title>
+    <link>https://www.47news.jp/11876469.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876393.html">
+    <title>【速報】子育て期間の公務員時短勤務で改正法決定</title>
+    <link>https://www.47news.jp/11876393.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876387.html">
+    <title>【速報】政府クラウド利用料国一括払い</title>
+    <link>https://www.47news.jp/11876387.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876017.html">
+    <title>焼津市長選が告示　現新の一騎打ち確定　投開票は１５日</title>
+    <link>https://www.47news.jp/11876017.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875793.html">
+    <title>自民党、衆議院選挙の落選者対象に懇談会　新潟5区で敗れた高鳥修一氏、比例重複巡る執行部対応を批判</title>
+    <link>https://www.47news.jp/11875793.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875618.html">
+    <title>苫小牧市長選　金沢氏が初当選　新人同士の一騎打ち制す</title>
+    <link>https://www.47news.jp/11875618.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11874540.html">
+    <title>維新、岸和田市長の離党届受理へ　女性と不倫認める</title>
+    <link>https://www.47news.jp/11874540.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875192.html">
+    <title>【８日】県議の瀬川氏が出馬意向　長崎県西海市長選</title>
+    <link>https://www.47news.jp/11875192.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875086.html">
+    <title>政倫審欠席「幹部の要請」　自民旧安倍派、衛藤氏主張</title>
+    <link>https://www.47news.jp/11875086.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11874981.html">
+    <title>自民、地方票の配分見直しへ　総裁選の決選投票</title>
+    <link>https://www.47news.jp/11874981.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875086.html">
+    <title>政倫審欠席「幹部の要請」　自民旧安倍派、衛藤氏主張</title>
+    <link>https://www.47news.jp/11875086.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875793.html">
+    <title>自民党、衆議院選挙の落選者対象に懇談会　新潟5区で敗れた高鳥修一氏、比例重複巡る執行部対応を批判</title>
+    <link>https://www.47news.jp/11875793.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876151.html">
+    <title>大仙市長選、老松氏が３選出馬へ　市議会で表明</title>
+    <link>https://www.47news.jp/11876151.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11876017.html">
+    <title>焼津市長選が告示　現新の一騎打ち確定　投開票は１５日</title>
+    <link>https://www.47news.jp/11876017.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11875618.html">
+    <title>苫小牧市長選　金沢氏が初当選　新人同士の一騎打ち制す</title>
+    <link>https://www.47news.jp/11875618.html</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_02">
+    <title>「脱炭素」経営どうしたら？　特許＆AI技術でKenesが導く節水・節湯アプローチ</title>
+    <link>https://www.47news.jp/special/kenes_02</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/shushoku_hyogaki_shien">
+    <title>苦しんできた就職氷河期世代を支えたい　ひきこもり、親の高齢化、心身不調の40－50代…官民連携で支援充実</title>
+    <link>https://www.47news.jp/special/shushoku_hyogaki_shien</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/numo">
+    <title>地域の思いに寄り添って　正確な情報を真摯に　安全に地層処分事業を進めるために</title>
+    <link>https://www.47news.jp/special/numo</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/smrj">
+    <title>災害に負けず事業を続け地域経済を守るために　中小企業は「ジギョケイ」認定を。中小機構に聞く</title>
+    <link>https://www.47news.jp/special/smrj</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_05">
+    <title>幅広い分野の優れたサービスを日本全国から大募集！第５回「日本サービス大賞」</title>
+    <link>https://www.47news.jp/special/serviceaward_05</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_02">
+    <title>「おもてなし」でアジアに買取文化を　いーふらん鹿村大志社長、田中僚介代表が描く海外戦略</title>
+    <link>https://www.47news.jp/special/e-fran_02</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_02">
+    <title>「脱炭素」経営どうしたら？　特許＆AI技術でKenesが導く節水・節湯アプローチ</title>
+    <link>https://www.47news.jp/special/kenes_02</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/shushoku_hyogaki_shien">
+    <title>苦しんできた就職氷河期世代を支えたい　ひきこもり、親の高齢化、心身不調の40－50代…官民連携で支援充実</title>
+    <link>https://www.47news.jp/special/shushoku_hyogaki_shien</link>
+    <description></description>
+    <dc:date>2024-12-09T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
