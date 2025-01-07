@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/ynnews/economics.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fynnews%2Feconomics.rdf">
+    <title>47NEWS 全国 経済</title>
+    <link>https://www.47news.jp/news/economics</link>
+    <description>47NEWS 全国の経済に関するフィードをお届けします。</description>
+    <dc:date>2025-01-07T20:10:30+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/11996849.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996850.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11994054.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995783.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996769.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996692.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11992973.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996378.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996362.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996359.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996202.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996345.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995590.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11996168.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995591.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995551.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995883.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995533.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995532.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995560.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11992158.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11992845.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11993485.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11990043.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/11995016.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/university2025-2027"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/shushoku_hyogaki_shien"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/numo"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/smrj"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/university2025-2027"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/11996849.html">
+    <title>三井住友銀、初任給「30万円」　4万5000円上げ、人材確保</title>
+    <link>https://www.47news.jp/11996849.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996850.html">
+    <title>りそな銀、再びネット障害　サイバー攻撃か</title>
+    <link>https://www.47news.jp/11996850.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11994054.html">
+    <title>日本製鉄が提訴「買収諦めず」　バイデン米政権に徹底抗戦</title>
+    <link>https://www.47news.jp/11994054.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995783.html">
+    <title>大手企業トップ、賃上げに前向き　25年春闘、首相は言及せず</title>
+    <link>https://www.47news.jp/11995783.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996769.html">
+    <title>【速報】三井住友銀、初任給30万円に引き上げ</title>
+    <link>https://www.47news.jp/11996769.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996692.html">
+    <title>【速報】りそな銀行再びネット障害、サイバー攻撃か</title>
+    <link>https://www.47news.jp/11996692.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11992973.html">
+    <title>為替相場　　　7日（日本時間19時）</title>
+    <link>https://www.47news.jp/11992973.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996378.html">
+    <title>【速報】USスチール買収禁止は残念と岩屋外相伝達</title>
+    <link>https://www.47news.jp/11996378.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996362.html">
+    <title>筒井氏「誠心誠意、努力する」　経団連の次期会長</title>
+    <link>https://www.47news.jp/11996362.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996359.html">
+    <title>東京円、157円台半ば</title>
+    <link>https://www.47news.jp/11996359.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996202.html">
+    <title>自社買収、24年は高水準　セブン＆アイ創業家は巨額提案</title>
+    <link>https://www.47news.jp/11996202.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996345.html">
+    <title>結婚式場運営のオープンハート（浜田市）と関連会社、破産手続き開始決定　負債計6億6400万円</title>
+    <link>https://www.47news.jp/11996345.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995590.html">
+    <title>半導体レーザー照射で害虫駆除　広島のシャープ子会社が開発</title>
+    <link>https://www.47news.jp/11995590.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11996168.html">
+    <title>三菱UFJ証券の障害解消　システム更新伴う不具合</title>
+    <link>https://www.47news.jp/11996168.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995591.html">
+    <title>米投資ファンド、西友の売却検討　イオンなど関心、業界再編加速へ</title>
+    <link>https://www.47news.jp/11995591.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995551.html">
+    <title>東証大幅反発、4万円を回復　終値776円高、半導体株が上昇</title>
+    <link>https://www.47news.jp/11995551.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995883.html">
+    <title>浜岡原発の再稼働へ「着実に」　中部電力社長、時期示さず</title>
+    <link>https://www.47news.jp/11995883.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995533.html">
+    <title>【速報】東証終値、776円高</title>
+    <link>https://www.47news.jp/11995533.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995532.html">
+    <title>アサヒ、吉沢亮さん契約解除　住宅侵入疑い受け</title>
+    <link>https://www.47news.jp/11995532.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995560.html">
+    <title>24年の道内倒産、10年ぶり水準　4%増280件　東京商工リサーチ調べ</title>
+    <link>https://www.47news.jp/11995560.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11992158.html">
+    <title>イシカワ　破産手続き開始決定　負債9億5000万円　店舗は営業継続　茨城</title>
+    <link>https://www.47news.jp/11992158.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11992845.html">
+    <title>USスチール買収は「不要」　トランプ氏が示唆</title>
+    <link>https://www.47news.jp/11992845.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11993485.html">
+    <title>給与数千万円未払いか　掛川拠点の人材派遣業「破産」</title>
+    <link>https://www.47news.jp/11993485.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11990043.html">
+    <title>貸し切りバス運行のパーソナルツアーに破産開始決定　旧うつのみや観光</title>
+    <link>https://www.47news.jp/11990043.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/11995016.html">
+    <title>静岡屋（八戸）が破産申請準備　負債1.2億円</title>
+    <link>https://www.47news.jp/11995016.html</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_05">
+    <title>幅広い分野の優れたサービスを日本全国から大募集！第５回「日本サービス大賞」</title>
+    <link>https://www.47news.jp/special/serviceaward_05</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/university2025-2027">
+    <title>大学特集〜2025－2027新たな取り組み〜</title>
+    <link>https://www.47news.jp/special/university2025-2027</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_03">
+    <title>なぜ、初任給が100万円を超えるのか　いーふらん 鹿村大志社長、渡邉光執行役員が人事戦略を語る</title>
+    <link>https://www.47news.jp/special/e-fran_03</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/shushoku_hyogaki_shien">
+    <title>苦しんできた就職氷河期世代を支えたい　ひきこもり、親の高齢化、心身不調の40－50代…官民連携で支援充実</title>
+    <link>https://www.47news.jp/special/shushoku_hyogaki_shien</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/numo">
+    <title>地域の思いに寄り添って　正確な情報を真摯に　安全に地層処分事業を進めるために</title>
+    <link>https://www.47news.jp/special/numo</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/smrj">
+    <title>災害に負けず事業を続け地域経済を守るために　中小企業は「ジギョケイ」認定を。中小機構に聞く</title>
+    <link>https://www.47news.jp/special/smrj</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_05">
+    <title>幅広い分野の優れたサービスを日本全国から大募集！第５回「日本サービス大賞」</title>
+    <link>https://www.47news.jp/special/serviceaward_05</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/university2025-2027">
+    <title>大学特集〜2025－2027新たな取り組み〜</title>
+    <link>https://www.47news.jp/special/university2025-2027</link>
+    <description></description>
+    <dc:date>2025-01-07T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
