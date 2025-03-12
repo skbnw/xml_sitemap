@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/ynnews/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fynnews%2Fnews.rdf">
+    <title>47NEWS 全国 最新ニュース</title>
+    <link>https://www.47news.jp/news</link>
+    <description>47NEWS 全国の最新ニュースに関するフィードをお届けします。</description>
+    <dc:date>2025-03-13T02:11:40+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/12291855.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297515.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297694.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297673.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297662.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297658.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297657.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297626.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297625.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297599.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297595.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297594.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297228.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297570.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297569.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297267.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297508.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297485.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297352.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12297363.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12291746.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12296747.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12296409.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12295822.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12295845.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_04"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_top"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_01"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_04"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/12291855.html">
+    <title>為替相場　　13日（日本時間　2時）</title>
+    <link>https://www.47news.jp/12291855.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297515.html">
+    <title>バドミントン、田中が2回戦進出　全英オープン第2日</title>
+    <link>https://www.47news.jp/12297515.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297694.html">
+    <title>【速報】フィリピン前大統領がオランダ到着</title>
+    <link>https://www.47news.jp/12297694.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297673.html">
+    <title>ジャンプ2選手ら資格停止　ノルウェーの故意不正問題</title>
+    <link>https://www.47news.jp/12297673.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297662.html">
+    <title>カブスが日本到着　大リーグ開幕シリーズ</title>
+    <link>https://www.47news.jp/12297662.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297658.html">
+    <title>【速報】米大リーグ、カブスが日本到着</title>
+    <link>https://www.47news.jp/12297658.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297657.html">
+    <title>【速報】ノルウェーの2選手らを暫定資格停止に</title>
+    <link>https://www.47news.jp/12297657.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297626.html">
+    <title>【速報】イラン、トランプ米大統領の書簡受領</title>
+    <link>https://www.47news.jp/12297626.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297625.html">
+    <title>＜あのころ＞北斗星デビューに千人　37年前の3月13日</title>
+    <link>https://www.47news.jp/12297625.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297599.html">
+    <title>商務長官、日本が不当廉売と批判　鉄鋼、米FOXビジネスの番組で</title>
+    <link>https://www.47news.jp/12297599.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297595.html">
+    <title>NY株、続落</title>
+    <link>https://www.47news.jp/12297595.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297594.html">
+    <title>【速報】「日本は鉄鋼をダンピング」と米商務長官</title>
+    <link>https://www.47news.jp/12297594.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297228.html">
+    <title>飛び降りか、中学生2人死亡　兵庫・姫路のマンション</title>
+    <link>https://www.47news.jp/12297228.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297570.html">
+    <title>カナダ中銀0.25％利下げ　米関税政策で先行き不確実</title>
+    <link>https://www.47news.jp/12297570.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297569.html">
+    <title>【速報】カナダ、米鉄鋼関税に報復措置と報道</title>
+    <link>https://www.47news.jp/12297569.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297267.html">
+    <title>インド最大手、スターリンク提供　マスク氏のスペースX社と提携</title>
+    <link>https://www.47news.jp/12297267.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297508.html">
+    <title>【速報】カナダ中銀、0.25％利下げ</title>
+    <link>https://www.47news.jp/12297508.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297485.html">
+    <title>【速報】NY株、反発して始まる</title>
+    <link>https://www.47news.jp/12297485.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297352.html">
+    <title>米2月物価2.8％上昇　5カ月ぶり伸び縮小</title>
+    <link>https://www.47news.jp/12297352.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12297363.html">
+    <title>モーグルW杯、堀島が2位　最終戦</title>
+    <link>https://www.47news.jp/12297363.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12291746.html">
+    <title>袴田さん補償、最大額交付の認識　静岡地検が地裁に意見</title>
+    <link>https://www.47news.jp/12291746.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12296747.html">
+    <title>自民幹部、別姓に否定的　「夫婦親子同氏が原則」</title>
+    <link>https://www.47news.jp/12296747.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12296409.html">
+    <title>島根知事「文科相は国賊」と苦言　授業料値上げ提言の委員を任命</title>
+    <link>https://www.47news.jp/12296409.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12295822.html">
+    <title>職場内結婚で雇い止めを通告　女性助教ら地位確認で提訴、宮崎</title>
+    <link>https://www.47news.jp/12295822.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12295845.html">
+    <title>新幹線連結運転、試験で問題なし　JR東、予定通り14日再開</title>
+    <link>https://www.47news.jp/12295845.html</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_04">
+    <title>目指せ売上１兆円、いーふらん渡辺喜久男会長が考える「社員幸福満足度日本一」企業とは</title>
+    <link>https://www.47news.jp/special/e-fran_04</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_top">
+    <title>五島列島キリシタン物語　五島市・新上五島町・小値賀町【周遊編】</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_top</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_01">
+    <title>五島列島キリシタン物語【前編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_01</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_02">
+    <title>五島列島キリシタン物語【後編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_02</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_04">
+    <title>目指せ売上１兆円、いーふらん渡辺喜久男会長が考える「社員幸福満足度日本一」企業とは</title>
+    <link>https://www.47news.jp/special/e-fran_04</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2025-03-13T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
