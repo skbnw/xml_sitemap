@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/ynnews/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fynnews%2Fnews.rdf">
+    <title>47NEWS 全国 最新ニュース</title>
+    <link>https://www.47news.jp/news</link>
+    <description>47NEWS 全国の最新ニュースに関するフィードをお届けします。</description>
+    <dc:date>2025-05-21T08:12:09+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/12607458.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607875.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607937.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607914.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607618.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607898.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607840.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607882.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607845.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607798.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12601468.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607765.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607762.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607758.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607759.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607754.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607747.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607736.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607665.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607664.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12605133.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12606348.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607315.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607056.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12607375.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_04"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_top"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_01"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_04"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/12607458.html">
+    <title>為替相場　　21日（日本時間　8時）</title>
+    <link>https://www.47news.jp/12607458.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607875.html">
+    <title>佐々木麟太郎、1年目が終了　ACC選手権で初戦敗退</title>
+    <link>https://www.47news.jp/12607875.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607937.html">
+    <title>【速報】江藤農相が官邸入り</title>
+    <link>https://www.47news.jp/12607937.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607914.html">
+    <title>米トヨタ幹部、販売展望は不透明　トランプ関税に警戒感</title>
+    <link>https://www.47news.jp/12607914.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607618.html">
+    <title>遺跡調査の大村さん死去か　アナトリア考古学研究所長</title>
+    <link>https://www.47news.jp/12607618.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607898.html">
+    <title>【速報】後任農相に小泉進次郎氏浮上</title>
+    <link>https://www.47news.jp/12607898.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607840.html">
+    <title>錦織2回戦は順延　ジュネーブOPテニス</title>
+    <link>https://www.47news.jp/12607840.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607882.html">
+    <title>G7財務相会議が開幕　米関税、ウクライナ議論</title>
+    <link>https://www.47news.jp/12607882.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607845.html">
+    <title>鎌田大地は途中出場　サッカーのプレミアリーグ</title>
+    <link>https://www.47news.jp/12607845.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607798.html">
+    <title>台風ヒントの簡易建物が大ヒットした大和ハウス工業　ホテル、ホームセンター多角経営【経済トレンド】</title>
+    <link>https://www.47news.jp/12607798.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12601468.html">
+    <title>【シネマの花道（１１）】日本オリジナルの娯楽映画の可能性　再起動した「新幹線大爆破」</title>
+    <link>https://www.47news.jp/12601468.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607765.html">
+    <title>川上弘美さん受賞せず　英、国際ブッカー賞</title>
+    <link>https://www.47news.jp/12607765.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607762.html">
+    <title>日本「拉致被害者帰国を」　国連で北朝鮮人権侵害議論</title>
+    <link>https://www.47news.jp/12607762.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607758.html">
+    <title>NFL選手がロス五輪参加へ　追加競技フラッグフットに</title>
+    <link>https://www.47news.jp/12607758.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607759.html">
+    <title>NY円、144円台半ば</title>
+    <link>https://www.47news.jp/12607759.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607754.html">
+    <title>【速報】NY円、144円45～55銭</title>
+    <link>https://www.47news.jp/12607754.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607747.html">
+    <title>ガザ停戦交渉、進展なし　イスラエル代表団が帰国へ</title>
+    <link>https://www.47news.jp/12607747.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607736.html">
+    <title>【速報】川上弘美さん、英国際ブッカー賞受賞せず</title>
+    <link>https://www.47news.jp/12607736.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607665.html">
+    <title>「大統領は何人クビに？」　子ども記者が報道官翻弄</title>
+    <link>https://www.47news.jp/12607665.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607664.html">
+    <title>日本人海外留学、前年度1.5倍　8.9万人、コロナ前には届かず</title>
+    <link>https://www.47news.jp/12607664.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12605133.html">
+    <title>首相、江藤農相更迭へ　コメ発言、続投方針を一転</title>
+    <link>https://www.47news.jp/12605133.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12606348.html">
+    <title>沖縄・旭琉会会長を逮捕　ホテルをだまし宿泊させたか</title>
+    <link>https://www.47news.jp/12606348.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607315.html">
+    <title>首相、江藤農相の更迭調整　コメ買ったことがない発言</title>
+    <link>https://www.47news.jp/12607315.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607056.html">
+    <title>京都大柏原さんにアーベル賞授与　数学のノーベル賞、日本初</title>
+    <link>https://www.47news.jp/12607056.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12607375.html">
+    <title>環境省「危険鳥獣」ヒグマ指定へ　改正法9月施行</title>
+    <link>https://www.47news.jp/12607375.html</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_04">
+    <title>目指せ売上１兆円、いーふらん渡辺喜久男会長が考える「社員幸福満足度日本一」企業とは</title>
+    <link>https://www.47news.jp/special/e-fran_04</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_top">
+    <title>五島列島キリシタン物語　五島市・新上五島町・小値賀町【周遊編】</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_top</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_01">
+    <title>五島列島キリシタン物語【前編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_01</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_02">
+    <title>五島列島キリシタン物語【後編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_02</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_04">
+    <title>目指せ売上１兆円、いーふらん渡辺喜久男会長が考える「社員幸福満足度日本一」企業とは</title>
+    <link>https://www.47news.jp/special/e-fran_04</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2025-05-21T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
