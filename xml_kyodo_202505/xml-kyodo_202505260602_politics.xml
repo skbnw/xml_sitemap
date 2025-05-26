@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/ynnews/politics.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fynnews%2Fpolitics.rdf">
+    <title>47NEWS 全国 政治</title>
+    <link>https://www.47news.jp/news/politics</link>
+    <description>47NEWS 全国の政治に関するフィードをお届けします。</description>
+    <dc:date>2025-05-26T14:12:00+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/12632262.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12632139.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12632114.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631608.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631658.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631595.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631660.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631659.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631361.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631077.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12630899.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12630769.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12630767.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12630581.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12630301.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12630230.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631075.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12629887.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12631648.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12629749.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12628456.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12629887.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12629749.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12629297.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/12630230.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_top"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_01"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/12632262.html">
+    <title>自民・滝沢氏が事務所開き／青森・参院選</title>
+    <link>https://www.47news.jp/12632262.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12632139.html">
+    <title>自民、年金法案の修正に合意　30日の衆院通過を目指す</title>
+    <link>https://www.47news.jp/12632139.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12632114.html">
+    <title>【速報】年金法案修正で党役員の合意得たと自民幹部</title>
+    <link>https://www.47news.jp/12632114.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631608.html">
+    <title>日本維新の会、新潟選挙区の対応は…候補擁立の有無「6月上旬までに決定」　前原誠司・共同代表に聞く</title>
+    <link>https://www.47news.jp/12631608.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631658.html">
+    <title>参院選大分選挙区、参政新人の野中氏が事務所開き</title>
+    <link>https://www.47news.jp/12631658.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631595.html">
+    <title>立民・辻元氏が来県　首相の物価高対策「無策」と批判　参院選へ、消費税減税の意義強調</title>
+    <link>https://www.47news.jp/12631595.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631660.html">
+    <title>自民長崎県連、新会長に加藤竜祥氏　県連大会に小渕氏参加「参院選は政権選択選挙と言ってもいい」</title>
+    <link>https://www.47news.jp/12631660.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631659.html">
+    <title>参院選大分選挙区、立民元職の吉田氏が事務所開き</title>
+    <link>https://www.47news.jp/12631659.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631361.html">
+    <title>立民・野田氏、国民との連携意欲　参院選巡り連合会長と会談</title>
+    <link>https://www.47news.jp/12631361.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631077.html">
+    <title>＜函館道南＞函館駅乗り入れの行方は　石川実和</title>
+    <link>https://www.47news.jp/12631077.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12630899.html">
+    <title>さいたま市長選、現職の清水氏が5選　4期16年の実績が強み、新人4氏を破る　自民、立民など国会議員ら支援　超党派で事実上の相乗り　当選5回は現職の政令市長でトップ</title>
+    <link>https://www.47news.jp/12630899.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12630769.html">
+    <title>＜夏の参院選みえ＞野田代表が県南部を遊説　立民新人の小島氏支援</title>
+    <link>https://www.47news.jp/12630769.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12630767.html">
+    <title>＜夏の参院選みえ＞自民県連、総決起大会で勝利誓う　吉川氏支援へ高市氏講演</title>
+    <link>https://www.47news.jp/12630767.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12630581.html">
+    <title>連合、国民の候補案選定　合区に島根ゆかり３０代男性　2025参院選 鳥取・島根選挙区</title>
+    <link>https://www.47news.jp/12630581.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12630301.html">
+    <title>【解説】終始盛り上がり欠く　有権者関心高まらず　「民主主義の危機」危惧も</title>
+    <link>https://www.47news.jp/12630301.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12630230.html">
+    <title>静岡県内の２市長選、いずれも女性候補が一騎打ち制す</title>
+    <link>https://www.47news.jp/12630230.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631075.html">
+    <title>松戸市長選挙が告示　候補者は何を訴えた？　現職辞職で5新人の争い　6月1日投開票　市議補選には5新人</title>
+    <link>https://www.47news.jp/12631075.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12629887.html">
+    <title>政治資金報告書、さくっと検索　シンクタンク、データベース開発</title>
+    <link>https://www.47news.jp/12629887.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12631648.html">
+    <title>参院選三重選挙区、来たる1人区決戦　各陣営の活動本格化、大物弁士が続々演説</title>
+    <link>https://www.47news.jp/12631648.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12629749.html">
+    <title>横浜市長選挙、山中竹春氏が再選出馬へ　一部市議に意向を報告、近く表明　現市政の評価が争点に</title>
+    <link>https://www.47news.jp/12629749.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12628456.html">
+    <title>小泉農相で米価「下がる」59％　更迭判断「遅過ぎた」は42％</title>
+    <link>https://www.47news.jp/12628456.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12629887.html">
+    <title>政治資金報告書、さくっと検索　シンクタンク、データベース開発</title>
+    <link>https://www.47news.jp/12629887.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12629749.html">
+    <title>横浜市長選挙、山中竹春氏が再選出馬へ　一部市議に意向を報告、近く表明　現市政の評価が争点に</title>
+    <link>https://www.47news.jp/12629749.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12629297.html">
+    <title>さいたま市長選、清水氏が5選　政令市で全国最多</title>
+    <link>https://www.47news.jp/12629297.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/12630230.html">
+    <title>静岡県内の２市長選、いずれも女性候補が一騎打ち制す</title>
+    <link>https://www.47news.jp/12630230.html</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_02">
+    <title>五島列島キリシタン物語【後編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_02</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_top">
+    <title>五島列島キリシタン物語　五島市・新上五島町・小値賀町【周遊編】</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_top</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_01">
+    <title>五島列島キリシタン物語【前編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_01</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_02">
+    <title>五島列島キリシタン物語【後編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_02</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2025-05-26T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
