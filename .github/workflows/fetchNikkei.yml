@@ -6,20 +6,19 @@ on:
   workflow_dispatch:
 
 jobs:
-  fetch-and-save:
+  fetch-and-commit: # Job名を変更しました
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Fetch and Save RSS Files
+    - name: Fetch, Save, and Commit RSS
       run: |
-        # 保存用ディレクトリを作成
+        # --- Step 1: ファイルのダウンロード ---
         dir_name="nikkei_rss_$(date +%Y%m)"
         mkdir -p "$dir_name"
 
-        # RSSフィードのURLリスト
         urls=(
           "https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
           "https://assets.wor.jp/rss/rdf/nikkei/economy.rdf"
@@ -32,20 +31,18 @@ jobs:
           "https://assets.wor.jp/rss/rdf/nikkei/local.rdf"
         )
 
-        # 各URLからデータを取得して保存
         for url in "${urls[@]}"; do
-          # URLからファイル名を取得 (例: news.rdf -> news)
           filename=$(basename "$url" .rdf)
-          # wgetでファイルを取得し、日付とカテゴリ名を付けて保存
           wget "$url" -O "${dir_name}/nikkei_$(date +%Y%m%d)_${filename}.rdf" || echo "Failed to download ${url}"
         done
 
-    - name: Commit files
-      run: |
+        # --- Step 2: ダウンロードしたファイルのコミット ---
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # 変更があった場合のみコミット
+
+        # ファイルに変更があるか確認
         if [[ -n $(git status -s) ]]; then
+          echo "Changes detected. Committing files..."
           git add "${dir_name}/*"
           git commit -m "Add Nikkei RSS files for $(date +%Y-%m-%d)"
           git push
