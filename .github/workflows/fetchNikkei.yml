@@ -1,4 +1,4 @@
-name: Fetch NIKKEI
+name: Fetch NIKKEI RSS
 
 on:
   schedule:
@@ -6,42 +6,46 @@ on:
   workflow_dispatch:
 
 jobs:
-  fetch-and-save:
+  fetch-and-commit: # Job名を変更しました
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
-    - name: Fetch and Save XML Files
+    - name: Fetch, Save, and Commit RSS
       run: |
-        mkdir -p xml_nikkei_$(date +\%Y\%m)
-        urls=("https://www.nikkei.com/sitemaps/economy.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/company.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/international.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/politics.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/stock.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/financial.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/science.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/life.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/sports.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/society.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/eco.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/health.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/internet.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/employment.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/education.sitemap.xml"
-              "https://www.nikkei.com/sitemaps/video.sitemap.xml")
-        for i in "${!urls[@]}"
-        do
-          url=${urls[$i]}
-          suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
-          wget $url -O xml_nikkei_$(date +\%Y\%m)/xml-nikkei_$(date +\%Y\%m\%d)_$suffix.xml || true
+        # --- Step 1: ファイルのダウンロード ---
+        dir_name="nikkei_rss_$(date +%Y%m)"
+        mkdir -p "$dir_name"
+
+        urls=(
+          "https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
+          "https://assets.wor.jp/rss/rdf/nikkei/economy.rdf"
+          "https://assets.wor.jp/rss/rdf/nikkei/business.rdf"
+          "https://assets.wor.jp/rss/rdf/nikkei/markets.rdf"
+          "https://assets.wor.jp/rss/rdf/nikkei/technology.rdf"
+          "https://assets.wor.jp/rss/rdf/nikkei/international.rdf"
+          "https://assets.wor.jp/rss/rdf/nikkei/sports.rdf"
+          "https://assets.wor.jp/rss/rdf/nikkei/society.rdf"
+          "https://assets.wor.jp/rss/rdf/nikkei/local.rdf"
+        )
+
+        for url in "${urls[@]}"; do
+          filename=$(basename "$url" .rdf)
+          wget "$url" -O "${dir_name}/nikkei_$(date +%Y%m%d)_${filename}.rdf" || echo "Failed to download ${url}"
         done
-    - name: Commit files
-      run: |
+
+        # --- Step 2: ダウンロードしたファイルのコミット ---
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add xml_nikkei_$(date +\%Y\%m)/*
-        git commit -m "Add XML files for $(date +\%Y\%m\%d)"
-        git push
+
+        # ファイルに変更があるか確認
+        if [[ -n $(git status -s) ]]; then
+          echo "Changes detected. Committing files..."
+          git add "${dir_name}/*"
+          git commit -m "Add Nikkei RSS files for $(date +%Y-%m-%d)"
+          git push
+        else
+          echo "No changes to commit."
+        fi

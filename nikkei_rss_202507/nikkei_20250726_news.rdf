@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-07-26T11:11:24+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC2056P0Q5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC28E4V0Y4A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF25D4O0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGS25D0N0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2606S0W5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR17D9C0X10C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC260DS0W5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC25CZ00V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC251S10V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB260DC0W5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF259R50V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM25D6W0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2607P0W5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL25CZ80V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN21C710R20C25A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL25DKF0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD174HY0X10C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN25D5S0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL25CXQ0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL25CZ90V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL260330W5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR2601P0W5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR25D990V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL25CXO0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL25CYS0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL25CXN0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB23D0T0T20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM16CRA0W5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD259J20V20C25A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG119130R10C25A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC2056P0Q5A720C2000000/">
+    <title>大分ホーバークラフト、16年ぶりに空港ルートの運航開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC2056P0Q5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T11:03:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC28E4V0Y4A121C2000000/">
+    <title>大分ホーバークラフト、なぜ復活？　16年前は赤字で廃止</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC28E4V0Y4A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF25D4O0V20C25A7000000/">
+    <title>JAグループ京都会長と親族企業、8億円申告漏れ　大阪国税局が指摘</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF25D4O0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGS25D0N0V20C25A7000000/">
+    <title>タイ軍、カンボジア兵を「100人殺害」　国境には戒厳令</title>
+    <link>https://www.nikkei.com/article/DGXZQOGS25D0N0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T10:59:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2606S0W5A720C2000000/">
+    <title>勝みなみ6位浮上、竹田麗央は12位　米女子ゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2606S0W5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T09:59:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR17D9C0X10C25A7000000/">
+    <title>ゴルフと王室のもてなし外交　英国流トランプ対策、2カ月で2度の訪英</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR17D9C0X10C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T09:55:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC260DS0W5A720C2000000/">
+    <title>イチローさん、殿堂入りワグナーさんと「合同自主トレ」　式典前に</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC260DS0W5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T09:50:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC25CZ00V20C25A7000000/">
+    <title>世界ユニバ、体操の橋本大輝・宮田笙子2冠　個人総合V</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC25CZ00V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T09:37:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC251S10V20C25A7000000/">
+    <title>小池都知事「東京への国連機能誘致、国に働きかけ」　日本の存在感確保</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC251S10V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T09:35:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB260DC0W5A720C2000000/">
+    <title>英仏独、即時停戦を要求　ガザ情勢巡り共同声明</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB260DC0W5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T08:50:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF259R50V20C25A7000000/">
+    <title>26日の有力馬　関ケ原ステークスなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF259R50V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T08:31:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM25D6W0V20C25A7000000/">
+    <title>米国、ミャンマー政商制裁を一部解除　トランプ政権で政策転換の兆し</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM25D6W0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2607P0W5A720C2000000/">
+    <title>スーパーボウルのチケット高額転売、NFLが選手らに罰金</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2607P0W5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T07:40:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL25CZ80V20C25A7000000/">
+    <title>NY円相場、続落　1ドル=147円65〜75銭　貿易交渉の進展への期待から円売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL25CZ80V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T07:19:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN21C710R20C25A4000000/">
+    <title>米国で｢腸活｣ソーダ続々、売上高2年で7倍　ペプシコーラでも品ぞろえ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN21C710R20C25A4000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T06:40:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL25DKF0V20C25A7000000/">
+    <title>中小型株にも広がる物色、米景気の底堅さ映す</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL25DKF0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T06:34:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD174HY0X10C25A7000000/">
+    <title>スマホゲーム　親も熱中、子どもに影響</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD174HY0X10C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T06:28:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN25D5S0V20C25A7000000/">
+    <title>トランプ政権、NY市を提訴　「不法移民の取り締まりを妨害」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN25D5S0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T06:24:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL25CXQ0V20C25A7000000/">
+    <title>日経平均先物、夜間取引で上昇　50円高の4万1410円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL25CXQ0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T06:14:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL25CZ90V20C25A7000000/">
+    <title>NY債券、長期債横ばい　10年債利回り4.39%　持ち高調整の買いが支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL25CZ90V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T06:13:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL260330W5A720C2000000/">
+    <title>NYダウ反発208ドル高、米関税の進展期待　S&amp;Pは5日連続高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL260330W5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T06:07:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR2601P0W5A720C2000000/">
+    <title>トランプ氏、英スコットランド到着　複数都市で抗議デモも</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR2601P0W5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T06:00:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR25D990V20C25A7000000/">
+    <title>米EU首脳が27日に直接協議へ　関税交渉大詰め、カナダは難航か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR25D990V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T05:57:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL25CXO0V20C25A7000000/">
+    <title>シカゴ日本株先物概況・25日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL25CXO0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T05:36:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL25CYS0V20C25A7000000/">
+    <title>NY商品、原油反落　中国の需要伸び悩みを懸念　金続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL25CYS0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T05:34:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL25CXN0V20C25A7000000/">
+    <title>日本株ADR25日、売り優勢　ソニーGや自動車安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL25CXN0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T05:20:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB23D0T0T20C25A7000000/">
+    <title>金融行政方針に幻の廃止論　薄まる長官カラー、策定の意義どこに</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB23D0T0T20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM16CRA0W5A710C2000000/">
+    <title>オーストラリア初の宇宙飛行士「多様性が課題解決の力うむ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM16CRA0W5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD259J20V20C25A6000000/">
+    <title>海や川の事故、午後2〜3時台に最も多く　疲れと暑さで注意力低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD259J20V20C25A6000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG119130R10C25A7000000/">
+    <title>神経細胞育て脳の一部再現　省エネ計算機・認知症薬向け研究に期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG119130R10C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-26T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
