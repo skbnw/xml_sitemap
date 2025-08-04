@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2025-08-04T11:11:36+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC308CJ0Q5A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC225LD0S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2430R0U5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN094290Z00C25A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC303DU0Q5A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG182U20Y5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC108I20Q5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC226980S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD2362I0T20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG282LP0Y5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG01DAT0R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0214B0S5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN01DNS0R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG228DS0S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD222J80S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC226RG0S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31DY30R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC015LS0R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG016DS0R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG0112G0R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN010O10R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG0113E0R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31ED70R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31E600R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31E7C0R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31E1N0R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA264TT0W5A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC311W50R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31A3Z0R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD314700R30C25A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC308CJ0Q5A730C2000000/">
+    <title>蚊の触角をセンサーに、匂いで人探すドローンに応用　信州大と千葉大</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC308CJ0Q5A730C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC225LD0S5A720C2000000/">
+    <title>LVMHはAIで人間らしさ拡張、ハロッズは劇場型体験　欧州小売最前線</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC225LD0S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2430R0U5A720C2000000/">
+    <title>「社長はAIエージェント」の現在地　期待と未熟さ交錯</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2430R0U5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN094290Z00C25A6000000/">
+    <title>米テック、AIの電力を原発から調達　IHIや日立に商機</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN094290Z00C25A6000000/</link>
+    <description></description>
+    <dc:date>2025-08-03T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC303DU0Q5A730C2000000/">
+    <title>キリンHD、経営会議に「AI役員」　直感に頼らず客観判断手助け</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC303DU0Q5A730C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-03T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG182U20Y5A710C2000000/">
+    <title>気象衛星「ひまわり」の新たな花開く　植物見守り農業に貢献へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG182U20Y5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC108I20Q5A710C2000000/">
+    <title>「コンビニのほぼ半額?」トライアルの小型無人店、セブン店主も警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC108I20Q5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC226980S5A720C2000000/">
+    <title>モトローラのスマホ、若者・女性にブランド浸透　iPhoneに挑む</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC226980S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD2362I0T20C25A7000000/">
+    <title>熱中症予防と太陽光パネルの意外な関係、格差広げぬ温暖化対策を</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD2362I0T20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG282LP0Y5A720C2000000/">
+    <title>魚も「利き目」を持つ、捕食や逃避に有利　北海道大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG282LP0Y5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG01DAT0R00C25A8000000/">
+    <title>油井飛行士を乗せた宇宙船、ISSに無事到着　半年間の長期滞在始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG01DAT0R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-02T18:55:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0214B0S5A800C2000000/">
+    <title>OpenAI、資金調達額1200億円上振れ　ソフトバンクG以外の出資分</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0214B0S5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-02T18:27:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN01DNS0R00C25A8000000/">
+    <title>Adobeが逃した9兆円企業　米新興Figma、「慰謝料」てこに成長</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN01DNS0R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-02T06:27:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG228DS0S5A720C2000000/">
+    <title>血液つくる細胞の「寿命」AIで予測　東京大学がマウスで実験成功</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG228DS0S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD222J80S5A720C2000000/">
+    <title>科学オタク宰相・チャーチルも原爆に「注目」　研究先導も威力見誤る</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD222J80S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC226RG0S5A720C2000000/">
+    <title>ぐるなび、AIアプリで飲食店探しの不満解消　絶好調食べログに反撃</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC226RG0S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31DY30R30C25A7000000/">
+    <title>油井亀美也さん、ISSへ出発　「クルードラゴン」打ち上げ成功</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31DY30R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-02T01:45:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC015LS0R00C25A8000000/">
+    <title>安保テックの日米ファンド始動　出資元のNEC社長「共同開発を加速」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC015LS0R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T19:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG016DS0R00C25A8000000/">
+    <title>「深海探査機の母船新造が急務」　文科省分科会が提言、研究力向上へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG016DS0R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T18:04:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG0112G0R00C25A8000000/">
+    <title>東京エレクトロン株価一時18%安　半導体投資見直し「一時的」に懐疑</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG0112G0R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T16:42:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN010O10R00C25A8000000/">
+    <title>Amazon、米関税下でも通販増収　新税率でコスト増も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN010O10R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T12:30:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG0113E0R00C25A8000000/">
+    <title>油井亀美也さんの宇宙船、打ち上げは2日以降　悪天候で延期</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG0113E0R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T10:56:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31ED70R30C25A7000000/">
+    <title>Amazon純利益35%増　4〜6月、通販・クラウド堅調で予想上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31ED70R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T08:23:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31E600R30C25A7000000/">
+    <title>50歳のMicrosoft、GAFA横目に｢4兆ドルクラブ｣入り　中年の危機越え</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31E600R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T06:57:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31E7C0R30C25A7000000/">
+    <title>米デザインソフト大手Figma上場、終値は公開価格の3.5倍　IPO復活期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31E7C0R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T06:24:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31E1N0R30C25A7000000/">
+    <title>NVIDIA半導体、迂回輸出監視に米が位置追跡案　中国反発で火種に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31E1N0R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T05:35:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA264TT0W5A620C2000000/">
+    <title>進化する世界のドローン、現代戦を席巻　自衛隊は攻撃型300機計画</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA264TT0W5A620C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC311W50R30C25A7000000/">
+    <title>iPhone新OS「iOS26」　シンプルで直感的な操作に回帰</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC311W50R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31A3Z0R30C25A7000000/">
+    <title>Microsoft、時価総額4兆ドル到達　NVIDIAに次ぐ2社目</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31A3Z0R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-31T23:03:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD314700R30C25A7000000/">
+    <title>シヤチハタ、偽動画対策サービス提供へ　音声の加工・改ざん検証</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD314700R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-07-31T20:40:38+09:00</dc:date>
+  </item>
+</rdf:RDF>
