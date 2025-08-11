@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-08-11T11:11:22+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQSK2IKKC1_R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC08AML0Y5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR08AGJ0Y5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM28A8N0Y5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB24AA90U5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110560R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD102HJ0Q5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110570R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC186Z70Y5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1105M0R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN110320R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1101Y0R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG01D240R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH06BJ90W5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA22AQ40S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC189NQ0Y5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH058QF0V00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN307XU0Q5A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD0471W0U5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA147070U5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD265MP0W5A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0558S0V00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB045350U5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJE055280V00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0440I0U5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1435Q0U5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF091UF0Z00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA060HU0W5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH100FL0Q5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN08D7I0Y5A800C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQSK2IKKC1_R10C25A8000000/">
+    <title>県岐阜商　6-3　日大山形　高校野球</title>
+    <link>https://www.nikkei.com/article/DGXZQSK2IKKC1_R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T11:01:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC08AML0Y5A800C2000000/">
+    <title>オルツ不正　AI新興が手を染めた循環取引、教訓は</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC08AML0Y5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR08AGJ0Y5A800C2000000/">
+    <title>「強いドイツ」の弱いメルツ首相　就任100日、支持は石破政権以下</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR08AGJ0Y5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM28A8N0Y5A720C2000000/">
+    <title>韓国サッカーコーチに就いた井原正巳氏「日韓は切磋琢磨で強くなる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM28A8N0Y5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB24AA90U5A720C2000000/">
+    <title>ニンニクやタマネギ、中国産安く　対米貿易摩擦で日本へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB24AA90U5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110560R10C25A8000000/">
+    <title>大谷翔平、2戦連発の41号ソロ　今永昇太は9勝目懸け先発</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110560R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T10:42:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD102HJ0Q5A810C2000000/">
+    <title>大雨特別警報、熊本県の7市町に　土砂崩れや冠水被害も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD102HJ0Q5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T10:33:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110570R10C25A8000000/">
+    <title>鎌田大地が負傷、遠藤航は途中出場　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110570R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T10:12:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC186Z70Y5A710C2000000/">
+    <title>ネジ型チョコ、締められるリアルさでヒット　鉄の街・北九州の新名物</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC186Z70Y5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1105M0R10C25A8000000/">
+    <title>ガザ戦闘「早く終結させたい」　イスラエル首相、軍に制圧指示</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1105M0R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T08:24:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN110320R10C25A8000000/">
+    <title>NVIDIAとAMD、米政府に中国向け収入の15%支払い　FT報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN110320R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T07:54:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1101Y0R10C25A8000000/">
+    <title>九州新幹線、始発から運転取りやめ　東海道・山陽新幹線は通常通り</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1101Y0R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T06:26:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG01D240R00C25A8000000/">
+    <title>ノーベル賞に近かった現代AIの源流　甘利俊一氏に京都賞</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG01D240R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH06BJ90W5A800C2000000/">
+    <title>猛暑対策・データ活用…高校野球の今とこれからを考える記事7選</title>
+    <link>https://www.nikkei.com/article/DGXZQODH06BJ90W5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA22AQ40S5A720C2000000/">
+    <title>入れ替わった「自由」と「公正」　通商白書が問う新たな経済秩序</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA22AQ40S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC189NQ0Y5A710C2000000/">
+    <title>ローソン、自治体と連携し出店　過疎地と「ウィンウィン」の関係探る</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC189NQ0Y5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH058QF0V00C25A8000000/">
+    <title>歌舞伎「刀剣乱舞」が関西初上演　尾上松也主演</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH058QF0V00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN307XU0Q5A630C2000000/">
+    <title>Appleの映画「F1」支えたソニー　撮影カメラがハリウッド席巻</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN307XU0Q5A630C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD0471W0U5A800C2000000/">
+    <title>熱中症から社員守る、中小が対策奔走　せんべい焼き場の室温下げる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD0471W0U5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA147070U5A710C2000000/">
+    <title>夏山に響く物価高　山小屋苦渋の連続値上げ、輸送費アップが重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA147070U5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD265MP0W5A620C2000000/">
+    <title>日航ジャンボ機墜落40年、原因究明に壁「歯がゆさ今も」　元調査官</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD265MP0W5A620C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0558S0V00C25A8000000/">
+    <title>時代が生んだ氷河期界隈、子育て支援も極寒　「政治利用」に冷めた目</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0558S0V00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB045350U5A800C2000000/">
+    <title>M&amp;A助言は野村首位､豊田織機･NTTデータ非公開化　2位三菱モルガン</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB045350U5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJE055280V00C25A8000000/">
+    <title>真夏の大阪万博、暑さに負けない冷房テック　穴場の涼スポットも</title>
+    <link>https://www.nikkei.com/article/DGXZQOJE055280V00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0440I0U5A800C2000000/">
+    <title>日本の官民、パキスタンのデジタル通貨導入を支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0440I0U5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1435Q0U5A710C2000000/">
+    <title>奥多摩町長の師岡伸公氏　過疎地域の活性化へ「民間企業と協力」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1435Q0U5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF091UF0Z00C25A8000000/">
+    <title>街が消えた日　広島･長崎で原爆投下80年、重み増す被爆者証言</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF091UF0Z00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA060HU0W5A800C2000000/">
+    <title>石破茂首相、譲れぬ戦後80年見解　こだわりと政治的苦境のジレンマ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA060HU0W5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH100FL0Q5A810C2000000/">
+    <title>菅野智之、大リーグでもさえる円熟味　球威もアップし10勝目前</title>
+    <link>https://www.nikkei.com/article/DGXZQODH100FL0Q5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN08D7I0Y5A800C2000000/">
+    <title>円安は「金融政策で自然と調整」　ベッセント米財務長官インタビュー</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN08D7I0Y5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
