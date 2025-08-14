@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-08-14T11:12:44+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL140N80U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB30C1S0Q5A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC057AA0V00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA126ZI0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC3073J0Q5A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD062L00W5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1225C0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC140OK0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1102Y0R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL140ZE0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC141ES0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB140JW0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL140TQ0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL140UE0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL141C00U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL138I10T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOS0ISS12TU5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL141480U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1410O0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL140HM0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1418Y0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQSK2IKKC1_U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL140X40U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL140HN0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1413G0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07C4A0X00C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2516V0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF13AZF0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN13BSJ0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB140FZ0U5A810C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL140N80U5A810C2000000/">
+    <title>マツキヨココカラ株価大幅反落　4〜6月純利益11%増も材料出尽くし</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL140N80U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:09:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB30C1S0Q5A730C2000000/">
+    <title>アフリカへのODAは「先行投資」　JICA田中理事長</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB30C1S0Q5A730C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC057AA0V00C25A8000000/">
+    <title>鹿児島産オリーブオイル、フレッシュな甘み　本場スペインでも高評価</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC057AA0V00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA126ZI0S5A810C2000000/">
+    <title>外国人の働き手、宮崎など7県で10年前の4倍　地方で進む労働依存</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA126ZI0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC3073J0Q5A730C2000000/">
+    <title>三菱重工、米社とAIデジタル技術でデータセンター運用最適化を支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC3073J0Q5A730C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD062L00W5A800C2000000/">
+    <title>山田洋次さん、大連も日本も「故郷ではない」　焦がれた寅さんの世界</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD062L00W5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1225C0S5A810C2000000/">
+    <title>IMAXのドルチCCO「記録更新の『鬼滅の刃』、海外公開に期待」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1225C0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC140OK0U5A810C2000000/">
+    <title>家庭での防災実施率、過去最高の52%　インテージ調べ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC140OK0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1102Y0R10C25A8000000/">
+    <title>石破政権、実は「首相プレミアム」維持　自民総裁選前倒し論議に影響</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1102Y0R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL140ZE0U5A810C2000000/">
+    <title>オープンハウス株価11日ぶり反落　10〜6月大幅増益も利益確定売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL140ZE0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:56:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC141ES0U5A810C2000000/">
+    <title>仙台育英、開星下し3回戦進出　夏の甲子園</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC141ES0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:51:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB140JW0U5A810C2000000/">
+    <title>ビットコインが最高値更新　米財務長官発言受け一時12万4000ドル台</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB140JW0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:51:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL140TQ0U5A810C2000000/">
+    <title>ソフトバンクG株価続伸、初の1万5000円超え　米ハイテク株高続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL140TQ0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:48:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL140UE0U5A810C2000000/">
+    <title>トライアル株価大幅反落　今期純利益96%減、西友の買収費用が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL140UE0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:46:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL141C00U5A810C2000000/">
+    <title>上海株寄り付き　小幅続伸で始まる　消費刺激策を好感</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL141C00U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:44:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL138I10T10C25A8000000/">
+    <title>香港株寄り付き　続伸、好決算のテンセントが高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL138I10T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:43:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOS0ISS12TU5A810C2000000/">
+    <title>日経平均株価、一時600円超安　連日の高値更新で過熱感の売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOS0ISS12TU5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:41:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL141480U5A810C2000000/">
+    <title>外為10時　円相場、一時3週間ぶり高値　146円台前半　株安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL141480U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:40:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1410O0U5A810C2000000/">
+    <title>オルツ、半期報告書の提出延長申請を検討　「決算数値確定に時間」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1410O0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:35:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL140HM0U5A810C2000000/">
+    <title>三菱UFJ株価、朝安後上げる　持ち高調整の売りも日銀利上げ観測支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL140HM0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:34:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1418Y0U5A810C2000000/">
+    <title>人民元基準値、対米ドルで7.1337元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1418Y0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:33:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQSK2IKKC1_U5A810C2000000/">
+    <title>仙台育英　6-2　開星　高校野球</title>
+    <link>https://www.nikkei.com/article/DGXZQSK2IKKC1_U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:24:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL140X40U5A810C2000000/">
+    <title>東証10時　日経平均は下げ幅拡大　短期的な過熱への警戒強まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL140X40U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:21:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL140HN0U5A810C2000000/">
+    <title>商品9時30分　原油続落、需給の緩みを意識　金も続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL140HN0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:21:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1413G0U5A810C2000000/">
+    <title>パリSG、PK戦制し初V　サッカー欧州スーパー杯</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1413G0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:17:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07C4A0X00C25A7000000/">
+    <title>世銀グループの国際金融公社、支援10兆円超　長官「日本に拠点」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07C4A0X00C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:11:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2516V0V20C25A7000000/">
+    <title>空に舞う人間のDNAやプラスチック微粒子　空気は意外な物質を運ぶ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2516V0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF13AZF0T10C25A8000000/">
+    <title>大阪万博の帰宅困難者、会場で一夜　直結の地下鉄は運転再開</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF13AZF0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T09:44:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN13BSJ0T10C25A8000000/">
+    <title>メキシコ、麻薬組織幹部26人を米に引き渡し　トランプ氏にアピール</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN13BSJ0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T09:41:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB140FZ0U5A810C2000000/">
+    <title>ドバイ原油・14日午前、下落　67.50ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB140FZ0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T09:37:06+09:00</dc:date>
+  </item>
+</rdf:RDF>
