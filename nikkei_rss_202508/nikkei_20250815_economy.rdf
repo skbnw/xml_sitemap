@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/economy.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Feconomy.rdf">
+    <title>日経新聞 政治・経済</title>
+    <link>https://www.nikkei.com/news/category/economy/</link>
+    <description>日経新聞の政治・経済に関するフィードをお届けします。</description>
+    <dc:date>2025-08-15T11:11:45+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA147B70U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA088H60Y5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR146DQ0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA044240U5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA085BE0Y5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA138Y70T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA31AAB0R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA126ZI0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA314KW0R30C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA138DD0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1394I0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC1379G0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA125YV0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB296780Z20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA134BS0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA131BN0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA203610Q5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN12ALE0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN112GP0R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA128QY0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB230PN0T20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA121WS0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA016D70R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA3089W0Q5A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM111580R10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA22AQ40S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA147070U5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0558S0V00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN08D7I0Y5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB230OU0T20C25A6000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA147B70U5A810C2000000/">
+    <title>4〜6月期実質GDP、年率1%増　市場予想上回り5四半期連続プラス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA147B70U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-15T10:54:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA088H60Y5A800C2000000/">
+    <title>核融合発電の新ルール、規制委が検討　26年3月までに論点整理</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA088H60Y5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-15T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR146DQ0U5A810C2000000/">
+    <title>英4〜6月GDP、年率1.4%増に減速　企業の保険負担増響く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR146DQ0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T19:18:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA044240U5A800C2000000/">
+    <title>企業の補助金・開業申請、オンラインで完結　手続き重複省略ようやく</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA044240U5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T19:05:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA085BE0Y5A800C2000000/">
+    <title>子どものネット利用、対策強化へ工程表　政府が9月にも</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA085BE0Y5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA138Y70T10C25A8000000/">
+    <title>日本貿易保険、南アフリカで再保険　現地公社と協定締結</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA138Y70T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T17:51:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA31AAB0R30C25A7000000/">
+    <title>米向け自動車輸出、九州は6月7割減　高関税による日産生産移管影響</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA31AAB0R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T17:49:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA126ZI0S5A810C2000000/">
+    <title>外国人の働き手、宮崎など7県で10年前の4倍　地方で進む労働依存</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA126ZI0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA314KW0R30C25A7000000/">
+    <title>「新古車の楽園」再び　スリランカ向け自動車輸出、上期は最高水準</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA314KW0R30C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-14T01:27:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA138DD0T10C25A8000000/">
+    <title>保育施設「人材不足」80%　運営に苦労、こども庁調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA138DD0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T20:24:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1394I0T10C25A8000000/">
+    <title>手書きで「忖度」記述　「森友文書」職員手控え、財務省改ざん</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1394I0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T19:23:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC1379G0T10C25A8000000/">
+    <title>ホクリヨウ26年3月期、税引き利益20億円に上振れ　年70円配に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC1379G0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T18:55:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA125YV0S5A810C2000000/">
+    <title>生活保護の｢違法｣減額どう正す　厚労省の専門委員会が初会合</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA125YV0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T18:10:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB296780Z20C25A7000000/">
+    <title>株高速取引の相場操縦、課徴金引き上げへ　金融庁が金商法の改正検討</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB296780Z20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA134BS0T10C25A8000000/">
+    <title>4〜6月期GDP予測、実質0.37%に　日経センター8月調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA134BS0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T15:44:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA131BN0T10C25A8000000/">
+    <title>亜鉛めっき鋼板、韓国・中国製を不当廉売疑いで調査　経産・財務両省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA131BN0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T14:41:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA203610Q5A720C2000000/">
+    <title>医療機関の倒産、16年ぶり高水準　ゼロゼロ融資の返済開始ピーク</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA203610Q5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T10:57:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN12ALE0S5A810C2000000/">
+    <title>7月の米中小企業景況感、5カ月ぶり高水準　予想上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN12ALE0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-13T03:03:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN112GP0R10C25A8000000/">
+    <title>米消費者物価、7月2.7%上昇　エネ・食品除く指数は予想上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN112GP0R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-12T22:35:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA128QY0S5A810C2000000/">
+    <title>モバイルバッテリーやスマホ、回収・リサイクル義務化　26年度から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA128QY0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-12T20:22:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB230PN0T20C25A7000000/">
+    <title>スタートアップ資金調達しやすく、情報開示の｢壁｣1億→5億円に　金融庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB230PN0T20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-12T18:42:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA121WS0S5A810C2000000/">
+    <title>6月のGDP、前月比0.1%減　日経センターまとめ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA121WS0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-12T18:21:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA016D70R00C25A8000000/">
+    <title>市販薬購入の税優遇、厚労省が恒久化要望　インフル検査薬など追加も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA016D70R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-12T17:41:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA3089W0Q5A730C2000000/">
+    <title>インドネシアで通信保守拠点を整備　総務省が日本勢参入を後押し</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA3089W0Q5A730C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-12T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM111580R10C25A8000000/">
+    <title>小泉進次郎農相、韓国外相に水産物輸入規制の撤廃求める</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM111580R10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T17:21:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA22AQ40S5A720C2000000/">
+    <title>入れ替わった「自由」と「公正」　通商白書が問う新たな経済秩序</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA22AQ40S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA147070U5A710C2000000/">
+    <title>夏山に響く物価高　山小屋苦渋の連続値上げ、輸送費アップが重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA147070U5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0558S0V00C25A8000000/">
+    <title>時代が生んだ氷河期界隈、子育て支援も極寒　「政治利用」に冷めた目</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0558S0V00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN08D7I0Y5A800C2000000/">
+    <title>円安は「金融政策で自然と調整」　ベッセント米財務長官インタビュー</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN08D7I0Y5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB230OU0T20C25A6000000/">
+    <title>AI需要は年2〜3割増　フジクラ社長が語る光ファイバーから見た景気</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB230OU0T20C25A6000000/</link>
+    <description></description>
+    <dc:date>2025-08-11T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
