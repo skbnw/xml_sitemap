@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-08-19T11:10:45+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA183NF0Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN191RO0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD190ML0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG28CJ50Y5A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR18B6O0Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC18AV90Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF26A0J0W5A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB149B30U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC137T20T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC136E60T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG245TQ0U5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB133NX0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190UD0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL188FY0Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190RR0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190U00Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL191DR0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC191JI0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB190O40Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN190GY0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC191D00Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL191BV0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQSK2IKKC1_Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190XY0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG190QN0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG1497E0U5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD187FF0Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC190Z00Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL140IV0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR190MT0Z10C25A8000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA183NF0Y5A810C2000000/">
+    <title>自民党、総裁選の前倒し巡る議論に着手　管理委が初会合</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA183NF0Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:04:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN191RO0Z10C25A8000000/">
+    <title>トランプ氏、郵便投票廃止へ大統領令準備　共和党の有利狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN191RO0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:01:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD190ML0Z10C25A8000000/">
+    <title>大阪・道頓堀の火災ビル、消防が過去に法令違反指摘　府警が現場検証</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD190ML0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:01:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG28CJ50Y5A520C2000000/">
+    <title>コンビニの「レジ係」ロボ、東大発新興が28年商用化　人手不足に対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG28CJ50Y5A520C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR18B6O0Y5A810C2000000/">
+    <title>ハマスが60日停戦案に同意　イスラエルの判断見通せず、極右は反対</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR18B6O0Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC18AV90Y5A810C2000000/">
+    <title>パルコ、ゲーム流通・開発支援に本格参入　25年冬に3タイトル発売</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC18AV90Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF26A0J0W5A520C2000000/">
+    <title>紛失防止タグや見守りGPS悪用、ストーカー被害深刻　相談件数5倍超</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF26A0J0W5A520C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB149B30U5A810C2000000/">
+    <title>鋼材「当面弱含み」　輸入材が侵食、内需一段の減少も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB149B30U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC137T20T10C25A8000000/">
+    <title>LayerXの松本CTO「1社に数万のAIエージェントを」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC137T20T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC136E60T10C25A8000000/">
+    <title>米国造船支援、笛吹けども踊らぬ日本　韓国は22兆円投資</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC136E60T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG245TQ0U5A720C2000000/">
+    <title>中性子使うがん治療「BNCT」、大阪万博で21日公開イベント</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG245TQ0U5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB133NX0T10C25A8000000/">
+    <title>グローバル化が進む日本経済</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB133NX0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190UD0Z10C25A8000000/">
+    <title>三菱重工の株価反落　「米国防総省が日本の防衛費に不満」報道も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190UD0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:53:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL188FY0Y5A810C2000000/">
+    <title>香港株寄り付き　反発、政策期待で買い先行　一時下げに転じる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL188FY0Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:52:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190RR0Z10C25A8000000/">
+    <title>外為10時　円相場、148円挟み乱高下　米国の格付け維持でドル買いも</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190RR0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:51:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190U00Z10C25A8000000/">
+    <title>ソフトバンクG株価10日ぶり反落　最高値を更新後、売り広がる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190U00Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:48:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL191DR0Z10C25A8000000/">
+    <title>上海株寄り付き　小幅続伸して始まる　家電・食品が高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL191DR0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:47:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC191JI0Z10C25A8000000/">
+    <title>山梨学院が大勝で4強　夏の甲子園、京都国際は連覇ならず</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC191JI0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:46:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB190O40Z10C25A8000000/">
+    <title>日経平均株価一時300円安　ソフトバンクG株が高値更新後5%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB190O40Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:34:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN190GY0Z10C25A8000000/">
+    <title>ソフトバンクG、インテルに3000億円出資　米半導体生産後押し</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN190GY0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:31:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC191D00Z10C25A8000000/">
+    <title>錦織圭88位、望月慎太郎112位　男子テニス世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC191D00Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:31:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL191BV0Z10C25A8000000/">
+    <title>人民元基準値、対米ドルで7.1359元　前日比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL191BV0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:29:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQSK2IKKC1_Z10C25A8000000/">
+    <title>山梨学院　11-4　京都国際　高校野球</title>
+    <link>https://www.nikkei.com/article/DGXZQSK2IKKC1_Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:27:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190XY0Z10C25A8000000/">
+    <title>東証10時　日経平均、下げに転じ一時300円安　ソフトバンクGが下げ幅拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190XY0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:18:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG190QN0Z10C25A8000000/">
+    <title>ドンキのパンパシHDが株価最高値　好業績・還元評価、長計期待も</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG190QN0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:01:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG1497E0U5A710C2000000/">
+    <title>子孫を残す仁義なき闘い　甲虫は激戦で疲弊、交配諦め分身作る植物も</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG1497E0U5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD187FF0Y5A810C2000000/">
+    <title>「アフリカから留学生受け入れ拡大を」UNDPエザコンワ総裁補</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD187FF0Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC190Z00Z10C25A8000000/">
+    <title>卓球世界ツアー、早田ひな・伊藤美誠ら2回戦へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC190Z00Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T09:47:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL140IV0U5A810C2000000/">
+    <title>商品9時30分　原油、反発　ロシア産の供給懸念で　金は反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL140IV0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T09:46:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR190MT0Z10C25A8000000/">
+    <title>ウクライナの「安全の保証」、日豪など30カ国参加へ　NATO事務総長</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR190MT0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-19T09:38:26+09:00</dc:date>
+  </item>
+</rdf:RDF>
