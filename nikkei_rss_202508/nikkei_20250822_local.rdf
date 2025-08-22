@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2025-08-22T11:11:12+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC113GA0R10C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF22A3R0S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC309QG0Q5A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2873H0Y5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC256IP0V20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2461I0U5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD205FV0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC205EX0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC211C40R20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC218TN0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC04AKD0U5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC195CV0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC124B10S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH0844Z0Y5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC294020Z20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC013LK0R00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC202UP0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJE152I30V10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC191Z60Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC161MX0W5A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1912W0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD150ZH0V10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC195J70Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2053V0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF21AZH0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF219A30R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA21B9M0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF217EB0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF217FE0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC199V20Z10C25A8000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC113GA0R10C25A7000000/">
+    <title>地方版ハローワーク、女性や高齢者の働き手発掘　就職率は国を上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC113GA0R10C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF22A3R0S5A720C2000000/">
+    <title>地方版ハローワーク、中小企業の海外進出後押し　神戸市は留学生発掘</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF22A3R0S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC309QG0Q5A730C2000000/">
+    <title>地方版ハローワーク、富山県は在宅ワーク研修　子育てママ働きやすく</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC309QG0Q5A730C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2873H0Y5A720C2000000/">
+    <title>宮城・石巻、水産業の担い手呼び込む　漁業団体と連携して研修企画</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2873H0Y5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC256IP0V20C25A7000000/">
+    <title>北九州、女性の就職・育児をワンストップで　年500人就職</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC256IP0V20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2461I0U5A720C2000000/">
+    <title>地方版ハローワーク、高知市は伴走支援で就職者増　中四国で広がる</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2461I0U5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD205FV0Q5A820C2000000/">
+    <title>愛知県知多市、地方版ハローワークで若者が就労体験　人材確保に一役</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD205FV0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC205EX0Q5A820C2000000/">
+    <title>北海道の市町村、地方版ハローワークで移住者や女性の就労後押し</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC205EX0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC211C40R20C25A7000000/">
+    <title>横浜市や千葉･袖ケ浦市､生活困窮者らに寄り添い就労支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC211C40R20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC218TN0R20C25A8000000/">
+    <title>福岡県、NVIDIAと新興支援イベント　国際協業や資金調達へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC218TN0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T10:55:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC04AKD0U5A800C2000000/">
+    <title>スタートアップ支援、都道府県の44%「創業者間交流促進など重要」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC04AKD0U5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC195CV0Z10C25A8000000/">
+    <title>中国地方5県の最低賃金「目安超え」で1000円超に　山陰で大幅上乗せ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC195CV0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC124B10S5A810C2000000/">
+    <title>福島第1原発、トリチウム放出続く　安全性巡る論争も継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC124B10S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH0844Z0Y5A800C2000000/">
+    <title>ジュディ・オング｢55年前も今も万博に魅せられて｣　主演作復刻上映</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH0844Z0Y5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC294020Z20C25A7000000/">
+    <title>岐阜県高山市議会･伊東寿充議長「松本との広域観光､伸びしろ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC294020Z20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC013LK0R00C25A8000000/">
+    <title>ホエイ使った「ブラウンチーズ」、北海道土産に新風吹き込む</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC013LK0R00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC202UP0Q5A820C2000000/">
+    <title>福岡・久留米の原口新五市長「筑後川の豊富な水、企業誘致にプラス」</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC202UP0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJE152I30V10C25A8000000/">
+    <title>大阪万博、フッと一息「おしゃれ休憩所」5選　トイレの上の穴場も</title>
+    <link>https://www.nikkei.com/article/DGXZQOJE152I30V10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC191Z60Z10C25A8000000/">
+    <title>国立市のFSX、「コスメおしぼり」で需要開拓　ベトナムにも子会社</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC191Z60Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC161MX0W5A510C2000000/">
+    <title>小さなタクシー会社にDXの風　データ駆使で経験・勘頼み卒業</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC161MX0W5A510C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1912W0Z10C25A8000000/">
+    <title>ノバレーゼ、富山市の公園に結婚式場　自治体と提携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1912W0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD150ZH0V10C25A8000000/">
+    <title>あいち銀行「攻めのM&amp;A」仲介で収入2倍へ　コンサル連携や新組織</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD150ZH0V10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC195J70Z10C25A8000000/">
+    <title>コメ、秋以降も高値か　南九州産早場米の店頭価格5キロ4500円超</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC195J70Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T04:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2053V0Q5A820C2000000/">
+    <title>広島城の毛利輝元像、クラファンで建立　「戦前」の歴史も後世に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2053V0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-22T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF21AZH0R20C25A8000000/">
+    <title>山陽新幹線一時見合わせ　東広島駅で人と接触</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF21AZH0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-21T23:04:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF219A30R20C25A8000000/">
+    <title>奈良の弥生集落跡におの状鉄器、青銅器作りの道具か　唐古・鍵遺跡</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF219A30R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-21T20:46:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA21B9M0R20C25A8000000/">
+    <title>小泉農相と維新・吉村代表が大阪万博で蜜月　視察で互いに持ち上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA21B9M0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-21T20:43:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF217EB0R20C25A8000000/">
+    <title>さくらインターネット、銀行から130億円借り入れ　新型GPUを調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF217EB0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-21T20:08:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF217FE0R20C25A8000000/">
+    <title>エレコム、日本アンテナを完全子会社化　官需向け通信機器取り込み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF217FE0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-21T20:08:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC199V20Z10C25A8000000/">
+    <title>徳島県内企業、25年度賃上げ2年連続3%超　民間調べ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC199V20Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-21T19:48:59+09:00</dc:date>
+  </item>
+</rdf:RDF>
