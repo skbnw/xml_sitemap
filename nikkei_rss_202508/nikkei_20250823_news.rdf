@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-08-23T11:11:00+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA215NS0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODL07B830X00C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM198580Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB230K30T20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN230FX0T20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD219PW0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF228LT0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2306K0T20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2306J0T20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN172S80X10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN22CFK0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN18B390Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR22CJ80S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD22BC40S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22BZE0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22C5M0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22C5J0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2301R0T20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07C690X00C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22C2Y0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN230080T20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN21CQC0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN22CCI0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN223530S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22CD00S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22C6N0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22BZB0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA20BYY0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG289P30Y5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC208VO0Q5A820C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA215NS0R20C25A8000000/">
+    <title>石破首相、自衛隊の護衛艦「かが」視察　空母化で「F35B」が離着艦</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA215NS0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T10:50:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODL07B830X00C25A7000000/">
+    <title>宇宙通信、ネット難民26億人を救え　日本勢に勝機は？3分解説</title>
+    <link>https://www.nikkei.com/article/DGXZQODL07B830X00C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T10:39:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM198580Z10C25A8000000/">
+    <title>韓国大統領、就任80日で初来日へ　訪米に先立ち「シャトル外交」継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM198580Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T10:19:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB230K30T20C25A8000000/">
+    <title>ネパール、97峰の登山料を免除　エベレストは値上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB230K30T20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T10:18:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN230FX0T20C25A8000000/">
+    <title>米国防長官、傘下の情報機関トップ解任　イラン攻撃の評価担当</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN230FX0T20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T10:17:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD219PW0R20C25A8000000/">
+    <title>官製談合防止へ公取委職員招き研修　群馬県藤岡市</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD219PW0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T08:45:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF228LT0S5A820C2000000/">
+    <title>23日の有力馬　BSN賞など競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF228LT0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T08:39:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2306K0T20C25A8000000/">
+    <title>田中希実、女子5000で9位　陸上DL</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2306K0T20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T08:39:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2306J0T20C25A8000000/">
+    <title>松山英樹、24位に後退　米男子ゴルフ最終戦第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2306J0T20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T08:36:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN172S80X10C25A8000000/">
+    <title>米政府、インテルに1兆3000億円出資　補助金代わりに株9.9%取得</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN172S80X10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T07:32:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN22CFK0S5A820C2000000/">
+    <title>カナダ、対米報復関税の多く撤廃へ　トランプ政権と交渉進展へ譲歩</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN22CFK0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T07:09:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN18B390Y5A810C2000000/">
+    <title>中国フェンタニル組織、女幹部に米で懲役15年　日本法人サイト運営者</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN18B390Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T07:08:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR22CJ80S5A820C2000000/">
+    <title>プーチン氏、トランプ政権で「トンネルの先に光」　対米改善に期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR22CJ80S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T07:00:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD22BC40S5A820C2000000/">
+    <title>東京で最高気温36度の予想　猛暑日、熱中症に警戒を</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD22BC40S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T07:00:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22BZE0S5A820C2000000/">
+    <title>NY円相場、反発　1ドル146円85〜95銭　米利下げ観測で円買い・ドル売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22BZE0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T06:48:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22C5M0S5A820C2000000/">
+    <title>日経平均先物、夜間取引で上昇　380円高の4万2950円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22C5M0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T06:28:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22C5J0S5A820C2000000/">
+    <title>シカゴ日本株先物概況・22日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22C5J0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T06:19:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2301R0T20C25A8000000/">
+    <title>トランプ氏、NYやシカゴへの州兵派遣を示唆　民主地盤の大都市照準</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2301R0T20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T06:19:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07C690X00C25A7000000/">
+    <title>NY株846ドル高で最高値　利下げ確率8割に再浮上、強まる景気楽観論</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07C690X00C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T06:18:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22C2Y0S5A820C2000000/">
+    <title>NY債券、長期債反発　10年債利回り4.25%　FRB議長講演で利下げ期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22C2Y0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T06:10:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN230080T20C25A8000000/">
+    <title>FRBパウエル議長「リスク変化｣で9月利下げに道　データ重視は譲らず</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN230080T20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T06:09:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN21CQC0R20C25A8000000/">
+    <title>FRB議長が利下げ示唆、「年内3回を予想」　米市場関係者に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN21CQC0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T06:03:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN22CCI0S5A820C2000000/">
+    <title>中国向けAI半導体、NVIDIAが世代交代模索　｢排除｣受け苦肉の打開策</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN22CCI0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T05:43:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN223530S5A820C2000000/">
+    <title>NYダウ846ドル高で最高値　FRB議長講演で利下げ期待、円146円台</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN223530S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T05:36:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22CD00S5A820C2000000/">
+    <title>ダウ最高値　パウエル氏が利下げに布石、背景に移民減少</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22CD00S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T05:36:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22C6N0S5A820C2000000/">
+    <title>日本株ADR22日、全面高　ソニーGやオリックスの上げ目立つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22C6N0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T05:30:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22BZB0S5A820C2000000/">
+    <title>NY商品、原油続伸　米利下げ観測の高まりで　金は反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22BZB0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T05:08:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA20BYY0Q5A820C2000000/">
+    <title>韓国大統領、異例ずくめの早期来日　「米国より先」国交正常化後で初</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA20BYY0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG289P30Y5A720C2000000/">
+    <title>東日本付近に帯状の地震頻発エリア特定、地下水が影響か　東北大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG289P30Y5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC208VO0Q5A820C2000000/">
+    <title>ミネベアCEO｢TOB価格競争から手を引く｣　芝浦電子争奪戦に区切り</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC208VO0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-23T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
