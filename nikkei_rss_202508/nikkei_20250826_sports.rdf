@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2025-08-26T11:11:11+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2617Y0W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2619P0W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC260Y00W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC260WY0W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH21BAS0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD226130S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF250800V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC25B3W0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC25B4C0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC25ABY0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC25A990V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC25A7P0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC259FR0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2567G0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2567C0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC255JW0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2552T0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250DY0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2513Q0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2510V0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250XI0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250FZ0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2506G0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250HQ0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250BA0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250A50V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250BK0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250AS0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2506U0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH193EN0Z10C25A8000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2617Y0W5A820C2000000/">
+    <title>MF森下龍矢、ブラックバーンに移籍　3年契約</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2617Y0W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T10:14:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2619P0W5A820C2000000/">
+    <title>斉藤光毅、QPRに完全移籍　ベルギー2部・ロンメルから</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2619P0W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T10:13:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC260Y00W5A820C2000000/">
+    <title>世界バドミントン、奈良岡功大が2回戦進出</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC260Y00W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T09:39:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC260WY0W5A820C2000000/">
+    <title>全米テニス、西岡良仁は1回戦敗退</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC260WY0W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T09:37:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH21BAS0R20C25A8000000/">
+    <title>サッカー日本代表、「最強」のコンディションへ情報・環境を万端に</title>
+    <link>https://www.nikkei.com/article/DGXZQODH21BAS0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD226130S5A820C2000000/">
+    <title>藤浪晋太郎と青柳晃洋、異境での体験をステップに新境地へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD226130S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF250800V20C25A8000000/">
+    <title>オリックス太田椋、死球にめげず打線けん引　CS進出へ闘志前面に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF250800V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC25B3W0V20C25A8000000/">
+    <title>DF菅原由勢、独1部ブレーメンへ　サッカー日本代表</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC25B3W0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T01:16:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC25B4C0V20C25A8000000/">
+    <title>山下美夢有は6位で変わらず　女子ゴルフ世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC25B4C0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T01:15:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC25ABY0V20C25A8000000/">
+    <title>世界バレー女子、日本が決勝Tへ　ウクライナに逆転勝ち</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC25ABY0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-26T01:00:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC25A990V20C25A8000000/">
+    <title>7月の陸上日本選手権、佐藤風雅が優勝　男子400・失格取り消し</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC25A990V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T21:40:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC25A7P0V20C25A8000000/">
+    <title>松山英樹、16位で変わらず　男子ゴルフ世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC25A7P0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T21:21:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC259FR0V20C25A8000000/">
+    <title>世界バドミントン、田中湧士2回戦へ　仁平菜月は敗退</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC259FR0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T20:17:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2567G0V20C25A8000000/">
+    <title>大の里「応援を力に」　金沢巡業で豪ノ山と7番</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2567G0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T16:59:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2567C0V20C25A8000000/">
+    <title>巨人・田中将大、日米200勝へ「いつも通り」　28日先発予定</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2567C0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T16:24:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC255JW0V20C25A8000000/">
+    <title>日本女子ゴルフ、台湾でツアー開催　26年3月に</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC255JW0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T15:34:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2552T0V20C25A8000000/">
+    <title>ラグビーリーグワン、浦安のレイドローHCが退任</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2552T0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T15:06:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250DY0V20C25A8000000/">
+    <title>大谷翔平、松井裕樹から45号ソロ　山本由伸11勝目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250DY0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T11:34:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2513Q0V20C25A8000000/">
+    <title>錦織圭、90位に下がる　男子テニス世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2513Q0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T10:18:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2510V0V20C25A8000000/">
+    <title>マリナーズのローリー、捕手最多本塁打を更新　1試合2発</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2510V0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T10:17:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250XI0V20C25A8000000/">
+    <title>大坂なおみ、24位に上がる　女子テニス世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250XI0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T10:04:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250FZ0V20C25A8000000/">
+    <title>全米テニス、内島萌夏は2回戦へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250FZ0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T09:25:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2506G0V20C25A8000000/">
+    <title>世界新体操、日本がリボン「銀」　今大会2つのメダル</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2506G0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T08:56:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250HQ0V20C25A8000000/">
+    <title>西郷真央3位、岩井明愛は4位　米女子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250HQ0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T08:55:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250BA0V20C25A8000000/">
+    <title>今永昇太、次回登板は29日　敵地でのジャイアンツ戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250BA0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T08:35:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250A50V20C25A8000000/">
+    <title>菅野智之・千賀滉大、26日に先発　菊池雄星は27日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250A50V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T08:32:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250BK0V20C25A8000000/">
+    <title>松山英樹29位、フリートウッドが優勝　米男子ゴルフ最終戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250BK0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T08:28:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250AS0V20C25A8000000/">
+    <title>久保建英・三笘薫フル出場、GK鈴木彩艶2失点　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250AS0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T08:22:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2506U0V20C25A8000000/">
+    <title>大谷翔平、次回登板は28日　中6日で本拠地のレッズ戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2506U0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T07:45:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH193EN0Z10C25A8000000/">
+    <title>サッカー日本代表、「分業制」コーチ陣が築く攻守の連動</title>
+    <link>https://www.nikkei.com/article/DGXZQODH193EN0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-25T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
