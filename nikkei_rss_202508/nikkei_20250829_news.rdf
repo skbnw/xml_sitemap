@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-08-29T11:12:30+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA27CY90X20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC1341S0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF21AVT0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG248UK0U5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF077WJ0X00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC206I30Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC216DZ0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC285ID0Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC283C30Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN282WQ0Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC212BB0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC221UW0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD261NJ0W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC211FE0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD240QA0U5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC210GT0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290DF0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290KF0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA27AAW0X20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290T10Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290SD0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC291QX0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL198WQTZ10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL291HG0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2917P0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC282F30Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2914P0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL291DD0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290Y30Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA291940Z20C25A8000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA27CY90X20C25A8000000/">
+    <title>緊急避妊薬の薬局販売、29日に承認審議　WHOは市販化推奨</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA27CY90X20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:10:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC1341S0T10C25A8000000/">
+    <title>地方の空港、活路は「経由客」　長野の乗降者10年で2.7倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC1341S0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF21AVT0R20C25A8000000/">
+    <title>空港イベントが創る地域のにぎわい　但馬空港、駐機場でも「演劇祭」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF21AVT0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG248UK0U5A720C2000000/">
+    <title>供給網含むCO2開示、まだ企業の2割　26年度義務付けへ対策急ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG248UK0U5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF077WJ0X00C25A8000000/">
+    <title>住友電装の漆畑社長、米関税影響「どこへ逃げてもかかってくる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF077WJ0X00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC206I30Q5A820C2000000/">
+    <title>高知空港、朝ドラ効果で乗降客増　出雲空港は待合室拡張</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC206I30Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC216DZ0R20C25A8000000/">
+    <title>北海道・旭川空港、みずほ銀主導でMaaS実証　10月から</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC216DZ0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC285ID0Y5A820C2000000/">
+    <title>タカラトミー富山社長、スマホ時代こそ「集まって遊ぶニーズ強く」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC285ID0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC283C30Y5A820C2000000/">
+    <title>ウエディングパーク、AIで結婚式場プランナー育成支援　会話を分析</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC283C30Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN282WQ0Y5A820C2000000/">
+    <title>市場が恐れる「長期金利支配」　トランプFRB攻撃の帰結か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN282WQ0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC212BB0R20C25A8000000/">
+    <title>新潟県、地域航空会社がチャーター便　富山は民営化で路線拡充目指す</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC212BB0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC221UW0S5A820C2000000/">
+    <title>茨城空港､無料駐車場で｢ストレスなく搭乗｣　東京･羽田は周辺再開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC221UW0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD261NJ0W5A820C2000000/">
+    <title>黒潮の「大蛇行」終息、過去最長の7年超　サンマは再び庶民の味に？</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD261NJ0W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC211FE0R20C25A8000000/">
+    <title>TSMC機に熊本空港の国際便急増　益城町、企業誘致へ工業団地開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC211FE0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD240QA0U5A820C2000000/">
+    <title>回復遅れる中部空港、名古屋方面のアクセス改善へ　幹線道の整備進む</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD240QA0U5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC210GT0R20C25A8000000/">
+    <title>山形県、増便が奏功　国際チャーター便誘致へ空港設備も増強</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC210GT0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290DF0Z20C25A8000000/">
+    <title>USスチール、甘くない日鉄の巨額投資　関税が招く過剰生産リスク</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290DF0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290KF0Z20C25A8000000/">
+    <title>電通Gの株価10%高　海外事業の売却報道、立て直しへ期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290KF0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:58:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA27AAW0X20C25A8000000/">
+    <title>待機児童ピークの1割未満に縮小　25年2254人、過疎地は定員割れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA27AAW0X20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:56:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290T10Z20C25A8000000/">
+    <title>フジHD株価6日ぶり反発　港浩一前社長らを提訴、請求額50億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290T10Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:55:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290SD0Z20C25A8000000/">
+    <title>創薬のクオリプス株価反発　心筋細胞シートで米当局との事前会議終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290SD0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:54:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC291QX0Z20C25A8000000/">
+    <title>日野自動車、茨城工場の稼働再開　大中型トラック生産</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC291QX0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:54:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL198WQTZ10C25A8000000/">
+    <title>解説・国債入札　最低落札価格や平均価格との差、相場観映す</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL198WQTZ10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:52:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL291HG0Z20C25A8000000/">
+    <title>上海株寄り付き　小幅反落で始まる　利益確定売りが先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL291HG0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2917P0Z20C25A8000000/">
+    <title>香港株寄り付き　反発で始まる　決算発表前のアリババが上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2917P0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:42:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC282F30Y5A820C2000000/">
+    <title>沖縄振興予算、5年連続3000億円割れ　26年度概算要求</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC282F30Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:32:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2914P0Z20C25A8000000/">
+    <title>岩井明愛・千怜と古江彩佳、31位発進　米女子ゴルフ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2914P0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:32:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL291DD0Z20C25A8000000/">
+    <title>人民元基準値、対米ドルで7.1030元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL291DD0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:27:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290Y30Z20C25A8000000/">
+    <title>東証10時　日経平均は軟調　一時200円安、ソニーGなどに利益確定売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290Y30Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:25:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA291940Z20C25A8000000/">
+    <title>概算要求、122兆円台で過去最大　26年度政府予算</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA291940Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:23:40+09:00</dc:date>
+  </item>
+</rdf:RDF>
