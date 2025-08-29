@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2025-08-29T11:11:47+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC1341S0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF21AVT0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF077WJ0X00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC206I30Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC216DZ0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC212BB0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC221UW0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC211FE0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD240QA0U5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC210GT0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC282F30Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD28C630Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF287JQ0Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC259EZ0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC228W70S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD228RD0S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD2589S0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1385P0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC057AP0V00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD204O90Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJD2042S0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH241EP0U5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC120DG0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF127HW0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC27C3F0X20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC267IG0W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC284WM0Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC266F10W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC28AE30Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC2884W0Y5A820C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC1341S0T10C25A8000000/">
+    <title>地方の空港、活路は「経由客」　長野の乗降者10年で2.7倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC1341S0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF21AVT0R20C25A8000000/">
+    <title>空港イベントが創る地域のにぎわい　但馬空港、駐機場でも「演劇祭」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF21AVT0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF077WJ0X00C25A8000000/">
+    <title>住友電装の漆畑社長、米関税影響「どこへ逃げてもかかってくる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF077WJ0X00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC206I30Q5A820C2000000/">
+    <title>高知空港、朝ドラ効果で乗降客増　出雲空港は待合室拡張</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC206I30Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC216DZ0R20C25A8000000/">
+    <title>北海道・旭川空港、みずほ銀主導でMaaS実証　10月から</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC216DZ0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC212BB0R20C25A8000000/">
+    <title>新潟県、地域航空会社がチャーター便　富山は民営化で路線拡充目指す</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC212BB0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC221UW0S5A820C2000000/">
+    <title>茨城空港､無料駐車場で｢ストレスなく搭乗｣　東京･羽田は周辺再開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC221UW0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC211FE0R20C25A8000000/">
+    <title>TSMC機に熊本空港の国際便急増　益城町、企業誘致へ工業団地開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC211FE0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD240QA0U5A820C2000000/">
+    <title>回復遅れる中部空港、名古屋方面のアクセス改善へ　幹線道の整備進む</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD240QA0U5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC210GT0R20C25A8000000/">
+    <title>山形県、増便が奏功　国際チャーター便誘致へ空港設備も増強</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC210GT0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC282F30Y5A820C2000000/">
+    <title>沖縄振興予算、5年連続3000億円割れ　26年度概算要求</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC282F30Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T10:32:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD28C630Y5A820C2000000/">
+    <title>2億円詐取疑いで元不動産会社代表を逮捕　大阪、推し活動機か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD28C630Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T09:27:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF287JQ0Y5A820C2000000/">
+    <title>滋賀労働局、雇用判断39カ月ぶり上方修正　「緩やかに持ち直し」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF287JQ0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC259EZ0V20C25A8000000/">
+    <title>北海道発「くにをの鮭キムチ」、土産から総菜へ　スーパーに販路拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC259EZ0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC228W70S5A820C2000000/">
+    <title>山梨中央銀行×郵船クルーズ　「飛鳥」で開く地方創生の新航路</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC228W70S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD228RD0S5A820C2000000/">
+    <title>伊丹映画の魅力を未来に　ITM伊丹記念財団理事長・一六会長、玉置泰さん</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD228RD0S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD2589S0V20C25A8000000/">
+    <title>MTG、「疲労回復ウエア」に高価格帯を追加　生地の質感で差異化</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD2589S0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1385P0T10C25A8000000/">
+    <title>新興電力、東北電力に安さで挑む　再エネ100%や発電所に寄付も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1385P0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC057AP0V00C25A8000000/">
+    <title>国際畑歩んだバンカー、町のコンサルに　元浜松信用金庫の野田専務</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC057AP0V00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD204O90Q5A820C2000000/">
+    <title>AVANTIA、賃貸アパートを第2の柱に　木造軸に100億円めざす</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD204O90Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJD2042S0Q5A820C2000000/">
+    <title>大阪万博のマルタ館、甲冑を通じた日本との縁　フティーラも人気</title>
+    <link>https://www.nikkei.com/article/DGXZQOJD2042S0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH241EP0U5A820C2000000/">
+    <title>ポルシェの教えを新作能に　生誕150周年、創業者への感謝表す公演</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH241EP0U5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC120DG0S5A810C2000000/">
+    <title>ホンダジェット国内販売拠点、大分に新設　パイロット養成施設も集約</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC120DG0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF127HW0S5A810C2000000/">
+    <title>パナソニックHD、市場がせかすブルーヨンダー黒字化　のれん9500億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF127HW0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC27C3F0X20C25A8000000/">
+    <title>仙台駅西口の旧さくら野百貨店解体へ　再開発が前進、跡地活用は未定</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC27C3F0X20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC267IG0W5A820C2000000/">
+    <title>鳥取のヨネザワ、中小工場の仕事を他社に橋渡し　人手補う仲介事業</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC267IG0W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-29T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC284WM0Y5A820C2000000/">
+    <title>北陸電力やJFEエンジなど、洋上風力由来の電気を地元に供給</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC284WM0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-28T23:22:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC266F10W5A820C2000000/">
+    <title>ハウステンボス、長崎・佐賀自治体と連携協定　周遊を促進</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC266F10W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-28T21:20:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC28AE30Y5A820C2000000/">
+    <title>味の素やハウス食品、北海道の共同配送でトラックと鉄道組み合わせ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC28AE30Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-28T20:27:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC2884W0Y5A820C2000000/">
+    <title>九電工、新社名「クラフティア」PRへ高石あかりさん起用　朝ドラ主演</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC2884W0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-08-28T20:10:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
