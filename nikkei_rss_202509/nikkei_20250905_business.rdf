@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2025-09-05T11:11:25+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC258UX0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2885M0Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC266M50W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC045W90U5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC292XP0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC292EK0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04DL50U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC20CMM0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC03CF70T00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC188KQ0Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF288K40Y5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2083S0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF067S70W5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC187R50Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC136620T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC295H40Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2154Z0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2747S0X20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD232ZZ0T20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF192ML0Z10C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD232I80T20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2829P0Y5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC251P20V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC040KN0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04DID0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC042630U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC222560S5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD04D6F0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG298VV0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR04DCO0U5A900C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC258UX0V20C25A8000000/">
+    <title>宮城県、農業の｢経営者｣育成　秋田の農業法人は大規模化でコスト半減</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC258UX0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2885M0Y5A820C2000000/">
+    <title>茨城・千葉などでコメの「メガファーム」相次ぎ誕生　AI活用も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2885M0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC266M50W5A820C2000000/">
+    <title>コメ農家の大規模化進む北陸・新潟　復旧と並行、担い手確保に注力</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC266M50W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC045W90U5A800C2000000/">
+    <title>検索技術の米エラスティックCEO「日本企業の混在データをAI活用」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC045W90U5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC292XP0Z20C25A8000000/">
+    <title>太平洋セメント、九電系とオフサイトPPA　工場跡地で太陽光発電</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC292XP0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC292EK0Z20C25A8000000/">
+    <title>佐賀で続くコメ「集落営農」の伝統　価格高騰で離農者減少に期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC292EK0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04DL50U5A900C2000000/">
+    <title>半導体ブロードコム、8〜10月24%増収見通し　新規顧客の生産受注</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04DL50U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T08:11:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC20CMM0Q5A820C2000000/">
+    <title>Thinkings、人材要件作成をAIで支援　採用・社内公募に活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC20CMM0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC03CF70T00C25A9000000/">
+    <title>パソナ系、東日本大震災被災地の水産加工支援　商品開発や販路拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC03CF70T00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC188KQ0Y5A810C2000000/">
+    <title>日本車、米国から逆輸入案　トヨタ｢タンドラ｣や日産｢ムラーノ｣候補</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC188KQ0Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF288K40Y5A720C2000000/">
+    <title>大阪万博の民間出展、社員起用で働きがい向上　NTTは2300人が体験</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF288K40Y5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2083S0Q5A820C2000000/">
+    <title>2025年の早期退職1万人突破　はや前年超え、管理職年代の削減目立つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2083S0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF067S70W5A800C2000000/">
+    <title>阪急阪神HD､宝塚歌劇の海外配信を拡大　IP活用で収益改善</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF067S70W5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC187R50Y5A810C2000000/">
+    <title>高年収な運転マニア「今後もガソリン車購入」　1500人調査で明らかに</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC187R50Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC136620T10C25A8000000/">
+    <title>ライオン「バファリン」新工場稼働、国内市場は飽和　視線はアジアへ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC136620T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC295H40Z20C25A8000000/">
+    <title>ソニー系、半導体生産をAIでカイゼン　画像センサーのノイズ7割減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC295H40Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2154Z0R20C25A8000000/">
+    <title>ドバイで和梨を売る　JAいちかわ、長期保管技術で収穫期越えて輸出</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2154Z0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2747S0X20C25A8000000/">
+    <title>ほっかほっか亭、｢カスタム弁当｣を全国の店舗で　25年度内に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2747S0X20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD232ZZ0T20C25A7000000/">
+    <title>名古屋コーチン、シンガポールに飛躍　南部食鶏は輸出へ認証取得</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD232ZZ0T20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF192ML0Z10C25A7000000/">
+    <title>東大阪市の車部品会社､米関税対応｢現地生産ならば出荷まで1〜2年｣</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF192ML0Z10C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD232I80T20C25A7000000/">
+    <title>「遺体取り違え」葬儀会社で相次ぐ　火葬後に判明も、現場で何が</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD232I80T20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2829P0Y5A720C2000000/">
+    <title>富士通の海外体制「量から質」に　労働力高騰、AI活用の新戦略</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2829P0Y5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC251P20V20C25A8000000/">
+    <title>日産が売却検討、本社ビルは「眠るお宝」　勤務地そのまま手元資金確保</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC251P20V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC040KN0U5A900C2000000/">
+    <title>トピー工業の石井博美社長、米国てこ入れへ「現地新興EVを開拓」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC040KN0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04DID0U5A900C2000000/">
+    <title>Amazonの衛星通信、米ジェットブルー航空が採用　2027年から</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04DID0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T04:09:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC042630U5A900C2000000/">
+    <title>ホンダ「プレリュード」HVで発売　9月5日ビジネス主な予定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC042630U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC222560S5A820C2000000/">
+    <title>大塚HD、10年前の轍は踏まない　特許の崖に備える新薬続々</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC222560S5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD04D6F0U5A900C2000000/">
+    <title>ジョルジオ・アルマーニ氏死去　スーツに革新、「脱構築」で着やすさ追求</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD04D6F0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T03:27:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG298VV0Z20C25A8000000/">
+    <title>ナノサイズのダイヤモンドを精密合成、センサー材料など向け　東京大</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG298VV0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T03:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR04DCO0U5A900C2000000/">
+    <title>オーステッド、洋上風力巡り米政府を提訴　中止命令の撤回求め</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR04DCO0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T02:31:58+09:00</dc:date>
+  </item>
+</rdf:RDF>
