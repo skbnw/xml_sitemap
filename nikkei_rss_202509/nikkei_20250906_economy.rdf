@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/economy.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Feconomy.rdf">
+    <title>日経新聞 政治・経済</title>
+    <link>https://www.nikkei.com/news/category/economy/</link>
+    <description>日経新聞の政治・経済に関するフィードをお届けします。</description>
+    <dc:date>2025-09-06T11:11:44+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA023ZB0S5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04DGY0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA044F60U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA04CFF0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0551S0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA053SV0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0547T0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA014VE0R00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA053P30V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA04C9V0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0558H0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0567S0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA057M00V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0499N0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF058L50V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA057QX0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA056BW0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN050NR0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA052TG0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA044JD0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA045ZA0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0445E0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04CX20U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA03AHE0T00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA043XN0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA049JH0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA04AG20U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA046ZM0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA047Y60U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA040JZ0U5A900C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA023ZB0S5A900C2000000/">
+    <title>AI誤作動招く｢データポイズニング｣、企業6割リスク　管理不十分</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA023ZB0S5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04DGY0U5A900C2000000/">
+    <title>米雇用減速、8月2.2万人増で市場予想下回る　失業率は4.3%に上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04DGY0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T21:51:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA044F60U5A900C2000000/">
+    <title>実質賃金、プラス定着なお見えず　ボーナス押し上げで7月7カ月ぶり増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA044F60U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T21:41:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA04CFF0U5A900C2000000/">
+    <title>最低賃金1121円で過去最大66円増　6県が越年発効、中小企業の重荷に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA04CFF0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T21:14:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0551S0V00C25A9000000/">
+    <title>米国産コメ輸入75%増、LNGや防衛装備品も調達増　相互関税は軽減措置</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0551S0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T20:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA053SV0V00C25A9000000/">
+    <title>80兆円投資先「トランプ氏が選定」　日米覚書に残る火種</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA053SV0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T20:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0547T0V00C25A9000000/">
+    <title>日米関税合意と対米投資に関する共同声明・覚書の要旨</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0547T0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA014VE0R00C25A9000000/">
+    <title>「106万円の壁」来春にも撤廃へ　厚労省、最賃1016円超えで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA014VE0R00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:59:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA053P30V00C25A9000000/">
+    <title>自動車関税15%確定、赤沢氏「2週間以内に発効」　80兆円投資は米主導</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA053P30V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:39:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA04C9V0U5A900C2000000/">
+    <title>最低賃金引き上げ、人材戦略見直し迫る　バイトと正社員逆転も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA04C9V0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:36:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0558H0V00C25A9000000/">
+    <title>景気動向指数2.6ポイント減　7月、出荷生産鈍く判断据え置き</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0558H0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:18:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0567S0V00C25A9000000/">
+    <title>携帯販売の「頭金」表示、誤認解消へ注意喚起　総務省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0567S0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:13:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA057M00V00C25A9000000/">
+    <title>石破首相「秋に経済対策」　策定方針を表明、現金給付が柱に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA057M00V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:06:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0499N0U5A900C2000000/">
+    <title>金融庁、地銀や信金・信組の経営強化策を議論　26年にも関連法改正</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0499N0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T18:04:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF058L50V00C25A9000000/">
+    <title>日銀大阪支店長、日米貿易合意「先行きの不確実性低下」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF058L50V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T17:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA057QX0V00C25A9000000/">
+    <title>石破首相｢賃上げ着実に成果｣　最低賃金引き上げ額最高、中小支援強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA057QX0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T17:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA056BW0V00C25A9000000/">
+    <title>模倣品の輸入差し止め、3年連続で1万5000件超え　25年上半期</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA056BW0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T16:28:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN050NR0V00C25A9000000/">
+    <title>80兆円対米投資で「覚書」署名、案件選定は米主導　利益配分まず半々</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN050NR0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T14:28:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA052TG0V00C25A9000000/">
+    <title>コメ無関税輸入75%増、起点年は「今後確認」　日米合意巡り小泉農相</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA052TG0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T12:36:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA044JD0U5A900C2000000/">
+    <title>7月の実質消費支出1.4%増　3カ月連続プラス、車購入が押し上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA044JD0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T10:17:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA045ZA0U5A900C2000000/">
+    <title>8月末の外貨準備高、2カ月ぶり増加　米国債の評価額上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA045ZA0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T09:27:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0445E0U5A900C2000000/">
+    <title>7月の実質賃金0.5%増、7カ月ぶりプラス　ボーナス増や賃上げ波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0445E0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04CX20U5A900C2000000/">
+    <title>8月米サービス業景況感、6カ月ぶり高水準　市場予想上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04CX20U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T01:11:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA03AHE0T00C25A9000000/">
+    <title>最低賃金、全国平均で1121円へ　上げ幅「目安」超え39道府県</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA03AHE0T00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-04T21:58:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA043XN0U5A900C2000000/">
+    <title>猛暑でも節電要請なし　原発・太陽光で供給増、地域間融通も拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA043XN0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-04T19:11:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA049JH0U5A900C2000000/">
+    <title>地方自治の日韓次官会談を開催へ　ふるさと住民登録制度を協議</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA049JH0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-04T18:58:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA04AG20U5A900C2000000/">
+    <title>秋田県沖の洋上風力、再公募へ　政府が要件見直し</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA04AG20U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-04T18:30:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA046ZM0U5A900C2000000/">
+    <title>診療科名「睡眠障害内科」可能に、厚労省部会が初の追加を議論</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA046ZM0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-04T18:04:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA047Y60U5A900C2000000/">
+    <title>最低賃金「上げ幅が急ならけが人が出る」　小林健・日商会頭</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA047Y60U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-04T17:44:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA040JZ0U5A900C2000000/">
+    <title>赤沢氏「7月合意を迅速に実施」　車関税下げる米大統領令を要請へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA040JZ0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-04T15:20:38+09:00</dc:date>
+  </item>
+</rdf:RDF>

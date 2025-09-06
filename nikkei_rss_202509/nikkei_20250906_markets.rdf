@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2025-09-06T11:11:19+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB05C9L0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05DE30V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CTJ0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN05D120V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CWT0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CX10V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL060060W5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CX40V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CWP0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CTL0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL046N30U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB044L10U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CUS0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CUO0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR28BIL0Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CN80V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CLE0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05CQI0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB05BYT0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0578S0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKE00002_U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB054HQ0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05AFA0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB295350Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC058YZ0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB059D80V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG056580V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB047OS0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL05A5J0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF056S90V00C25A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB05C9L0V00C25A9000000/">
+    <title>金が最高値更新、米雇用統計下振れで利下げ意識　一段の上昇観測も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB05C9L0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T10:22:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05DE30V00C25A9000000/">
+    <title>米利下げ「確定的」でも買えない　物価恐れる投資家</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05DE30V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T07:45:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CTJ0V00C25A9000000/">
+    <title>NY円相場、反発　1ドル=147円35〜45銭　雇用統計受けたドル売りで</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CTJ0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T06:39:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN05D120V00C25A9000000/">
+    <title>冷え込む米雇用、市場は楽観論修正　金利急低下でも株220ドル安</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN05D120V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T06:20:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CWT0V00C25A9000000/">
+    <title>日経平均先物、夜間取引で下落　200円安の4万2870円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CWT0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T06:10:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CX10V00C25A9000000/">
+    <title>NY債券、長期債続伸　10年債利回り4.07%　弱い雇用統計で利下げ観測強まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CX10V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T06:09:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL060060W5A900C2000000/">
+    <title>NYダウ反落、220ドル安　雇用統計下振れで米景気懸念強まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL060060W5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:57:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CX40V00C25A9000000/">
+    <title>シカゴ日本株先物概況・5日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CX40V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:46:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CWP0V00C25A9000000/">
+    <title>日本株ADR5日、高安まちまち　トヨタ上昇　三井住友FGは下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CWP0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:18:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CTL0V00C25A9000000/">
+    <title>NY商品、原油続落　需給緩和観測で3カ月ぶり安値　金は最高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CTL0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:08:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL046N30U5A900C2000000/">
+    <title>ESG債、多彩に　女性活躍オレンジ・生物多様性ネイチャー・水資源ブルー</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL046N30U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB044L10U5A900C2000000/">
+    <title>高リターン「マイクロ株」発掘　ニッチを総取り、隠れた生態系の王者</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB044L10U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CUS0V00C25A9000000/">
+    <title>ドイツ株5日　反落、米景気減速を意識　仏株も下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CUS0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:41:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CUO0V00C25A9000000/">
+    <title>ロンドン株5日　小幅反落、原油安が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CUO0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:17:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR28BIL0Y5A820C2000000/">
+    <title>オイルマネーが選ぶ日本株は？　半導体やゲームなど成長性を重視</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR28BIL0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CN80V00C25A9000000/">
+    <title>欧州国債概況5日　独10年債利回り、一時約1カ月ぶり低水準　米金利低下が波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CN80V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T01:34:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CLE0V00C25A9000000/">
+    <title>ロンドン外為5日　ユーロ、対ドルで一時1カ月ぶり高値　米雇用統計受けドル売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CLE0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T00:59:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05CQI0V00C25A9000000/">
+    <title>NYダウ、朝高後下げ300ドル超安　雇用統計受け景気悪化懸念広がる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05CQI0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T23:38:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB05BYT0V00C25A9000000/">
+    <title>円、対ドルで一時146円台後半に上昇　米雇用下振れで大幅利下げ観測</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB05BYT0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T23:13:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0578S0V00C25A9000000/">
+    <title>選挙結果賭けサイト、強まるトランプ色　一族が出資</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0578S0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T22:20:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKE00002_U5A900C2000000/">
+    <title>気温も金利も高止まり　秋に見つけた「沸騰」銘柄</title>
+    <link>https://www.nikkei.com/article/DGXZQOKE00002_U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB054HQ0V00C25A9000000/">
+    <title>自動車・部品株に買い　対米関税引き下げ、大統領署名で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB054HQ0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T20:30:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05AFA0V00C25A9000000/">
+    <title>欧州市場の主要指標11時半　株は小幅上昇、米利下げ観測が支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05AFA0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T20:09:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB295350Z20C25A8000000/">
+    <title>8月の中古車競売価格、1%安　輸出向け需要強く高止まり</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB295350Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:58:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC058YZ0V00C25A9000000/">
+    <title>カナモト、11〜7月期純利益33%増　新幹線工事向け建機需要が堅調</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC058YZ0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:36:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB059D80V00C25A9000000/">
+    <title>コメ店頭5キロ3891円　2週ぶり上昇、備蓄米販売さらに鈍る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB059D80V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:34:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG056580V00C25A9000000/">
+    <title>ゼンショーHD、初の劣後債200億円の条件決定　新規出店費用などに</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG056580V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:08:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB047OS0U5A900C2000000/">
+    <title>サンマ、とれすぎて「24時間休漁」　13年ぶりに漁獲規制を発動</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB047OS0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:01:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL05A5J0V00C25A9000000/">
+    <title>シンガポール株5日、続伸し最高値　消費関連に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL05A5J0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T18:35:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF056S90V00C25A9000000/">
+    <title>ロック･フィールド最終赤字1000万円　5〜7月、店舗改修費かさむ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF056S90V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T18:18:45+09:00</dc:date>
+  </item>
+</rdf:RDF>

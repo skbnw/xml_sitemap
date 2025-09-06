@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2025-09-06T11:11:12+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0603Q0W5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN05DB20V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN05D9Z0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC049220U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG016GK0R00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA023ZB0S5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF090L30Z00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL046N30U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC189U10Y5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM137AM0T10C25A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC056C50V00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0865L0Y5A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2061Q0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0851Z0Y5A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC253600V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC252YO0V20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0917B0Z00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG310UU0R30C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF210NS0R20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR05CWN0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN05BVU0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM058LE0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC05AI50V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF057YN0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC057WZ0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC051FC0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC058SY0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC055KK0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0449H0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC059IJ0V00C25A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0603Q0W5A900C2000000/">
+    <title>米アンソロピック、作家らに2200億円支払い　AI著作権訴訟で和解</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0603Q0W5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T07:58:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN05DB20V00C25A9000000/">
+    <title>米CBS、主力番組のインタビュー「ノーカット」原則に　政権の圧力で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN05DB20V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T06:18:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN05D9Z0V00C25A9000000/">
+    <title>OpenAI、米ブロードコムとAI半導体を量産　注文「1.5兆円」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN05D9Z0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T06:01:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC049220U5A900C2000000/">
+    <title>｢声のクローン｣、感情も生成　SpotifyやTBSも頼る音声AI</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC049220U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG016GK0R00C25A9000000/">
+    <title>世界で緩まる気候リスク開示規制　企業の対応、専門家に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG016GK0R00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA023ZB0S5A900C2000000/">
+    <title>AI誤作動招く｢データポイズニング｣、企業6割リスク　管理不十分</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA023ZB0S5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF090L30Z00C25A8000000/">
+    <title>ダイキン、米国でエアコン「ドブ板営業」　原点回帰で販売店を訪問</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF090L30Z00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL046N30U5A900C2000000/">
+    <title>ESG債、多彩に　女性活躍オレンジ・生物多様性ネイチャー・水資源ブルー</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL046N30U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC189U10Y5A810C2000000/">
+    <title>インディーズ映画特化クラファンサイト　GLAP、配給・上映も助言</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC189U10Y5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM137AM0T10C25A3000000/">
+    <title>中国お土産の定番、マグネットの価格高騰　技巧凝らし5000円超も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM137AM0T10C25A3000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC056C50V00C25A8000000/">
+    <title>だて眼鏡、推しと「おそろい」で若者つかむ　メークより手軽に変身</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC056C50V00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0865L0Y5A700C2000000/">
+    <title>人間かAIか、二項対立は人の癖　リーダーは「第3の選択肢」求めよ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0865L0Y5A700C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2061Q0Q5A820C2000000/">
+    <title>「ファンが1年で使った総額」櫻坂46首位　GLAY、Snow Manが続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2061Q0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0851Z0Y5A800C2000000/">
+    <title>医師のアバター、治療方法や入院手続きを患者に説明　TOPPAN</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0851Z0Y5A800C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC253600V20C25A8000000/">
+    <title>Shopify幹部「AIは新たな販売チャネル」　ツール投入でEC強化支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC253600V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC252YO0V20C25A8000000/">
+    <title>Z世代に人気のレトロ、50代は相対的にシビア　狙い過ぎると安っぽい</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC252YO0V20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0917B0Z00C25A8000000/">
+    <title>GENDA系のカラオケ、応援受けたらポイント　第一興商は大人空間</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0917B0Z00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG310UU0R30C25A8000000/">
+    <title>近視の進行抑えるコンタクト　子供想定、ピント合いやすく</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG310UU0R30C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF210NS0R20C25A8000000/">
+    <title>京都のよーじや、売れ筋は日用品ハンドクリーム　あぶらとり紙超す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF210NS0R20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR05CWN0V00C25A9000000/">
+    <title>EU、Googleに5000億円制裁金　ネット広告の独占問題視</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR05CWN0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-06T00:54:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN05BVU0V00C25A9000000/">
+    <title>テスラ、イーロン・マスク氏に150兆円規模の巨額報酬案</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN05BVU0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T21:58:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM058LE0V00C25A9000000/">
+    <title>トヨタの中国新車販売、8月1%増　ホンダは減少率が縮小</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM058LE0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T20:26:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC05AI50V00C25A9000000/">
+    <title>東北大発新興、住友重機械と資本提携　アルツハイマー向け治療機器で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC05AI50V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T20:16:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF057YN0V00C25A9000000/">
+    <title>パナソニックコネクト、研究開発に初の外部アドバイザー機関</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF057YN0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T20:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC057WZ0V00C25A9000000/">
+    <title>カラオケボックスでスポーツ観戦や桃鉄　コシダカHDが提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC057WZ0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:50:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC051FC0V00C25A9000000/">
+    <title>倒産高リスク企業の割合、長野が全国最高14.9%　民間調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC051FC0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC058SY0V00C25A9000000/">
+    <title>日精樹脂工業、インドで工場用地を選定　小型成型機生産へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC058SY0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC055KK0V00C25A9000000/">
+    <title>長野・阿部知事、石油組合に追加聞き取り方針　ガソリンカルテル問題</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC055KK0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0449H0U5A900C2000000/">
+    <title>白馬・岩岳リゾート、冬に向けベースセンター改装　2.8億円投資</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0449H0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:35:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC059IJ0V00C25A9000000/">
+    <title>埼玉・本庄の八木建設、久喜に新物流拠点着工　ECの配送拠点にも</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC059IJ0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-05T19:30:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
