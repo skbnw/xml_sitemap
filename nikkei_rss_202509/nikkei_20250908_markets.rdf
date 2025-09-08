@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2025-09-08T11:10:55+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080SY0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB136B20T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG0187M0R00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB080W00Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0816O0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL081DA0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD080JU0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080J60Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0804ZTY5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0818G0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080U10Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080FU0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB080XY0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB071E80X00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080BP0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080450Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080EK0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0805T0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080HL0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080720Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080150Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0803C0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0801V0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL073GD0X00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0802L0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG2681W0W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB3036W0Q5A830C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB042JW0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR070030X00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB297OV0Z20C25A8000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080SY0Y5A900C2000000/">
+    <title>串カツ田中の株価が年初来高値　8月既存店売り上げ18.3%増</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080SY0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T11:00:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB136B20T10C25A8000000/">
+    <title>ゴム原料ブタジエン、強まる供給懸念　副産物としての生産に限界</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB136B20T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T11:00:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG0187M0R00C25A9000000/">
+    <title>気候変動対策と財務の整合性を　IASBが最も暑い夏に投じた一石</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG0187M0R00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB080W00Y5A900C2000000/">
+    <title>国内金が最高値更新、1万8915円　米利下げ観測拡大で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB080W00Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T10:58:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0816O0Y5A900C2000000/">
+    <title>香港株寄り付き　小動き、米利下げ期待で心理改善</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0816O0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T10:49:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL081DA0Y5A900C2000000/">
+    <title>上海株寄り付き　小幅反落で始まる　過熱抑制策を警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL081DA0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T10:43:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD080JU0Y5A900C2000000/">
+    <title>MBO表明の太平洋工業、TOB期間24日まで延長　買い付け価格は維持</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD080JU0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T10:40:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080J60Y5A900C2000000/">
+    <title>外為10時　円相場、安値圏で一進一退　対ユーロは1年2カ月ぶり安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080J60Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T10:35:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0804ZTY5A900C2000000/">
+    <title>「円売り、持続力に疑問」「日銀利上げ先送り」石破氏退陣で市場の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0804ZTY5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T10:35:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0818G0Y5A900C2000000/">
+    <title>人民元基準値、対米ドルで7.1029元　前週末比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0818G0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T10:27:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080U10Y5A900C2000000/">
+    <title>東証10時　日経平均、最高値を上回る　上げ幅一時800円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080U10Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T10:22:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080FU0Y5A900C2000000/">
+    <title>商品9時30分　原油続落、OPECプラス増産決定で需給の緩みを意識　金は最高値更新</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080FU0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T09:53:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB080XY0Y5A900C2000000/">
+    <title>ドバイ原油・8日午前、下落　68.10ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB080XY0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T09:42:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB071E80X00C25A9000000/">
+    <title>日経平均が一時最高値上回る、4万3800円台　次期政権で積極財政期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB071E80X00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T09:39:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080BP0Y5A900C2000000/">
+    <title>日経平均株価、大幅続伸で始まる　石破首相辞任表明による円安受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080BP0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T09:29:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080450Y5A900C2000000/">
+    <title>東証寄り付き　日経平均、続伸で始まる　石破首相が辞任表明、TOPIXは高値上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080450Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T09:26:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080EK0Y5A900C2000000/">
+    <title>債券寄り付き　先物、続伸　米金利低下が支え　首相退陣は重荷に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080EK0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T09:11:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0805T0Y5A900C2000000/">
+    <title>日経平均、続伸で始まる　石破首相辞任表明、円安で株買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0805T0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T09:08:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080HL0Y5A900C2000000/">
+    <title>日経平均先物、続伸し4万3700円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080HL0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T08:53:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080720Y5A900C2000000/">
+    <title>外為8時30分　円相場、下落し148円台前半　首相退陣で売り膨らむ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080720Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T08:49:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080150Y5A900C2000000/">
+    <title>ドル売りかき消す石破氏退陣　通貨の「不人気投票」激化</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080150Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T08:14:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0803C0Y5A900C2000000/">
+    <title>米雇用の失速鮮明　超長期債の利回り急低下、「9月ジンクス」破るか</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0803C0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T07:54:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0801V0Y5A900C2000000/">
+    <title>日経平均、「ポスト石破」の財政拡張政策に期待も（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0801V0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T07:50:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL073GD0X00C25A9000000/">
+    <title>今日の株価材料（新聞など、6〜8日）ニデック、永守代表「隠すことなくオープンに」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL073GD0X00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T07:17:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0802L0Y5A900C2000000/">
+    <title>円、1ドル148円台に下落　石破首相退陣で前週末から1円ほど円安に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0802L0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T06:25:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG2681W0W5A820C2000000/">
+    <title>世界企業の増益額、米ワーナーが首位　映画「マインクラフト」好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG2681W0W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB3036W0Q5A830C2000000/">
+    <title>自社株買い「株価上がらなければ意味なし」　ニチガスの清田専務</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB3036W0Q5A830C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB042JW0U5A900C2000000/">
+    <title>ヘクトコーンとは　推計価値1000億ドル超の未上場企業</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB042JW0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR070030X00C25A9000000/">
+    <title>OPECプラス有志国、10月に原油増産　26年末期限の減産も前倒し縮小</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR070030X00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-07T23:00:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB297OV0Z20C25A8000000/">
+    <title>日経平均株価、買い先行か　Apple発表会・米CPI・メジャーSQ注目</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB297OV0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-07T18:11:27+09:00</dc:date>
+  </item>
+</rdf:RDF>
