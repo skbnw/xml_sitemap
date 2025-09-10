@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2025-09-10T11:11:46+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH100M00Q5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC100BI0Q5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH2770G0X20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH083XY0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH092RD0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH049JT0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC09CR90Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC09BS90Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH099CJ0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC09BG30Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC09BY10Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC09BVI0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC09BOY0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC099I90Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC097JO0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0968Y0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC095HJ0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH08BK00Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC091XT0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC090JM0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD044EG0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH070K50X00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH035JS0T00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC08BOL0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC08BL80Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC08BL70Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC08BBQ0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC08BBT0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC08AUL0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC08AS80Y5A900C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH100M00Q5A910C2000000/">
+    <title>サッカー日本代表、米国に0-2で敗れる　国際親善試合</title>
+    <link>https://www.nikkei.com/article/DGXZQODH100M00Q5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-10T10:44:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC100BI0Q5A910C2000000/">
+    <title>サッカーW杯欧州予選、ノルウェー大勝　仏は逆転勝ち</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC100BI0Q5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-10T08:51:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH2770G0X20C25A8000000/">
+    <title>フィギュアスケート　自分が納得できる引き際（宮原知子）</title>
+    <link>https://www.nikkei.com/article/DGXZQODH2770G0X20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-10T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH083XY0Y5A900C2000000/">
+    <title>井上尚弥防衛戦　アフマダリエフと過去対戦の元王者岩佐氏「井上が勝つ」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH083XY0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-10T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH092RD0Z00C25A9000000/">
+    <title>シャウフェレ、ゴルフ・ライダーカップで復活のきっかけつかめるか？</title>
+    <link>https://www.nikkei.com/article/DGXZQODH092RD0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-10T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH049JT0U5A900C2000000/">
+    <title>阪神、守りのチームへ　藤川球児監督が「岡田遺産」で築いた新たな強み</title>
+    <link>https://www.nikkei.com/article/DGXZQODH049JT0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-10T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC09CR90Z00C25A9000000/">
+    <title>サッカーU23アジア杯、日本が本大会へ　予選3戦全勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC09CR90Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-10T00:16:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC09BS90Z00C25A9000000/">
+    <title>9日のプロ野球　結果と戦評</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC09BS90Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T23:27:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH099CJ0Z00C25A9000000/">
+    <title>日本ハム、伏兵の3発で優勝へ望み　山県秀と今川優馬が3打点大暴れ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH099CJ0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T23:24:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC09BG30Z00C25A9000000/">
+    <title>バスケBリーグ、6県でのクラブ発足を支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC09BG30Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T22:05:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC09BY10Z00C25A9000000/">
+    <title>野球U18W杯、日本は5戦全勝で1位通過　プエルトリコに勝利</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC09BY10Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T21:40:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC09BVI0Z00C25A9000000/">
+    <title>ハルウララが死ぬ　競馬113連敗「負け組の星」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC09BVI0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T21:22:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC09BOY0Z00C25A9000000/">
+    <title>小田凱人「どこまで行くか楽しみ」　全米オープンテニス優勝から帰国</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC09BOY0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T21:21:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC099I90Z00C25A9000000/">
+    <title>大坂なおみ、女子テニス国別対抗を欠場　日比野菜緒が出場へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC099I90Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T18:01:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC097JO0Z00C25A9000000/">
+    <title>新小結・安青錦「11勝の壁越える」　出稽古の藤ノ川を圧倒</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC097JO0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T16:44:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0968Y0Z00C25A9000000/">
+    <title>8月最優秀賞に桑原藍・浅野菜摘　サッカーWEリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0968Y0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T16:03:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC095HJ0Z00C25A9000000/">
+    <title>大谷翔平二塁打、ドジャース逆転勝ち　今永昇太は7敗目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC095HJ0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T14:49:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH08BK00Y5A900C2000000/">
+    <title>サッカー日本代表、10日に米国戦　メンバー入れ替え「勝ち点3」狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQODH08BK00Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T14:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC091XT0Z00C25A9000000/">
+    <title>ロッテ美馬学、今季限り引退　13年日本シリーズMVP</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC091XT0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T11:22:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC090JM0Z00C25A9000000/">
+    <title>サッカーW杯欧州予選、イタリアが2位浮上</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC090JM0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T08:41:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD044EG0U5A900C2000000/">
+    <title>育成ドラフト出身者は個性派ぞろい　下手投げのヤクルト下川が初勝利</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD044EG0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH070K50X00C25A9000000/">
+    <title>男子400リレー「局地戦」制しメダルへ　高平慎士氏の世界陸上展望</title>
+    <link>https://www.nikkei.com/article/DGXZQODH070K50X00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH035JS0T00C25A9000000/">
+    <title>阪神・佐藤輝明の覚醒　球団の悲願「バース以来」の本塁打王へ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH035JS0T00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC08BOL0Y5A900C2000000/">
+    <title>サッカーW杯、チュニジアが本大会出場へ　3大会連続7度目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC08BOL0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T00:57:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC08BL80Y5A900C2000000/">
+    <title>山下美夢有6位、西郷真央10位　女子ゴルフ世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC08BL80Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T00:21:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC08BL70Y5A900C2000000/">
+    <title>J1浦和、MF原口元気の移籍発表　ベルギー2部へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC08BL70Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-09T00:21:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC08BBQ0Y5A900C2000000/">
+    <title>パラアイスホッケー、日本が3連勝　スウェーデン破る</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC08BBQ0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T23:15:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC08BBT0Y5A900C2000000/">
+    <title>レーバークーゼン、新監督にユルマン氏　サッカードイツ1部</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC08BBT0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T23:09:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC08AUL0Y5A900C2000000/">
+    <title>野球U18W杯、日本4連勝で2次L進出確定　南アフリカに10-0</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC08AUL0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T21:38:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC08AS80Y5A900C2000000/">
+    <title>都市対抗野球、王子が21年ぶり2度目V　三菱自動車岡崎を破る</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC08AS80Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-08T21:24:53+09:00</dc:date>
+  </item>
+</rdf:RDF>
