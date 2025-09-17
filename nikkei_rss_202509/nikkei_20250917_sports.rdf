@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2025-09-17T11:10:55+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC16B9I0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC170920X10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH097AS0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH152BG0V10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH141RS0U5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH1506R0V10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC16BD70W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC16B8T0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH169MN0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH165T10W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC16ADI0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC16AQ70W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC16AE80W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC16AC30W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC16AA40W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1696F0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1694Z0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1693N0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC168YU0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC168QE0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1690K0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1689D0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZMSX000S01_W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZMSK3ISU01_W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC167XZ0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC166SP0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC166IO0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC165010W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC164M50W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC163520W5A910C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC16B9I0W5A910C2000000/">
+    <title>世界レスリング、19歳・尾西桜が初優勝　清岡幸大郎2位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC16B9I0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-17T08:23:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC170920X10C25A9000000/">
+    <title>レアル、マルセイユに逆転勝利　サッカー欧州CL開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC170920X10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-17T08:11:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH097AS0Z00C25A9000000/">
+    <title>レスリング吉田泰造、相撲が土台の19歳　先輩の背中追い世界の頂へ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH097AS0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-17T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH152BG0V10C25A9000000/">
+    <title>マキロイ、フェデラーに学んだキャリアの「終活」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH152BG0V10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-17T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH141RS0U5A910C2000000/">
+    <title>ラグビー日本、世紀の金星から10年　リーチ・マイケルが語る進化と課題</title>
+    <link>https://www.nikkei.com/article/DGXZQODH141RS0U5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-17T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH1506R0V10C25A9000000/">
+    <title>世界陸上の男女マラソン、アシックス着用率3割に　足元の競争激しく</title>
+    <link>https://www.nikkei.com/article/DGXZQODH1506R0V10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-17T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC16BD70W5A910C2000000/">
+    <title>女子テニス国別対抗、イタリアが準決勝進出</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC16BD70W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-17T01:23:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC16B8T0W5A910C2000000/">
+    <title>三浦龍司への妨害認められず　世界陸上、他選手と接触で日本抗議</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC16B8T0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-17T00:35:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH169MN0W5A910C2000000/">
+    <title>中島佑気ジョセフ、日本勢34年ぶり決勝へ　世界陸上400メートル</title>
+    <link>https://www.nikkei.com/article/DGXZQODH169MN0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T23:47:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH165T10W5A910C2000000/">
+    <title>村竹ラシッド5位、メダルまで0秒06　世界陸上110メートル障害</title>
+    <link>https://www.nikkei.com/article/DGXZQODH165T10W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T23:31:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC16ADI0W5A910C2000000/">
+    <title>世界陸上、村竹ラシッドが5位入賞　中島佑気ジョセフは400決勝へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC16ADI0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T22:55:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC16AQ70W5A910C2000000/">
+    <title>フィギュア紀平梨花、ミラノ五輪絶望　全日本予選を欠場</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC16AQ70W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T22:35:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC16AE80W5A910C2000000/">
+    <title>16日のプロ野球　結果と戦評</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC16AE80W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T22:00:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC16AC30W5A910C2000000/">
+    <title>高橋藍「いい終わり方を」　世界バレー、リビア戦へ調整</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC16AC30W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T21:45:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC16AA40W5A910C2000000/">
+    <title>サッカーACLE、初出場の町田はドロー　広島が白星発進</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC16AA40W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T21:25:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1696F0W5A910C2000000/">
+    <title>三浦龍司「世界一が目標」　世界陸上3000障害で8位入賞</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1696F0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T19:50:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1694Z0W5A910C2000000/">
+    <title>古江彩佳、ゴルフ日本女子オープンに出場　地元兵庫開催</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1694Z0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T19:50:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1693N0W5A910C2000000/">
+    <title>巨人2軍がイースタン・リーグ優勝　2年ぶり29度目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1693N0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T19:45:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC168YU0W5A910C2000000/">
+    <title>大の里・豊昇龍の両横綱3連勝、大関琴桜に土　大相撲秋場所3日目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC168YU0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T19:15:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC168QE0W5A910C2000000/">
+    <title>東都大学野球が開幕　青学大、6連覇へ白星発進</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC168QE0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T19:10:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1690K0W5A910C2000000/">
+    <title>井上尚弥、最強ランク「PFP」3位に後退　クロフォードが1位浮上</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1690K0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T19:05:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1689D0W5A910C2000000/">
+    <title>バスケBプレミア、ドラフト志望届の第1号受理　戦力均衡へ導入</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1689D0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T19:00:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZMSX000S01_W5A910C2000000/">
+    <title>大相撲秋場所中入り後取組・4日目</title>
+    <link>https://www.nikkei.com/article/DGXZMSX000S01_W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T18:20:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZMSK3ISU01_W5A910C2000000/">
+    <title>大相撲秋場所中入り後勝負・3日目</title>
+    <link>https://www.nikkei.com/article/DGXZMSK3ISU01_W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T18:20:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC167XZ0W5A910C2000000/">
+    <title>世界クライミング代表、安楽宙斗ら32人選出</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC167XZ0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T17:50:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC166SP0W5A910C2000000/">
+    <title>ゴルフ山下美夢有「優勝争いしたい」　国別対抗戦へ抱負</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC166SP0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T16:47:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC166IO0W5A910C2000000/">
+    <title>フィギュア青木祐奈・垣内珀琉ら、NHK杯出場へ　11月開催</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC166IO0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T16:44:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC165010W5A910C2000000/">
+    <title>大谷翔平1安打、ドジャース黒星　シュワバーが53号ソロ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC165010W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T15:06:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC164M50W5A910C2000000/">
+    <title>フィギュア鍵山優真、国際大会初戦2位「大きな自信に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC164M50W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T14:32:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC163520W5A910C2000000/">
+    <title>体操・金田希一、つり輪で2位　種目別チャレンジ杯</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC163520W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-16T12:57:45+09:00</dc:date>
+  </item>
+</rdf:RDF>
