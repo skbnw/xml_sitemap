@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2025-09-19T11:11:29+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR16B290W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG205HW0Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL191ID0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL191ET0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190KN0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1912G0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190K50Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190R40Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1913D0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL191350Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL171BWTX10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190VA0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1907B0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1911P0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190D10Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1909N0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190D30Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190I30Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190J10Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL18CGJ0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1904O0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190470Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1902L0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL18CIR0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN18DBH0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1902K0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1902I0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL18CIJ0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN18D0J0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190020Z10C25A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR16B290W5A910C2000000/">
+    <title>中央銀行は国債を支えるか　フランス財政不安で待望論</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR16B290W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG205HW0Q5A820C2000000/">
+    <title>政策保有株の売却、会計基準で利益に差　キャッシュの動きにも着目</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG205HW0Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL191ID0Z10C25A9000000/">
+    <title>上海株寄り付き　小動き、様子見ムード　銀行安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL191ID0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:53:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL191ET0Z10C25A9000000/">
+    <title>香港株寄り付き　小動き　中国半導体に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL191ET0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:48:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190KN0Z10C25A9000000/">
+    <title>三井住友FG株価続伸、米投資銀に追加出資　「買いは限定的」の声も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190KN0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:41:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1912G0Z10C25A9000000/">
+    <title>人民元基準値、対米ドルで7.1128元　前日比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1912G0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:29:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190K50Z10C25A9000000/">
+    <title>GENDAの株価反発　カラオケ店など7店舗取得</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190K50Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:28:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190R40Z10C25A9000000/">
+    <title>東宝の株価、上昇に転じる　米ワーナー洋画配給で興行収入拡大を期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190R40Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:24:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1913D0Z10C25A9000000/">
+    <title>外為10時　円相場、軟調　一時148円台前半　実需の売り観測が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1913D0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:24:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL191350Z10C25A9000000/">
+    <title>東証10時　日経平均は伸び悩み　過熱感警戒、TDKやソニーGに売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL191350Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:12:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL171BWTX10C25A9000000/">
+    <title>シンガポール、市場改革で最高値圏　地盤沈下に危機感</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL171BWTX10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:07:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190VA0Z10C25A9000000/">
+    <title>商品9時30分　金が3日ぶり反発、円下落が支え　原油は小反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190VA0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T10:01:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1907B0Z10C25A9000000/">
+    <title>円の予想変動率大きく低下　FRB、絶妙の「リスク管理」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1907B0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T09:46:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1911P0Z10C25A9000000/">
+    <title>ドバイ原油・19日午前、下落　69.90ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1911P0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T09:32:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190D10Z10C25A9000000/">
+    <title>東証寄り付き　日経平均は続伸　上げ幅500円、東エレクなど半導体に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190D10Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T09:26:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1909N0Z10C25A9000000/">
+    <title>債券寄り付き　長期金利、1.605%に上昇　米金利上昇で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1909N0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T09:14:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190D30Z10C25A9000000/">
+    <title>日経平均、続伸で始まる　上げ幅500円、米ハイテク株高で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190D30Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T09:11:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190I30Z10C25A9000000/">
+    <title>日経平均先物、続伸し4万5620円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190I30Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T08:56:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190J10Z10C25A9000000/">
+    <title>外為8時30分　円相場、下落し147円台後半　米指標改善で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190J10Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T08:48:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL18CGJ0Y5A910C2000000/">
+    <title>NY株ハイライト　NVIDIA株価3%高、インテル救済「双方の勝利」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL18CGJ0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T08:16:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1904O0Z10C25A9000000/">
+    <title>日経平均、米利下げによるNY株上昇が追い風（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1904O0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T07:42:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190470Z10C25A9000000/">
+    <title>今日の株価材料（新聞など、19日）三井住友FG、米投資銀ジェフリーズへ1200億円追加出資</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190470Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T07:17:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1902L0Z10C25A9000000/">
+    <title>シカゴ日本株先物概況・18日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1902L0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T07:09:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL18CIR0Y5A910C2000000/">
+    <title>NY円相場、続落　1ドル=147円95銭〜148円05銭　米雇用指標の改善受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL18CIR0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T06:46:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN18DBH0Y5A910C2000000/">
+    <title>米経済に浮かぶ「K字」、株価最高値が広げる分断</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN18DBH0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T06:14:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1902K0Z10C25A9000000/">
+    <title>日本株ADR18日、高安まちまち　ソニーG上昇、ホンダは下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1902K0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T06:13:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1902I0Z10C25A9000000/">
+    <title>日経平均先物、夜間取引で上昇　430円高の4万5650円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1902I0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T06:08:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL18CIJ0Y5A910C2000000/">
+    <title>NY債券、長期債続落　10年債利回り4.10%　米経済指標の改善受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL18CIJ0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T06:06:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN18D0J0Y5A910C2000000/">
+    <title>米緩和マネーが潤す世界同時株高　響かぬパウエル氏の警告</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN18D0J0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T05:48:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190020Z10C25A9000000/">
+    <title>NYダウ続伸、124ドル高で最高値　半導体中心に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190020Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-19T05:26:41+09:00</dc:date>
+  </item>
+</rdf:RDF>
