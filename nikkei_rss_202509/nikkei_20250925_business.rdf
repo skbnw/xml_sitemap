@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2025-09-25T09:10:38+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2506B0V20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2509H0V20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC106DB0Q5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN24CPW0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF04APB0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD10AMZ0Q5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC16A720W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC229VD0S5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD1794G0X10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC248Z00U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC248CO0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG1081K0Q5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD117U30R10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC177M70X10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1778Q0X10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1671F0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC296W90Z20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD226N20S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC245BA0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1953C0Z10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC104QU0Q5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0345J0T00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC092JJ0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG1522P0V10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC182160Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC131ZM0T10C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC281XX0Y5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD221GE0S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2218Y0S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN24CH10U5A920C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2506B0V20C25A9000000/">
+    <title>インテル、Appleに出資求める打診　ブルームバーグ報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2506B0V20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T08:29:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2509H0V20C25A9000000/">
+    <title>日本製鉄、USスチールに440億円投資　自動車向け生産設備改修へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2509H0V20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T07:39:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC106DB0Q5A910C2000000/">
+    <title>伊藤忠テクノ、安価な債券管理システム　クラウド型で基本機能に特化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC106DB0Q5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T06:24:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN24CPW0U5A920C2000000/">
+    <title>米オラクル、社債で2.7兆円調達　AI期待で募集の4.8倍の注文</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN24CPW0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T06:19:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF04APB0U5A900C2000000/">
+    <title>阪急阪神HD､梅田の｢阪急村｣刷新へ　25年度にも大阪新阪急ホテル解体</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF04APB0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD10AMZ0Q5A710C2000000/">
+    <title>マンション修繕積立金、新築で過去最高　既存物件は融資活用最大に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD10AMZ0Q5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC16A720W5A910C2000000/">
+    <title>伊藤園、静岡で茶・コーヒー由来のバイオ炭　クレジット創出へ実証</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC16A720W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC229VD0S5A720C2000000/">
+    <title>仙台中心部の消費、分極化の恐れ　イオンモール仙台上杉開業へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC229VD0S5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD1794G0X10C25A9000000/">
+    <title>｢暑秋｣でアパレル商戦に異変　冷感素材なお投入､コート時期見えず</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD1794G0X10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC248Z00U5A920C2000000/">
+    <title>遠隔施工管理のゼンインテリジェンス、AIで現場監督自動化　9億円調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC248Z00U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC248CO0U5A920C2000000/">
+    <title>NanoQT、20億円調達　量子コンピューター向け機器開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC248CO0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG1081K0Q5A910C2000000/">
+    <title>株式分割12年ぶり高水準　4〜9月121件、個人株主取り込み加速</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG1081K0Q5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD117U30R10C25A9000000/">
+    <title>NTT、あえて「テレワーク標準」貫く　出社回帰より地域浸透で成長</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD117U30R10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC177M70X10C25A9000000/">
+    <title>オリオンビールが東証上場　沖縄自慢の一品へ再び、県内企業も出資</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC177M70X10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1778Q0X10C25A9000000/">
+    <title>ユニリタ、情報漏洩リスク抑えたAIチャット　病院向け</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1778Q0X10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1671F0W5A910C2000000/">
+    <title>ユニ・チャームが｢TikTok通販｣　生配信で生理用品の使い方実演</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1671F0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC296W90Z20C25A7000000/">
+    <title>食べログ設立20年、年間予約1億人突破　SNSと共存できるか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC296W90Z20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD226N20S5A920C2000000/">
+    <title>中国化学品業界の終わりなき消耗戦　日本勢への再編圧力に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD226N20S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC245BA0U5A920C2000000/">
+    <title>動物向け抗体医薬開発のマブジェネシス、日本曹達と共同研究</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC245BA0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1953C0Z10C25A8000000/">
+    <title>「情プラ法」が問うネットの自浄作用、LINEヤフー対策拡充を急ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1953C0Z10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC104QU0Q5A910C2000000/">
+    <title>真珠の良しあし、AIが判定　愛媛県の官民がシステム開発へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC104QU0Q5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0345J0T00C25A9000000/">
+    <title>日立システムズ渡辺社長「コンテナ型DC、3年で累計売上100億円へ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0345J0T00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC092JJ0Z00C25A9000000/">
+    <title>東急不動産の星野社長、渋谷に開発余地「ホテルや住宅で滞在延ばす」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC092JJ0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG1522P0V10C25A8000000/">
+    <title>家族性アルツハイマー「発症半減」の衝撃、早期投与・予防法で光</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG1522P0V10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC182160Y5A910C2000000/">
+    <title>小湊鉄道・石川社長「行政の支援強化を」　地域の未来、対話で模索</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC182160Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC131ZM0T10C25A8000000/">
+    <title>東京都内のマンション、認知症の住民トラブル課題に　都は専門家派遣</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC131ZM0T10C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC281XX0Y5A820C2000000/">
+    <title>資生堂「倍速美容液」、インフルエンサー起用で売れ行きは3倍速</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC281XX0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD221GE0S5A920C2000000/">
+    <title>「＃型消費」という市場開拓　限界OLが栄養飲料成長けん引</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD221GE0S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2218Y0S5A920C2000000/">
+    <title>東京ゲームショウが開幕　9月25日ビジネス主な予定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2218Y0S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN24CH10U5A920C2000000/">
+    <title>ホンダ、GMとの高級EVの共同開発終了　｢アキュラ｣で需要低迷</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN24CH10U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-25T02:55:32+09:00</dc:date>
+  </item>
+</rdf:RDF>
