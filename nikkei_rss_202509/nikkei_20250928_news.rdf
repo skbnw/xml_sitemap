@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-09-28T09:11:13+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR26CMM0W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2298A0S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC182040Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF270JQ0X20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD280660Y5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZTS00017811Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN14BYA0U5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN24BMY0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA17AH20X10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD268KB0W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF108JJ0Q5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC127WO0S5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH247KD0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG207I00Q5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF126VQ0S5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1257W0S5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA113920R10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD212IN0R20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2723Y0X20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC211R50R20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG061B40W5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN273M20X20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR273IX0X20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB268TI0W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA180LL0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC05CUE0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA22ASZ0S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12A5O0S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN248BY0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2485V0U5A920C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR26CMM0W5A920C2000000/">
+    <title>対イラン国連制裁再開　核合意が事実上崩壊、核監視困難に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR26CMM0W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T09:08:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2298A0S5A920C2000000/">
+    <title>茶殻由来の「バイオ炭」で脱炭素　静岡の9/22〜26注目記事</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2298A0S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC182040Y5A910C2000000/">
+    <title>福岡の唐泊　遣唐使の風待ち港、今はカキ名産地・キャンプ場で客呼ぶ</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC182040Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF270JQ0X20C25A9000000/">
+    <title>28日の有力馬　スプリンターズステークスなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF270JQ0X20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD280660Y5A920C2000000/">
+    <title>北〜西日本で大雨に注意　落雷・突風にも警戒を</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD280660Y5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T08:35:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZTS00017811Z10C25A9000000/">
+    <title>MUFGの20年、変貌するトップバンク　雇用・収益で「JTCの進化」象徴</title>
+    <link>https://www.nikkei.com/article/DGXZTS00017811Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN14BYA0U5A810C2000000/">
+    <title>行き過ぎた自由貿易の30年、転換期に　米識者「次期政権でも関税続く」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN14BYA0U5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN24BMY0U5A920C2000000/">
+    <title>「AIは人間の仕事を排除しない」　トヨタのギル・プラット氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN24BMY0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA17AH20X10C25A9000000/">
+    <title>スマホ新法、公取委がSNSでカウントダウン企画　利用者の理解に腐心</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA17AH20X10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD268KB0W5A820C2000000/">
+    <title>子ども転落防ぐ「補助錠」設置15%止まり　死亡事故の半数は親在宅時</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD268KB0W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF108JJ0Q5A710C2000000/">
+    <title>ゲーム業界でカスハラ対策　セガやスクエニ、批評との線引きが課題</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF108JJ0Q5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC127WO0S5A910C2000000/">
+    <title>海水温上昇期の陸上養殖　「エコな付加価値」訴求に商機</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC127WO0S5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH247KD0U5A920C2000000/">
+    <title>特別だった世界陸上、34年前との「シンクロ」と進歩（鏑木毅）</title>
+    <link>https://www.nikkei.com/article/DGXZQODH247KD0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG207I00Q5A820C2000000/">
+    <title>ノーベル賞候補、41科学賞から独自分析　生理学・医学は脳研究有力</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG207I00Q5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF126VQ0S5A910C2000000/">
+    <title>若年性認知症、診断からが「新たなスタート」　40代で人生諦めない</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF126VQ0S5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1257W0S5A910C2000000/">
+    <title>遠のく夢のマイホーム　マンションは年収の10倍、持ち家政策に転換期</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1257W0S5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA113920R10C25A9000000/">
+    <title>老後2000万円じゃ不足？　外出支援や家事…膨らむ介護保険外サービス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA113920R10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD212IN0R20C25A9000000/">
+    <title>AI発展か創作保護か　米国で割れる地裁判決、学習の「公正さ」カギ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD212IN0R20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2723Y0X20C25A9000000/">
+    <title>9月22〜26日　スタートアップ資金調達まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2723Y0X20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC211R50R20C25A9000000/">
+    <title>DM三井製糖、植物由来のマグロ刺し身　1キロ2千円台で本物より安く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC211R50R20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG061B40W5A900C2000000/">
+    <title>有力科学賞に続いてノーベル賞受賞　「5年以内」が6割、日経調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG061B40W5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN273M20X20C25A9000000/">
+    <title>インド政党集会で群衆殺到、38人死亡40人負傷　党首は人気俳優</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN273M20X20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T04:51:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR273IX0X20C25A9000000/">
+    <title>ロシア外相、ウクライナや欧州「誠実な交渉の準備ない」　国連総会で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR273IX0X20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T04:12:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB268TI0W5A920C2000000/">
+    <title>日銀総裁の発言･米雇用統計、円相場や日経平均動かすか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB268TI0W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA180LL0Y5A910C2000000/">
+    <title>小泉氏「改革」控え結束重視　維新とは菅氏人脈、前回は討論で失速</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA180LL0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T02:00:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC05CUE0V00C25A9000000/">
+    <title>エイベックス、世界水準アーティスト育成　新スタジオで洋楽発音指導</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC05CUE0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA22ASZ0S5A920C2000000/">
+    <title>2020年総裁選、菅氏がアベノミクス継承　コロナ下で経済維持探る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA22ASZ0S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12A5O0S5A810C2000000/">
+    <title>ペン型美顔器「フェイスポインター」エステティシャンの技を再現</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12A5O0S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN248BY0U5A920C2000000/">
+    <title>反骨心で世界一の富豪に　米オラクルのラリー・エリソン会長</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN248BY0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2485V0U5A920C2000000/">
+    <title>ソニーFG、9月29日に東証プライム再上場　脱・生保依存の戦略焦点</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2485V0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-28T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
