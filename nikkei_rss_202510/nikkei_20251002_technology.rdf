@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2025-10-02T09:10:33+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN01DQ70R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC09BC30Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD195JH0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD055E50V00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF173MB0X10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD2880D0Y5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0179K0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG308B00Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG294HG0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0122O0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC309DO0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN30CJ40Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG17AN60X10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG269RV0W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK059DO0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC164610W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG047DL0U5A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC300Z80Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG298PR0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF306V70Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG263U40W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC298IX0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG226WJ0S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2901E0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF306ON0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN300WA0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG26A9X0W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG119KI0R10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN3001Z0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29BIP0Z20C25A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN01DQ70R01C25A0000000/">
+    <title>OpenAI、韓国サムスンとSKから半導体メモリー調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN01DQ70R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T06:43:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC09BC30Z00C25A9000000/">
+    <title>三重の東邦鋼機製作所、インドの半導体供給網を支援　名門工科大と覚書</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC09BC30Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD195JH0Z10C25A9000000/">
+    <title>災害時に通れる道、直近1時間の情報を地図に　トヨタが走行データ活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD195JH0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD055E50V00C25A8000000/">
+    <title>「役に立つ」が科学者の自由な発想をしばる　ノーベル賞の大隅良典氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD055E50V00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF173MB0X10C25A9000000/">
+    <title>ロボット工学者･石黒浩氏「アンドロイドと共存､未来像を万博遺産に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF173MB0X10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD2880D0Y5A720C2000000/">
+    <title>詐欺電話、AIおばあちゃんが手玉に　サイバー空間で「代理戦争」幕開け</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD2880D0Y5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0179K0R01C25A0000000/">
+    <title>帝人、再生医療の豪企業と提携　製造受託の需要増に対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0179K0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T17:23:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG308B00Q5A930C2000000/">
+    <title>東京大学、宇宙資源活用目指す研究拠点　新産業創出へ国際連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG308B00Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T14:26:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG294HG0Z20C25A9000000/">
+    <title>諏訪盆地に水素使う地下生態系、地球の物質循環の手掛かり　海洋機構</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG294HG0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T14:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0122O0R01C25A0000000/">
+    <title>ソフトバンクG系、コニカミノルタ子会社買収完了　ゲノム検査提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0122O0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T13:52:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC309DO0Q5A930C2000000/">
+    <title>増進会HD、塾向けに添削AI展開　小論文や作文対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC309DO0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T12:27:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN30CJ40Q5A930C2000000/">
+    <title>Amazon、生成AI搭載の新アレクサ　端末発売も日本の利用開始は未定</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN30CJ40Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T05:50:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG17AN60X10C25A9000000/">
+    <title>ペロブスカイト太陽電池の父・宮坂力氏、新型開発へ　コスト3割減狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG17AN60X10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG269RV0W5A920C2000000/">
+    <title>中国・深圳に光量子コンピューター製造工場を建設　年数十台規模</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG269RV0W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK059DO0V00C25A9000000/">
+    <title>ノーベル賞、無駄認める研究あってこそ　基礎科学の火を消さない</title>
+    <link>https://www.nikkei.com/article/DGXZQODK059DO0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC164610W5A910C2000000/">
+    <title>システム欠陥の報道はダメ?　フェリカ巡り議論、日本流「協調開示」岐路</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC164610W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG047DL0U5A700C2000000/">
+    <title>AI、10年がかりの科学研究を2日で再現　辞書にない単語も発明</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG047DL0U5A700C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC300Z80Q5A930C2000000/">
+    <title>米クアルコムCEOが見据える未来のスマホ　28年にも6Gプレ商用端末</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC300Z80Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG298PR0Z20C25A9000000/">
+    <title>ヒト皮膚細胞から卵子作製、米大学iPS使わず　不妊治療に新たな道</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG298PR0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF306V70Q5A930C2000000/">
+    <title>ニューモと堺市、自動運転タクシーで連携協定　レベル4めざし実験</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF306V70Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T18:59:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG263U40W5A920C2000000/">
+    <title>肝臓転移の大腸がん、画像上「消失」もがん細胞残る　日欧が研究成果</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG263U40W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T18:59:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC298IX0Z20C25A9000000/">
+    <title>DeepL、音声→音声のAI同時翻訳　話者の声質まで再現</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC298IX0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T18:17:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG226WJ0S5A920C2000000/">
+    <title>南海トラフ震源域の海底、微小な沈降を検出に成功　海洋研究開発機構</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG226WJ0S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T18:08:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2901E0Z20C25A9000000/">
+    <title>韓国LG、AIの外販ビジネス始動　法人市場開拓へ11兆円投資</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2901E0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T17:38:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF306ON0Q5A930C2000000/">
+    <title>大和ハウス、AIで戸建て住宅プラン　数秒で2000候補から厳選</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF306ON0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T17:10:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN300WA0Q5A930C2000000/">
+    <title>米カリフォルニア州、先端AIにリスク報告義務　規制強化も企業に配慮</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN300WA0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T12:57:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG26A9X0W5A920C2000000/">
+    <title>文部科学省、海外研究者受け入れ11大学へ支援開始　10月から</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG26A9X0W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T12:35:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG119KI0R10C25A9000000/">
+    <title>ノーベル化学賞、有機合成・太陽電池が有望　41科学賞を独自分析</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG119KI0R10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN3001Z0Q5A930C2000000/">
+    <title>米アンソロピック、AIが30時間連続でプログラミング　新モデル発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN3001Z0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T06:38:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29BIP0Z20C25A9000000/">
+    <title>米ゲーム大手EA、8兆円でサウジ系ファンドなどが買収　株式非公開化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29BIP0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-09-30T05:27:16+09:00</dc:date>
+  </item>
+</rdf:RDF>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2025-10-02T11:10:25+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC255820V20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC221DM0S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0567H0V00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC30C9L0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC29BAA0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC09BC30Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC24AEJ0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC259T50V20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF019CC0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC258QQ0V20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC297UU0Z20C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF3075E0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC116AX0R10C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD195JH0Z10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF224BC0S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF173MB0X10C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC081A30Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC010RT0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2806W0Y5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2987N0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC201Y50Q5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF01D7U0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD01C0N0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD018TZ0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD01CD10R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC258KO0V20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC01AG00R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC30BOJ0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC011BH0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0153L0R01C25A0000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC255820V20C25A9000000/">
+    <title>大分の鳴門うどん　3玉まで同じ価格、原価2割増も経費減重ね吸収</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC255820V20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC221DM0S5A920C2000000/">
+    <title>NTT東とGMO、データセンター間通信に「IOWN」　地方分散向け実証</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC221DM0S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T10:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0567H0V00C25A9000000/">
+    <title>ガラス商社のOOKABE、販路拡大へ行政と連携　公共施設に活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0567H0V00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T07:00:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC30C9L0Q5A930C2000000/">
+    <title>山梨県果樹試験場、注目の高級ブドウ新品種を開発　脱炭素農業も挑戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC30C9L0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC29BAA0Z20C25A9000000/">
+    <title>つくば研究支援センター、CVCと新興つなぐ場構築　技術革新促す</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC29BAA0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC09BC30Z00C25A9000000/">
+    <title>三重の東邦鋼機製作所、インドの半導体供給網を支援　名門工科大と覚書</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC09BC30Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC24AEJ0U5A920C2000000/">
+    <title>洋上風力「想定よりコスト大幅増」　秋田・OKAOGEの由井原篤氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC24AEJ0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC259T50V20C25A9000000/">
+    <title>妊娠可能性、細胞の老化度合いで測定　藤沢市の新興企業がキット開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC259T50V20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF019CC0R01C25A0000000/">
+    <title>北國新聞販売所に地域貢献大賞　日本新聞協会、能登地震復興支援で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF019CC0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC258QQ0V20C25A9000000/">
+    <title>世界最大の都市圏「グレーター東京」人口3700万人、鉄道網が広げる</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC258QQ0V20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC297UU0Z20C25A8000000/">
+    <title>ミナミのAI自動車教習、26年度に50校導入へ　福岡県警など認可</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC297UU0Z20C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF3075E0Q5A930C2000000/">
+    <title>関西の宿泊・飲食業、IR開業の2030年に33万人不足　関西経済白書</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF3075E0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC116AX0R10C25A7000000/">
+    <title>牛鍋・ます寿し・担々麺…全国各地、出張で味わうグルメ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC116AX0R10C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD195JH0Z10C25A9000000/">
+    <title>災害時に通れる道、直近1時間の情報を地図に　トヨタが走行データ活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD195JH0Z10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF224BC0S5A920C2000000/">
+    <title>大阪万博パビリオン、新卒で副館長　内定辞退して開いた世界への扉</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF224BC0S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF173MB0X10C25A9000000/">
+    <title>ロボット工学者･石黒浩氏「アンドロイドと共存､未来像を万博遺産に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF173MB0X10C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC081A30Y5A900C2000000/">
+    <title>スノーピークやキャプテンスタッグ、脱キャンプ用品依存へ新ブランド</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC081A30Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC010RT0R01C25A0000000/">
+    <title>北海道エアポート・山崎社長「空港と自治体、両輪で路線誘致を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC010RT0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2806W0Y5A920C2000000/">
+    <title>脱炭素とウェルビーイング、両立へ知恵　札幌・金沢・佐賀の高校生</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2806W0Y5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2987N0Z20C25A9000000/">
+    <title>山村を漁村へ、陸上養殖に｢魔法の水｣　岡山理科大学の山本俊政准教授</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2987N0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC201Y50Q5A920C2000000/">
+    <title>「積読チャンネル」で読書体験共有　バリューブックス飯田光平さん</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC201Y50Q5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF01D7U0R01C25A0000000/">
+    <title>大阪万博クウェート館で火災　けが人なし、付近に吸い殻</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF01D7U0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T23:47:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD01C0N0R01C25A0000000/">
+    <title>岐阜・各務原のJR高山線、特急とトラック衝突し20人軽傷</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD01C0N0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T22:25:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD018TZ0R01C25A0000000/">
+    <title>名古屋駅地下に大型ワイン売り場　JR東海高島屋が移転拡張</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD018TZ0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T21:42:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD01CD10R01C25A0000000/">
+    <title>神奈川県立がんセンター、医療事故で60代男性死亡　腸からチューブ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD01CD10R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T21:40:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC258KO0V20C25A9000000/">
+    <title>四国企業の景況感、3四半期ぶり改善　日銀9月短観</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC258KO0V20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T21:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC01AG00R01C25A0000000/">
+    <title>足利銀行系の地域商社、栃木県子ども総合科学館で太陽光発電</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC01AG00R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T20:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC30BOJ0Q5A930C2000000/">
+    <title>前橋市政の混乱続く　市民対話中止、苦情電話は5000件近く</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC30BOJ0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T20:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC011BH0R01C25A0000000/">
+    <title>北九州空港、物流事業者向け施設が完成　輸出入を強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC011BH0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T20:14:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0153L0R01C25A0000000/">
+    <title>ながの東急百貨店、クリスマスケーキとおせちを同時期に予約開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0153L0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-01T20:05:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
