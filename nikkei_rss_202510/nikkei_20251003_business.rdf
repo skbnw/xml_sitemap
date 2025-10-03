@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2025-10-03T09:10:48+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA309K80Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN02DE30S5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC01B490R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC24B180U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD24B120U5A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF30AJZ0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF089RG0Y5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD189D10Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC019C10R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD248AC0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM017P40R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG247CL0U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA296TM0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG166970W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC294YZ0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC164HH0W5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF094CH0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC184AM0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2638Z0W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC262TM0W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC305IB0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF26CI10W5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC01BT40R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC02AYQ0S5A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF02AA70S5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12A180S5A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC298B40Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC306NJ0Q5A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC163HT0W5A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD022PD0S5A900C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA309K80Q5A930C2000000/">
+    <title>8月の有効求人倍率1.20倍　2カ月ぶり低下、厚労省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA309K80Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN02DE30S5A001C2000000/">
+    <title>OpenAIやNVIDIA、トップ訪日で規制回避探る　米技術覇権の先兵に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN02DE30S5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:52:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC01B490R01C25A0000000/">
+    <title>KPMG、疑似サイバー攻撃でAIシステムの安全性検証</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC01B490R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC24B180U5A920C2000000/">
+    <title>札幌市の町中華「布袋」ザンギ、揚げにこだわり　こぶし大でジューシー</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC24B180U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD24B120U5A720C2000000/">
+    <title>名古屋大学発IZANA、高精度磁気センサーで原料の異物検知</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD24B120U5A720C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF30AJZ0Q5A930C2000000/">
+    <title>日東電工･高崎社長「産業用テープ、剝離技術に循環型社会のニーズ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF30AJZ0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF089RG0Y5A900C2000000/">
+    <title>高校生就活支援のジンジブ、メタバースで地元志向に風穴開けられるか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF089RG0Y5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD189D10Y5A910C2000000/">
+    <title>フジサービス､｢太陽光発電×農業｣を提案　遊休農地を有効活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD189D10Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC019C10R01C25A0000000/">
+    <title>岩手･半導体人材育成施設、研修を拡充　キオクシア新棟稼働にも対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC019C10R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD248AC0U5A920C2000000/">
+    <title>アイリスは日本停滞の映し鏡　コメやおむつ…不足・縮小市場で成長</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD248AC0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM017P40R01C25A0000000/">
+    <title>中国イヤホン・ベースアス、過当競争が後押しした欧州進出</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM017P40R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG247CL0U5A920C2000000/">
+    <title>職場のハラスメント6割が経験、最多はパワハラ　エン調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG247CL0U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA296TM0Z20C25A9000000/">
+    <title>太陽光パネルのリサイクル、所有者の努力義務に　実効性薄れる</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA296TM0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG166970W5A910C2000000/">
+    <title>リスキリング休暇、給付金で普及進むか　企業は代役確保や離職に苦悩</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG166970W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC294YZ0Z20C25A9000000/">
+    <title>九電みらいエナジー、洋上の風を高精度に観測　風力発電のコスト抑制</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC294YZ0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC164HH0W5A910C2000000/">
+    <title>サイバーエージェント子会社、IT大手も狙う「AI支援市場」参入</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC164HH0W5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF094CH0Z00C25A9000000/">
+    <title>大阪万博会場の夢洲、閉幕後は速やかに再開発　成長託す「聖地」に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF094CH0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC184AM0Y5A910C2000000/">
+    <title>バーニーズジャパン社長「ブランド再生へワンダーランド戦略」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC184AM0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2638Z0W5A920C2000000/">
+    <title>インターン人気、ニトリ7年連続首位　似鳥会長「会社のためはダメ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2638Z0W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC262TM0W5A920C2000000/">
+    <title>沖縄県の西表島、コメの地産地消へ挑戦　脱「安く売って、高く買う」</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC262TM0W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T04:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC305IB0Q5A930C2000000/">
+    <title>お台場の「トヨタアリーナ東京」開業　10月3日ビジネス主な予定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC305IB0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF26CI10W5A820C2000000/">
+    <title>東洋紡エムシー、海水の淡水化膜を増産　10億円投じ生産3倍に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF26CI10W5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC01BT40R01C25A0000000/">
+    <title>マツダ、国内生産70万台維持なるか　関税合意で広島の車は業況改善</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC01BT40R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC02AYQ0S5A700C2000000/">
+    <title>モスバーガー、FC店比率9割で世代交代の悩み　｢直営で中継ぎ｣</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC02AYQ0S5A700C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF02AA70S5A001C2000000/">
+    <title>京都商工会議所の堀場会頭が続投へ　観光産業の振興と新興育成で手腕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF02AA70S5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12A180S5A810C2000000/">
+    <title>キーコーヒー、10秒抽出のバッグ式コーヒー　特許技術でタイパ追求</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12A180S5A810C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC298B40Z20C25A9000000/">
+    <title>アニコムHD、ペット向け手術ロボ　長寿命化で高度治療にニーズ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC298B40Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC306NJ0Q5A930C2000000/">
+    <title>自然電力、マイクロソフトへの再エネ供給4倍に　太陽光由来</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC306NJ0Q5A930C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC163HT0W5A710C2000000/">
+    <title>AIは人の道具か仲間か　「ドラえもん」開発に挑む研究者</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC163HT0W5A710C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD022PD0S5A900C2000000/">
+    <title>東京･用賀の夏フェスに1.5万人　住民発の祭り、住みたい街に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD022PD0S5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-03T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
