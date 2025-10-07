@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2025-10-07T10:11:15+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070KM0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB069060W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB070QZ0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0709X0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070K00X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0706O0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070720X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070J40X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070DO0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070GU0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070FE0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0703S0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL065FKTW5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0707A0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BST0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0539D0V01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06C970W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070210X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070080X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06C3X0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070200X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0701Y0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BSV0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06BY20W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BMI0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF29AWZ0Z20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0443K0U5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BOY0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BOG0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BO00W5A001C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070KM0X01C25A0000000/">
+    <title>商品9時30分　金が続伸、最高値更新　原油も続伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070KM0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T09:51:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB069060W5A001C2000000/">
+    <title>金価格、初の4000ドル台　米政府閉鎖でドルの代替需要高まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB069060W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T09:35:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB070QZ0X01C25A0000000/">
+    <title>長期金利、一時1.69%に上昇　財政悪化を懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB070QZ0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T09:30:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0709X0X01C25A0000000/">
+    <title>フランス政治不安が再燃　独仏の長期金利差、9カ月ぶり大きさに</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0709X0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T09:29:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070K00X01C25A0000000/">
+    <title>東証寄り付き　日経平均は続伸　最高値上回る、リスク選好一段と</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070K00X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T09:24:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0706O0X01C25A0000000/">
+    <title>ビットコイン最高値、初の12万6000ドル台　米政府閉鎖続き資金流入</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0706O0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T09:18:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070720X01C25A0000000/">
+    <title>債券寄り付き　先物、続落　財政リスクに警戒感　米債安も重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070720X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T09:12:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070J40X01C25A0000000/">
+    <title>日経平均、続伸で始まる　上げ幅400円、米ハイテク株高と政策期待で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070J40X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T09:07:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070DO0X01C25A0000000/">
+    <title>円150円台、既定路線の日銀10月維持　「利上げ」サプライズ扱い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070DO0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T08:54:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070GU0X01C25A0000000/">
+    <title>日経平均先物、続伸し4万8510円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070GU0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T08:53:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070FE0X01C25A0000000/">
+    <title>外為8時30分　円相場、下落し150円30銭台　対ユーロも下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070FE0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T08:47:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0703S0X01C25A0000000/">
+    <title>日経平均株価、高市早苗総裁の経済対策に期待感（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0703S0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T08:04:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL065FKTW5A001C2000000/">
+    <title>株最高値「短期マネー主導」「円滑な政権運営カギ」 市場の見方</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL065FKTW5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T07:19:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0707A0X01C25A0000000/">
+    <title>今日の株価材料（新聞など、7日）日本郵便、ロジスティードに1割強出資</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0707A0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T07:17:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BST0W5A001C2000000/">
+    <title>NY円相場、3日続落　1ドル=150円30〜40銭　自民総裁に高市氏で日本の財政拡張の思惑</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BST0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T07:02:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0539D0V01C25A0000000/">
+    <title>テスラ、マスク氏「150兆円報酬」採否まで1カ月　廉価EVとAI左右</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0539D0V01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:59:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06C970W5A001C2000000/">
+    <title>NY株ハイライト　AMD急伸で半導体関連に買い　冷めないAI熱</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06C970W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:49:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070210X01C25A0000000/">
+    <title>シカゴ日本株先物概況・6日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070210X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:47:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070080X01C25A0000000/">
+    <title>NYダウは63ドル安で反落　AMDは2割超上昇、ナスダックは最高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070080X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:25:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06C3X0W5A001C2000000/">
+    <title>自民党新総裁で「日本株に上昇余地」、米市場関係者の見方</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06C3X0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:20:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070200X01C25A0000000/">
+    <title>日本株ADR6日、高安まちまち　ソニーG上昇、銀行は下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070200X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:14:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0701Y0X01C25A0000000/">
+    <title>日経平均先物、夜間取引で上昇　400円高の4万8590円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0701Y0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:08:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BSV0W5A001C2000000/">
+    <title>NY債券、長期債続落　10年債利回り4.15%　日欧の金利上昇で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BSV0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:08:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06BY20W5A001C2000000/">
+    <title>高市トレードVS米利下げ期待　NY円、150円台で攻防戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06BY20W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T06:02:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BMI0W5A001C2000000/">
+    <title>NY商品、原油続伸　供給過剰観測がやや後退　金は最高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BMI0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T05:08:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF29AWZ0Z20C25A9000000/">
+    <title>ライオン事務器、15日上場　高橋社長「オフィスの総合企業目指す」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF29AWZ0Z20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0443K0U5A001C2000000/">
+    <title>米国上場の受け皿SPAC、再ブーム　株高と仮想通貨熱で4年ぶり活況</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0443K0U5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T03:30:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BOY0W5A001C2000000/">
+    <title>ドイツ株6日　横ばい圏　仏株は下落、金融に売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BOY0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T03:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BOG0W5A001C2000000/">
+    <title>ロンドン株6日　小幅反落、最高値上回る場面も　製紙モンディが大幅安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BOG0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T02:45:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BO00W5A001C2000000/">
+    <title>欧州国債概況6日　独10年債利回り、小幅上昇　仏長期金利上昇で独仏金利差は拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BO00W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-07T02:11:30+09:00</dc:date>
+  </item>
+</rdf:RDF>
