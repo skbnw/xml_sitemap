@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-10-08T09:11:08+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC07CCI0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080940Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL080O30Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0755J0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD074YX0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0732Q0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07CRB0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0116V0R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07D5F0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0805D0Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0804H0Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0802V0Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN070GO0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07COH0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB070DE0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07CY60X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07COF0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0802T0Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0802Q0Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07D2I0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0800S0Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07D5J0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07DA20X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB100PS0Q5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0700T0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07COY0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06B0T0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN070SX0X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC03DFG0T01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC28BXL0Y5A820C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC07CCI0X01C25A0000000/">
+    <title>アサヒGHDへのサイバー攻撃、ハッカー集団「Qilin」が犯行声明</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC07CCI0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T09:02:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080940Y5A001C2000000/">
+    <title>外為8時30分　円相場が大幅安　一時152円台前半、8カ月ぶり安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080940Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T08:55:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL080O30Y5A001C2000000/">
+    <title>日経平均先物、反発し4万7980円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL080O30Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T08:54:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0755J0X01C25A0000000/">
+    <title>8月の経常黒字3兆7758億円　7カ月連続黒字、投資収益は縮小</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0755J0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T08:54:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD074YX0X01C25A0000000/">
+    <title>太平洋工業、TOB23日まで延長　価格は据え置き</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD074YX0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T08:53:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0732Q0X01C25A0000000/">
+    <title>8月の実質賃金1.4%減、8カ月連続マイナス　賃上げ波及も物価強く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0732Q0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07CRB0X01C25A0000000/">
+    <title>NY証取親会社、賭けサイトに3000億円出資　政治や試合予想取り込み</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07CRB0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T08:07:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0116V0R01C25A0000000/">
+    <title>トリプル高のメキシコ、ペソは対ドル上昇率トップに　関税脅威が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0116V0R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07D5F0X01C25A0000000/">
+    <title>米政府閉鎖「勝者はいない」　博物館休館、Uber運転手も悲鳴</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07D5F0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T07:48:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0805D0Y5A001C2000000/">
+    <title>日経平均株価、方向感欠く　円安支えも高値警戒感（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0805D0Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T07:38:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0804H0Y5A001C2000000/">
+    <title>今日の株価材料（新聞など、8日）オービック、営業益1割増のもよう　4〜9月</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0804H0Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T07:34:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0802V0Y5A001C2000000/">
+    <title>シカゴ日本株先物概況・7日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0802V0Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T07:05:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN070GO0X01C25A0000000/">
+    <title>JPX山道裕己CEO、海外投資家の「日本初参入が増加」　NYで講演</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN070GO0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:55:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07COH0X01C25A0000000/">
+    <title>NY円相場、続落　1ドル=151円85〜95銭　一時152円台で2月中旬以来の円安水準</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07COH0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:55:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB070DE0X01C25A0000000/">
+    <title>円下落、一時8カ月ぶり152円台　財政悪化警戒で「高市トレード」続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB070DE0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:48:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07CY60X01C25A0000000/">
+    <title>NY株ハイライト　オラクル一時7%安、デルは6%高も　AI銘柄に循環物色</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07CY60X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:46:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07COF0X01C25A0000000/">
+    <title>NY債券、長期債反発　10年債利回り4.12%　米株安や日米の入札受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07COF0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:12:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0802T0Y5A001C2000000/">
+    <title>日本株ADR7日、ほぼ全面安　野村やメガバンク下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0802T0Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:11:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0802Q0Y5A001C2000000/">
+    <title>日経平均先物、夜間取引で上昇　140円高の4万8080円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0802Q0Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:08:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07D2I0X01C25A0000000/">
+    <title>レイ・ダリオ氏が語る、ゴールド史上最高値の「必然」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07D2I0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:08:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0800S0Y5A001C2000000/">
+    <title>NYダウ、続落し91ドル安　過熱感を警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0800S0Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T06:07:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07D5J0X01C25A0000000/">
+    <title>Google、2年連続で研究者がノーベル賞　AI・量子の基礎研究</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07D5J0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:48:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07DA20X01C25A0000000/">
+    <title>OpenAI、中国がChatGPT使い「ウイグル監視技術を調査」と報告</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07DA20X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:42:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB100PS0Q5A910C2000000/">
+    <title>メガバンク、ファンド融資の担当行員2割増　｢マレリショック｣脱す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB100PS0Q5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:33:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0700T0X01C25A0000000/">
+    <title>おじさん中心の「予定調和」を壊せ　丸井再建の7年支えた女性活躍</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0700T0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:21:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07COY0X01C25A0000000/">
+    <title>NY商品、原油小幅続伸　足元の需給を巡り様子見　金続伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07COY0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:16:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06B0T0W5A001C2000000/">
+    <title>テスラ、1割安い「モデルY」発売　値下げ不発で株価4%下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06B0T0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:11:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN070SX0X01C25A0000000/">
+    <title>トランプ米大統領、カナダ首相と首脳会談　対面では2度目</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN070SX0X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:01:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC03DFG0T01C25A0000000/">
+    <title>群馬･桐生市、電動バスで駅間シャトル運行実験　交通網再構築にらむ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC03DFG0T01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC28BXL0Y5A820C2000000/">
+    <title>茨城の建築に「小さなサステナビリティー」を　暮らし図・鯉渕健太代表</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC28BXL0Y5A820C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-08T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
