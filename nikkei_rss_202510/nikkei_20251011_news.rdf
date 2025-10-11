@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-10-11T10:11:11+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD110B70R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1102R0R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1106E0R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110CJ0R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110B40R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110B00R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH100XW0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1108R0R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN110710R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR10D8H0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD1100B0R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD10A590Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL10D1G0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1101M0R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1100T0R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN10DNK0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL10D1E0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL10D5M0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL10D5H0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL10CUY0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN10DMI0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR10D800Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN10D9A0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN10DDR0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1100J0R11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN09D7F0Z00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL10D590Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN10DKL0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL10D500Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN10DF70Q5A011C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD110B70R11C25A0000000/">
+    <title>台風23号、13日にも伊豆諸島に接近恐れ　暴風に厳重警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD110B70R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T10:03:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1102R0R11C25A0000000/">
+    <title>トランプ氏｢対中関税100%追加｣　11月1日から、輸出規制に対抗</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1102R0R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T10:02:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1106E0R11C25A0000000/">
+    <title>米南部テネシー州の爆薬工場で大規模爆発　19人行方不明</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1106E0R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T09:39:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110CJ0R11C25A0000000/">
+    <title>世界重量挙げ、持田龍之輔は17位　男子110キロ級</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110CJ0R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T08:58:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110B40R11C25A0000000/">
+    <title>南野拓実が所属するモナコ、監督解任　仏1部リーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110B40R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T08:53:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110B00R11C25A0000000/">
+    <title>サッカーW杯欧州予選、フランスが3連勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110B00R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T08:48:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH100XW0Q5A011C2000000/">
+    <title>11日の有力馬　サウジアラビアRCなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH100XW0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T08:44:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1108R0R11C25A0000000/">
+    <title>トランプ氏、習近平氏との会談「キャンセルしていない」　月末訪韓へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1108R0R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T08:29:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN110710R11C25A0000000/">
+    <title>米政権、英アストラゼネカと薬価引き下げで合意　ファイザーに続き</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN110710R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T08:17:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR10D8H0Q5A011C2000000/">
+    <title>フランスのマクロン大統領、内政主導権譲らず　異例の首相再指名</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR10D8H0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T08:09:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD1100B0R11C25A0000000/">
+    <title>三菱UFJ銀行など世界大手10行、G7通貨連動のステーブルコイン検討へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD1100B0R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T08:09:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD10A590Q5A011C2000000/">
+    <title>公明党の連立離脱、慌てる海外勢　日本の「トリプル安」警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD10A590Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T07:35:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL10D1G0Q5A011C2000000/">
+    <title>NY円相場、反発　1ドル=151円15〜25銭　米中貿易摩擦の懸念再燃</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL10D1G0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:50:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1101M0R11C25A0000000/">
+    <title>FRBウォラー理事、0.25%の連続利下げ主張　「慎重に対応」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1101M0R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:49:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1100T0R11C25A0000000/">
+    <title>米制裁対象のメキシコ中堅銀行、清算へ　麻薬カルテルのマネロン加担</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1100T0R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:48:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN10DNK0Q5A011C2000000/">
+    <title>ハリウッドの俳優エージェント会社、動画生成AI「Sora」を批判</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN10DNK0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:44:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL10D1E0Q5A011C2000000/">
+    <title>NY債券、長期債反発　10年債利回り4.03%　対中関税の大幅引き上げを懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL10D1E0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:19:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL10D5M0Q5A011C2000000/">
+    <title>日経平均先物、夜間取引で下落　2420円安の4万5200円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL10D5M0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:18:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL10D5H0Q5A011C2000000/">
+    <title>シカゴ日本株先物概況・10日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL10D5H0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:06:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL10CUY0Q5A011C2000000/">
+    <title>「トランプ砲」受け、ナスダック急落　機械取引でマネー逆流</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL10CUY0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:03:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN10DMI0Q5A011C2000000/">
+    <title>日経平均先物が急落、一時2440円安　米中貿易摩擦懸念で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN10DMI0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:02:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR10D800Q5A011C2000000/">
+    <title>フランスのマクロン大統領、辞任したルコルニュ氏を首相に再指名</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR10D800Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T06:00:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN10D9A0Q5A011C2000000/">
+    <title>米労働省、CPIのみ24日に発表　政府閉鎖中も例外扱い</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN10D9A0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T05:40:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN10DDR0Q5A011C2000000/">
+    <title>トランプ政権、政府閉鎖中に職員削減を開始　「第二のマスク」が主導</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN10DDR0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T05:40:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1100J0R11C25A0000000/">
+    <title>米国、アルゼンチンへの経済支援で合意　中国をけん制</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1100J0R11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T05:38:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN09D7F0Z00C25A9000000/">
+    <title>チョコ値上げで揺れるハロウィーン　お菓子代、米家計に「恐怖」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN09D7F0Z00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T05:32:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL10D590Q5A011C2000000/">
+    <title>日本株ADR10日、全面安　野村やソニーGの下げ目立つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL10D590Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T05:30:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN10DKL0Q5A011C2000000/">
+    <title>「トランプ劇場」再び、NYダウ878ドル安　市場の楽観に冷水</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN10DKL0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T05:24:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL10D500Q5A011C2000000/">
+    <title>NY商品、原油続落し5カ月ぶり安値　米中対立を警戒　金反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL10D500Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T05:12:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN10DF70Q5A011C2000000/">
+    <title>米MITがトランプ氏に反旗、助成優遇案を拒否　「我々の信念と矛盾」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN10DF70Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-11T05:09:55+09:00</dc:date>
+  </item>
+</rdf:RDF>
