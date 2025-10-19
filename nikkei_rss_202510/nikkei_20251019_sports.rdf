@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2025-10-19T11:13:48+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC190BC0Z11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC190BS0Z11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC190800Z11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH182SS0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1906T0Z11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD180JG0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH190690Z11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH174O40X11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH060VX0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06C8T0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1831Z0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC182S80Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC182O20Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH1818T0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC182MO0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH180ZP0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC182DA0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH180UY0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH181HN0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1827Y0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1827M0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC182280Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC182550Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1824V0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC181Z00Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1821M0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC181WR0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC181SP0Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC181S00Y5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC181XA0Y5A011C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC190BC0Z11C25A0000000/">
+    <title>サッカーU20W杯、コロンビアは3位　フランスに1-0</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC190BC0Z11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T10:20:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC190BS0Z11C25A0000000/">
+    <title>マルドナドが引退表明　エンゼルスで大谷翔平とバッテリー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC190BS0Z11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T10:20:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC190800Z11C25A0000000/">
+    <title>柔道グランプリ大会、嘉重春樺が優勝　女子63キロ級</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC190800Z11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T09:51:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH182SS0Y5A011C2000000/">
+    <title>フィギュア中井亜美、フリーも譲らずGP初V 3回転半のミス挽回</title>
+    <link>https://www.nikkei.com/article/DGXZQODH182SS0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T09:12:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1906T0Z11C25A0000000/">
+    <title>大の里・豊昇龍4連勝、平幕翔猿も　大相撲ロンドン公演4日目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1906T0Z11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T09:03:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD180JG0Y5A011C2000000/">
+    <title>19日の有力馬　秋華賞など競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD180JG0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T08:33:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH190690Z11C25A0000000/">
+    <title>17歳中井亜美がフィギュアGP初出場V　ペア三浦、木原組は5勝目</title>
+    <link>https://www.nikkei.com/article/DGXZQODH190690Z11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T08:28:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH174O40X11C25A0000000/">
+    <title>松山英樹も通った世界への扉　ゴルフAAC23日開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQODH174O40X11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH060VX0W5A001C2000000/">
+    <title>ジャンプ高梨沙羅、4度目の五輪への思い　失格の悲劇乗り越え前へ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH060VX0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06C8T0W5A001C2000000/">
+    <title>メキシコプロレス好調、日本人「OKUMURA」大躍進　海外展開も積極</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06C8T0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1831Z0Y5A011C2000000/">
+    <title>小林朔太郎6位、小林陵侑7位　スキージャンプGP</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1831Z0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-19T00:09:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC182S80Y5A011C2000000/">
+    <title>バスケBリーグ、千葉Jが開幕6連勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC182S80Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T21:52:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC182O20Y5A011C2000000/">
+    <title>58歳カズ、最年長出場更新　サッカーJFL</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC182O20Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T21:25:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH1818T0Y5A011C2000000/">
+    <title>日本ハム、崖っぷちから2連勝　主砲レイエスが驚嘆の2発</title>
+    <link>https://www.nikkei.com/article/DGXZQODH1818T0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T21:23:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC182MO0Y5A011C2000000/">
+    <title>卓球Tリーグ、神奈川が快勝　彩たまは琉球破る</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC182MO0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T21:14:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH180ZP0Y5A011C2000000/">
+    <title>柏、首位追撃の5ゴール大勝　ロドリゲス監督「パーフェクトに近い」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH180ZP0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T20:48:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC182DA0Y5A011C2000000/">
+    <title>J2、長崎が4ゴールで暫定首位　徳島・大宮など勝つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC182DA0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T19:50:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH180UY0Y5A011C2000000/">
+    <title>ドジャース大谷翔平、WS進出に導く二刀流　10奪三振に3本塁打</title>
+    <link>https://www.nikkei.com/article/DGXZQODH180UY0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T19:30:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH181HN0Y5A011C2000000/">
+    <title>ラグビー日本代表、オーストラリアAに惨敗　若手中心の起用裏目に</title>
+    <link>https://www.nikkei.com/article/DGXZQODH181HN0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T19:03:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1827Y0Y5A011C2000000/">
+    <title>NEC・姫路など3連勝　バレーSVリーグ女子</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1827Y0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T18:52:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1827M0Y5A011C2000000/">
+    <title>岡慎之助「絶対負けない」　世界体操開幕へ最終調整</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1827M0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T18:51:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC182280Y5A011C2000000/">
+    <title>畑岡奈紗が2位に浮上、竹田麗央4位　米女子ゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC182280Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T18:45:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC182550Y5A011C2000000/">
+    <title>池江璃花子、50バタ優勝　競泳・日本短水路選手権</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC182550Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T18:35:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1824V0Y5A011C2000000/">
+    <title>大坂なおみ、東レ女子テニス欠場</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1824V0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T18:34:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC181Z00Y5A011C2000000/">
+    <title>DeNAトレバー・バウアー、去就は白紙　現役続行「分からない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC181Z00Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T18:12:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1821M0Y5A011C2000000/">
+    <title>日本ハムが2連勝　パ・リーグCSファイナル第4戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1821M0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T18:12:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC181WR0Y5A011C2000000/">
+    <title>清水大成が単独首位　日本オープンゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC181WR0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T18:05:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC181SP0Y5A011C2000000/">
+    <title>J1、柏5ゴールで首位と3差　横浜Mなど勝つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC181SP0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T17:47:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC181S00Y5A011C2000000/">
+    <title>18日のJ1　結果と戦評</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC181S00Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T17:46:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC181XA0Y5A011C2000000/">
+    <title>バスケWリーグ開幕、富士通が白星発進　ENEOSも快勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC181XA0Y5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-18T17:29:44+09:00</dc:date>
+  </item>
+</rdf:RDF>
