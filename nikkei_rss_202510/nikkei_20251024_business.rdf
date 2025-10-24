@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2025-10-24T10:12:05+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD21CAM0R21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN240MN0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN21CYW0R21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN23DF90T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2401I0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2002J0Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN23D6R0T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN23D0W0T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN23D2X0T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC18BOY0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD208980Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC157ZT0V11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG187KZ0Y5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF107KY0Q5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC206F60Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG016C10R01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC233GX0T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG263EU0W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC042YH0U5A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC062T20W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC209DQ0Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD075240X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC174V20X11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC033T80T01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC202LZ0Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC238D60T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR230350T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC22BKU0S5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC233OM0T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC23BFW0T21C25A0000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD21CAM0R21C25A0000000/">
+    <title>OpenAIとメタの危うい猛進　SNS・AI融合が混乱の火種に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD21CAM0R21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN240MN0U5A021C2000000/">
+    <title>米半導体装置アプライド、1400人削減　世界従業員の4%</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN240MN0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T09:45:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN21CYW0R21C25A0000000/">
+    <title>米旅行業界、政府閉鎖で4600億円損失　ホテル・航空は出張減に警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN21CYW0R21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T08:22:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN23DF90T21C25A0000000/">
+    <title>OpenAI、元Apple技術者設立の新興買収　AI使い勝手向上へ引き抜き</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN23DF90T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T07:38:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2401I0U5A021C2000000/">
+    <title>米小売り大手ターゲット、従業員8%削減　インフレで業績不振続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2401I0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T06:52:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2002J0Q5A021C2000000/">
+    <title>米フォード、主力大型車の生産再開は26年　日本政府が購入案</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2002J0Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T06:15:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN23D6R0T21C25A0000000/">
+    <title>インテルが7四半期ぶり黒字転換　7〜9月、過剰投資見直しで再建急ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN23D6R0T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:52:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN23D0W0T21C25A0000000/">
+    <title>原油価格、米のロシア企業制裁で一時6%高騰　中印も輸入見合わせか</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN23D0W0T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:20:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN23D2X0T21C25A0000000/">
+    <title>米政府、量子コンピューター企業に出資検討　対中国で技術囲い込み</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN23D2X0T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:03:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC18BOY0Y5A910C2000000/">
+    <title>日清製粉がパスタ由来のプラスチック　端材活用、高強度で加工容易</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC18BOY0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD208980Q5A021C2000000/">
+    <title>愛知の住宅「ペアローン」利用率は3%　首都圏4割と大差の背景</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD208980Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC157ZT0V11C25A0000000/">
+    <title>いすゞの普通免許対応トラック、10分で運転マスター　記者が試乗</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC157ZT0V11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG187KZ0Y5A910C2000000/">
+    <title>内定取り消しに厳しい司法、変化の兆し　経歴詐称の転職男性敗訴</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG187KZ0Y5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF107KY0Q5A910C2000000/">
+    <title>関西スタートアップ、4割超が地銀から借り入れ　投資家不足の面も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF107KY0Q5A910C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC206F60Q5A021C2000000/">
+    <title>大王製紙の藤田浩幸取締役「衛生紙事業、高齢者向け拡大狙う」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC206F60Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG016C10R01C25A0000000/">
+    <title>ヤマハ発動機幹部、米関税影響「値上げで打ち返す」　供給網変えず</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG016C10R01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC233GX0T21C25A0000000/">
+    <title>宇宙・核融合新興に「高市トレード」　アストロスケール株4割上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC233GX0T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG263EU0W5A920C2000000/">
+    <title>法律事務所大手のTMIがアジア進出のコンサル事業、ベトナムなど3カ国で</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG263EU0W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC042YH0U5A900C2000000/">
+    <title>小湊鉄道のビール列車「夜キハ」、乗客のインスタ投稿で起死回生</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC042YH0U5A900C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC062T20W5A001C2000000/">
+    <title>アンドエスティ、スタッフの音声で「買わなかった理由」集約　AI活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC062T20W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC209DQ0Q5A021C2000000/">
+    <title>米インテルが決算を発表、10月24日ビジネス主な予定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC209DQ0Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD075240X01C25A0000000/">
+    <title>同性カップル､国勢調査で総数わかる？ 挙式や保険…新商品のヒントに</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD075240X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC174V20X11C25A0000000/">
+    <title>長野県、裾花ダムの発電量年14%増へ　日立と運用見直し</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC174V20X11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC033T80T01C25A0000000/">
+    <title>TVerが番組のショート動画配信　放送局が制作、タイパ重視の若者照準</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC033T80T01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC202LZ0Q5A021C2000000/">
+    <title>NTTの「IOWN」が香港進出　光で低遅延の通信、金融機関にニーズ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC202LZ0Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC238D60T21C25A0000000/">
+    <title>武田薬品、米AI企業と医薬品開発で連携　研究を効率化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC238D60T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-23T21:05:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR230350T21C25A0000000/">
+    <title>ボルボ、7〜9月の純利益4%増　7%減収もリストラ奏功</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR230350T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-23T21:01:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC22BKU0S5A021C2000000/">
+    <title>豊島区の民泊規制案、営業期間84日から120日　遡及適用変わらず</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC22BKU0S5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-23T21:00:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC233OM0T21C25A0000000/">
+    <title>ブリヂストン・森田泰博次期CEO、若きカーガイに託す世界1位</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC233OM0T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-23T20:41:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC23BFW0T21C25A0000000/">
+    <title>ペプチドリーム、元COOの不正受け再発防止策　ITで備品管理</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC23BFW0T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-23T20:31:10+09:00</dc:date>
+  </item>
+</rdf:RDF>
