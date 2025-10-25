@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-10-25T10:12:29+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250JB0V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB244L20U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC250HE0V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD2505X0V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD250AK0V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA243X30U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA241M10U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2508B0V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2487R0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2508Q0V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2508I0V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR2500J0V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL24CH90U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN24CQB0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN24CDR0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL24CZ00U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL24CIU0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL24D6N0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN250130V21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL24CYP0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR24D7T0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN206SI0Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL24CYL0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL24D1M0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL24CH80U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC23CM90T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC14C3C0U5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH06C300W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH06C2W0W5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA24C2L0U5A021C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250JB0V21C25A0000000/">
+    <title>世界自転車、佐藤水菜が銀　女子スプリント</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250JB0V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T10:10:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB244L20U5A920C2000000/">
+    <title>熱狂AI相場バブルか新常態か　PER最高水準、巨額投資の成果未知数</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB244L20U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T10:07:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC250HE0V21C25A0000000/">
+    <title>大谷翔平、第1打席は三振　ワールドシリーズ開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC250HE0V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T09:47:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD2505X0V21C25A0000000/">
+    <title>トヨタ、米国生産車を「逆輸入」方針　トランプ大統領来日時に伝達</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD2505X0V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T09:36:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD250AK0V21C25A0000000/">
+    <title>北海道・根室で震度5弱</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD250AK0V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T09:06:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA243X30U5A021C2000000/">
+    <title>米国務副長官、先端製造業への投資を日本に要請　富士山会合</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA243X30U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T08:54:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA241M10U5A021C2000000/">
+    <title>高市首相、積極財政で「強い経済」　試される規律</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA241M10U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T08:54:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2508B0V21C25A0000000/">
+    <title>高市首相、日米関係「さらなる高みに引き上げ」　富士山会合にメッセージ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2508B0V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T08:53:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2487R0U5A021C2000000/">
+    <title>25日の有力馬　アルテミスSなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2487R0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T08:37:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2508Q0V21C25A0000000/">
+    <title>世界レスリングU23、藤波朱理57キロ級V 145連勝に</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2508Q0V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T08:25:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2508I0V21C25A0000000/">
+    <title>菅原由勢が終盤まで出場、久保建英は欠場　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2508I0V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T08:24:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR2500J0V21C25A0000000/">
+    <title>ムーディーズ、フランス国債格付け維持　見通し｢ネガティブ｣に変更</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR2500J0V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T06:55:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL24CH90U5A021C2000000/">
+    <title>NY円相場、続落　1ドル=152円85〜95銭　米株最高値で円売り優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL24CH90U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T06:54:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN24CQB0U5A021C2000000/">
+    <title>米ハロウィーン、韓流アニメ「ケデハン」一色　衣装品薄で自作も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN24CQB0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T06:30:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN24CDR0U5A021C2000000/">
+    <title>トランプ氏怒ったCM、カナダ「最強州」の罠　関税交渉打ち切りに</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN24CDR0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T06:24:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL24CZ00U5A021C2000000/">
+    <title>日経平均先物、夜間取引で上昇　240円高の4万9560円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL24CZ00U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T06:21:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL24CIU0U5A021C2000000/">
+    <title>NY債券、長期債横ばい　10年債利回り4.00%、米利下げ観測は支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL24CIU0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T06:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL24D6N0U5A021C2000000/">
+    <title>米株3指数そろって最高値　強まる利下げ観測、ITや金融に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL24D6N0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:49:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN250130V21C25A0000000/">
+    <title>米国防総省、最新鋭空母をカリブ海に派遣　「麻薬密輸を阻止」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN250130V21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:47:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL24CYP0U5A021C2000000/">
+    <title>シカゴ日本株先物概況・24日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL24CYP0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:44:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR24D7T0U5A021C2000000/">
+    <title>ゼレンスキー氏、高市首相に謝意　ウクライナ支援「メッセージ明確」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR24D7T0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:31:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN206SI0Q5A021C2000000/">
+    <title>米ワーナー再編　台頭する新メディア王、言論に「トランプ勢力圏」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN206SI0Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL24CYL0U5A021C2000000/">
+    <title>日本株ADR24日、売り優勢　オリックスや三菱UFJが安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL24CYL0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:19:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL24D1M0U5A021C2000000/">
+    <title>ゴールドの強気シナリオ健在　尾を引く「解放の日」の衝撃</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL24D1M0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:12:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL24CH80U5A021C2000000/">
+    <title>NY商品、原油反落　持ち高調整の売り　金は反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL24CH80U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:11:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC23CM90T21C25A0000000/">
+    <title>再結成オアシス、25日に16年ぶり来日公演　2日間で10万人集結</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC23CM90T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC14C3C0U5A011C2000000/">
+    <title>鹿児島・黒豚のしゃぶしゃぶ　うまみ濃く、白身も口当たりさっぱり</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC14C3C0U5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH06C300W5A001C2000000/">
+    <title>大相撲・草野　苦難の幕下時代を経て本領発揮、いざ準ご当所場所へ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH06C300W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH06C2W0W5A001C2000000/">
+    <title>大相撲・草野　新入幕ながら優勝争い、大舞台でみなぎる闘争心</title>
+    <link>https://www.nikkei.com/article/DGXZQODH06C2W0W5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA24C2L0U5A021C2000000/">
+    <title>公明党・西田実仁幹事長「厳しい注文つける」　中止の現金給付巡り</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA24C2L0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
