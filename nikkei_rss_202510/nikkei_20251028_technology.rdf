@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2025-10-28T10:10:49+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN27BGL0X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG234130T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG173SE0X10C25A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN27BAZ0X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC23CK10T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2723S0X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC274720X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD2752Q0X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC20AIL0Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC246F80U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC231V10T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM273Q20X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG225C60S5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD16C830W5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG07B390X01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG079HF0X00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG169G40W5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC144D50U5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF033MX0T00C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG245UL0U5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG147ZX0U5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG166DB0W5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD07BQ60X00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD09AN20Z01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2033S0Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG154G70V11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG235S10T20C25A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB244L20U5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG086PU0Y5A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG204090Q5A021C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN27BGL0X21C25A0000000/">
+    <title>Amazon、管理部門の約1割にあたる3万人削減を計画　米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN27BGL0X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T06:25:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG234130T21C25A0000000/">
+    <title>Google、量子計算「スパコンの1万倍高速」　成果に研究者は慎重評価</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG234130T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG173SE0X10C25A6000000/">
+    <title>先端技術海外流出防げ、26年春に指針　対策なしで「国際研究できない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG173SE0X10C25A6000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN27BAZ0X21C25A0000000/">
+    <title>米クアルコム、AI半導体参入でNVIDIA対抗　株価一時22%高</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN27BAZ0X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T04:35:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC23CK10T21C25A0000000/">
+    <title>博報堂系、AI広告生成の専門チーム新設　30年に売上高100億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC23CK10T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2723S0X21C25A0000000/">
+    <title>日経平均初の5万円、「成長重視」政策にマネー先回り　不発なら株安</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2723S0X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T19:49:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC274720X21C25A0000000/">
+    <title>NTT西日本、AI音声の開発支援　ブロックチェーンで信頼性確保</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC274720X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T19:08:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD2752Q0X21C25A0000000/">
+    <title>東邦ガス、AIで樹木のCO2吸収量を測定　スタートアップと岐阜県で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD2752Q0X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T19:01:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC20AIL0Q5A021C2000000/">
+    <title>Google･KDDI、日本で記事AI検索　著作権配慮し収益機会を提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC20AIL0Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC246F80U5A021C2000000/">
+    <title>島根県出雲市、公式HPに生成AI　市民が検索しやすく</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC246F80U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC231V10T21C25A0000000/">
+    <title>自動車ディーラーが現場発のDX指南　埼玉のMOBILIX</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC231V10T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T17:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM273Q20X21C25A0000000/">
+    <title>オーストラリア競争当局、Microsoftを提訴　高額なプラン誘導で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM273Q20X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T16:52:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG225C60S5A021C2000000/">
+    <title>ヘリカルフュージョン、高温超電導のコイル開発　核融合の維持へ一歩</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG225C60S5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T13:21:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD16C830W5A011C2000000/">
+    <title>アイシン、カーナビ技術＋AIで道路の穴発見　岡崎市は修繕3.5倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD16C830W5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG07B390X01C25A0000000/">
+    <title>南鳥島レアアース試掘1月開始　中国の動向警戒、環境保護に万全期す</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG07B390X01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG079HF0X00C25A8000000/">
+    <title>大学など「研究先細り」、物価高で消耗品は数倍に　科学力維持に試練</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG079HF0X00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG169G40W5A011C2000000/">
+    <title>H3打ち上げ成功、三菱重工への業務移行に弾み　民間がビジネス主導</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG169G40W5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC144D50U5A011C2000000/">
+    <title>トヨタWoven City街開き　UCC･Z会･日清食品･ダイキンほか実証参加</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC144D50U5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF033MX0T00C25A9000000/">
+    <title>シマノ、AI制御で自転車変速機を万人に　メカ×電子の競争へ号砲</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF033MX0T00C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG245UL0U5A021C2000000/">
+    <title>研究者の挑戦、資金や海外派遣で支援へ　文部科学省「科学の再興」</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG245UL0U5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-27T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG147ZX0U5A011C2000000/">
+    <title>JAXA「H3」打ち上げ成功、新型補給船は月開発や商業利用期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG147ZX0U5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-26T13:45:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG166DB0W5A011C2000000/">
+    <title>JAXA、「H3」7号機打ち上げ成功　補給船が30日に宇宙基地へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG166DB0W5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-26T09:21:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD07BQ60X00C25A8000000/">
+    <title>名大発新興、培養細胞をAIが目利き　製造費3割減で再生医療支える</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD07BQ60X00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-10-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD09AN20Z01C25A0000000/">
+    <title>「AI創薬」の先をめざせ、生命科学に新展開も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD09AN20Z01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-26T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2033S0Q5A021C2000000/">
+    <title>白亜紀の琥珀を大量発見、植物・昆虫の化石保存　北海道大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2033S0Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-26T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG154G70V11C25A0000000/">
+    <title>JAXA、「H3」7号機を発射地点に移動　26日朝9時打ち上げへ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG154G70V11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T19:48:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG235S10T20C25A5000000/">
+    <title>火山噴火をAI予測、東京大学は阿蘇山を70%の精度で　防災へ活用探る</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG235S10T20C25A5000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB244L20U5A920C2000000/">
+    <title>熱狂AI相場バブルか新常態か　PER最高水準、巨額投資の成果未知数</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB244L20U5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T10:07:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG086PU0Y5A001C2000000/">
+    <title>サンゴ分布調査、カメラ画像をAIで自動分析　東京大学が環境評価向け</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG086PU0Y5A001C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG204090Q5A021C2000000/">
+    <title>ノーベル賞・制御性T細胞は「もろ刃の剣」　免疫からがん守る面も</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG204090Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-25T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
