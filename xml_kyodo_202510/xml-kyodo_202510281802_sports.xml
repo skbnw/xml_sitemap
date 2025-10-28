@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/ynnews/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fynnews%2Fsports.rdf">
+    <title>47NEWS 全国 スポーツ</title>
+    <link>https://www.47news.jp/news/sports</link>
+    <description>47NEWS 全国のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2025-10-29T02:14:04+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/13374128.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13374101.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13374094.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13374029.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13374028.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373915.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373917.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373869.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373805.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373937.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373656.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373792.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373659.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373682.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373684.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373653.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373652.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373610.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373325.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373540.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373225.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13371400.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373656.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373351.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/13373325.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_top"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_01"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/goto_retto_christian_monogatari_02"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/13374128.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 ジョン ピアース / JJトレーシー vs ロハン ボパンナ / アレクサンダー ブーブリック</title>
+    <link>https://www.47news.jp/13374128.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13374101.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 フェルナンド ロンボリ / ジョンパトリック スミス vs マクシモ ゴンサレス / アンドレス モーテニ</title>
+    <link>https://www.47news.jp/13374101.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13374094.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 ハウメ ムナル vs ダニル メドベージェフ</title>
+    <link>https://www.47news.jp/13374094.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13374029.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 デニス シャポバロフ vs ジョアン フォンセカ</title>
+    <link>https://www.47news.jp/13374029.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13374028.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 サンティアゴ ゴンサレス / ダビト ペル vs シモーネ ボレリ / アンドレア ババソリ</title>
+    <link>https://www.47news.jp/13374028.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373915.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 フランシスコ セルンドロ / ルチアーノ ダルデリ vs エバン キング / クリスチャン ハリソン</title>
+    <link>https://www.47news.jp/13373915.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373917.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 コランタン ムテ vs ライリー オペルカ</title>
+    <link>https://www.47news.jp/13373917.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373869.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 ケビン クラビーツ / ティム プエッツ vs マルセロ メロ / アレキサンダー ズベレフ</title>
+    <link>https://www.47news.jp/13373869.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373805.html">
+    <title>タイガース　甲子園で日本シリーズ、佐藤先制に虎ファン沸く　逆転され1勝2敗に</title>
+    <link>https://www.47news.jp/13373805.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373937.html">
+    <title>あと1本が出ず…阪神、甲子園初戦は惜敗　才木好投も悔い残す　プロ野球日本シリーズ</title>
+    <link>https://www.47news.jp/13373937.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373656.html">
+    <title>ソフトバンク2連勝で2勝1敗　日本シリーズ第3戦</title>
+    <link>https://www.47news.jp/13373656.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373792.html">
+    <title>田中賢介さん、人材育成語る　深川で11月18日に講演会</title>
+    <link>https://www.47news.jp/13373792.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373659.html">
+    <title>神1―2ソ（28日）　ソフトバンクが逃げ切る</title>
+    <link>https://www.47news.jp/13373659.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373682.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 フェリックス オジェ アリアシム vs フランシスコ コメスアナ</title>
+    <link>https://www.47news.jp/13373682.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373684.html">
+    <title>【テニス速報】 香港テニス・オープン 第2日 小堀 桃子 / ペアングタルン プリプエチ vs ナディヤ キチェノク / 二宮 真琴</title>
+    <link>https://www.47news.jp/13373684.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373653.html">
+    <title>【速報】ソフトバンク連勝で2勝1敗</title>
+    <link>https://www.47news.jp/13373653.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373652.html">
+    <title>【テニス速報】 パリ・マスターズ 第2日 トマス マルティン エチェベリ vs カミラ ウゴ カラベリ</title>
+    <link>https://www.47news.jp/13373652.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373610.html">
+    <title>橋本会長がIOC訪問　コベントリー氏と会談</title>
+    <link>https://www.47news.jp/13373610.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373325.html">
+    <title>コンプライアンス強化へ作業部会　日本サッカー協会が新設</title>
+    <link>https://www.47news.jp/13373325.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373540.html">
+    <title>［アルビレックス新潟］遠かった白星…監督の交代はチームにどう影響したのか？成績低迷の背景は　連載・色あせたオレンジ＜2＞</title>
+    <link>https://www.47news.jp/13373540.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373225.html">
+    <title>南ア戦は「特別な試合」　ラグビー日本、練習公開</title>
+    <link>https://www.47news.jp/13373225.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13371400.html">
+    <title>ドジャース、第3戦サヨナラ勝ち　延長十八回で決着、大谷2本塁打</title>
+    <link>https://www.47news.jp/13371400.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373656.html">
+    <title>ソフトバンク2連勝で2勝1敗　日本シリーズ第3戦</title>
+    <link>https://www.47news.jp/13373656.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373351.html">
+    <title>WS最長タイ、延長18回の激闘　総力戦、ファンも大歓声</title>
+    <link>https://www.47news.jp/13373351.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/13373325.html">
+    <title>コンプライアンス強化へ作業部会　日本サッカー協会が新設</title>
+    <link>https://www.47news.jp/13373325.html</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_02">
+    <title>五島列島キリシタン物語【後編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_02</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_top">
+    <title>五島列島キリシタン物語　五島市・新上五島町・小値賀町【周遊編】</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_top</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_01">
+    <title>五島列島キリシタン物語【前編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_01</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/goto_retto_christian_monogatari_02">
+    <title>五島列島キリシタン物語【後編】　地元新聞社が発行している生活情報誌ライターの旅日記をお届け。</title>
+    <link>https://www.47news.jp/special/goto_retto_christian_monogatari_02</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2025-10-29T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
