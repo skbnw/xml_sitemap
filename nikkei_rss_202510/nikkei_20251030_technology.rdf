@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2025-10-30T09:12:08+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN297LJ0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29CX20Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD29D1O0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC232C00T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC291YC0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG260140W5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC293RY0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN291MO0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC299DE0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290B00Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA291740Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC294Z50Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM292J70Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD295BY0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2919L0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG235VJ0T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN216CN0R21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28C890Y5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28CKR0Y5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC227E70S5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC215X30R21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG145H60U5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF225T90S5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD289LF0Y5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM285BR0Y5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF154I80V11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC285ZN0Y5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2842M0Y5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC273FV0X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN282UM0Y5A021C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN297LJ0Z21C25A0000000/">
+    <title>Microsoft7〜9月最高益　クラウド4割増収、リストラ効果も寄与</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN297LJ0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:59:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29CX20Z21C25A0000000/">
+    <title>メタ、7〜9月純利益83%減　ネット広告好調も税費用を計上</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29CX20Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD29D1O0Z21C25A0000000/">
+    <title>組織再編のOpenAI、資金調達「単純な枠組み」に　フライアCFO</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD29D1O0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T05:04:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC232C00T21C25A0000000/">
+    <title>さいたま市、自動運転バス実証　29年度「レベル4」走行目指す</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC232C00T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC291YC0Z21C25A0000000/">
+    <title>パーソル系、AIアバターが求職者の経歴聞き取り　求人提案に活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC291YC0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG260140W5A021C2000000/">
+    <title>国際宇宙ステーションに日本の補給船到着　油井さんがロボットで確保</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG260140W5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T03:08:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC293RY0Z21C25A0000000/">
+    <title>中国･鏡識科技、｢世界最速｣四足ロボの実用化急ぐ　秒速10.9メートル</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC293RY0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN291MO0Z21C25A0000000/">
+    <title>NVIDIA時価総額、世界初5兆ドル突破　AI半導体独走で相場全体を左右</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN291MO0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T22:36:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC299DE0Z21C25A0000000/">
+    <title>日立、NVIDIAの最新演算装置を採用　鉄道保守をAIで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC299DE0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T20:38:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290B00Z21C25A0000000/">
+    <title>OpenAIが組織再編　AIインフラ投資「210兆円」へ資金調達しやすく</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290B00Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T18:45:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA291740Z21C25A0000000/">
+    <title>高市首相、米アンソロピックCEOと面会「新興企業との協業に期待」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA291740Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T18:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC294Z50Z21C25A0000000/">
+    <title>米アンソロピック、政府機関と協定　AIリスク評価を日本特化で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC294Z50Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T17:39:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM292J70Z21C25A0000000/">
+    <title>韓国CEOサミット開幕　トランプ氏登壇、BTSリーダーも</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM292J70Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T16:46:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD295BY0Z21C25A0000000/">
+    <title>工場自動化へヒト型ロボ　製造業DXの展示会、名古屋で開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD295BY0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T15:54:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2919L0Z21C25A0000000/">
+    <title>韓国SK、7〜9月営業益が過去最高　AI半導体好調で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2919L0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T15:04:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG235VJ0T21C25A0000000/">
+    <title>酷暑による労働損失24年1兆ドル超、健康や経済に影　英医学誌</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG235VJ0T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T09:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN216CN0R21C25A0000000/">
+    <title>Apple、「4兆ドルクラブ」入り　iPhone17好調で3社目</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN216CN0R21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T06:05:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28C890Y5A021C2000000/">
+    <title>OpenAI、組織再編でIPOに布石　出資のMicrosoftは時価総額4兆ドル</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28C890Y5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T05:44:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28CKR0Y5A021C2000000/">
+    <title>NVIDIA、ノキアに1500億円出資　潤沢な資金で通信など新市場を開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28CKR0Y5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T05:22:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC227E70S5A021C2000000/">
+    <title>プリファード、AI向けデータセンター開設　次世代技術で冷却効率化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC227E70S5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC215X30R21C25A0000000/">
+    <title>浜松ホトニクス、核融合レーザー開発に厚み　米研究所主導のWG参画</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC215X30R21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG145H60U5A011C2000000/">
+    <title>中国宇宙船「神舟20号」の宇宙飛行士、4回目の船外活動を完了</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG145H60U5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF225T90S5A920C2000000/">
+    <title>経営にAI活用、取締役に新たな訴訟リスク　弁護士の加藤真朗さん</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF225T90S5A920C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-29T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD289LF0Y5A021C2000000/">
+    <title>愛知県の自動運転実証、物損事故で休止　けが人なし</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD289LF0Y5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T19:31:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM285BR0Y5A021C2000000/">
+    <title>韓国SK、AIフォーラム開催　米AWSやオープンAIとの協力を強調</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM285BR0Y5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T18:25:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF154I80V11C25A0000000/">
+    <title>ノーベル賞「多孔性材料」を商用化へ　北川氏顧問の企業、東南アで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF154I80V11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC285ZN0Y5A021C2000000/">
+    <title>米アンソロピックCEO、AIバブル否定「進化止まる気配ない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC285ZN0Y5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T17:46:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2842M0Y5A021C2000000/">
+    <title>静岡大学、浜松キャンパスに自動走行ロボット　ソミックとタッグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2842M0Y5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T17:35:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC273FV0X21C25A0000000/">
+    <title>リコー、クラウド型の文書管理システム　AIで分類・検索容易</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC273FV0X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T17:28:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN282UM0Y5A021C2000000/">
+    <title>マスク氏、Wikipedia対抗サイト開始　記事が「左派に偏り」と批判</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN282UM0Y5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-28T16:43:10+09:00</dc:date>
+  </item>
+</rdf:RDF>

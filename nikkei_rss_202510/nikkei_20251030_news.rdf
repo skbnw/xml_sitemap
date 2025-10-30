@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-10-30T09:14:15+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN291MO0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300EM0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300G60Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC28CQH0Y5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN297LJ0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300A60Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300F40Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC300EC0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN3005J0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN300J30Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2983U0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC236KP0T21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29D120Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN3000S0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC300C60Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29CVS0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300360Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN300CL0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300220Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN3004E0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29CX20Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL29C5A0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300400Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA3009H0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC275WM0X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001R0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29D450Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF29CWR0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL29CNQ0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29CVR0Z21C25A0000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN291MO0Z21C25A0000000/">
+    <title>NVIDIA時価総額、世界初5兆ドル突破　AI半導体独走で相場全体を左右</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN291MO0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T09:12:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300EM0Q5A031C2000000/">
+    <title>日経平均、反落で始まる　米利下げ観測後退や利益確定売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300EM0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T09:08:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300G60Q5A031C2000000/">
+    <title>債券寄り付き　先物、続落　米金利上昇で売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300G60Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T09:06:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC28CQH0Y5A021C2000000/">
+    <title>宇宙開発の米アクシオム、東北大学発新興と協業へ　地球に効率輸送</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC28CQH0Y5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN297LJ0Z21C25A0000000/">
+    <title>Microsoft7〜9月最高益　クラウド4割増収、リストラ効果も寄与</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN297LJ0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:59:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300A60Q5A031C2000000/">
+    <title>日経平均先物、反落し5万0960円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300A60Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:54:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300F40Q5A031C2000000/">
+    <title>外為8時30分　円相場、下落し152円台後半　12月の米利下げ観測後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300F40Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:50:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC300EC0Q5A031C2000000/">
+    <title>鈴木唯人がアシスト　サッカーのドイツ杯</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC300EC0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:36:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN3005J0Q5A031C2000000/">
+    <title>米メディア界の重鎮、リバティのマローン会長　2025年末に退任</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN3005J0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:36:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN300J30Q5A031C2000000/">
+    <title>米軍、中国の武力威嚇に対抗措置を計画　南シナ海でと米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN300J30Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:33:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2983U0Z21C25A0000000/">
+    <title>高市首相、韓国の李大統領と30日会談　中国・習主席とは31日実施へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2983U0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC236KP0T21C25A0000000/">
+    <title>3分でわかるコンサル業界　DXで需要急増、システム開発も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC236KP0T21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:26:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29D120Z21C25A0000000/">
+    <title>パウエルFRB議長「12月の方針は意見の隔たり大きい」　記者会見要旨</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29D120Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:22:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN3000S0Q5A031C2000000/">
+    <title>分裂FRB、12月利下げは「霧の中」　議長は前のめり相場けん制</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN3000S0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:05:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC300C60Q5A031C2000000/">
+    <title>大谷翔平、選手会MVP逃す　捕手ローリーが受賞</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC300C60Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T08:05:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29CVS0Z21C25A0000000/">
+    <title>アルファベット、7〜9月3割増益　四半期売上高初の1000億ドル超</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29CVS0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:55:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300360Q5A031C2000000/">
+    <title>日経平均株価、米12月利下げ観測後退が重荷（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300360Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:53:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN300CL0Q5A031C2000000/">
+    <title>トランプ氏、韓国の原子力潜水艦建造を承認　「米東部でつくる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN300CL0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:47:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300220Q5A031C2000000/">
+    <title>今日の株価材料（新聞など、30日）NEC、米ソフト会社買収　最大の4400億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300220Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:35:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN3004E0Q5A031C2000000/">
+    <title>米スタバの7〜9月、7四半期連続減益　米中で客足減に歯止めきかず</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN3004E0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:25:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29CX20Z21C25A0000000/">
+    <title>メタ、7〜9月純利益83%減　ネット広告好調も税費用を計上</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29CX20Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL29C5A0Z21C25A0000000/">
+    <title>NY株ハイライト　AI銘柄になったキャタピラー、NVIDIA超す25年の上昇率</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL29C5A0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:08:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300400Q5A031C2000000/">
+    <title>シカゴ日本株先物概況・29日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300400Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:03:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA3009H0Q5A031C2000000/">
+    <title>高市首相と中国・習国家主席、31日初会談へ　「戦略的互恵」推進確認</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA3009H0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:03:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC275WM0X21C25A0000000/">
+    <title>セブン沖縄、進出6年で200店　スピード出店で2位ローソンを猛追</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC275WM0X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001R0Q5A031C2000000/">
+    <title>NYダウ反落、74ドル安　FRBの利下げ継続への期待が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001R0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T06:46:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29D450Z21C25A0000000/">
+    <title>米運輸省、メキシコ発の13航空路線取り消し　新空港へ移管に報復</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29D450Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T06:44:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF29CWR0Z21C25A0000000/">
+    <title>Microsoftのクラウド基盤「Azure」と業務ソフト「365」で障害</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF29CWR0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T06:36:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL29CNQ0Z21C25A0000000/">
+    <title>NY円相場、反落　1ドル=152円70〜80銭　パウエル議長会見でドル買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL29CNQ0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T06:32:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29CVR0Z21C25A0000000/">
+    <title>パウエルFRB議長の利下げ慎重発言、市場が動揺　米識者の見方</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29CVR0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-10-30T06:31:38+09:00</dc:date>
+  </item>
+</rdf:RDF>
