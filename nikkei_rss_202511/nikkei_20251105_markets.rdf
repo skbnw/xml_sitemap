@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2025-11-05T10:12:02+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050RK0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04BBS0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB050ST0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050J10V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050940V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050J30V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050KX0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050KJ0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL313LNTR31C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050350V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04B970U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050330V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04BJ30U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0503H0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050260V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04BG10U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04BDD0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0500U0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04BH40U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0501C0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL050310V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04BBW0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD31BYT0R31C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB099VQ0Z01C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04BAL0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04BAE0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04BA70U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04B9T0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB304NO0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL04B8Q0U5A101C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050RK0V01C25A1000000/">
+    <title>商品9時30分　原油が反落、日米の株安で　金は続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050RK0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T10:05:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04BBS0U5A101C2000000/">
+    <title>AMD好決算、AI半導体の成長期待揺らがず　買い材料には乏しく</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04BBS0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T09:44:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB050ST0V01C25A1000000/">
+    <title>日経平均株価、一時5万円割れ　下げ幅1500円超す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB050ST0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T09:34:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050J10V01C25A1000000/">
+    <title>東証寄り付き　日経平均は続落　1100円安　半導体関連に売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050J10V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T09:27:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050940V01C25A1000000/">
+    <title>債券寄り付き　先物、反発　米債相場が上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050940V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T09:10:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050J30V01C25A1000000/">
+    <title>日経平均、続落で始まる　米ハイテク株安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050J30V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T09:08:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050KX0V01C25A1000000/">
+    <title>日経平均先物、続落し5万1000円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050KX0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T08:55:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050KJ0V01C25A1000000/">
+    <title>外為8時30分　円相場、小幅安　153円台後半　対ユーロでは上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050KJ0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T08:51:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL313LNTR31C25A0000000/">
+    <title>金相場「まだまだ上昇トレンドの中」　ピクテ・ジャパンの塚本氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL313LNTR31C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T08:35:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050350V01C25A1000000/">
+    <title>シカゴ日本株先物概況・4日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050350V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T08:24:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04B970U5A101C2000000/">
+    <title>NY株ハイライト　パランティア7%安　根強い割高感、著名投資家の弱気ポジションにも警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04B970U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T08:18:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050330V01C25A1000000/">
+    <title>日本株ADR4日、売り優勢　野村や銀行が下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050330V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T08:00:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04BJ30U5A101C2000000/">
+    <title>NY円相場、反発　1ドル=153円60〜70銭　米株安や円買い介入警戒感で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04BJ30U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T07:46:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0503H0V01C25A1000000/">
+    <title>日経平均株価、米株安が重荷　トヨタ決算に注目（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0503H0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T07:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050260V01C25A1000000/">
+    <title>今日の株価材料（新聞など、5日）任天堂「スイッチ2」販売を上方修正　今期1900万台</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050260V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T07:29:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04BG10U5A101C2000000/">
+    <title>低迷する米住宅株、背景に消費者の拭えぬ景気懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04BG10U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T07:16:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04BDD0U5A101C2000000/">
+    <title>NY債券、長期債反発　10年債利回り4.08%　株安でリスク回避の買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04BDD0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T07:14:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0500U0V01C25A1000000/">
+    <title>米ナスダック2%安、テック投資熱に大物3人警告　「IT株は割高」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0500U0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T06:24:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04BH40U5A101C2000000/">
+    <title>米テック3社10兆円調達　社債にAIマネー殺到、市場は熱狂を警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04BH40U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T06:20:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0501C0V01C25A1000000/">
+    <title>ビットコイン価格急落、一時10万ドル割れ　米株安が波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0501C0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T06:18:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL050310V01C25A1000000/">
+    <title>日経平均先物、夜間取引で下落　310円安の5万1200円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL050310V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T06:09:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04BBW0U5A101C2000000/">
+    <title>NY商品、原油反落　供給過剰懸念やドル高で　金反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04BBW0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T05:39:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD31BYT0R31C25A0000000/">
+    <title>トヨタが5日決算発表　車生産が好調、業績の上方修正焦点</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD31BYT0R31C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB099VQ0Z01C25A0000000/">
+    <title>円相場、25年度末に1ドル=146円　SMBC日興の小田氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB099VQ0Z01C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T04:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04BAL0U5A101C2000000/">
+    <title>ドイツ株4日　反落、投資家が慎重姿勢強める　仏株は3週間ぶり安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04BAL0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T03:55:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04BAE0U5A101C2000000/">
+    <title>ロンドン株4日　小幅反発、ポンド安が支え　ヘルスケア関連やREITに買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04BAE0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T03:29:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04BA70U5A101C2000000/">
+    <title>欧州国債概況4日　独10年債利回り、小幅低下　株安が支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04BA70U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T02:49:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04B9T0U5A101C2000000/">
+    <title>ロンドン外為4日　ユーロ、対ドルで3カ月ぶり安値圏　英ポンドは4月以来の安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04B9T0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T02:41:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB304NO0Q5A031C2000000/">
+    <title>給付付き税額控除は就労促進で設計を</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB304NO0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL04B8Q0U5A101C2000000/">
+    <title>NYダウが続落、一時400ドル安　AI銘柄の割高感で売りが先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL04B8Q0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T00:43:44+09:00</dc:date>
+  </item>
+</rdf:RDF>
