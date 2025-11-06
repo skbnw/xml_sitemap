@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/society.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsociety.rdf">
+    <title>日経新聞 社会</title>
+    <link>https://www.nikkei.com/news/category/society/</link>
+    <description>日経新聞の社会に関するフィードをお届けします。</description>
+    <dc:date>2025-11-06T09:12:53+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF259UU0V20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2167M0R21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD05A9Q0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF057EH0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD058290V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF049XA0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0515L0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF051Y10V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD042KW0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF04B580U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD057KO0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD297X10Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0528T0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD30D5J0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC055QL0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD055EV0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB04BE50U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC047MZ0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD040TC0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0403Y0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD04AAN0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD048R40U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD04AIL0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF313NW0R31C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD049ZM0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC313GY0R31C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0496P0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0471X0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD042KL0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD031W10T01C25A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF259UU0V20C25A9000000/">
+    <title>ドクターヘリ運航休止続発、正常化見通せず　「整備士同乗」が急所に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF259UU0V20C25A9000000/</link>
+    <description></description>
+    <dc:date>2025-11-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2167M0R21C25A0000000/">
+    <title>大阪府の公立高校再編、実業テコ入れ　AI・ロボット人材育成へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2167M0R21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD05A9Q0V01C25A1000000/">
+    <title>海外産品を国内産と表示、アイリス系など2社に措置命令　消費者庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD05A9Q0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T22:35:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF057EH0V01C25A1000000/">
+    <title>全ての核保有国「対話を」　被爆80年広島でパグウォッシュ会議閉幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF057EH0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T22:09:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD058290V01C25A1000000/">
+    <title>陥没履歴や配管点検、道路の地下情報を集約へ　埼玉陥没事故で国交省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD058290V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T21:08:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF049XA0U5A101C2000000/">
+    <title>タイから液状大麻20キロ密輸疑い、女逮捕　関西空港で麻薬探知犬発見</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF049XA0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T21:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0515L0V01C25A1000000/">
+    <title>福地桃子さんと河瀬直美さんに最優秀女優賞　東京国際映画祭が閉幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0515L0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T20:41:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF051Y10V01C25A1000000/">
+    <title>名古屋主婦殺害、容疑者「凶器処分した」　被害者夫が通う大学訪問も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF051Y10V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD042KW0U5A101C2000000/">
+    <title>JR東日本子会社の人件費過大請求、不正受給は19.9億円　国の受託事業</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD042KW0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T18:59:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF04B580U5A101C2000000/">
+    <title>安倍氏銃撃、被告宅は「テロリストのアジトのよう」　捜索の警官証言</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF04B580U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T18:50:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD057KO0V01C25A1000000/">
+    <title>上皇ご夫妻、葉山から帰京　静養のため滞在</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD057KO0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T18:35:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD297X10Z21C25A0000000/">
+    <title>「税金の無駄遣い」24年度540億円　医療福祉など不正、会計検査院調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD297X10Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T18:17:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0528T0V01C25A1000000/">
+    <title>東京・神田に英国式インター校「エプソムカレッジ」27年秋開校</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0528T0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T17:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD30D5J0Q5A031C2000000/">
+    <title>クマ捕獲へ自衛隊出動　疲弊する市町村支援、100キロ超｢箱わな｣運ぶ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD30D5J0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T17:34:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC055QL0V01C25A1000000/">
+    <title>餌からヒグマの行動分析を　北海道、識者の意見聴取</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC055QL0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T17:28:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD055EV0V01C25A1000000/">
+    <title>「古古古米」「チャッピー」　新語・流行語大賞に30語ノミネート</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD055EV0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T14:52:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB04BE50U5A101C2000000/">
+    <title>カンボジアで邦人13人を拘束　特殊詐欺に関与疑いで地元捜査当局</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB04BE50U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T13:47:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC047MZ0U5A101C2000000/">
+    <title>秋田県、クマ対策で陸上自衛隊と協力協定　わな輸送など支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC047MZ0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T12:33:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD040TC0U5A101C2000000/">
+    <title>「ゾンビたばこ」、若者中心に摘発相次ぐ　まん延の恐れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD040TC0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T11:39:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0403Y0U5A101C2000000/">
+    <title>メキシコ、政権1年で市長10人が暗殺　「麻薬戦争」から失政の連鎖</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0403Y0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-05T05:32:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD04AAN0U5A101C2000000/">
+    <title>仁科記念賞に本間希樹氏ら　ブラックホール撮影など功績</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD04AAN0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T23:40:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD048R40U5A101C2000000/">
+    <title>クマ対応の実情聞き取り　警察庁、秋田へ職員派遣</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD048R40U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T23:38:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD04AIL0U5A101C2000000/">
+    <title>兵庫県加古川市で14台絡む多重事故、1人死亡17人負傷</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD04AIL0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T23:32:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF313NW0R31C25A0000000/">
+    <title>安倍氏銃撃公判、「別人が被弾の可能性」　捜査担当警官が証言</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF313NW0R31C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T20:46:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD049ZM0U5A101C2000000/">
+    <title>れいわ･山川仁議員､豊見城市長時代の｢パワハラ｣訴訟和解　沖縄地裁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD049ZM0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T20:23:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC313GY0R31C25A0000000/">
+    <title>子供が楽しみながら学ぶ「パネルシアター」　海外でも普及</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC313GY0R31C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0496P0U5A101C2000000/">
+    <title>ノーベル賞の坂口志文氏｢がん免疫療法が理想｣　患者団体理事長と対談</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0496P0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T19:18:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0471X0U5A101C2000000/">
+    <title>石川・奥能登の10月人口6%減、4万8162人</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0471X0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T19:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD042KL0U5A101C2000000/">
+    <title>秋田のクマ被害、5日から自衛隊派遣　箱わな輸送など後方支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD042KL0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T19:13:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD031W10T01C25A1000000/">
+    <title>首都高6人死傷事故、運転手に懲役7年6月判決　東京地裁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD031W10T01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-04T18:41:36+09:00</dc:date>
+  </item>
+</rdf:RDF>
