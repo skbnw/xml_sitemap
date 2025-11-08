@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-11-08T10:11:28+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC080IC0Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC080H60Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD080CU0Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC080I90Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0802O0Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN080980Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC3088O0Q5A031C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0713F0X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC080B60Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC080B40Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN080830Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR07CW20X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07CRI0X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07CX60X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN080590Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07CR20X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07D570X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0801O0Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0800A0Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07D580X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29D090Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF27B6Z0X21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07D560X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07D5V0X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN22D670S5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0800P0Y5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07D2Q0X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN07CRT0X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL07CRG0X01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0704Z0X01C25A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC080IC0Y5A101C2000000/">
+    <title>シルバースラッガー賞、60本塁打のローリーが初選出　ジャッジも</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC080IC0Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T10:10:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC080H60Y5A101C2000000/">
+    <title>バンダイチャンネル、サービス一時停止　不正アクセスの疑いも</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC080H60Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T10:02:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD080CU0Y5A101C2000000/">
+    <title>ジェームズ・ワトソンさんが死去　DNA二重らせん構造発見</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD080CU0Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T09:57:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC080I90Y5A101C2000000/">
+    <title>早田ひな、準々決勝へ　卓球チャンピオンズ・フランクフルト</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC080I90Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T09:55:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0802O0Y5A101C2000000/">
+    <title>COP30、水素やバイオ燃料「10年で4倍」宣言　ブラジルや日本が提案</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0802O0Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T09:49:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN080980Y5A101C2000000/">
+    <title>米EVリヴィアン、イーロン・マスク型報酬に追随　CEOに10年7000億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN080980Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T09:14:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC3088O0Q5A031C2000000/">
+    <title>大相撲九州場所、雪駄鳴らして歩く力士に憧れ　中学時代から熱中</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC3088O0Q5A031C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0713F0X01C25A1000000/">
+    <title>8日の有力馬　京王杯2歳Sなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0713F0X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T08:44:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC080B60Y5A101C2000000/">
+    <title>ヤクルト村上宗隆、米球団と交渉開始　期限は12月23日まで</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC080B60Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T08:42:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC080B40Y5A101C2000000/">
+    <title>久保建英6戦ぶり先発、菅原由勢はアシスト　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC080B40Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T08:39:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN080830Y5A101C2000000/">
+    <title>米国防長官、防衛産業界に「戦時への転換」要請　武器輸出遅れなく</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN080830Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T07:53:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR07CW20X01C25A1000000/">
+    <title>仏ルノーのシュバイツァー元会長死去　1999年の日産との提携主導</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR07CW20X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T07:53:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07CRI0X01C25A1000000/">
+    <title>NY円相場、反落　1ドル=153円40〜50銭　持ち高調整の円売り・ドル買い優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07CRI0X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T07:46:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07CX60X01C25A1000000/">
+    <title>調整する米株相場　流動性懸念に政府閉鎖の影</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07CX60X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T07:45:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN080590Y5A101C2000000/">
+    <title>テスラ、マスク氏への巨額報酬案の賛成率76.6%に　前回を上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN080590Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T07:41:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07CR20X01C25A1000000/">
+    <title>NY債券、長期債反落　10年債利回り4.09%　国債入札控え売り優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07CR20X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T07:12:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07D570X01C25A1000000/">
+    <title>シカゴ日本株先物概況・7日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07D570X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T07:11:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0801O0Y5A101C2000000/">
+    <title>メキシコとフランス首脳会談、貿易や文化で連携協定に署名</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0801O0Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T06:40:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0800A0Y5A101C2000000/">
+    <title>米ナスダック週3%安、AI投資不安で7カ月ぶり下落率　世界株にも波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0800A0Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T06:29:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07D580X01C25A1000000/">
+    <title>日経平均先物、夜間取引で上昇　100円高の5万410円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07D580X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T06:29:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29D090Z21C25A0000000/">
+    <title>アメリカで小食トレンド、減量薬普及で「何でもビッグサイズ」に変化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29D090Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T06:27:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF27B6Z0X21C25A0000000/">
+    <title>賭博で揺れる米スポーツ界、NBA選手が起訴　「日本の選手も危険」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF27B6Z0X21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T06:18:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07D560X01C25A1000000/">
+    <title>日本株ADR7日、売り優勢　ソニーGやホンダの下げ目立つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07D560X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T06:15:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07D5V0X01C25A1000000/">
+    <title>米ボーイング、中型機「787」の工場拡張　日本勢が部品3割供給</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07D5V0X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T06:10:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN22D670S5A021C2000000/">
+    <title>膨張ステーブルコイン　テザー最大3兆円調達か、OpenAI級の評価浮上</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN22D670S5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T06:03:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0800P0Y5A101C2000000/">
+    <title>トランプ氏、オルバン氏と会談　対ロシア制裁の除外は「検討中」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0800P0Y5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T05:47:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07D2Q0X01C25A1000000/">
+    <title>米コーネル大がトランプ政権と和解　92億円支払い、助成金は再開</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07D2Q0X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T05:41:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN07CRT0X01C25A1000000/">
+    <title>米消費者マインド冷え込み　3年5カ月ぶり低水準、政府閉鎖の長期化直撃</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN07CRT0X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T05:29:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL07CRG0X01C25A1000000/">
+    <title>NY商品、原油反発　持ち高調整の買い優勢　金も反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL07CRG0X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T05:27:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0704Z0X01C25A1000000/">
+    <title>AI半導体「ブラックウェル」擁すNVIDIA　米政権となぜ摩擦</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0704Z0X01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-08T05:23:46+09:00</dc:date>
+  </item>
+</rdf:RDF>
