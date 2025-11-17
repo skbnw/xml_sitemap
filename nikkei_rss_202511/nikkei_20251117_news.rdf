@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-11-17T10:11:05+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1710M0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD205V90Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC135KT0T11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCA102XC0Q5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA170ER0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB170J60X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB170XZ0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC170JM0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170CM0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB170QG0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA148DB0U5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB170NE0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1705Q0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC170GC0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1709T0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC170HE0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC170FE0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1705R0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC201XB0Q5A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170240X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170IB0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL14D7HTU5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB170IV0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM161760W5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1702N0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160G70W5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1700E0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR161PG0W5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB14CG20U5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC31C7L0R31C25A0000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1710M0X11C25A1000000/">
+    <title>「麻薬船」攻撃で3人殺害　米軍、東太平洋の公海</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1710M0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T10:04:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD205V90Q5A021C2000000/">
+    <title>「稼げるコメ作り」の芽は60年前に摘まれた　農地改革の先を描けず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD205V90Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC135KT0T11C25A1000000/">
+    <title>自動運転のチューリング、152億円調達　デンソーも出資</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC135KT0T11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCA102XC0Q5A111C2000000/">
+    <title>スズキの社食カレー、インド人社員絶賛　国際化で広がるベジタリアン市場</title>
+    <link>https://www.nikkei.com/article/DGXZQOCA102XC0Q5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA170ER0X11C25A1000000/">
+    <title>外務省アジア大洋州局長が17日から中国訪問　対立の沈静化探る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA170ER0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:57:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB170J60X11C25A1000000/">
+    <title>長期金利が1.72%に上昇、17年半ぶり高水準　財政悪化懸念で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB170J60X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:54:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB170XZ0X11C25A1000000/">
+    <title>ドバイ原油・17日午前、下落　64.30ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB170XZ0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:50:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC170JM0X11C25A1000000/">
+    <title>フィギュア渡辺倫果がSP2位　スケートアメリカ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC170JM0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:40:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170CM0X11C25A1000000/">
+    <title>東証寄り付き　日経平均は続落　500円安、5万円割れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170CM0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:33:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB170QG0X11C25A1000000/">
+    <title>イスラエル、ハマス奇襲の調査委員会を設置　ガザ戦闘の発端</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB170QG0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:26:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA148DB0U5A111C2000000/">
+    <title>7〜9月実質GDP、年率1.8%減　6四半期ぶりマイナス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA148DB0U5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:22:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB170NE0X11C25A1000000/">
+    <title>イラン、ホルムズ海峡でタンカー拿捕　米軍が非難「明白な国際法違反」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB170NE0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:19:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1705Q0X11C25A1000000/">
+    <title>債券寄り付き　先物、反落　米金利上昇で　GDPマイナスも買いは限定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1705Q0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:17:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC170GC0X11C25A1000000/">
+    <title>金谷拓実3位、星野陸也は8位　米男子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC170GC0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:13:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1709T0X11C25A1000000/">
+    <title>日経平均、続落で始まる　一時300円安　米利下げ観測後退が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1709T0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:11:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC170HE0X11C25A1000000/">
+    <title>サッカーW杯欧州予選、ノルウェーとポルトガルが本大会出場</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC170HE0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:02:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC170FE0X11C25A1000000/">
+    <title>西郷真央11位、竹田麗央は15位　米女子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC170FE0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:00:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1705R0X11C25A1000000/">
+    <title>外為8時30分　円相場、上昇し154円台半ば　GDPマイナスの反応限定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1705R0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T09:00:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC201XB0Q5A021C2000000/">
+    <title>大成建設、半導体機器向け免震装置　中小規模の地震の揺れ軽微に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC201XB0Q5A021C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T08:59:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170240X11C25A1000000/">
+    <title>米国株、連発するヒンデンブルグ・オーメン　一段安かダマシか</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170240X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T08:56:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170IB0X11C25A1000000/">
+    <title>日経平均先物、小幅続落し5万0300円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170IB0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T08:55:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL14D7HTU5A111C2000000/">
+    <title>米政府再開も尾を引くデータ不足、薄れる利下げの根拠</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL14D7HTU5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T08:53:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB170IV0X11C25A1000000/">
+    <title>米永住権「グリーンカード」審査の厳格化検討　入国禁止12カ国対象と報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB170IV0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T08:53:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM161760W5A111C2000000/">
+    <title>日中の共同世論調査の発表が再延期に　中国側が前日に通告</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM161760W5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T08:38:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1702N0X11C25A1000000/">
+    <title>NYで「サラダボウル株」軒並み安　若者の雇用悪化、節約志向が逆風</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1702N0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T08:28:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160G70W5A111C2000000/">
+    <title>日経平均は一進一退か、米ハイテク株高が支え（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160G70W5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T07:40:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1700E0X11C25A1000000/">
+    <title>今日の株価材料（新聞など、15〜17日）ニデック、日本取引所に改善計画提出へ　不適切会計</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1700E0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T07:17:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR161PG0W5A111C2000000/">
+    <title>サウジ皇太子が7年半ぶり訪米へ　F35戦闘機求めトランプ氏と会談</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR161PG0W5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T07:02:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB14CG20U5A111C2000000/">
+    <title>NVIDIA決算、AIラリー持続へ正念場　日経平均株価5万円台定着を左右</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB14CG20U5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC31C7L0R31C25A0000000/">
+    <title>3分でわかる半導体業界　AI需要で巨大市場、日本は装置シェア3割</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC31C7L0R31C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-17T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
