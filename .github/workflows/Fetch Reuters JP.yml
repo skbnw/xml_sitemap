@@ -19,37 +19,72 @@ jobs:
         run: |
           set -eu
 
-          # ※ $() を使わずに backquote にしておく
+          # 日付（YYYYMMDD）※ backquote で安全寄りに
           TODAY=`date -u +%Y%m%d`
 
           OUT_DIR="rss_reutersjp_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
-          echo "Fetching Reuters Japan sitemap XMLs for ${TODAY} ..."
+          echo "=== Fetching Reuters Japan sitemap indexes for ${TODAY} ==="
 
-          # 1つ目：全体 sitemap index
+          # 1) 全体 sitemap index（念のため保持）
           echo "  - sitemap_index"
-          if ! curl -fsSL \
+          curl -fsSL \
             --retry 3 --retry-delay 5 --max-time 30 \
             -H "User-Agent: github-actions-reutersjp-sitemap/1.0" \
             "https://jp.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml" \
-            -o "${OUT_DIR}/reutersjp_sitemap_index_${TODAY}.xml"; then
-            echo "⚠ Failed to fetch sitemap-index, skipping."
-            rm -f "${OUT_DIR}/reutersjp_sitemap_index_${TODAY}.xml" || true
-          fi
+            -o "${OUT_DIR}/reutersjp_sitemap_index_${TODAY}.xml" \
+            || echo "⚠ Failed to fetch sitemap-index (non-fatal)."
 
-          # 2つ目：news sitemap index
+          # 2) news sitemap index（ここから子サイトマップをたどる）
           echo "  - news_sitemap_index"
           if ! curl -fsSL \
             --retry 3 --retry-delay 5 --max-time 30 \
             -H "User-Agent: github-actions-reutersjp-sitemap/1.0" \
             "https://jp.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml" \
             -o "${OUT_DIR}/reutersjp_news_sitemap_index_${TODAY}.xml"; then
-            echo "⚠ Failed to fetch news-sitemap-index, skipping."
-            rm -f "${OUT_DIR}/reutersjp_news_sitemap_index_${TODAY}.xml" || true
+            echo "⚠ Failed to fetch news-sitemap-index. Stopping child sitemap fetch."
+          else
+            echo "=== Parsing child sitemap URLs from news_sitemap_index ==="
+
+            NEWS_INDEX="${OUT_DIR}/reutersjp_news_sitemap_index_${TODAY}.xml"
+
+            # <loc>...</loc> から URL を抜き出し、&amp; を & に戻す
+            grep -o 'https://jp.reuters.com/arc/outboundfeeds/news-sitemap/[^<]*' "${NEWS_INDEX}" \
+              | sed 's/&amp;/\&/g' \
+              > "${OUT_DIR}/reutersjp_news_sitemap_urls_${TODAY}.txt" || true
+
+            echo "Found child sitemap URLs:"
+            cat "${OUT_DIR}/reutersjp_news_sitemap_urls_${TODAY}.txt" || echo "  (none)"
+
+            # 各 child sitemap を取得
+            while IFS= read -r url; do
+              # 空行はスキップ
+              if [ -z "${url}" ]; then
+                continue
+              fi
+
+              # from= の値を抜き出してファイル名に使う（なければ 0）
+              from_val=`printf '%s\n' "${url}" | sed -n 's/.*from=\([0-9][0-9]*\).*/\1/p'`
+              if [ -z "${from_val}" ]; then
+                from_val="0"
+              fi
+
+              out_file="${OUT_DIR}/reutersjp_news_from${from_val}_${TODAY}.xml"
+
+              echo "  - Fetching child sitemap from=${from_val}: ${url}"
+
+              if ! curl -fsSL \
+                --retry 3 --retry-delay 5 --max-time 30 \
+                -H "User-Agent: github-actions-reutersjp-sitemap/1.0" \
+                "${url}" -o "${out_file}"; then
+                echo "    ⚠ Failed to fetch child sitemap ${url}, skipping."
+                rm -f "${out_file}" || true
+              fi
+            done < "${OUT_DIR}/reutersjp_news_sitemap_urls_${TODAY}.txt"
           fi
 
-          echo "Files created under: ${OUT_DIR}"
+          echo "=== Result: files under ${OUT_DIR} ==="
           ls -R "${OUT_DIR}"
 
       - name: Commit and push changes
@@ -68,6 +103,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Add Reuters Japan sitemaps for ${TODAY}"
+            git commit -m "Add Reuters Japan sitemaps and news sitemaps for ${TODAY}"
             git push
           fi
