@@ -1,0 +1,70 @@
+name: Fetch NPR RSS
+
+on:
+  schedule:
+    # 毎日 06:00 UTC 実行（米国東部時間 01:00 前後）
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-npr-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch NPR RSS feeds
+        run: |
+          # UTC 年月ごとにディレクトリを分ける
+          OUTDIR="rss_npr_$(date -u +\%Y\%m)"
+          mkdir -p "$OUTDIR"
+
+          BASE="https://www.npr.org/rss/rss.php?id="
+
+          # 監視したいトピック ID 群
+          # 最低限: 1001, 1002, 1006
+          # 少し広めにニュース系をカバーする例
+          ids=(
+            1001  # News (トップニュース)
+            1002  # Arts & Life
+            1003  # National
+            1004  # World
+            1006  # Business
+            1007  # Science
+            1008  # Culture/Arts
+            1012  # Politics
+            1013  # Education
+            1015  # Race
+            1016  # Religion
+            1017  # Economy
+            1019  # Technology
+            1025  # Environment
+            1026  # Space
+          )
+
+          for id in "${ids[@]}"; do
+            url="${BASE}${id}"
+            file="${OUTDIR}/npr-${id}_$(date -u +\%Y\%m%d).xml"
+            if wget "$url" -O "$file"; then
+              echo "Downloaded $url"
+            else
+              echo "Failed to download $url" >> download_errors.log
+            fi
+            sleep 3  # 負荷軽減のため少し待つ
+          done
+
+      - name: Commit and Push files to main
+        if: always()
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # 変更がある場合だけコミット
+          git add rss_npr_* download_errors.log 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add NPR RSS files for $(date -u +\%Y\%m%d)"
+            git push origin main
+          fi
