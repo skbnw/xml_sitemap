@@ -15,50 +15,50 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch Reuters Japan sitemap XMLs
+        shell: bash
         run: |
           set -eu
 
-          TODAY=$(date -u +"%Y%m%d")
+          # ※ $() を使わずに backquote にしておく
+          TODAY=`date -u +%Y%m%d`
 
-          # リポジトリ直下に日付付きフォルダ
           OUT_DIR="rss_reutersjp_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
-          # robots.txt に記載されているサイトマップインデックス
-          # SITEMAP: https://jp.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml
-          # SITEMAP: https://jp.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml
-          declare -A MAPS=(
-            ["sitemap_index"]="https://jp.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml"
-            ["news_sitemap_index"]="https://jp.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml"
-          )
+          echo "Fetching Reuters Japan sitemap XMLs for ${TODAY} ..."
 
-          echo "Fetching ${#MAPS[@]} Reuters Japan sitemap XMLs..."
+          # 1つ目：全体 sitemap index
+          echo "  - sitemap_index"
+          if ! curl -fsSL \
+            --retry 3 --retry-delay 5 --max-time 30 \
+            -H "User-Agent: github-actions-reutersjp-sitemap/1.0" \
+            "https://jp.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml" \
+            -o "${OUT_DIR}/reutersjp_sitemap_index_${TODAY}.xml"; then
+            echo "⚠ Failed to fetch sitemap-index, skipping."
+            rm -f "${OUT_DIR}/reutersjp_sitemap_index_${TODAY}.xml" || true
+          fi
 
-          for name in "${!MAPS[@]}"; do
-            url="${MAPS[$name]}"
-            out_file="${OUT_DIR}/reutersjp_${name}_${TODAY}.xml"
-
-            echo "  - ${name}: ${url}"
-
-            # リトライ付きで取得、失敗したらスキップ
-            if ! curl -fsSL \
-              --retry 3 --retry-delay 5 --max-time 30 \
-              -H "User-Agent: github-actions-reutersjp-sitemap/1.0" \
-              "${url}" -o "${out_file}"; then
-              echo "⚠ Failed to fetch ${url}, skipping."
-              rm -f "${out_file}" || true
-              continue
-            fi
-          done
+          # 2つ目：news sitemap index
+          echo "  - news_sitemap_index"
+          if ! curl -fsSL \
+            --retry 3 --retry-delay 5 --max-time 30 \
+            -H "User-Agent: github-actions-reutersjp-sitemap/1.0" \
+            "https://jp.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml" \
+            -o "${OUT_DIR}/reutersjp_news_sitemap_index_${TODAY}.xml"; then
+            echo "⚠ Failed to fetch news-sitemap-index, skipping."
+            rm -f "${OUT_DIR}/reutersjp_news_sitemap_index_${TODAY}.xml" || true
+          fi
 
           echo "Files created under: ${OUT_DIR}"
           ls -R "${OUT_DIR}"
 
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
+        shell: bash
         run: |
           set -eu
-          TODAY=$(date -u +"%Y%m%d")
+
+          TODAY=`date -u +%Y%m%d`
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
