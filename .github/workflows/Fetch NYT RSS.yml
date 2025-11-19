@@ -1,12 +1,12 @@
 name: Fetch NYT RSS
 
 on:
-  # 手動実行
   workflow_dispatch:
 
-  # 毎時間実行（必要に応じて変更）
+  # 米東部時間 2:00 AM （冬 EST: UTC7、夏 EDT: UTC6）
   schedule:
     - cron: "0 7 * * *"
+
 jobs:
   fetch-nyt-rss:
     runs-on: ubuntu-latest
@@ -19,13 +19,14 @@ jobs:
         run: |
           set -eu
 
-          # 保存先ディレクトリ
-          OUT_DIR="data/nyt"
+          # ---- 日付（YYYYMMDD）を生成 ----
+          TODAY=$(date -u +"%Y%m%d")
+
+          # ---- 出力フォルダ名 ----
+          OUT_DIR="xml_sitemap/data/rss_nyt_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
-          # NYT RSS フィード一覧（必要に応じて追加）
-          # 公式一覧からの代表例：
-          #   HomePage, World, AsiaPacific, Europe, US, Politics, Business, Technology, Science, Health, Sports...
+          # ---- NYT RSS フィード一覧 ----
           declare -A FEEDS=(
             ["HomePage"]="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
             ["World"]="https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
@@ -43,8 +44,8 @@ jobs:
             ["EnergyEnvironment"]="https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml"
             ["SmallBusiness"]="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml"
             ["Economy"]="https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"
-            ["DealBook"]="https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml"
-            ["MediaAndAdvertising"]="https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml"
+            ["Dealbook"]="https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml"
+            ["MediaAdvertising"]="https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml"
             ["YourMoney"]="https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml"
             ["Technology"]="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
             ["PersonalTech"]="https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml"
@@ -81,7 +82,7 @@ jobs:
 
           for name in "${!FEEDS[@]}"; do
             url="${FEEDS[$name]}"
-            out_file="${OUT_DIR}/${name}.xml"
+            out_file="${OUT_DIR}/nyt_${name}_${TODAY}.xml"
             echo "  - ${name}: ${url}"
             curl -fsSL "${url}" -o "${out_file}"
           done
@@ -93,7 +94,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/nyt || true
+          git add xml_sitemap/data || true
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
