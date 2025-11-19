@@ -23,7 +23,7 @@ jobs:
           TODAY=$(date -u +"%Y%m%d")
 
           # ---- 出力フォルダ名 ----
-          OUT_DIR="xml_sitemap/data/rss_nyt_${TODAY}"
+          OUT_DIR="rss_nyt_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
           # ---- NYT RSS フィード一覧 ----
