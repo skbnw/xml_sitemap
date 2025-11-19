@@ -1,0 +1,109 @@
+name: Fetch Bloomberg JP
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 米東部時間 2:05AM ≒ 7:05 UTC
+    - cron: "5 7 * * *"
+
+jobs:
+  fetch-bloomberg-jp-sitemaps:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Bloomberg Japan sitemap XMLs
+        shell: bash
+        run: |
+          set -eu
+
+          # 日付（YYYYMMDD） - backquote でシンプルに
+          TODAY=`date -u +%Y%m%d`
+
+          OUT_DIR="rss_bloombergjp_${TODAY}"
+          mkdir -p "${OUT_DIR}"
+
+          echo "=== Fetching Bloomberg Japan sitemap index for ${TODAY} ==="
+
+          INDEX_URL="https://www.bloomberg.co.jp/feeds/cojp/sitemap_index.xml"
+          INDEX_FILE="${OUT_DIR}/bloombergjp_sitemap_index_${TODAY}.xml"
+
+          # 1) sitemap index を取得
+          if ! curl -fsSL \
+            --retry 3 --retry-delay 5 --max-time 30 \
+            -H "User-Agent: github-actions-bloombergjp-sitemap/1.0" \
+            "${INDEX_URL}" -o "${INDEX_FILE}"; then
+            echo "⚠ Failed to fetch sitemap_index (${INDEX_URL})."
+            exit 0
+          fi
+
+          echo "=== Extracting article sitemap URLs from index ==="
+
+          # 2) index から記事用 sitemap_YYYY_MM.xml の URL だけ抜き出す
+          URL_LIST="${OUT_DIR}/bloombergjp_sitemap_urls_${TODAY}.txt"
+
+          # パターン:
+          #   https://www.bloomberg.co.jp/feeds/cojp/sitemap_YYYY_M.xml
+          # securities, video 系は除外
+          grep -o 'https://www\.bloomberg\.co\.jp/feeds/cojp/sitemap_[^<"]*\.xml' "${INDEX_FILE}" \
+            | grep -v 'sitemap_securities' \
+            | grep -v 'sitemap_video' \
+            > "${URL_LIST}" || true
+
+          echo "Found sitemap URLs:"
+          cat "${URL_LIST}" || echo "  (none)"
+
+          echo "=== Fetching each article sitemap ==="
+
+          # 3) 各 sitemap_YYYY_MM.xml を保存
+          while IFS= read -r url; do
+            # 空行はスキップ
+            if [ -z "${url}" ]; then
+              continue
+            fi
+
+            # ファイル名用に YYYY_MM を抜き出し
+            # 例: .../sitemap_2025_8.xml → 2025_8
+            SUFFIX=`printf '%s\n' "${url}" | sed -n 's/.*sitemap_\([0-9][0-9]*_[0-9][0-9]*\)\.xml.*/\1/p'`
+            if [ -z "${SUFFIX}" ]; then
+              # パターン外は適当に hash っぽい名前に退避
+              SUFFIX="misc"
+            fi
+
+            OUT_FILE="${OUT_DIR}/bloombergjp_sitemap_${SUFFIX}_${TODAY}.xml"
+
+            echo "  - Fetching ${url} -> ${OUT_FILE}"
+
+            if ! curl -fsSL \
+              --retry 3 --retry-delay 5 --max-time 30 \
+              -H "User-Agent: github-actions-bloombergjp-sitemap/1.0" \
+              "${url}" -o "${OUT_FILE}"; then
+              echo "    ⚠ Failed to fetch ${url}, skipping."
+              rm -f "${OUT_FILE}" || true
+            fi
+          done < "${URL_LIST}"
+
+          echo "=== Result: files under ${OUT_DIR} ==="
+          ls -R "${OUT_DIR}"
+
+      - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
+        shell: bash
+        run: |
+          set -eu
+
+          TODAY=`date -u +%Y%m%d`
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "rss_bloombergjp_${TODAY}" || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add Bloomberg Japan sitemaps for ${TODAY}"
+            git push
+          fi
