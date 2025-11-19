@@ -24,7 +24,9 @@ jobs:
           OUT_DIR="rss_reutersjp_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
-          # ロイター日本語版のサイトマップインデックス
+          # robots.txt に記載されているサイトマップインデックス
+          # SITEMAP: https://jp.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml
+          # SITEMAP: https://jp.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml
           declare -A MAPS=(
             ["sitemap_index"]="https://jp.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml"
             ["news_sitemap_index"]="https://jp.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml"
@@ -56,7 +58,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: |
           set -eu
-          TODAY=$(date -u +"%Y%m%d"
+          TODAY=$(date -u +"%Y%m%d")
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
