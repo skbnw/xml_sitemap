@@ -1,0 +1,103 @@
+name: Fetch NYT RSS
+
+on:
+  # 手動実行
+  workflow_dispatch:
+
+  # 毎時間実行（必要に応じて変更）
+  schedule:
+    - cron: "0 7 * * *"
+jobs:
+  fetch-nyt-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch NYT RSS feeds
+        run: |
+          set -eu
+
+          # 保存先ディレクトリ
+          OUT_DIR="data/nyt"
+          mkdir -p "${OUT_DIR}"
+
+          # NYT RSS フィード一覧（必要に応じて追加）
+          # 公式一覧からの代表例：
+          #   HomePage, World, AsiaPacific, Europe, US, Politics, Business, Technology, Science, Health, Sports...
+          declare -A FEEDS=(
+            ["HomePage"]="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+            ["World"]="https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+            ["Africa"]="https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml"
+            ["Americas"]="https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml"
+            ["AsiaPacific"]="https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml"
+            ["Europe"]="https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml"
+            ["MiddleEast"]="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"
+            ["US"]="https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+            ["Education"]="https://rss.nytimes.com/services/xml/rss/nyt/Education.xml"
+            ["Politics"]="https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+            ["Upshot"]="https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml"
+            ["NYRegion"]="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+            ["Business"]="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+            ["EnergyEnvironment"]="https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml"
+            ["SmallBusiness"]="https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml"
+            ["Economy"]="https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"
+            ["DealBook"]="https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml"
+            ["MediaAndAdvertising"]="https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml"
+            ["YourMoney"]="https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml"
+            ["Technology"]="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+            ["PersonalTech"]="https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml"
+            ["Sports"]="https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+            ["Science"]="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+            ["Climate"]="https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml"
+            ["Space"]="https://rss.nytimes.com/services/xml/rss/nyt/Space.xml"
+            ["Health"]="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+            ["Well"]="https://rss.nytimes.com/services/xml/rss/nyt/Well.xml"
+            ["Arts"]="https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
+            ["ArtAndDesign"]="https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml"
+            ["BooksReview"]="https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml"
+            ["Movies"]="https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml"
+            ["Music"]="https://rss.nytimes.com/services/xml/rss/nyt/Music.xml"
+            ["Television"]="https://rss.nytimes.com/services/xml/rss/nyt/Television.xml"
+            ["Theater"]="https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml"
+            ["FashionAndStyle"]="https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml"
+            ["DiningAndWine"]="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"
+            ["Weddings"]="https://rss.nytimes.com/services/xml/rss/nyt/Weddings.xml"
+            ["TMagazine"]="https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml"
+            ["Travel"]="https://www.nytimes.com/services/xml/rss/nyt/Travel.xml"
+            ["Jobs"]="https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml"
+            ["RealEstate"]="https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml"
+            ["Automobiles"]="https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml"
+            ["Lens"]="https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml"
+            ["Obituaries"]="https://rss.nytimes.com/services/xml/rss/nyt/Obituaries.xml"
+            ["TimesWireRecent"]="https://rss.nytimes.com/services/xml/rss/nyt/recent.xml"
+            ["MostEmailed"]="https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
+            ["MostShared"]="https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
+            ["MostViewed"]="https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml"
+          )
+
+          echo "Fetching ${#FEEDS[@]} NYT RSS feeds..."
+
+          for name in "${!FEEDS[@]}"; do
+            url="${FEEDS[$name]}"
+            out_file="${OUT_DIR}/${name}.xml"
+            echo "  - ${name}: ${url}"
+            curl -fsSL "${url}" -o "${out_file}"
+          done
+
+      - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
+        run: |
+          set -eu
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/nyt || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update NYT RSS feeds"
+            git push
+          fi
