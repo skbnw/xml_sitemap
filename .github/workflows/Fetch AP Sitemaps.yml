@@ -1,0 +1,79 @@
+name: Fetch AP Sitemaps
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 米東部時間 2:00AM ＝ 7:00UTC
+    - cron: "0 7 * * *"
+
+jobs:
+  fetch-ap-sitemaps:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch AP sitemap XML files
+        run: |
+          set -eu
+
+          TODAY=$(date -u +"%Y%m%d")
+
+          OUT_DIR="rss_ap_${TODAY}"
+          mkdir -p "${OUT_DIR}"
+
+          MAIN_URL="https://apnews.com/ap-sitemap.xml"
+          MAIN_FILE="${OUT_DIR}/ap_sitemap_main_${TODAY}.xml"
+
+          echo "Fetching AP main sitemap: ${MAIN_URL}"
+
+          # メインサイトマップ取得（リトライ付き）
+          curl -fsSL --retry 3 --retry-delay 5 --max-time 30 \
+            "${MAIN_URL}" -o "${MAIN_FILE}"
+
+          echo "Parsing <loc> entries from main sitemap..."
+          # loc を抜き出し
+          MAP_URLS=$(grep -oP '(?<=<loc>)[^<]+' "${MAIN_FILE}" || true)
+
+          echo "Found URLs:"
+          echo "${MAP_URLS}"
+
+          # URLごとにダウンロード
+          for url in ${MAP_URLS}; do
+            basename=$(basename "${url}")        # e.g. ap-sitemap-202510.xml
+            name="${basename%.xml}"              # e.g. ap-sitemap-202510
+
+            out_file="${OUT_DIR}/${name}_${TODAY}.xml"
+
+            echo "  - Fetching: ${url}"
+
+            if ! curl -fsSL --retry 3 --retry-delay 5 --max-time 30 \
+              "${url}" -o "${out_file}"; then
+              echo "⚠ Failed to fetch ${url}, skipping."
+              rm -f "${out_file}" || true
+              continue
+            fi
+          done
+
+          echo "Completed. Files under ${OUT_DIR}:"
+          ls -R "${OUT_DIR}"
+
+      - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
+        run: |
+          set -eu
+
+          TODAY=$(date -u +"%Y%m%d")
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "rss_ap_${TODAY}" || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add AP sitemap XML files for ${TODAY}"
+            git push
+          fi
