@@ -1,0 +1,77 @@
+name: Fetch POLITICO RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  fetch-politico-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch POLITICO RSS feeds
+        run: |
+          set -eu
+
+          TODAY=$(date -u +"%Y%m%d")
+
+          # ▼ 統一フォルダ名ルール
+          OUT_DIR="xml_politico_${TODAY}"
+          mkdir -p "${OUT_DIR}"
+
+          declare -A FEEDS=(
+            ["Congress"]="http://rss.politico.com/congress.xml"
+            ["HealthCare"]="http://rss.politico.com/healthcare.xml"
+            ["Defense"]="http://rss.politico.com/defense.xml"
+            ["Economy"]="http://rss.politico.com/economy.xml"
+            ["EnergyEnvironment"]="http://rss.politico.com/energy.xml"
+            ["Politics"]="https://rss.politico.com/politics-news.xml"
+            ["Playbook"]="http://rss.politico.com/playbook.xml"
+            ["MorningTech"]="http://rss.politico.com/morningtech.xml"
+            ["MorningMoney"]="http://rss.politico.com/morningmoney.xml"
+            ["PoliticoPulse"]="http://rss.politico.com/politicopulse.xml"
+            ["Huddle"]="http://rss.politico.com/huddle.xml"
+            ["MorningEnergy"]="http://rss.politico.com/morningenergy.xml"
+            ["MorningDefense"]="http://rss.politico.com/morningdefense.xml"
+            ["PoliticoInfluence"]="http://rss.politico.com/politicoinfluence.xml"
+            ["MorningScore"]="http://rss.politico.com/morningscore.xml"
+            ["MorningTransportation"]="http://rss.politico.com/morningtransportation.xml"
+            ["MorningEducation"]="http://rss.politico.com/morningeducation.xml"
+            ["MorningTax"]="http://rss.politico.com/morningtax.xml"
+            ["MorningAgriculture"]="http://rss.politico.com/morningagriculture.xml"
+            ["MorningCybersecurity"]="http://rss.politico.com/morningcybersecurity.xml"
+            ["MorningShift"]="http://rss.politico.com/morningshift.xml"
+            ["MorningTrade"]="http://rss.politico.com/morningtrade.xml"
+          )
+
+          echo "Fetching ${#FEEDS[@]} POLITICO RSS feeds..."
+
+          for name in "${!FEEDS[@]}"; do
+            url="${FEEDS[$name]}"
+
+            # ▼ 統一ファイル名ルール
+            out_file="${OUT_DIR}/rss_politico_${name}_${TODAY}.xml"
+
+            echo "  - ${name}: ${url}"
+            curl -fsSL "${url}" -o "${out_file}"
+          done
+
+      - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
+        run: |
+          set -eu
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add xml_sitemap/data || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update POLITICO RSS feeds"
+            git push
+          fi
