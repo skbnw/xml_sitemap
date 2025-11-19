@@ -2,8 +2,9 @@ name: Fetch POLITICO RSS
 
 on:
   workflow_dispatch:
+  # 米東部時間 2:00 AM 相当（冬 EST: UTC7）
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 7 * * *"
 
 jobs:
   fetch-politico-rss:
@@ -17,19 +18,24 @@ jobs:
         run: |
           set -eu
 
+          # ---- 日付（YYYYMMDD, UTC基準）----
           TODAY=$(date -u +"%Y%m%d")
 
-          # ▼ 統一フォルダ名ルール
-          OUT_DIR="xml_politico_${TODAY}"
+          # ---- 出力フォルダ（リポジトリ直下）----
+          OUT_DIR="rss_politico_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
+          # ---- POLITICO RSS フィード一覧 ----
           declare -A FEEDS=(
+            # Story Categories
             ["Congress"]="http://rss.politico.com/congress.xml"
             ["HealthCare"]="http://rss.politico.com/healthcare.xml"
             ["Defense"]="http://rss.politico.com/defense.xml"
             ["Economy"]="http://rss.politico.com/economy.xml"
             ["EnergyEnvironment"]="http://rss.politico.com/energy.xml"
             ["Politics"]="https://rss.politico.com/politics-news.xml"
+
+            # Newsletters
             ["Playbook"]="http://rss.politico.com/playbook.xml"
             ["MorningTech"]="http://rss.politico.com/morningtech.xml"
             ["MorningMoney"]="http://rss.politico.com/morningmoney.xml"
@@ -52,26 +58,31 @@ jobs:
 
           for name in "${!FEEDS[@]}"; do
             url="${FEEDS[$name]}"
-
-            # ▼ 統一ファイル名ルール
             out_file="${OUT_DIR}/rss_politico_${name}_${TODAY}.xml"
 
             echo "  - ${name}: ${url}"
             curl -fsSL "${url}" -o "${out_file}"
           done
 
+          echo "Files created under: ${OUT_DIR}"
+          ls -R "${OUT_DIR}"
+
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
         run: |
           set -eu
+
+          TODAY=$(date -u +"%Y%m%d")
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add xml_sitemap/data || true
+          # その日の POLITICO フォルダをステージング
+          git add "rss_politico_${TODAY}" || true
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update POLITICO RSS feeds"
+            git commit -m "Add POLITICO RSS files for ${TODAY}"
             git push
           fi
