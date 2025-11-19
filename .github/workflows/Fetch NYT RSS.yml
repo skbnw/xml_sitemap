@@ -3,7 +3,7 @@ name: Fetch NYT RSS
 on:
   workflow_dispatch:
 
-  # 米東部時間 2:00 AM （冬 EST: UTC7、夏 EDT: UTC6）
+  # 米東部時間 2:00 AM （冬 EST: UTC7）※シンプルに 7:00 UTC のみ
   schedule:
     - cron: "0 7 * * *"
 
@@ -17,16 +17,15 @@ jobs:
 
       - name: Fetch NYT RSS feeds
         run: |
+          # -e は残しつつ、curl だけ個別にエラー処理する
           set -eu
 
-          # ---- 日付（YYYYMMDD）を生成 ----
           TODAY=$(date -u +"%Y%m%d")
 
-          # ---- 出力フォルダ名（リポジトリ直下）----
+          # リポジトリ直下に日付フォルダ
           OUT_DIR="rss_nyt_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
-          # ---- NYT RSS フィード一覧 ----
           declare -A FEEDS=(
             ["HomePage"]="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
             ["World"]="https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
@@ -85,20 +84,34 @@ jobs:
             out_file="${OUT_DIR}/rss_nyt_${name}_${TODAY}.xml"
 
             echo "  - ${name}: ${url}"
-            curl -fsSL "${url}" -o "${out_file}"
+
+            # 504 対策：リトライ＋失敗してもスキップ
+            if ! curl -fsSL \
+              --retry 3 --retry-delay 5 --max-time 30 \
+              "${url}" -o "${out_file}"; then
+              echo "⚠ Failed to fetch ${name} (${url}), skipping."
+              rm -f "${out_file}" || true
+              continue
+            fi
           done
+
+          echo "Files created under: ${OUT_DIR}"
+          ls -R "${OUT_DIR}"
 
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
         run: |
           set -eu
+          TODAY=$(date -u +"%Y%m%d")
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add . || true
+          git add "rss_nyt_${TODAY}" || true
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Add NYT RSS files for ${TODAY}"
             git push
+          fi
