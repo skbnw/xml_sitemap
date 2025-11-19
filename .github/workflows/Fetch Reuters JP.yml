@@ -1,0 +1,78 @@
+name: Fetch Reuters JP
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 米東部時間 2:00AM ≒ 7:00 UTC
+    - cron: "0 9 * * *"
+
+jobs:
+  fetch-reuters-jp:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+      # リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Fetch Reuters Japan category pages
+        run: |
+          set -eu
+
+          TODAY=$(date -u +"%Y%m%d")
+
+          # リポジトリ直下に日付付きフォルダ
+          OUT_DIR="rss_reutersjp_${TODAY}"
+          mkdir -p "${OUT_DIR}"
+
+          # ロイター日本語版のカテゴリ一覧
+          # （ご提示いただいた JSON の "reuters"."feeds" をそのまま反映）
+          declare -A FEEDS=(
+            ["top"]="https://jp.reuters.com/world/top-news/"
+            ["world"]="https://jp.reuters.com/world/"
+            ["markets"]="https://jp.reuters.com/markets/"
+            ["economy"]="https://jp.reuters.com/economy/"
+            ["business"]="https://jp.reuters.com/business/"
+            ["opinion"]="https://jp.reuters.com/opinion/"
+            ["life"]="https://jp.reuters.com/life/"
+          )
+
+          echo "Fetching ${#FEEDS[@]} Reuters Japan pages..."
+
+          for label in "${!FEEDS[@]}"; do
+            url="${FEEDS[$label]}"
+            out_file="${OUT_DIR}/reutersjp_${label}_${TODAY}.html"
+
+            echo "  - ${label}: ${url}"
+
+            # 一時的なエラー対策としてリトライ付き
+            if ! curl -fsSL \
+              --retry 3 --retry-delay 5 --max-time 30 \
+              -H "User-Agent: github-actions-reutersjp-crawler/1.0" \
+              "${url}" -o "${out_file}"; then
+              echo "⚠ Failed to fetch ${url}, skipping."
+              rm -f "${out_file}" || true
+              continue
+            fi
+          done
+
+          echo "Files created under: ${OUT_DIR}"
+          ls -R "${OUT_DIR}"
+
+      - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
+        run: |
+          set -eu
+          TODAY=$(date -u +"%Y%m%d")
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "rss_reutersjp_${TODAY}" || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add Reuters Japan pages for ${TODAY}"
+            git push
+          fi
