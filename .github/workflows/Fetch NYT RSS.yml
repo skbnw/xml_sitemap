@@ -22,7 +22,7 @@ jobs:
           # ---- 日付（YYYYMMDD）を生成 ----
           TODAY=$(date -u +"%Y%m%d")
 
-          # ---- 出力フォルダ名 ----
+          # ---- 出力フォルダ名（リポジトリ直下）----
           OUT_DIR="rss_nyt_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
@@ -82,7 +82,8 @@ jobs:
 
           for name in "${!FEEDS[@]}"; do
             url="${FEEDS[$name]}"
-            out_file="${OUT_DIR}/nyt_${name}_${TODAY}.xml"
+            out_file="${OUT_DIR}/rss_nyt_${name}_${TODAY}.xml"
+
             echo "  - ${name}: ${url}"
             curl -fsSL "${url}" -o "${out_file}"
           done
@@ -94,11 +95,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add xml_sitemap/data || true
+          git add . || true
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update NYT RSS feeds"
+            git commit -m "Add NYT RSS files for ${TODAY}"
             git push
-          fi
