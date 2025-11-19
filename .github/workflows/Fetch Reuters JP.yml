@@ -1,21 +1,20 @@
-name: Fetch Reuters JP
+name: Fetch Reuters Japan sitemaps
 
 on:
   workflow_dispatch:
   schedule:
     # 米東部時間 2:00AM ≒ 7:00 UTC
-    - cron: "0 9 * * *"
+    - cron: "0 7 * * *"
 
 jobs:
-  fetch-reuters-jp:
+  fetch-reuters-jp-sitemaps:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-      # リポジトリをチェックアウト
         uses: actions/checkout@v4
 
-      - name: Fetch Reuters Japan category pages
+      - name: Fetch Reuters Japan sitemap XMLs
         run: |
           set -eu
 
@@ -25,30 +24,24 @@ jobs:
           OUT_DIR="rss_reutersjp_${TODAY}"
           mkdir -p "${OUT_DIR}"
 
-          # ロイター日本語版のカテゴリ一覧
-          # （ご提示いただいた JSON の "reuters"."feeds" をそのまま反映）
-          declare -A FEEDS=(
-            ["top"]="https://jp.reuters.com/world/top-news/"
-            ["world"]="https://jp.reuters.com/world/"
-            ["markets"]="https://jp.reuters.com/markets/"
-            ["economy"]="https://jp.reuters.com/economy/"
-            ["business"]="https://jp.reuters.com/business/"
-            ["opinion"]="https://jp.reuters.com/opinion/"
-            ["life"]="https://jp.reuters.com/life/"
+          # ロイター日本語版のサイトマップインデックス
+          declare -A MAPS=(
+            ["sitemap_index"]="https://jp.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml"
+            ["news_sitemap_index"]="https://jp.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml"
           )
 
-          echo "Fetching ${#FEEDS[@]} Reuters Japan pages..."
+          echo "Fetching ${#MAPS[@]} Reuters Japan sitemap XMLs..."
 
-          for label in "${!FEEDS[@]}"; do
-            url="${FEEDS[$label]}"
-            out_file="${OUT_DIR}/reutersjp_${label}_${TODAY}.html"
+          for name in "${!MAPS[@]}"; do
+            url="${MAPS[$name]}"
+            out_file="${OUT_DIR}/reutersjp_${name}_${TODAY}.xml"
 
-            echo "  - ${label}: ${url}"
+            echo "  - ${name}: ${url}"
 
-            # 一時的なエラー対策としてリトライ付き
+            # リトライ付きで取得、失敗したらスキップ
             if ! curl -fsSL \
               --retry 3 --retry-delay 5 --max-time 30 \
-              -H "User-Agent: github-actions-reutersjp-crawler/1.0" \
+              -H "User-Agent: github-actions-reutersjp-sitemap/1.0" \
               "${url}" -o "${out_file}"; then
               echo "⚠ Failed to fetch ${url}, skipping."
               rm -f "${out_file}" || true
@@ -63,7 +56,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         run: |
           set -eu
-          TODAY=$(date -u +"%Y%m%d")
+          TODAY=$(date -u +"%Y%m%d"
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -73,6 +66,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Add Reuters Japan pages for ${TODAY}"
+            git commit -m "Add Reuters Japan sitemaps for ${TODAY}"
             git push
           fi
