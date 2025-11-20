@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-11-20T09:11:24+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200J20Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB19B4G0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200OO0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200A90Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200KA0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC192C90Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200MB0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN200230Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM200AY0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC19CZK0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN181BX0Y5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2002F0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL19CX50Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL19CV50Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200300Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC160SC0W5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN200570Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200520Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19DCJ0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL19CX40Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19DEQ0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR2005W0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19DEI0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2000O0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200060Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2002Y0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD1012O0Q5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19D9H0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2000T0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2002W0Q5A121C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200J20Q5A121C2000000/">
+    <title>日経平均、反発で始まる　半導体関連株に買い先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200J20Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T09:08:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB19B4G0Z11C25A1000000/">
+    <title>日経平均株価、一時1600円超高　エヌビディア決算を好感</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB19B4G0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T09:07:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200OO0Q5A121C2000000/">
+    <title>日経平均株価、反発で始まる　上げ幅一時1000円超す</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200OO0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T09:06:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200A90Q5A121C2000000/">
+    <title>債券寄り付き　長期金利1.8%に上昇、08年6月以来の高さ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200A90Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T09:04:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200KA0Q5A121C2000000/">
+    <title>外為8時30分　円相場、大幅下落し157円台前半　対ユーロも下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200KA0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T09:00:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC192C90Z11C25A1000000/">
+    <title>都内の政治資金パーティー収入4割減　24年、自民党派閥問題が影響か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC192C90Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200MB0Q5A121C2000000/">
+    <title>日経平均先物、続伸し4万9990円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200MB0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T08:53:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN200230Q5A121C2000000/">
+    <title>NVIDIA好決算、「勇気づけられる結果」　米市場関係者に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN200230Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T08:53:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM200AY0Q5A121C2000000/">
+    <title>中国情報機関、邦人摘発の実績強調　「域外国の卑劣行為に断固反対」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM200AY0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T08:41:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC19CZK0Z11C25A1000000/">
+    <title>セイコーマートでもボージョレ・ヌーボー解禁　6.8万本直輸入</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC19CZK0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T08:37:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN181BX0Y5A111C2000000/">
+    <title>NVIDIA最高益、11〜1月期65%増収見通し　市場予想上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN181BX0Y5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T08:30:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2002F0Q5A121C2000000/">
+    <title>日経平均株価、円安とNVIDIA決算が追い風（先読み株式市場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2002F0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T08:11:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL19CX50Z11C25A1000000/">
+    <title>NY円相場、続落　1ドル=157円15〜25銭　FRBの12月利下げ観測後退で　10カ月ぶり安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL19CX50Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T08:08:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL19CV50Z11C25A1000000/">
+    <title>NY株ハイライト　NVIDIA好決算、熱狂か革命か　年末相場へ続くAI論争</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL19CV50Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T07:55:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200300Q5A121C2000000/">
+    <title>シカゴ日本株先物概況・19日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200300Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T07:54:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC160SC0W5A111C2000000/">
+    <title>退任するサイバー藤田社長　続ければ「イエスマンばかり育ってしまう」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC160SC0W5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T07:35:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN200570Q5A121C2000000/">
+    <title>NVIDIA株、時間外で一時6%高　予想上回る好決算で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN200570Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T07:29:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200520Q5A121C2000000/">
+    <title>今日の株価材料（新聞など、20日）MS&amp;ADなど損保3社、4〜9月期純利益16%増</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200520Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T07:29:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19DCJ0Z11C25A1000000/">
+    <title>米労働省、10月雇用統計は政府閉鎖で「発表せず」　一部は後日公表</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19DCJ0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T07:11:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL19CX40Z11C25A1000000/">
+    <title>NY債券、長期債反落　10年債利回り4.13%　米追加利下げ観測の後退で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL19CX40Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T07:08:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19DEQ0Z11C25A1000000/">
+    <title>NASA、知的生命体の関与否定　「第3の恒星間天体」新画像公開</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19DEQ0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:51:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR2005W0Q5A121C2000000/">
+    <title>米国、ウクライナに領土割譲や軍規模半減など要求か　FT報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR2005W0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:47:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19DEI0Z11C25A1000000/">
+    <title>円相場が対ドルで157円台、対ユーロ181円台に下落　財政悪化を警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19DEI0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:44:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2000O0Q5A121C2000000/">
+    <title>エプスタイン氏資料の公開、米司法長官「法に従う」　30日以内に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2000O0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:41:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200060Q5A121C2000000/">
+    <title>NYダウ反発、47ドル高　主力株の一角への買いが支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200060Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:35:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2002Y0Q5A121C2000000/">
+    <title>日本株ADR19日、ほぼ全面高　ホンダや三井住友FGが上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2002Y0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:26:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD1012O0Q5A111C2000000/">
+    <title>上陸50年のボジョレー、輸入量激減が映し出すワイン消費の多様化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD1012O0Q5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:26:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19D9H0Z11C25A1000000/">
+    <title>M7唯一の「勝ち組」アルファベット　選別のカギは財務の好循環</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19D9H0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:21:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2000T0Q5A121C2000000/">
+    <title>トランプ氏「次はスーダン和平」と表明　サウジ皇太子の要請受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2000T0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:16:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2002W0Q5A121C2000000/">
+    <title>日経平均先物、夜間取引で上昇　670円高の4万9310円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2002W0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-20T06:08:07+09:00</dc:date>
+  </item>
+</rdf:RDF>
