@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-11-21T10:11:50+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR2117I0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF144630U5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN183C00Y5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZTS00018431Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG194HP0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN210HF0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC183AQ0Y5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB211AN0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKE00001_R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL210Q80R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA205UL0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN210U80R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210HZ0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA20B380Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL210KW0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL210NO0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB210TX0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2104N0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL210NR0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA210M30R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB210QF0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL210HA0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL210KA0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20D8B0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2109D0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA20DJ70Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210HH0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210EQ0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2107T0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2103J0R21C25A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR2117I0R21C25A1000000/">
+    <title>ゼレンスキー氏、腹心の更迭を見送り　汚職事件で政権運営は難航</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR2117I0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T10:06:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF144630U5A111C2000000/">
+    <title>NTT西、学歴証明をデジタル化　海外留学時のやりとり円滑に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF144630U5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN183C00Y5A111C2000000/">
+    <title>NY新市長マムダニ氏が試す「宗教の壁」　トランプ政権下、反動の恐れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN183C00Y5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZTS00018431Z11C25A1000000/">
+    <title>LINEで寝不足、風邪薬飲んで衝突　裁判長も叱った首都高3人死亡</title>
+    <link>https://www.nikkei.com/article/DGXZTS00018431Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG194HP0Z11C25A1000000/">
+    <title>柏崎刈羽原発、東電初の再稼働なるか　信頼回復へ格闘続けた14年間</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG194HP0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:59:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN210HF0R21C25A1000000/">
+    <title>不動産会社隠れみのにNVIDIA半導体密輸か　米当局が中国人起訴</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN210HF0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:56:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC183AQ0Y5A111C2000000/">
+    <title>柏崎刈羽原発の再稼働、新潟県知事が容認表明へ　21日午後に記者会見</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC183AQ0Y5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:52:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB211AN0R21C25A1000000/">
+    <title>ドバイ原油・21日午前、下落　63.60ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB211AN0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:51:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKE00001_R21C25A1000000/">
+    <title>晩秋のトリプル安で考えた　投資の「隠し味」　午後4時から生配信</title>
+    <link>https://www.nikkei.com/article/DGXZQOKE00001_R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:50:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL210Q80R21C25A1000000/">
+    <title>商品9時30分　原油が続落、ロシア・ウクライナ和平案に思惑　金は上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL210Q80R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:48:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA205UL0Q5A121C2000000/">
+    <title>消費者物価指数、10月3.0%上昇　2カ月連続で伸び拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA205UL0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:44:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN210U80R21C25A1000000/">
+    <title>米国、台湾との交流制限を修正検討　議会が法改正へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN210U80R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:38:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210HZ0R21C25A1000000/">
+    <title>畑岡奈紗3位、岩井千怜は7位　米女子ゴルフ最終戦第1日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210HZ0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:33:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA20B380Q5A121C2000000/">
+    <title>片山財務相、為替介入「当然考えられる」　円安進行で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA20B380Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:25:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL210KW0R21C25A1000000/">
+    <title>日経平均、反落スタート後1150円ほど下落　米NVIDIA下落を警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL210KW0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:24:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL210NO0R21C25A1000000/">
+    <title>東証寄り付き　日経平均は反落で始まる　米エヌビディアが下落、前日急伸の反動</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL210NO0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:23:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB210TX0R21C25A1000000/">
+    <title>ウクライナ、領土割譲を拒否　国連安保理の緊急会合で</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB210TX0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:12:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2104N0R21C25A1000000/">
+    <title>債券寄り付き　先物、反発　米金利低下や値ごろ感の買いで</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2104N0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:10:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL210NR0R21C25A1000000/">
+    <title>日経平均、反落で始まる　米ハイテク株安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL210NR0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:09:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA210M30R21C25A1000000/">
+    <title>10月の対米輸出3.1%減、自動車輸出は7.5%減　財務省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA210M30R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:08:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB210QF0R21C25A1000000/">
+    <title>日経平均株価反落、下げ幅一時1000円超　ハイテク株が下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB210QF0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T09:07:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL210HA0R21C25A1000000/">
+    <title>外為8時30分　円相場、横ばい圏　157円台半ば　対ユーロでは小幅安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL210HA0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T08:59:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL210KA0R21C25A1000000/">
+    <title>日経平均先物、反落し4万8520円で始まる　1400円安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL210KA0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T08:53:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20D8B0Q5A121C2000000/">
+    <title>NY株ハイライト　好決算ウォルマート6%高、上場ナスダックに変更</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20D8B0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T08:20:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2109D0R21C25A1000000/">
+    <title>岡本和真・高橋光成が米球団と交渉開始へ　期限は26年1月5日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2109D0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T08:17:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA20DJ70Q5A121C2000000/">
+    <title>COP30の展示会場で火災　参加者は避難、各国の交渉が中断</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA20DJ70Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T08:16:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210HH0R21C25A1000000/">
+    <title>サッカー女子欧州CL、谷川萌々子が勝ち越しゴール</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210HH0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T08:09:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210EQ0R21C25A1000000/">
+    <title>金谷拓実・星野陸也88位　米男子ゴルフ第1日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210EQ0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T08:00:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2107T0R21C25A1000000/">
+    <title>NY円相場、続落　1ドル=157円45〜55銭　日本の財政懸念で売り継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2107T0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T07:52:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2103J0R21C25A1000000/">
+    <title>シカゴ日本株先物概況・20日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2103J0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-21T07:50:41+09:00</dc:date>
+  </item>
+</rdf:RDF>
