@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-11-24T10:11:41+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD162HS0W5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD200L60Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2409K0U5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2407G0U5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2405P0U5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH2309Z0T21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240650U5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2405K0U5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2405Z0U5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR232KS0T21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR232PA0T21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN12CXY0S5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC06BX50W5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC109MY0Q5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH108X30Q5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJE178XD0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC217800R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1775Z0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG206T70Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG124QJ0S5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD203OK0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD052CZ0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH122B40S5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC211ZW0R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC291WN0Z21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB201LQ0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD030JU0T01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR120E30S5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH2309U0T21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA20D0E0Q5A121C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD162HS0W5A111C2000000/">
+    <title>大気中のCO2から都市ガスを　合成メタン普及へ東邦ガスの挑戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD162HS0W5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD200L60Q5A121C2000000/">
+    <title>車の1000万台クラブ　2040年、中国車は世界を覆うか</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD200L60Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2409K0U5A121C2000000/">
+    <title>大谷翔平のバット、4680万円で落札　場外弾ボールは4212万円</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2409K0U5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T09:50:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2407G0U5A121C2000000/">
+    <title>スピードスケートW杯、日本女子3位　団体追い抜き連勝逃す</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2407G0U5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T09:11:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2405P0U5A121C2000000/">
+    <title>米女子ゴルフ、畑岡奈紗5位　ジーノ・ティティクルが大会2連覇</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2405P0U5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T08:55:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH2309Z0T21C25A1000000/">
+    <title>24日の有力馬　東京スポーツ杯2歳ステークスなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH2309Z0T21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T08:41:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240650U5A121C2000000/">
+    <title>ジャンプW杯、小林陵侑が今季初勝利</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240650U5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T08:40:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2405K0U5A121C2000000/">
+    <title>塩貝健人、2ゴールで勝利貢献　オランダ1部</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2405K0U5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T08:40:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2405Z0U5A121C2000000/">
+    <title>米男子ゴルフ、バリマキ初優勝　久常涼・金谷拓実は来季シード権</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2405Z0U5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T08:39:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR232KS0T21C25A1000000/">
+    <title>米国務長官、和平合意へ「大きな進展」　欧州・ウクライナが代替案提示</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR232KS0T21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T07:36:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR232PA0T21C25A1000000/">
+    <title>凍結資産でウクライナ復興投資の米和平案、ドイツ首相「容認せず」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR232PA0T21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T06:38:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN12CXY0S5A111C2000000/">
+    <title>トランプ関税訴訟、「大統領の暴走封じ」も壁か　前政権を阻止</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN12CXY0S5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC06BX50W5A101C2000000/">
+    <title>電通Gの採用担当役員がほしい人材「アイデアを粘り強くやり遂げる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC06BX50W5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC109MY0Q5A111C2000000/">
+    <title>円谷英二氏米殿堂入り、「ウルトラマン」5000億円市場　欧米も開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC109MY0Q5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH108X30Q5A111C2000000/">
+    <title>ピアニストのイゴール・レヴィット、死生観を感じさせるリサイタル</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH108X30Q5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJE178XD0X11C25A1000000/">
+    <title>関西でもクマ出没・目撃続々　大阪北部や京都市、被害防止へ対策動く</title>
+    <link>https://www.nikkei.com/article/DGXZQOJE178XD0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC217800R21C25A1000000/">
+    <title>「高専生はズレて尖ってダサくあれ」先輩が送るエール</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC217800R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1775Z0X11C25A1000000/">
+    <title>社会減少全国1位の福島県　ガス会社が結婚相談所、セット割で良縁に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1775Z0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG206T70Q5A121C2000000/">
+    <title>巨大な磁気嵐の影響、想定より長く　名古屋大学などが観測データ解析</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG206T70Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG124QJ0S5A111C2000000/">
+    <title>真珠の品質低下、病気の原因は魚も感染する細菌　富山大がゲノム解読</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG124QJ0S5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD203OK0Q5A121C2000000/">
+    <title>移りゆく日本の「食」　稼げぬコメ、余った小麦と地雷探知機</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD203OK0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD052CZ0V01C25A1000000/">
+    <title>愛知の蒲郡信金、金利上昇逆手に住宅ローン攻勢　低利以上の価値追求</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD052CZ0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH122B40S5A111C2000000/">
+    <title>欧州トップ指導者の知見でJリーグの「答え合わせ」（野々村芳和）</title>
+    <link>https://www.nikkei.com/article/DGXZQODH122B40S5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC211ZW0R21C25A1000000/">
+    <title>サイバー藤田晋氏、創業社長から世代交代「8年の計」を知る4選</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC211ZW0R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC291WN0Z21C25A0000000/">
+    <title>学校消えた町に若者の姿　地方で開校相次ぐ通信制高校</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC291WN0Z21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB201LQ0Q5A121C2000000/">
+    <title>円安喜べぬメガバンク、収益上振れ余地も「国内」先細り懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB201LQ0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD030JU0T01C25A1000000/">
+    <title>30代社員の苦悩「会社は分かってくれない」　日経調査で浮かんだ本音</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD030JU0T01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR120E30S5A011C2000000/">
+    <title>トルコ人、欧州国籍取得に挑む　バルカンとの歴史的つながり生かす</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR120E30S5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH2309U0T21C25A1000000/">
+    <title>大谷翔平のアームアングルは、本当に故障を引き起こすのか</title>
+    <link>https://www.nikkei.com/article/DGXZQODH2309U0T21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA20D0E0Q5A121C2000000/">
+    <title>COP30、もうひとつの米国の足跡　民主党知事「パリ協定復帰する」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA20D0E0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-11-24T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
