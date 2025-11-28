@@ -20,7 +20,7 @@ jobs:
 
     - name: Fetch and Save XML Files
       run: |
-        mkdir -p xml_jiji_$(date +\%Y\%m)
+        mkdir -p sitemap_jiji_$(date +\%Y\%m)
         urls=("https://www.jiji.com/sitemap/sitemap_jnb.xml"
               "https://www.jiji.com/sitemap/sitemap_akb.xml"
               "https://www.jiji.com/sitemap/sitemap_int.xml"
@@ -63,7 +63,7 @@ jobs:
         for url in "${urls[@]}"
         do
           suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
-          if wget $url -O "xml_jiji_$(date +\%Y\%m)/xml-jiji_$(date +\%Y\%m%d)_$suffix.xml"; then
+          if wget $url -O "sitemap_jiji_$(date +\%Y\%m)/xml-jiji_$(date +\%Y\%m%d)_$suffix.xml"; then
             echo "Downloaded $url"
           else
             echo "Failed to download $url" >> download_errors.log
@@ -76,6 +76,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add xml_jiji_$(date +\%Y\%m)/* download_errors.log || true
+        git add sitemap_jiji_$(date +\%Y\%m)/* download_errors.log || true
         git commit -m "Add XML files for $(date +\%Y\%m%d) with possible errors"
         git push origin main

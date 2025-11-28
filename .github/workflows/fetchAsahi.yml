@@ -15,7 +15,7 @@ jobs:
 
     - name: Fetch and Save XML Files
       run: |
-        mkdir -p xml_asahi_$(date +\%Y\%m)
+        mkdir -p sitemap_asahi_$(date +\%Y\%m)
         urls=("https://www.asahi.com/sitemap/sitemap_national.xml" 
               "https://www.asahi.com/sitemap/sitemap_business.xml"
               "https://www.asahi.com/sitemap/sitemap_politics.xml"
@@ -28,12 +28,12 @@ jobs:
         do
           url=${urls[$i]}
           suffix=$(basename $url .xml)
-          wget $url -O xml_asahi_$(date +\%Y\%m)/xml-asahi_$(date +\%Y\%m\%d)_$suffix.xml
+          wget $url -O sitemap_asahi_$(date +\%Y\%m)/xml-asahi_$(date +\%Y\%m\%d)_$suffix.xml
         done
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add xml_asahi_$(date +\%Y\%m)/*
+        git add sitemap_asahi_$(date +\%Y\%m)/*
         git commit -m "Add XML files for $(date +\%Y\%m\%d)"
         git push

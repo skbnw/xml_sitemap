@@ -17,7 +17,7 @@ jobs:
 
     - name: Fetch and Save RSS Files
       run: |
-        mkdir -p xml_kyodo_$(date +\%Y\%m)
+        mkdir -p rss_kyodo_$(date +\%Y\%m)
         urls=(
           "https://assets.wor.jp/rss/rdf/ynnews/news.rdf"
           "https://assets.wor.jp/rss/rdf/ynnews/national.rdf"
@@ -30,11 +30,11 @@ jobs:
         for url in "${urls[@]}"
         do
           suffix=$(basename $url | sed 's/\.rdf//')  # '.rdf' を取り除く
-          if wget $url -O "xml_kyodo_$(date +\%Y\%m)/xml-kyodo_$(date +\%Y\%m%d%H%M)_$suffix.xml"; then
+          if wget $url -O "rss_kyodo_$(date +\%Y\%m)/xml-kyodo_$(date +\%Y\%m%d%H%M)_$suffix.xml"; then
             echo "Downloaded $url"
           else
             echo "Failed to download $url"
-            wget $url -O "xml_kyodo_$(date +\%Y\%m)/xml-kyodo_$(date +\%Y\%m%d%H%M)_$suffix.xml"  # エラー時に再試行
+            wget $url -O "rss_kyodo_$(date +\%Y\%m)/xml-kyodo_$(date +\%Y\%m%d%H%M)_$suffix.xml"  # エラー時に再試行
           fi
         done
 
@@ -42,6 +42,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add xml_kyodo_$(date +\%Y\%m)/*
+        git add rss_kyodo_$(date +\%Y\%m)/*
         git commit -m "Add RSS files for $(date +\%Y\%m%d%H%M)"
         git push origin main

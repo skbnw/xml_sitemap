@@ -16,7 +16,7 @@ jobs:
     - name: Fetch, Save, and Commit RSS
       run: |
         # --- Step 1: ファイルのダウンロード ---
-        dir_name="nikkei_rss_$(date +%Y%m)"
+        dir_name="rss_nikkei_$(date +%Y%m)"
         mkdir -p "$dir_name"
 
         urls=(
