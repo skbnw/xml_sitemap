@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-12-01T09:11:31+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010FQ0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB212670R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010IR0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB010LO0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0107K0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA010GA0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010FI0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0105E0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010920R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB0103B0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290350Z21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010930R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB301H80Q5A131C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL282OQTY5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0108K0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0108L0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0107C0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0102A0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3014N0Q5A131C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN302QF0Q5A131C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFK256KG0V21C20A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG18D5E0Y5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC27CBH0X21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF27BR50X21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF17BO40X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF17B630X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC21AUO0R21C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA25AR70V21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF179LF0X11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB269EB0W5A121C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010FQ0R01C25A2000000/">
+    <title>日経平均、小幅続伸で始まる　米株高で、下げる場面も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010FQ0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T09:10:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB212670R21C25A1000000/">
+    <title>朝日生命が初の海外M&amp;A、金利上昇で投資余力　ソニーFGも検討</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB212670R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T09:08:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010IR0R01C25A2000000/">
+    <title>債券寄り付き　先物、続落　需給悪化や日銀の早期利上げ観測で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010IR0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T09:07:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB010LO0R01C25A2000000/">
+    <title>キルギス議会選、大統領派圧勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB010LO0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T09:07:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0107K0R01C25A2000000/">
+    <title>日経平均先物、反落し5万240円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0107K0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:59:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA010GA0R01C25A2000000/">
+    <title>全産業の経常利益19.7%増　7〜9月法人企業統計、4半期連続プラス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA010GA0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:56:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010FI0R01C25A2000000/">
+    <title>F1カタールGP、角田裕毅10位　入賞は4戦ぶり</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010FI0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:55:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0105E0R01C25A2000000/">
+    <title>外為8時30分　円相場、上昇し156円近辺　12月の米利下げ観測で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0105E0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:50:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010920R01C25A2000000/">
+    <title>ラグビー7人制SVNS、日本女子は初の3位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010920R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:48:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB0103B0R01C25A2000000/">
+    <title>香港の大規模火災、少なくとも146人死亡　写真が伝える惨禍</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB0103B0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:36:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290350Z21C25A1000000/">
+    <title>エヌビディア株、弱気相場入り迫る　1強揺らすリスクに投資家身構え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290350Z21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:19:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010930R01C25A2000000/">
+    <title>久保建英アシスト、上田綺世は今季14点目　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010930R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:18:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB301H80Q5A131C2000000/">
+    <title>アセットマネジメントOne、サウジで日本株ETF　現地運用大手と連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB301H80Q5A131C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:14:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL282OQTY5A121C2000000/">
+    <title>日銀12月利上げ、市場の織り込み6割　きょう総裁講演</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL282OQTY5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T08:13:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0108K0R01C25A2000000/">
+    <title>ショートトラックWT、男子と混合リレーでミラノ五輪出場へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0108K0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T07:52:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0108L0R01C25A2000000/">
+    <title>ジャンプW杯、男子個人は強風で中止　第6戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0108L0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T07:46:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0107C0R01C25A2000000/">
+    <title>日本製鉄の製鉄所で火災、けが人の情報なし　北海道・室蘭</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0107C0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T07:34:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0102A0R01C25A2000000/">
+    <title>日経平均株価、米利下げ観測などが追い風に（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0102A0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T07:30:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3014N0Q5A131C2000000/">
+    <title>今日の株価材料（新聞など、11月29日〜12月1日）キヤノン、キヤノン電を完全子会社化</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3014N0Q5A131C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T07:20:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN302QF0Q5A131C2000000/">
+    <title>米国務長官、ウクライナ和平案「課題多い」と認める　対ロ交渉にらみ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN302QF0Q5A131C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T07:09:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFK256KG0V21C20A2000000/">
+    <title>内閣支持率を追う　世論調査全データ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFK256KG0V21C20A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG18D5E0Y5A111C2000000/">
+    <title>量子計算機、製造費安い「半導体方式」浮上　日本の新興が実機投入へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG18D5E0Y5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC27CBH0X21C25A1000000/">
+    <title>ノバレーゼ、ゲーム感覚で結婚式の準備　アプリで手軽に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC27CBH0X21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF27BR50X21C25A1000000/">
+    <title>マンダムMBO､一山越えるもくすぶる火種　対抗策が招く｢藪蛇｣リスク</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF27BR50X21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF17BO40X11C25A1000000/">
+    <title>京都中央信用金庫の植村幸弘理事長「個の力を高め、シェア追求」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF17BO40X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF17B630X11C25A1000000/">
+    <title>イシダの石田隆英社長「計量から箱詰め、一貫提供」　海外事業拡大へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF17B630X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC21AUO0R21C25A0000000/">
+    <title>「選考時期早めた」3割　内定辞退防止へ引き留め策に奔走</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC21AUO0R21C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA25AR70V21C25A1000000/">
+    <title>細った成長投資、経産省の悔恨　首相秘書官こだわりの支援策</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA25AR70V21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF179LF0X11C25A0000000/">
+    <title>国道照明、LED化率100%へ民間資金方式　大阪府内で導入第1号</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF179LF0X11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB269EB0W5A121C2000000/">
+    <title>AI相場で下克上　OpenAI失速、Google陣営に資金シフト</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB269EB0W5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-01T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
