@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2025-12-14T11:16:00+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2917S0Z20C25A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD19BP30Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12B740S5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC129L30S5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC098SY0Z01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC098GI0Z01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB143OA0U5A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0822L0Y5A201C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC26BM60W5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC059950V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC179FL0X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC158NF0V11C25A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM276ZV0X21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA096EK0Z01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC285590Y5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC013DN0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2636D0W5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC192G70Z11C24A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD170I30X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN070480X01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF02AXW0S5A201C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC192VW0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN130SP0T11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC130EN0T11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC113OF0R11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12C110S5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN130ET0T11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC107VB0Q5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF11C200R11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF28B9T0Y5A121C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2917S0Z20C25A7000000/">
+    <title>医師の4人に1人が頼る生成AI、日本人の病気学び精度磨く</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2917S0Z20C25A7000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD19BP30Z11C25A1000000/">
+    <title>熊を防犯カメラでAI検知　トリニティー、スマホに通知</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD19BP30Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12B740S5A211C2000000/">
+    <title>12月8〜12日　スタートアップ資金調達まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12B740S5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC129L30S5A211C2000000/">
+    <title>ディズニーはOpenAI提携でどう稼ぐ　キャラ動画氾濫、AI時代に探る解</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC129L30S5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC098SY0Z01C25A2000000/">
+    <title>電気代高騰で「パーソナル暖房」需要増　家電や衣料の冬商戦活況</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC098SY0Z01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC098GI0Z01C25A2000000/">
+    <title>ハーモニーランド、なぜ滞在型リゾートに転換？　「お荷物」から復活</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC098GI0Z01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB143OA0U5A111C2000000/">
+    <title>イチゴ、品種開発ですくすく　収量14%増、機械導入も期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB143OA0U5A111C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0822L0Y5A201C2000000/">
+    <title>農水省が「おにぎりプロジェクト」、SNSリレー投稿でコメの魅力発信</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0822L0Y5A201C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC26BM60W5A121C2000000/">
+    <title>商業施設への出店を簡素化、常設店も　カウンターワークス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC26BM60W5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC059950V01C25A1000000/">
+    <title>中高年の転職数、4〜9月は過去最高　即戦力期待で薄れる「限界説」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC059950V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC179FL0X11C25A1000000/">
+    <title>骨格の動きAIで採点→ゴルフや野球のフォーム改善　富士通が分析技術</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC179FL0X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC158NF0V11C25A0000000/">
+    <title>ミシュランキー獲得ホテル数、日本は世界5位　最高位に強羅花壇など</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC158NF0V11C25A0000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM276ZV0X21C25A1000000/">
+    <title>ベトナムの電動スクーター7万円　学生に人気、合格祝いにも</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM276ZV0X21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA096EK0Z01C25A2000000/">
+    <title>オンライン精神療法、条件付きで初診導入へ　引きこもりなど想定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA096EK0Z01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC285590Y5A121C2000000/">
+    <title>日産、中東で人気のSUV「パトロール」を日本投入　様々な路面に対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC285590Y5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC013DN0R01C25A2000000/">
+    <title>三越伊勢丹、ソーシャルギフト堅調　贈答文化になじみない若者利用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC013DN0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2636D0W5A121C2000000/">
+    <title>いなげやとUSMH統合1年、総菜原料や物流インフラを集約へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2636D0W5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC192G70Z11C24A1000000/">
+    <title>家庭に眠る中古品91兆円　高品質｢Used in Japan｣に世界が注目</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC192G70Z11C24A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD170I30X11C25A1000000/">
+    <title>HUGE、ニュウマン高輪に外食4業態　効率運営で人材も引き寄せ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD170I30X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN070480X01C25A2000000/">
+    <title>大沼俊之さん、国連傘下のICAOでアジア初の議長に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN070480X01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-14T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF02AXW0S5A201C2000000/">
+    <title>｢金型が泣いてるよ｣　備前発条社長､社員の怒りで自動車大手と直談判</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF02AXW0S5A201C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T22:39:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC192VW0Z11C25A1000000/">
+    <title>佐川急便、建設資材の配送・在庫管理を一括代行　工期短縮を支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC192VW0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN130SP0T11C25A2000000/">
+    <title>スペースX、「2026年にもIPOの可能性」従業員に通知　米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN130SP0T11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T12:31:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC130EN0T11C25A2000000/">
+    <title>ホンダ、米国生産車の「逆輸入」検討　日米関税交渉の規制緩和で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC130EN0T11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T11:47:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC113OF0R11C25A1000000/">
+    <title>専門情報誌、進む終活　「栄養と料理」「モトチャンプ」ウェブに活路</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC113OF0R11C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12C110S5A211C2000000/">
+    <title>住友商事、SCSKへのTOBが成立　完全子会社化へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12C110S5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T11:13:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN130ET0T11C25A2000000/">
+    <title>インテル、AI半導体新興のサンバノバ買収へ協議　約2500億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN130ET0T11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T10:31:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC107VB0Q5A011C2000000/">
+    <title>大分・都ハンバーグ　地鶏ハンバーグ、薬味5種と生卵で「味変」堪能</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC107VB0Q5A011C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF11C200R11C25A2000000/">
+    <title>2025年のヒット、横綱は「万博」　食やグッズなどアフターが熱い</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF11C200R11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF28B9T0Y5A121C2000000/">
+    <title>ラウンドワンに集う米国の若者　全米57店、衰退するモールで輝き</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF28B9T0Y5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-13T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
