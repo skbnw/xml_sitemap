@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2025-12-16T11:12:50+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC161EX0W5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC159WF0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH269NY0W5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC086680Y5A201C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD100VQ0Q5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH070TG0X01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC15B7S0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC15AUB0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC15A9Y0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC159VI0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC159CZ0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC159EF0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC153Y70V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC150JA0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC159190V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC158ID0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC157LA0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC157I20V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1582N0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH142570U5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC157EA0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC157T10V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1576D0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH153UM0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1566V0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC154N20V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC153H10V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC153DZ0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC151X40V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC150MU0V11C25A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC161EX0W5A211C2000000/">
+    <title>カーリング混合、日本が2勝目　五輪最終予選</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC161EX0W5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-16T10:34:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC159WF0V11C25A2000000/">
+    <title>阪神・坂本誠志郎、現状維持1億円　「日本一へチーム力底上げ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC159WF0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH269NY0W5A121C2000000/">
+    <title>プロ野球・美馬学　小柄な体に秘めた反骨精神、ケガと戦い全力投球</title>
+    <link>https://www.nikkei.com/article/DGXZQODH269NY0W5A121C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC086680Y5A201C2000000/">
+    <title>松本山雅、中学部活の地域移行を支援　ジュニア年代育成のノウハウ生かす</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC086680Y5A201C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD100VQ0Q5A211C2000000/">
+    <title>3年連続「ドライチ」2人　青学大出身のプロ野球選手、活躍のわけ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD100VQ0Q5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH070TG0X01C25A2000000/">
+    <title>フィギュア女子・樋口新葉、自分信じ復活　ミラノ五輪で有終の美へ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH070TG0X01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC15B7S0V11C25A2000000/">
+    <title>山下美夢有、4位で変わらず　女子ゴルフ世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC15B7S0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-16T01:29:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC15AUB0V11C25A2000000/">
+    <title>伊東純也所属のゲンク、監督解任　ベルギー1部</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC15AUB0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T23:32:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC15A9Y0V11C25A2000000/">
+    <title>ポスティング、村上宗隆ら申請手続き　移籍でWBC出場に影響も</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC15A9Y0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T21:51:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC159VI0V11C25A2000000/">
+    <title>Jリーグプロ契約、16歳誕生日前でも可能　26年4月から年齢下げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC159VI0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T20:44:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC159CZ0V11C25A2000000/">
+    <title>最優秀プロ、金子駆大・佐久間朱莉が初受賞　ゴルフ記者選出</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC159CZ0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T19:46:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC159EF0V11C25A2000000/">
+    <title>Jリーグ、17年ぶりオールスター戦　国立競技場で26年6月</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC159EF0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T19:45:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC153Y70V11C25A2000000/">
+    <title>武蔵野銀行、上尾メディックスと金融経済教室　チームOGが体験語る</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC153Y70V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T19:38:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC150JA0V11C25A2000000/">
+    <title>千葉市長「これ以上ない喜び」　ジェフユナイテッドのJ1昇格で</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC150JA0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T19:36:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC159190V11C25A2000000/">
+    <title>Jリーグ、赤字43億円　26年6月期</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC159190V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T19:08:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC158ID0V11C25A2000000/">
+    <title>J1百年構想リーグ、東西10チームずつで　26年2月開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC158ID0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T18:33:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC157LA0V11C25A2000000/">
+    <title>ヤクルト石山泰稚、1.2億円で更改　防御率2.21と安定感発揮</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC157LA0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T18:31:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC157I20V11C25A2000000/">
+    <title>阪神ドラフト1位・立石正広「中軸任される選手に」　新入団発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC157I20V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T18:21:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1582N0V11C25A2000000/">
+    <title>スノボ・平野歩夢「限界超える」　五輪連覇へ新技も</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1582N0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T18:14:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH142570U5A211C2000000/">
+    <title>卓球・張本智和、WTTファイナル初制覇　格上撃破で「自信になる」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH142570U5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T18:13:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC157EA0V11C25A2000000/">
+    <title>巨人・中川皓太、6500万円増の1.5億円　FA行使せず3年契約</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC157EA0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T18:00:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC157T10V11C25A2000000/">
+    <title>サッカーU22日本、佐藤龍之介ら27人選出　親善大会</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC157T10V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T17:59:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1576D0V11C25A2000000/">
+    <title>広島ドラフト1位・平川蓮「走攻守全てでアピール」　新入団発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1576D0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T17:27:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH153UM0V11C25A2000000/">
+    <title>2026年女子ゴルフ、48年ぶり台湾開催　ツアー賞金総額48億円超</title>
+    <link>https://www.nikkei.com/article/DGXZQODH153UM0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T16:45:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1566V0V11C25A2000000/">
+    <title>ボクシング堤聖也「やることはやった」　ドネアと17日王座戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1566V0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T16:40:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC154N20V11C25A2000000/">
+    <title>松山英樹、17位で変わらず　男子ゴルフ世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC154N20V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T14:57:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC153H10V11C25A2000000/">
+    <title>NBA、八村塁は3得点7リバウンド　レーカーズ18勝7敗</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC153H10V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T14:23:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC153DZ0V11C25A2000000/">
+    <title>カーリング混合、日本は1勝2敗　五輪最終予選</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC153DZ0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T14:22:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC151X40V11C25A2000000/">
+    <title>J1広島、新監督に38歳ガウル氏　ドイツで指導経験</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC151X40V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T11:52:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC150MU0V11C25A2000000/">
+    <title>石川遼、26年は米下部ツアー参戦　27年昇格目指す</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC150MU0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-15T09:40:50+09:00</dc:date>
+  </item>
+</rdf:RDF>
