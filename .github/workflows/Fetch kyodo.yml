@@ -44,4 +44,6 @@ jobs:
         git config --local user.name "GitHub Action"
         git add rss_kyodo_$(date +\%Y\%m)/*
         git commit -m "Add RSS files for $(date +\%Y\%m%d%H%M)"
+        # リモートの最新状態を取得してリベース
+        git pull --rebase origin main
         git push origin main
