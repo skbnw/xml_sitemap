@@ -66,5 +66,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Add NPR RSS files for $(date -u +\%Y\%m%d)"
+            # リモートの最新状態を取得してリベース
+            git pull --rebase origin main
             git push origin main
           fi

@@ -105,5 +105,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Add Bloomberg Japan sitemaps for ${TODAY}"
+            # リモートの最新状態を取得してリベース
+            git pull --rebase origin main
             git push
           fi

@@ -75,5 +75,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Add AP sitemap XML files for ${TODAY}"
+            # リモートの最新状態を取得してリベース
+            git pull --rebase origin main
             git push
           fi

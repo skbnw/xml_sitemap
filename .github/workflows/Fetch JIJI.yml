@@ -78,4 +78,6 @@ jobs:
         git config --local user.name "GitHub Action"
         git add sitemap_jiji_$(date +\%Y\%m)/* download_errors.log || true
         git commit -m "Add XML files for $(date +\%Y\%m%d) with possible errors"
+        # リモートの最新状態を取得してリベース
+        git pull --rebase origin main
         git push origin main
