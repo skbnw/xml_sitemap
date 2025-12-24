@@ -45,6 +45,8 @@ jobs:
           echo "Changes detected. Committing files..."
           git add "${dir_name}/*"
           git commit -m "Add Nikkei RSS files for $(date +%Y-%m-%d)"
+          # リモートの最新状態を取得してリベース
+          git pull --rebase origin main
           git push
         else
           echo "No changes to commit."

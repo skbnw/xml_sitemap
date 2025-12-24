@@ -36,4 +36,6 @@ jobs:
         git config --local user.name "GitHub Action"
         git add sitemap_asahi_$(date +\%Y\%m)/*
         git commit -m "Add XML files for $(date +\%Y\%m\%d)"
+        # リモートの最新状態を取得してリベース
+        git pull --rebase origin main
         git push
