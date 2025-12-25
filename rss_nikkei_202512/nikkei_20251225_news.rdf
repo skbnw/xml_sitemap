@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-12-25T11:10:26+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC24CF30U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFH225370S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB18A080Y5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL250QA0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC245V90U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC246YC0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC246YZ0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC251L10V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN18CZA0Y5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC16AFA0W5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM05AAI0V01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA239X90T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR197ER0Z11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM247DZ0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC1066X0Q5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC233YE0T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC203030Q5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB2025Z0Q5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD051FR0V01C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA240HL0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL250OX0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL250LA0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL251EJ0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2505L0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2506F0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD09CGF0Z01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2517J0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD087ZJ0Y5A201C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC245VU0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL250TH0V21C25A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC24CF30U5A221C2000000/">
+    <title>ホンダ、米国でHV電池生産検討　LGとのEV電池工場を転用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC24CF30U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:09:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFH225370S5A221C2000000/">
+    <title>変わる首都の玄関口、東京駅周辺3D解説　日本橋は26年完成ビルも</title>
+    <link>https://www.nikkei.com/article/DGXZQOFH225370S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:08:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB18A080Y5A211C2000000/">
+    <title>債券投資家、安全なのは「国家より企業」　米仏で揺らいだ運用の常識</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB18A080Y5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:06:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL250QA0V21C25A2000000/">
+    <title>電通グループの株価小動き　銀座ビル売却、譲渡益300億円に反応薄</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL250QA0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:04:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC245V90U5A221C2000000/">
+    <title>静岡ガス、相良沖の藻場再生で漁協などと連携協定</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC245V90U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:03:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC246YC0U5A221C2000000/">
+    <title>静岡市、日本サイバーディフェンスと連携　デジタル人材育成で</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC246YC0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:03:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC246YZ0U5A221C2000000/">
+    <title>静岡の12月景気判断、中国人客減で「宿泊者数」引き下げ　日銀概況</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC246YZ0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:03:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC251L10V21C25A2000000/">
+    <title>有原航平が古巣日ハム復帰へ　6季ぶり、2年連続最多勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC251L10V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN18CZA0Y5A211C2000000/">
+    <title>米国の台湾支援、予算拡大も兵器届かず　3兆円遅れで陰る中国抑止</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN18CZA0Y5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC16AFA0W5A211C2000000/">
+    <title>楽天ペイメント小林社長「経済圏、ウーバー提携で点から面に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC16AFA0W5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM05AAI0V01C25A2000000/">
+    <title>インドネシア豪雨被害、森林破壊が誘発か　疑惑の10社超に営業停止令</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM05AAI0V01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA239X90T21C25A2000000/">
+    <title>無風の赤字国債法案、財政に「警鐘」なき通常国会　国民民主が賛成へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA239X90T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR197ER0Z11C25A2000000/">
+    <title>「忘れられた内戦」スーダン人道危機　放置すれば地域安保にもリスク</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR197ER0Z11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM247DZ0U5A221C2000000/">
+    <title>1日11万円で人型ロボット　中国・智元、結婚式で指輪手渡しも</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM247DZ0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC1066X0Q5A211C2000000/">
+    <title>糖度は最高78度　宮崎の焼き芋、あふれる蜜で11カ国・地域開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC1066X0Q5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC233YE0T21C25A2000000/">
+    <title>スバル、特別色のスポーツ仕様車やレース車展示　東京オートサロン</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC233YE0T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC203030Q5A221C2000000/">
+    <title>東レ、車載用リチウムイオン電池再生でリチウム回収技術を実用規模に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC203030Q5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB2025Z0Q5A221C2000000/">
+    <title>日豪連携、安保や供給網に広がる　中国進出や米政策の不透明さ背景に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB2025Z0Q5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD051FR0V01C25A1000000/">
+    <title>乳幼児のおもちゃに初の安全規制　PSCマーク表示義務、誤飲事故防げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD051FR0V01C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA240HL0U5A221C2000000/">
+    <title>債務残高GDP比「引き下げシナリオを」　諮問会議で民間議員が提言</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA240HL0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:52:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL250OX0V21C25A2000000/">
+    <title>ハイデイ日高の株価、2カ月半ぶり高値　「営業最高益」報道で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL250OX0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:51:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL250LA0V21C25A2000000/">
+    <title>フジHDの株価上昇　村上氏側がTOBを想定、1株4000円提示</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL250LA0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:39:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL251EJ0V21C25A2000000/">
+    <title>上海株寄り付き　小反落で始まる　高値警戒感で利益確定売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL251EJ0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:39:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2505L0V21C25A2000000/">
+    <title>NVIDIA、AI半導体新興の経営陣引き抜き　対価3兆円支払い</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2505L0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:36:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2506F0V21C25A2000000/">
+    <title>外為10時　円相場、強含み　155円台後半　中値「取引ほとんどない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2506F0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:32:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD09CGF0Z01C25A2000000/">
+    <title>Google救ったOpenAIとの「競争」　AI時代の独占認定難しく</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD09CGF0Z01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:30:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2517J0V21C25A2000000/">
+    <title>人民元基準値、対米ドルで7.0392元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2517J0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:29:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD087ZJ0Y5A201C2000000/">
+    <title>海保パイロット、人的ミス防止へ海外で研さん　羽田衝突事故受け対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD087ZJ0Y5A201C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:15:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC245VU0U5A221C2000000/">
+    <title>清水建設、建物ゼロエネ化の計画提案　AIで省エネ性能・コスト評価</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC245VU0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:12:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL250TH0V21C25A2000000/">
+    <title>東証10時　日経平均は上げ幅縮小　午後の日銀総裁講演を見極め</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL250TH0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-25T10:10:43+09:00</dc:date>
+  </item>
+</rdf:RDF>
