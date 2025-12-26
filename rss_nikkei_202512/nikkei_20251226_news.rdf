@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-12-26T09:12:20+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA241X40U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2471W0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC073M30X00C25A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL260F00W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL260590W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA25AQD0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA255A70V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB245MD0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB260BR0W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB2609X0W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB260950W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL258DB0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2585W0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB25ABT0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC253RM0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2601H0W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG272OT0X21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB21DG50R21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA10CQH0Q5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC18CP20Y5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC17C1C0X11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC23BZ10T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12BUW0S5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC09BU10Z01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH18BCX0Y5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC05AXO0V00C25A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK24AYH0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB04APY0U5A101C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH24AWY0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC248SQ0U5A221C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA241X40U5A221C2000000/">
+    <title>2026年度予算案26日決定、過去最大122兆円　国債費31兆円</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA241X40U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T09:04:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2471W0U5A221C2000000/">
+    <title>鉱工業生産指数、11月は2.6%低下　電気・情報通信機械工業が振るわず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2471W0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T09:01:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC073M30X00C25A8000000/">
+    <title>電機連合、ベア1万8000円以上要求へ　現行方式で過去最高</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC073M30X00C25A8000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T08:57:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL260F00W5A221C2000000/">
+    <title>日経平均先物、小幅反落し5万510円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL260F00W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T08:57:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL260590W5A221C2000000/">
+    <title>外為8時30分　円相場、小幅上昇し155円台後半　対ユーロでは上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL260590W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T08:51:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA25AQD0V21C25A2000000/">
+    <title>東京都区部の消費者物価指数、12月2.3%上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA25AQD0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T08:49:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA255A70V21C25A2000000/">
+    <title>11月の有効求人倍率1.18倍　前月から横ばい</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA255A70V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T08:45:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB245MD0U5A221C2000000/">
+    <title>クリスマスの日付変わったウクライナの村　教会問題、和平でも争点</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB245MD0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T08:27:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB260BR0W5A221C2000000/">
+    <title>英国王、反移民に懸念　クリスマス恒例メッセージ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB260BR0W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T08:05:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB2609X0W5A221C2000000/">
+    <title>米国務長官、タイ国境衝突を懸念　カンボジア首相と電話会談</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB2609X0W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T07:56:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB260950W5A221C2000000/">
+    <title>イラン精鋭部隊工作員を殺害　イスラエル「テロに関与」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB260950W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T07:41:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL258DB0V21C25A2000000/">
+    <title>日経平均株価、欧米市場休場で材料乏しく（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL258DB0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T07:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2585W0V21C25A2000000/">
+    <title>今日の株価材料（新聞など、26日）象印、今期純利益20%減</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2585W0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T07:21:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB25ABT0V21C25A2000000/">
+    <title>米住宅市場、買い手も売り手も撤退　26年トランプ砲の焦点</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB25ABT0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T07:12:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC253RM0V21C25A2000000/">
+    <title>X新機能に著作権侵害リスク　他人の投稿画像もAI加工</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC253RM0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T06:44:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2601H0W5A221C2000000/">
+    <title>日経平均先物、夜間取引で下落　30円安の5万490円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2601H0W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T06:11:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG272OT0X21C25A1000000/">
+    <title>レンズの常識を覆す「メタレンズ」、何がすごいのか　3分解説</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG272OT0X21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB21DG50R21C25A1000000/">
+    <title>日経平均株価5万円、熱狂か実力か　若い世代は「通過点」と冷静</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB21DG50R21C25A1000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA10CQH0Q5A211C2000000/">
+    <title>女性首相・連立離脱…　現場記者と外国人デスク、25年政治どう見た</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA10CQH0Q5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC18CP20Y5A211C2000000/">
+    <title>リロが福利厚生で灯油宅配　1リットル当たり7円引き、まず北海道で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC18CP20Y5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC17C1C0X11C25A2000000/">
+    <title>CMOの68%「AIに人の心を動かすものは創造できない」電通調べ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC17C1C0X11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC23BZ10T21C25A2000000/">
+    <title>日軽金HD岡本社長「アルミ製錬撤退後の組織、変革へやっと前進」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC23BZ10T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12BUW0S5A211C2000000/">
+    <title>三井物産社長「人員配置でAI活用も」　商社の縦割り崩す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12BUW0S5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC09BU10Z01C25A2000000/">
+    <title>「データセンター銀座」千葉・印西市、新設続く　駅前計画に反発も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC09BU10Z01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH18BCX0Y5A211C2000000/">
+    <title>Jリーグ過去最多1350万人動員　「満員」の熱気、招待客3割超の再訪呼ぶ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH18BCX0Y5A211C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC05AXO0V00C25A6000000/">
+    <title>ソフトバンクのAIメモリー開発、富士通が参画　省電力で国産復活狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC05AXO0V00C25A6000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK24AYH0U5A221C2000000/">
+    <title>日中対立「起源は日清戦争と台湾出兵」　岡本隆司・早大教授</title>
+    <link>https://www.nikkei.com/article/DGXZQODK24AYH0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB04APY0U5A101C2000000/">
+    <title>メモリー高騰がPC値上げ呼ぶ　mouseは26年から、シャープ系も検討</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB04APY0U5A101C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH24AWY0U5A221C2000000/">
+    <title>プロ野球覇者の特権「優勝旅行」の計り知れない価値（田尾安志）</title>
+    <link>https://www.nikkei.com/article/DGXZQODH24AWY0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC248SQ0U5A221C2000000/">
+    <title>三菱ケミカルG筑本社長、樹脂原料MMA「投資先はインドしかない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC248SQ0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-26T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
