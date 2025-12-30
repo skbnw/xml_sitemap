@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2025-12-30T10:12:00+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3008K0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300BM0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300BF0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300560Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300680Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3007C0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293FV0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300070Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300190Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001F0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL292LH0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293OE0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001E0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001W0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290OF0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001D0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293JO0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB224500S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2710QTX21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL260Q70W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB246450U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB035330T01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293880Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293870Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB226H80S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293820Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293840Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293EM0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL292S80Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB291C10Z21C25A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3008K0Q5A231C2000000/">
+    <title>商品9時30分　原油反発、ベネズエラとロシアの供給懸念で　金は続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3008K0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:47:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300BM0Q5A231C2000000/">
+    <title>東証寄り付き　日経平均は続落　米株安で、住友鉱など非鉄株が大幅安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300BM0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:28:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300BF0Q5A231C2000000/">
+    <title>日経平均、続落で始まる　米株安で売り先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300BF0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:08:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300560Q5A231C2000000/">
+    <title>債券寄り付き　先物、反発　米債高で買い優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300560Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:05:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300680Q5A231C2000000/">
+    <title>外為8時30分　円相場、横ばい圏　156円台前半　対ユーロも小動き</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300680Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:00:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3007C0Q5A231C2000000/">
+    <title>日経平均先物、続落し5万0290円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3007C0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T08:54:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293FV0Z21C25A2000000/">
+    <title>NY株ハイライト　銀と「銀」年末高に冷や水</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293FV0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T08:10:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300070Q5A231C2000000/">
+    <title>NY円相場、反発　1ドル=156円00〜10銭　日銀の利上げ観測が支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300070Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:43:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300190Q5A231C2000000/">
+    <title>日経平均、貴金属価格急落が重荷　2025年大納会（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300190Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:31:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001F0Q5A231C2000000/">
+    <title>シカゴ日本株先物概況・29日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001F0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:28:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL292LH0Z21C25A2000000/">
+    <title>今日の株価材料（新聞など、30日）ソフトバンクG、米デジタルインフラ投資会社買収</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL292LH0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:14:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293OE0Z21C25A2000000/">
+    <title>NY債券、長期債上昇　10年債利回り4.11%　米株安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293OE0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:11:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001E0Q5A231C2000000/">
+    <title>日本株ADR29日、買い優勢　オリックスや武田が上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001E0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:28:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001W0Q5A231C2000000/">
+    <title>NYダウ続落、249ドル安　銀先物急落で投資家心理が悪化</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001W0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:25:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290OF0Z21C25A2000000/">
+    <title>テスラ株乱高下、ロボタクシー「夢買い」から実力試される2026年</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290OF0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:15:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001D0Q5A231C2000000/">
+    <title>日経平均先物、夜間取引で下落　100円安の5万380円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001D0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:07:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293JO0Z21C25A2000000/">
+    <title>NY商品、原油反発　ベネズエラやウクライナ巡る不透明感で　金は大幅反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293JO0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:04:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB224500S5A221C2000000/">
+    <title>優待株「限界」のイオン・異形の急成長パランティア　記者の目まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB224500S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2710QTX21C25A2000000/">
+    <title>韓国美容APR、｢メディキューブ」が席巻　時価総額は資生堂超え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2710QTX21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T04:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL260Q70W5A221C2000000/">
+    <title>26年のIPO、65社程度で25年と同水準か　上場の厳選傾向続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL260Q70W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T04:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB246450U5A221C2000000/">
+    <title>26年の日本株「条件の良さ確信」　英M&amp;Gインベストメンツ社長</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB246450U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB035330T01C25A2000000/">
+    <title>時価総額4業種でトップ交代　通信はソフトバンクGが5年ぶり首位</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB035330T01C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293880Z21C25A2000000/">
+    <title>ドイツ株29日　小幅続伸　消費関連に買い　仏株も反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293880Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T02:48:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293870Z21C25A2000000/">
+    <title>ロンドン株29日　続落　防衛関連株に売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293870Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T02:15:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB226H80S5A221C2000000/">
+    <title>利権を打ち破る規制改革を</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB226H80S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293820Z21C25A2000000/">
+    <title>欧州国債概況29日　独10年債利回り低下　英金利も低い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293820Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T01:45:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293840Z21C25A2000000/">
+    <title>ロンドン外為29日　ユーロ、対ドルで下落　英ポンドも小幅安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293840Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T01:29:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293EM0Z21C25A2000000/">
+    <title>NYダウ、続落で始まる　ハイテク株に持ち高調整の売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293EM0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T00:17:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL292S80Z21C25A2000000/">
+    <title>欧州市場の主要指標11時半　株は小動き、ユーロは小幅安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL292S80Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-29T21:01:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB291C10Z21C25A2000000/">
+    <title>非鉄株が上昇、金属価格高騰で　住友鉱山は最高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB291C10Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-29T20:00:28+09:00</dc:date>
+  </item>
+</rdf:RDF>

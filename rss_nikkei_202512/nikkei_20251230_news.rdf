@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2025-12-30T10:11:13+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC300400Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3008K0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA265Q90W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN300DK0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM300920Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300BM0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM3006B0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300BF0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300560Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300680Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC290FI0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3007C0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293FV0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300070Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300190Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001F0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN293OC0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290MY0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL292LH0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293OE0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD3003M0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001E0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001W0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19AN40Z11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290OF0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN293QQ0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR293K30Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3001D0Q5A231C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293JO0Z21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN293MF0Z21C25A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC300400Q5A231C2000000/">
+    <title>ジャンプ週間開幕戦、小林陵侑6位　二階堂蓮は13位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC300400Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:52:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3008K0Q5A231C2000000/">
+    <title>商品9時30分　原油反発、ベネズエラとロシアの供給懸念で　金は続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3008K0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:47:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA265Q90W5A221C2000000/">
+    <title>特別養護老人ホーム待機者、3年で5万人減　厚労省調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA265Q90W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:42:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN300DK0Q5A231C2000000/">
+    <title>トランプ氏、中国の台湾演習「懸念せず」　批判避ける</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN300DK0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:39:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM300920Q5A231C2000000/">
+    <title>中国軍が連日の台湾包囲演習　海上突撃や防空、頼政権への威圧継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM300920Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:30:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300BM0Q5A231C2000000/">
+    <title>東証寄り付き　日経平均は続落　米株安で、住友鉱など非鉄株が大幅安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300BM0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:28:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM3006B0Q5A231C2000000/">
+    <title>中国軍事演習、台湾便の利用客10万人に影響　欠航や遅延</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM3006B0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:10:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300BF0Q5A231C2000000/">
+    <title>日経平均、続落で始まる　米株安で売り先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300BF0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:08:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300560Q5A231C2000000/">
+    <title>債券寄り付き　先物、反発　米債高で買い優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300560Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:05:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300680Q5A231C2000000/">
+    <title>外為8時30分　円相場、横ばい圏　156円台前半　対ユーロも小動き</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300680Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:00:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC290FI0Z21C25A2000000/">
+    <title>日産が九州のEV電池工場断念・沖縄でジャングリア開業　25年回顧</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC290FI0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3007C0Q5A231C2000000/">
+    <title>日経平均先物、続落し5万0290円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3007C0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T08:54:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293FV0Z21C25A2000000/">
+    <title>NY株ハイライト　銀と「銀」年末高に冷や水</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293FV0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T08:10:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300070Q5A231C2000000/">
+    <title>NY円相場、反発　1ドル=156円00〜10銭　日銀の利上げ観測が支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300070Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:43:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300190Q5A231C2000000/">
+    <title>日経平均、貴金属価格急落が重荷　2025年大納会（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300190Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:31:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001F0Q5A231C2000000/">
+    <title>シカゴ日本株先物概況・29日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001F0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:28:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN293OC0Z21C25A2000000/">
+    <title>トランプ氏「ベネズエラの港湾地域を攻撃」と表明　初の陸上攻撃か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN293OC0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:27:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290MY0Z21C25A2000000/">
+    <title>トランプ氏「イラン核開発なら再び攻撃する」　ネタニヤフ氏と会談</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290MY0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:26:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL292LH0Z21C25A2000000/">
+    <title>今日の株価材料（新聞など、30日）ソフトバンクG、米デジタルインフラ投資会社買収</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL292LH0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:14:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293OE0Z21C25A2000000/">
+    <title>NY債券、長期債上昇　10年債利回り4.11%　米株安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293OE0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T07:11:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD3003M0Q5A231C2000000/">
+    <title>東京・高田馬場の女性刺傷、容疑で中国籍の男を逮捕　エステ店の客か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD3003M0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:55:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001E0Q5A231C2000000/">
+    <title>日本株ADR29日、買い優勢　オリックスや武田が上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001E0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:28:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001W0Q5A231C2000000/">
+    <title>NYダウ続落、249ドル安　銀先物急落で投資家心理が悪化</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001W0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:25:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19AN40Z11C25A2000000/">
+    <title>「エージェント」で巻き返し　AWSキーパーソンにAI戦略を聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19AN40Z11C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:21:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290OF0Z21C25A2000000/">
+    <title>テスラ株乱高下、ロボタクシー「夢買い」から実力試される2026年</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290OF0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:15:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN293QQ0Z21C25A2000000/">
+    <title>メキシコ列車脱線事故で13人死亡　2年前に開業の大洋間鉄道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN293QQ0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:09:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR293K30Z21C25A2000000/">
+    <title>米ロ首脳が連日の電話協議　プーチン氏、ウクライナが「攻撃」と批判</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR293K30Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:07:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3001D0Q5A231C2000000/">
+    <title>日経平均先物、夜間取引で下落　100円安の5万380円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3001D0Q5A231C2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:07:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293JO0Z21C25A2000000/">
+    <title>NY商品、原油反発　ベネズエラやウクライナ巡る不透明感で　金は大幅反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293JO0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T06:04:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN293MF0Z21C25A2000000/">
+    <title>米司法省、Googleやベライゾンを調査　DEI推進は「詐欺行為」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN293MF0Z21C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-30T05:48:33+09:00</dc:date>
+  </item>
+</rdf:RDF>
