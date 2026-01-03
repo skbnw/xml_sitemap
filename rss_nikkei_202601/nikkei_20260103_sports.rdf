@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2026-01-03T11:10:50+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC030450T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0305Q0T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH020HM0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC021FP0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH020NB0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020Z90S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020QT0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020T20S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020IV0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020QU0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020MR0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020NC0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH0205N0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020AR0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODL020290S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020350S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH070AA0X01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0113T0R00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0111F0R00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0110P0R00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010Y10R00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010T90R00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010Q80R00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010K40R00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010IA0R00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC094AW0Z01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH193KP0Z11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC311UR0R31C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC311RD0R31C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC311J00R31C25A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC030450T00C26A1000000/">
+    <title>テニスユナイテッド杯、日本黒星スタート　男女混成の国別対抗戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC030450T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T09:02:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0305Q0T00C26A1000000/">
+    <title>今井達也、アストロズ入団　3年契約で総額84億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0305Q0T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T08:58:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH020HM0S6A100C2000000/">
+    <title>「二枚看板」擁する早大、強力FWの明大　大学ラグビー決勝で激突</title>
+    <link>https://www.nikkei.com/article/DGXZQODH020HM0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC021FP0S6A100C2000000/">
+    <title>高井幸大がボルシアMGに加入　ドイツ1部、期限付き</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC021FP0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T23:31:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH020NB0S6A100C2000000/">
+    <title>青学大・黒田朝日「シン・山の神」が区間新　大逆転で往路3連覇</title>
+    <link>https://www.nikkei.com/article/DGXZQODH020NB0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T19:37:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020Z90S6A100C2000000/">
+    <title>ジャンプW杯で失格者、勢藤優花16位に繰り上げ　伊藤有希18位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020Z90S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T18:46:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020QT0S6A100C2000000/">
+    <title>大の里「昨年を上回る」　新年初稽古、正月気分なし</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020QT0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T17:35:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020T20S6A100C2000000/">
+    <title>競泳・松下知之「上のレベルに」　初練習、日本記録更新狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020T20S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T17:33:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020IV0S6A100C2000000/">
+    <title>全国大学ラグビー、早大・明大が決勝へ　帝京大5連覇逃す</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020IV0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T17:32:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020QU0S6A100C2000000/">
+    <title>全国高校サッカー、流経柏・神村など8強</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020QU0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T17:06:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020MR0S6A100C2000000/">
+    <title>ビーナス・ウィリアムズ、全豪テニス出場へ　女子で大会最年長</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020MR0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T16:07:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020NC0S6A100C2000000/">
+    <title>高橋光成が西武残留の可能性　米報道、交渉期限は5日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020NC0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T16:01:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH0205N0S6A100C2000000/">
+    <title>箱根駅伝、青学大が3年連続往路V　エース黒田朝日が山上り5区で逆転</title>
+    <link>https://www.nikkei.com/article/DGXZQODH0205N0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T13:46:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020AR0S6A100C2000000/">
+    <title>フィギュア友野一希、現役続行へ　ミラノ五輪代表逃す</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020AR0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T13:35:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODL020290S6A100C2000000/">
+    <title>今井達也がアストロズと合意、3年84億円超　米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQODL020290S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T10:21:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020350S6A100C2000000/">
+    <title>高梨沙羅5位、丸山希は8位　スキーW杯ジャンプ女子</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020350S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T08:41:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH070AA0X01C25A2000000/">
+    <title>サッカーW杯、優勝国「G8」を見逃すな　初出場国にも注目</title>
+    <link>https://www.nikkei.com/article/DGXZQODH070AA0X01C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0113T0R00C26A1000000/">
+    <title>ジャンプ週間第2戦、二階堂蓮4位　小林陵侑は5位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0113T0R00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-02T00:53:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0111F0R00C26A1000000/">
+    <title>ツール・ド・スキー、広瀬崚63位　20キロクラシカル</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0111F0R00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T23:18:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0110P0R00C26A1000000/">
+    <title>チェルシー、マレスカ監督の退任発表　プレミアリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0110P0R00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T22:48:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010Y10R00C26A1000000/">
+    <title>IOC会長、ミラノ冬季五輪「成功を」　新年で意気込む</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010Y10R00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T21:24:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010T90R00C26A1000000/">
+    <title>DF安藤智哉、ザンクトパウリ移籍　J1福岡から独1部へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010T90R00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T19:01:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010Q80R00C26A1000000/">
+    <title>桐蔭学園・東海大仰星など8強　全国高校ラグビー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010Q80R00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T17:42:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010K40R00C26A1000000/">
+    <title>サッカー皇后杯、広島が初優勝　INAC神戸に競り勝つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010K40R00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T17:06:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010IA0R00C26A1000000/">
+    <title>全日本実業団駅伝、GMOが初優勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010IA0R00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T15:10:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC094AW0Z01C25A2000000/">
+    <title>サッカーW杯、夜試合5割で94年比3倍　世界の視聴者増と暑さ対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC094AW0Z01C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH193KP0Z11C25A1000000/">
+    <title>WBC連覇へ井端ジャパン出陣　大黒柱・大谷翔平の参戦追い風に</title>
+    <link>https://www.nikkei.com/article/DGXZQODH193KP0Z11C25A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC311UR0R31C25A2000000/">
+    <title>ツール・ド・スキー、本田千佳74位　5キロフリー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC311UR0R31C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T00:55:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC311RD0R31C25A2000000/">
+    <title>ジャンプW杯、丸山希が3位、高梨沙羅5位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC311RD0R31C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-01T00:52:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC311J00R31C25A2000000/">
+    <title>ボクシング、井岡一翔がKO勝ち　WBAバンタム級挑戦者決定戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC311J00R31C25A2000000/</link>
+    <description></description>
+    <dc:date>2025-12-31T21:30:53+09:00</dc:date>
+  </item>
+</rdf:RDF>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-01-03T10:13:23+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA121BI0S5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD030810T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC030450T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC224AI0S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0305Q0T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN250E30V21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021IM0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN030250T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0212B0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN021L40S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021OW0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR021LH0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021JM0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021JI0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0301C0T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021RL0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021IL0S6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC23AZT0T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA10AWU0Q5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD15AFB0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC25A2X0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCA1697S0W5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG108460Q5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB267W80W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2377V0T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1570Q0V11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC246M30U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC035DS0T01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1850Z0Y5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC244ER0U5A221C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA121BI0S5A211C2000000/">
+    <title>AI時代に議員は不要か　定数削減案が問う存在意義</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA121BI0S5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD030810T00C26A1000000/">
+    <title>雪で立ち往生か、広島の山陽道で一部通行止め　気象庁は警戒呼びかけ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD030810T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T09:52:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC030450T00C26A1000000/">
+    <title>テニスユナイテッド杯、日本黒星スタート　男女混成の国別対抗戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC030450T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T09:02:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC224AI0S5A221C2000000/">
+    <title>水彩画で九州の街や名所活写　北九州空港など、日常の風景も新鮮に</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC224AI0S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0305Q0T00C26A1000000/">
+    <title>今井達也、アストロズ入団　3年契約で総額84億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0305Q0T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T08:58:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN250E30V21C25A1000000/">
+    <title>テロ黒幕13歳の衝撃　米国のα世代は「分断の申し子」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN250E30V21C25A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T08:01:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021IM0S6A100C2000000/">
+    <title>NY円相場、続落　1ドル=156円80〜90銭、米長期金利上昇や円の先安観で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021IM0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T07:54:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN030250T00C26A1000000/">
+    <title>ベネズエラ大統領「事実に基づいた対話」呼びかけ　米国が地上攻撃か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN030250T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T07:50:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0212B0S6A100C2000000/">
+    <title>高市首相とトランプ大統領が電話協議　2026年春の訪米で調整合意</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0212B0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T07:33:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN021L40S6A100C2000000/">
+    <title>米国株の2026年、ダウ319ドル高で幕開け　AI期待は経験則打破なるか</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN021L40S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T07:25:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021OW0S6A100C2000000/">
+    <title>NY債券、長期債続落　10年債利回り4.19%　持ち高調整の売り優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021OW0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T07:07:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR021LH0S6A100C2000000/">
+    <title>ゼレンスキー氏、大統領府長官にブダノフ情報総局長　国防相も交代</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR021LH0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T07:02:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021JM0S6A100C2000000/">
+    <title>シカゴ日本株先物概況・2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021JM0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T06:44:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021JI0S6A100C2000000/">
+    <title>日本株ADR2日、全面高　トヨタやホンダの上げ目立つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021JI0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T06:23:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0301C0T00C26A1000000/">
+    <title>NYダウ、5営業日ぶりに反発し319ドル高　主力株を買い直す動き</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0301C0T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T06:22:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021RL0S6A100C2000000/">
+    <title>ドル、2026年も消えぬ下値不安　「序の口」の通貨安トレード</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021RL0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T06:13:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021IL0S6A100C2000000/">
+    <title>NY商品、原油続落　需給の緩みを意識　金続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021IL0S6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:22:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC23AZT0T21C25A2000000/">
+    <title>三井化学など、石化再編の実行局面へ　トップが描く26年の戦略</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC23AZT0T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA10AWU0Q5A211C2000000/">
+    <title>日本「持てる1万人」所得シェア2%超、株高で格差拡大　再分配に難題</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA10AWU0Q5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD15AFB0V11C25A2000000/">
+    <title>｢プロレスもビジネスも人を喜ばせるため｣　力道山の妻・田中敬子さん</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD15AFB0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC25A2X0V21C25A2000000/">
+    <title>苦境の国内線、7社の戦略は　JAL・ANA・スカイマーク…首脳に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC25A2X0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCA1697S0W5A211C2000000/">
+    <title>ようこそαの世界へ、ショート動画集　世代論から生の声まで</title>
+    <link>https://www.nikkei.com/article/DGXZQOCA1697S0W5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG108460Q5A211C2000000/">
+    <title>感染症・がんに悩んだ恐竜、化石に証拠相次ぐ　「カルテ」作りに期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG108460Q5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB267W80W5A221C2000000/">
+    <title>2026年の日経平均、市場予想は5万3000〜6万1000円　成長期待に濃淡</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB267W80W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2377V0T21C25A2000000/">
+    <title>長崎の離島から本場欧州へ　土地の「物語性」ジンに注ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2377V0T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1570Q0V11C25A2000000/">
+    <title>利益主義が生む「よそ者」と地域の交流、観光・商業開発が重層的に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1570Q0V11C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC246M30U5A221C2000000/">
+    <title>「アグリテック」で産業育成　埼玉・深谷など、人口減社会に先手</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC246M30U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC035DS0T01C25A2000000/">
+    <title>「ディズニー1日5万円」はつらいよ　遊び格差、ロブロックスで超えろ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC035DS0T01C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1850Z0Y5A211C2000000/">
+    <title>リニア最大の難所、静岡工区2026年にも着工へ　知事容認へ土壌固め</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1850Z0Y5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC244ER0U5A221C2000000/">
+    <title>江戸情緒を味わう、浅草の「どぜう鍋」　獣肉食禁止で庶民支える</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC244ER0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-03T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
