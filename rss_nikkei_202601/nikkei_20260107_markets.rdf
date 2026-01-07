@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-01-07T11:15:05+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB164LI0W5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0717G0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070EE0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL069G20W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL071320X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070UE0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070T50X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070IJ0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070PZ0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070OJ0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070RX0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB070XB0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070L50X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070LF0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070L40X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0671J0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070B20X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BAK0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070320X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0702M0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BKE0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0699B0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BKH0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070300X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070430X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06BQ20W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0702Y0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODL1236Y0S5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06B7F0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB264UT0W5A221C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB164LI0W5A211C2000000/">
+    <title>電力危機でアルミ高騰、AIデータセンターが新たな「電気の缶詰」に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB164LI0W5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0717G0X00C26A1000000/">
+    <title>香港株寄り付き　反落、EVやネット大手に売り　投資家心理が悪化</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0717G0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:48:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070EE0X00C26A1000000/">
+    <title>100円ショップのセリア株価4年ぶり高値　12月既存店8%増収</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070EE0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:44:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL069G20W6A100C2000000/">
+    <title>上海株寄り付き　小動きで始まる、政策期待で買い先行　利益確定売りは重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL069G20W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:43:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL071320X00C26A1000000/">
+    <title>人民元基準値、対米ドルで7.0187元　前日比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL071320X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:29:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070UE0X00C26A1000000/">
+    <title>久光製薬の株価ストップ高水準　TOB価格1株6082円を意識</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070UE0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:28:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070T50X00C26A1000000/">
+    <title>外為10時　円相場、底堅い　156円台後半　中値「若干のドル不足」の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070T50X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:27:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070IJ0X00C26A1000000/">
+    <title>キオクシア株価大幅高、米半導体指数最高値　サンディスク急伸で連想</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070IJ0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:23:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070PZ0X00C26A1000000/">
+    <title>資生堂の株価小反落、国内257人が希望退職　業績低迷を嫌気</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070PZ0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:18:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070OJ0X00C26A1000000/">
+    <title>商品9時30分　原油反落、需給の緩み意識で　白金は最高値更新</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070OJ0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:14:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070RX0X00C26A1000000/">
+    <title>東証10時　日経平均は引き続き安い　ファストリやダイキンが一段安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070RX0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:13:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB070XB0X00C26A1000000/">
+    <title>ドバイ原油・7日午前、下落　58.80ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB070XB0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T09:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070L50X00C26A1000000/">
+    <title>東証寄り付き　日経平均は反落　中国の輸出規制が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070L50X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T09:20:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070LF0X00C26A1000000/">
+    <title>日経平均、反落で始まる　日中対立への懸念で売り先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070LF0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T09:09:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070L40X00C26A1000000/">
+    <title>債券寄り付き　先物が反発、10年入札通過で買い先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070L40X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:55:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0671J0W6A100C2000000/">
+    <title>日経平均先物、反落し5万2090円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0671J0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:54:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070B20X00C26A1000000/">
+    <title>外為8時30分　円相場、下落し156円台後半　対ユーロでは上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070B20X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:48:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BAK0W6A100C2000000/">
+    <title>NY株ハイライト　過熱するAI選別　メモリー急騰、CESにヒント</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BAK0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:09:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070320X00C26A1000000/">
+    <title>シカゴ日本株先物概況・6日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070320X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:58:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0702M0X00C26A1000000/">
+    <title>日経平均、高値警戒感広がる　米株高は支えに（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0702M0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:46:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BKE0W6A100C2000000/">
+    <title>NY円相場、反落　1ドル=156円65〜75銭　米株高や地政学リスクの警戒緩和で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BKE0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:45:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0699B0W6A100C2000000/">
+    <title>今日の株価材料（新聞など、7日）薬王堂HD、今期最終減益に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0699B0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:31:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BKH0W6A100C2000000/">
+    <title>NY債券、長期債反落　10年債利回り4.17%　需給の不透明感は重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BKH0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:11:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070300X00C26A1000000/">
+    <title>日本株ADR6日、買い優勢　みずほFGや野村が高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070300X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T06:28:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070430X00C26A1000000/">
+    <title>NYダウ、続伸し連日の最高値　ディフェンシブ株やAI関連に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070430X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T06:23:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06BQ20W6A100C2000000/">
+    <title>「無法地帯」の予測市場　ベネズエラ攻撃でインサイダー疑いの指摘</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06BQ20W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T06:17:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0702Y0X00C26A1000000/">
+    <title>日経平均先物、夜間取引で下落　640円安の5万2050円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0702Y0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T06:08:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODL1236Y0S5A211C2000000/">
+    <title>AIブームを止めるのは銅？　なぜ世界で争奪戦に3分解説</title>
+    <link>https://www.nikkei.com/article/DGXZQODL1236Y0S5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06B7F0W6A100C2000000/">
+    <title>NY商品、原油反落　ベネズエラ情勢を見極め　金続伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06B7F0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T05:42:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB264UT0W5A221C2000000/">
+    <title>仏運用大手アムンディCIO、最高値圏の欧州株｢景気･業績に下振れリスク｣</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB264UT0W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>

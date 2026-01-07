@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-01-07T10:10:27+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0703N0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC052TP0V00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD0317N0T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB070XB0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD070EZ0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070L50X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN070AV0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070LF0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070L40X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0671J0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070B20X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB070I30X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC070GA0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC070AA0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB070D60X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BAK0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN070870X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070320X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0708W0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0702M0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BKE0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN060EE0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06BRN0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06BQT0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0699B0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06BS00W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL06BKH0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR0700X0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN06BP60W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070300X00C26A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0703N0X00C26A1000000/">
+    <title>トランプ氏「米国にベネズエラ産原油」、最大5000万バレルを輸送</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0703N0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:04:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC052TP0V00C26A1000000/">
+    <title>北海道の化粧品工場に年30万人　ローカルな「聖地」で体験や飲食</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC052TP0V00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD0317N0T00C26A1000000/">
+    <title>技術主権を握れる国に　手術ロボと移動シェアが示す鍵は「ソブリン」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD0317N0T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB070XB0X00C26A1000000/">
+    <title>ドバイ原油・7日午前、下落　58.80ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB070XB0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T09:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD070EZ0X00C26A1000000/">
+    <title>山陰地震、一夜明け復旧作業が本格化　断水の鳥取県内に給水車</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD070EZ0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T09:44:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070L50X00C26A1000000/">
+    <title>東証寄り付き　日経平均は反落　中国の輸出規制が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070L50X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T09:20:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN070AV0X00C26A1000000/">
+    <title>米最高裁、案件明示せず「9日に判決」　トランプ関税で判断の可能性</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN070AV0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T09:15:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070LF0X00C26A1000000/">
+    <title>日経平均、反落で始まる　日中対立への懸念で売り先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070LF0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T09:09:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070L40X00C26A1000000/">
+    <title>債券寄り付き　先物が反発、10年入札通過で買い先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070L40X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:55:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0671J0W6A100C2000000/">
+    <title>日経平均先物、反落し5万2090円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0671J0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:54:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070B20X00C26A1000000/">
+    <title>外為8時30分　円相場、下落し156円台後半　対ユーロでは上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070B20X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:48:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB070I30X00C26A1000000/">
+    <title>ロシア、ベネズエラ支援を継続　暫定大統領就任を歓迎</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB070I30X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:39:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC070GA0X00C26A1000000/">
+    <title>NBA、ブルズが河村勇輝と再契約　ツーウエー契約締結</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC070GA0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:34:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC070AA0X00C26A1000000/">
+    <title>ジャンプ週間最終戦、小林陵侑3位　二階堂蓮は8位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC070AA0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:19:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB070D60X00C26A1000000/">
+    <title>カナダ総督、2月にグリーンランド訪問　領事館開設へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB070D60X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:17:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BAK0W6A100C2000000/">
+    <title>NY株ハイライト　過熱するAI選別　メモリー急騰、CESにヒント</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BAK0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:09:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN070870X00C26A1000000/">
+    <title>マスク氏のxAI、3兆円調達で開発投資　NVIDIAなど出資</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN070870X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T08:03:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070320X00C26A1000000/">
+    <title>シカゴ日本株先物概況・6日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070320X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:58:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0708W0X00C26A1000000/">
+    <title>NVIDIAのファンCEO、AI半導体のH200「中国向けに増産体制」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0708W0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:49:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0702M0X00C26A1000000/">
+    <title>日経平均、高値警戒感広がる　米株高は支えに（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0702M0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:46:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BKE0W6A100C2000000/">
+    <title>NY円相場、反落　1ドル=156円65〜75銭　米株高や地政学リスクの警戒緩和で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BKE0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:45:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN060EE0W6A100C2000000/">
+    <title>シーメンス、NVIDIAのデジタル設計ソフトと連携　核融合新興に提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN060EE0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:42:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06BRN0W6A100C2000000/">
+    <title>米政府、グリーンランド取得へ「米軍活用も選択肢」　異例の圧力</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06BRN0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:36:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06BQT0W6A100C2000000/">
+    <title>キューバ、原油確保はメキシコ頼み　輸入量でベネズエラを逆転</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06BQT0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:33:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0699B0W6A100C2000000/">
+    <title>今日の株価材料（新聞など、7日）薬王堂HD、今期最終減益に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0699B0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:31:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06BS00W6A100C2000000/">
+    <title>米議会占拠5年、米政権「民主党のでっち上げ」と主張　歴史修正狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06BS00W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:22:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL06BKH0W6A100C2000000/">
+    <title>NY債券、長期債反落　10年債利回り4.17%　需給の不透明感は重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL06BKH0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:11:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR0700X0X00C26A1000000/">
+    <title>イスラエル・シリア、緊張緩和へ専用通信構築　米国が仲介</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR0700X0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T07:00:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN06BP60W6A100C2000000/">
+    <title>X投稿「Grok」使った性的な画像加工、被害相次ぐ　各国当局が調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN06BP60W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T06:45:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070300X00C26A1000000/">
+    <title>日本株ADR6日、買い優勢　みずほFGや野村が高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070300X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-07T06:28:38+09:00</dc:date>
+  </item>
+</rdf:RDF>
