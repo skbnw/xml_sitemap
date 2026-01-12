@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-01-12T10:13:48+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD2581Q0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1209S0S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC120AB0S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR120320S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG082ZL0Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB089D10Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1207L0S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC120730S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH1108V0R10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1206Q0S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1203O0S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1201N0S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0986Q0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR06B6F0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD015CM0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF064U90W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH074Q60X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC224J20S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG054FS0V00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB273U30X21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD093CF0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG203AW0Q5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0731P0X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD262KQ0W5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0521N0V00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD231850T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC080TJ0Y5A201C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0306U0T00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH110530R10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN112BF0R10C26A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD2581Q0V21C25A2000000/">
+    <title>世界が認めるカクテル道具、車部品の技術が酔わす　愛知の横山興業</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD2581Q0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1209S0S6A110C2000000/">
+    <title>五輪フィギュア米代表、マリニンら選出　樋渡知樹は補欠</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1209S0S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T09:58:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC120AB0S6A110C2000000/">
+    <title>八村塁、右脚張り「治った」　NBA13日復帰へ意欲</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC120AB0S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T09:54:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR120320S6A110C2000000/">
+    <title>イラン、デモ弾圧で500人死亡か　トランプ政権は介入や制裁を検討</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR120320S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T09:53:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG082ZL0Y6A100C2000000/">
+    <title>国産レアアース開発へ始動　南鳥島沖に探査船出航、経済安保に備え</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG082ZL0Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T09:51:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB089D10Y6A100C2000000/">
+    <title>認知症「4割予防可能」、難聴などリスク　適切対応で患者大幅減</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB089D10Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1207L0S6A110C2000000/">
+    <title>バルセロナが16度目優勝　スペイン・スーパー杯</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1207L0S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T08:50:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC120730S6A110C2000000/">
+    <title>田中碧が勝ち越しゴール、三笘薫は後半途中出場　イングランドFA杯</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC120730S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T08:49:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH1108V0R10C26A1000000/">
+    <title>12日の有力馬　シンザン記念など競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH1108V0R10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T08:41:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1206Q0S6A110C2000000/">
+    <title>上田綺世、先制点アシスト　オランダ1部</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1206Q0S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T08:34:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1203O0S6A110C2000000/">
+    <title>米LCCアレジアント、同業サンカントリー買収　2370億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1203O0S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T08:11:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1201N0S6A110C2000000/">
+    <title>イラン反政府デモ死者490人、1万人拘束　政府は強硬姿勢崩さず</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1201N0S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T06:17:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0986Q0Z00C26A1000000/">
+    <title>パレスチナ支援、日本は東南アジアと協働　がれき処理や警察研修</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0986Q0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:51:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR06B6F0W6A100C2000000/">
+    <title>英国、無料の公的医療サービス低下、支出拡大で立て直しめざす</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR06B6F0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD015CM0R01C25A2000000/">
+    <title>この冬一番の冷え込み、入浴時の寒暖差に注意　高齢者の死亡事故多発</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD015CM0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF064U90W6A100C2000000/">
+    <title>金利上昇にらみ中小の資金繰り支援　部品代金の現金化､最長120→60日</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF064U90W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH074Q60X00C26A1000000/">
+    <title>京都コンサートホールがエッセー集、ゆかりの著名人16人が執筆</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH074Q60X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC224J20S5A221C2000000/">
+    <title>サイバー対策、取引先の状況把握3割　新制度開始も主要企業「人材不足」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC224J20S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG054FS0V00C26A1000000/">
+    <title>120年前のパズル問題解決、数学の難問証明　北陸先端大など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG054FS0V00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB273U30X21C25A1000000/">
+    <title>日本生命役員が求める「社会を支える志」　採用選考のポイント語る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB273U30X21C25A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD093CF0Z00C26A1000000/">
+    <title>新規就農でオーガニック干し芋、土づくりからこだわり人気商品に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD093CF0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG203AW0Q5A121C2000000/">
+    <title>AIで進化する「デジタル細胞」、米国勢は数億学習　薬の治験模擬へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG203AW0Q5A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0731P0X00C26A1000000/">
+    <title>復権期す経済財政諮問会議、「小泉・竹中時代に戻そう」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0731P0X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD262KQ0W5A121C2000000/">
+    <title>AIポリスが「見守る」社会、理想郷かディストピアか　判断に潜む偏見</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD262KQ0W5A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0521N0V00C26A1000000/">
+    <title>南海トラフ地震の救命、担い手は開業医　震災経験の神戸で新組織始動</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0521N0V00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD231850T21C25A2000000/">
+    <title>18歳は大人になったのか　自覚に芽生え、経済的自立は？</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD231850T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC080TJ0Y5A201C2000000/">
+    <title>タケオカ自動車、1人乗りEVを工場内のけん引車両に　個別に改造</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC080TJ0Y5A201C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0306U0T00C26A1000000/">
+    <title>24年度の水道・下水道事業、黒字減少　温泉は値上げも</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0306U0T00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH110530R10C26A1000000/">
+    <title>岡本和真加入のブルージェイズ、攻めの投資続ける「今オフの勝者」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH110530R10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN112BF0R10C26A1000000/">
+    <title>トランプ氏、米国務長官のキューバ大統領就任「いい考え」　取引迫る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN112BF0R10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-12T04:32:56+09:00</dc:date>
+  </item>
+</rdf:RDF>
