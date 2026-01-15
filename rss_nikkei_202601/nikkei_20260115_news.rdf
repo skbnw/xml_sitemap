@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-01-15T10:12:09+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150RT0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC150VP0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL099JP0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD13B4Q0T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC130SN0T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC150T90V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150HA0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC150UH0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB150ZE0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB150MS0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150CH0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB14BRG0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1501Q0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150D00V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150CE0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN14C9B0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150KB0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150GB0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1507U0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1502M0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150CB0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG14AQ40U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1502U0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL14CEU0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN13BKO0T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150C60V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1503Z0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1508E0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN25AZ40V21C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150260V10C26A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150RT0V10C26A1000000/">
+    <title>商品9時30分　金、反落　利益確定売り、NY銀上昇は支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150RT0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T10:02:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC150VP0V10C26A1000000/">
+    <title>町野修斗が今季3点目、伊藤洋輝は勝ち越し点アシスト　ドイツ1部</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC150VP0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T10:01:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL099JP0Z00C26A1000000/">
+    <title>高値遠いインド株、AI不在で海外勢の買い減速　適温相場に弱さ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL099JP0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T10:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD13B4Q0T10C26A1000000/">
+    <title>タイ少女の人身取引事件、仲介役のタイ人女を逮捕　実態解明へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD13B4Q0T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC130SN0T10C26A1000000/">
+    <title>ラントリップ、住友生命と健康増進アプリで協業　月額330円で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC130SN0T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC150T90V10C26A1000000/">
+    <title>大谷翔平ら2月13日に始動　大リーグのキャンプ日程</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC150T90V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:52:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150HA0V10C26A1000000/">
+    <title>XがAI性的画像問題に対策表明、有料会員も規制対象　一部で抜け穴か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150HA0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:50:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC150UH0V10C26A1000000/">
+    <title>石川遼、開幕戦58位　米男子ゴルフ下部ツアー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC150UH0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:49:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB150ZE0V10C26A1000000/">
+    <title>ドバイ原油・15日午前、上昇　63.40ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB150ZE0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB150MS0V10C26A1000000/">
+    <title>デンマーク、グリーンランド周辺で軍事演習　フランスなど有志国参加</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB150MS0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:42:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150CH0V10C26A1000000/">
+    <title>東証寄り付き　日経平均は反落　地政学リスクが重荷　短期的な過熱感も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150CH0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:19:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB14BRG0U6A110C2000000/">
+    <title>日銀の企業物価指数、25年12月2.4%上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB14BRG0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:19:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1501Q0V10C26A1000000/">
+    <title>米半導体関税、NVIDIAなど先端品に25%　対中輸出に「上納金」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1501Q0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:13:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150D00V10C26A1000000/">
+    <title>円安一服　相次ぐけん制、テールリスクは「日韓同時介入」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150D00V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:11:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150CE0V10C26A1000000/">
+    <title>日経平均、反落で始まる　米株安で　TOPIXは一時最高値上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150CE0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:09:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN14C9B0U6A110C2000000/">
+    <title>｢ゴツイ車｣が主役、トランプ政権下のデトロイト車ショー　EV影潜める</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN14C9B0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:06:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150KB0V10C26A1000000/">
+    <title>債券寄り付き　先物、反発　円安一服や米金利の低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150KB0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T09:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150GB0V10C26A1000000/">
+    <title>日経平均先物、反落し5万4000円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150GB0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:54:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1507U0V10C26A1000000/">
+    <title>外為8時30分　円相場、上昇し158円台前半　円安けん制発言で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1507U0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:50:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1502M0V10C26A1000000/">
+    <title>NY株ハイライト　巨大ハイテクETF一時2%安、米中関係にイランの影</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1502M0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:29:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150CB0V10C26A1000000/">
+    <title>米財務長官「過度な為替変動、好ましくない」　日米財務相会合で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150CB0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:27:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG14AQ40U6A110C2000000/">
+    <title>油井亀美也飛行士ら宇宙ステーションを出発　15日夕に地球帰還へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG14AQ40U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:23:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1502U0V10C26A1000000/">
+    <title>シカゴ日本株先物概況・14日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1502U0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:08:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL14CEU0U6A110C2000000/">
+    <title>NY円相場、反発　1ドル=158円40〜50銭　円買い介入への警戒感で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL14CEU0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:06:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN13BKO0T10C26A1000000/">
+    <title>11月の米卸売物価、0.2%上昇で予想下回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN13BKO0T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:04:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150C60V10C26A1000000/">
+    <title>ベネズエラ暫定大統領 「新たな政治局面」　トランプ氏と電話協議</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150C60V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T07:54:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1503Z0V10C26A1000000/">
+    <title>日経平均株価、米株安が重荷（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1503Z0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T07:51:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1508E0V10C26A1000000/">
+    <title>中国の税関当局、NVIDIA半導体「H200」輸入認めず　ロイター報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1508E0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T07:36:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN25AZ40V21C25A1000000/">
+    <title>米地区連銀報告、経済活動は「小幅に拡大」　高所得層の消費堅調</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN25AZ40V21C25A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T07:31:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150260V10C26A1000000/">
+    <title>OpenAI、米新興から大型チップ1.5兆円調達　NVIDIA依存下げ高速化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150260V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T07:26:34+09:00</dc:date>
+  </item>
+</rdf:RDF>
