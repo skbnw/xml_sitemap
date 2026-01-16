@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-01-16T11:12:33+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0922R0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN160FG0W6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1602Z0W6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN15CJH0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG153WT0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA15BL00V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA140WZ0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG14APF0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150HA0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC153TI0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC154SK0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC151VC0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC144FO0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG14AQ40U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150260V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG083D10Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC147400U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN135R10T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG14A650U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG139TG0T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB093SL0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZTS00018531T01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG095JF0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN140C80U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN140IS0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD120AJ0S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1403W0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN13BF70T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG258ZA0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG287ZJ0Y5A121C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0922R0Z00C26A1000000/">
+    <title>日本酸素HD系の大陽日酸、つくばに半導体製造向け先端材料の開発棟</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0922R0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN160FG0W6A110C2000000/">
+    <title>ウィキペディア、AI開発にデータ提供　アマゾンやメタと合意</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN160FG0W6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T10:50:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1602Z0W6A110C2000000/">
+    <title>OpenAI、脳でチャットGPT操作へ新興に出資　AIとヒトの融合加速</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1602Z0W6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T09:24:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN15CJH0V10C26A1000000/">
+    <title>X、「AIでビキニ」画像生成を防止へ　各国の激怒にマスク氏転換</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN15CJH0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:42:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG153WT0V10C26A1000000/">
+    <title>宇宙ごみ除去を効率よく、電子ビームの有効性　大阪公立大が模擬実験</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG153WT0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA15BL00V10C26A1000000/">
+    <title>林芳正総務相、画像診断AI実証を視察　ハノイ郵政病院で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA15BL00V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T23:04:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA140WZ0U6A110C2000000/">
+    <title>ASEANの独自AIを日本が支援　デジタル相が初声明、中国依存に懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA140WZ0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T21:43:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG14APF0U6A110C2000000/">
+    <title>油井亀美也飛行士、地球に無事帰還　宇宙ステーションに約5カ月滞在</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG14APF0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T18:06:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150HA0V10C26A1000000/">
+    <title>XがAI性的画像問題に対策表明、有料会員も制限対象　一部で抜け穴か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150HA0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC153TI0V10C26A1000000/">
+    <title>AI普及の壁はデータ利用の不安、削除可能なら8割が許容　民間調べ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC153TI0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T17:40:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC154SK0V10C26A1000000/">
+    <title>YouTube、未成年のショート動画視聴に時間制限　保護者向けに新機能</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC154SK0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T17:11:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC151VC0V10C26A1000000/">
+    <title>HIS、ゴルフショットの自動撮影・編集サービス　茨城県のコースで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC151VC0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T16:53:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC144FO0U6A110C2000000/">
+    <title>製品へのAI導入、4割超がメリット見いだせず　コンサル会社が調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC144FO0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T12:17:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG14AQ40U6A110C2000000/">
+    <title>油井亀美也飛行士ら宇宙ステーションを出発　15日夕に地球帰還へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG14AQ40U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T08:23:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150260V10C26A1000000/">
+    <title>OpenAI、米新興から大型チップ1.5兆円調達　NVIDIA依存下げ高速化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150260V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T07:26:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG083D10Y6A100C2000000/">
+    <title>北海道沖で起きる超巨大地震、多様な断層のすべりと津波　産総研など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG083D10Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC147400U6A110C2000000/">
+    <title>中国・中科天算、30年に「宇宙スパコン」構築へ　基盤技術を開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC147400U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN135R10T10C26A1000000/">
+    <title>米フィンテック新興のアルパカ、ユニコーンに　日本人創業で初</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN135R10T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG14A650U6A110C2000000/">
+    <title>根室沖・千島海溝のM8級地震、30年以内の確率「90%程度」に</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG14A650U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T21:13:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG139TG0T10C26A1000000/">
+    <title>がん5年生存率、前立腺92%・膵臓は11.8%　厚労省が全国登録を集計</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG139TG0T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T20:40:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB093SL0Z00C26A1000000/">
+    <title>世界の社債発行、過去最高540兆円　金融緩和がAI・脱炭素投資に拍車</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB093SL0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZTS00018531T01C25A2000000/">
+    <title>Z世代の次は「α世代」20億人　データで読み解く大変革時代の主役</title>
+    <link>https://www.nikkei.com/article/DGXZTS00018531T01C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG095JF0Z00C26A1000000/">
+    <title>2025年は史上3番目に暑い年　3年平均では温暖化目標1.5度超え</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG095JF0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN140C80U6A110C2000000/">
+    <title>世界スマホ出荷台数、25年は2%増　3年連続でApple首位</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN140C80U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T10:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN140IS0U6A110C2000000/">
+    <title>Netflix、ワーナー買収契約の修正検討　11兆円を全額現金に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN140IS0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T10:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD120AJ0S6A110C2000000/">
+    <title>NVIDIAファン氏の恩返し　AI経営者はどんな資本主義を創るか</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD120AJ0S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1403W0U6A110C2000000/">
+    <title>Microsoft、データセンターによる電気代上昇負担　トランプ氏要請で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1403W0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T08:02:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN13BF70T10C26A1000000/">
+    <title>メタ、メタバース部門で10%人員削減　AI端末に経営資源を集中</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN13BF70T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T05:30:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG258ZA0V21C25A2000000/">
+    <title>能登半島地震、地下の流体蓄積が関与　富山大学など解明</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG258ZA0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG287ZJ0Y5A121C2000000/">
+    <title>南海トラフ地震の津波被害、予測精度高く　3大学のスパコン連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG287ZJ0Y5A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-14T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>

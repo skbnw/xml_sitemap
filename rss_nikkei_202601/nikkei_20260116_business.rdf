@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-01-16T10:11:20+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM159U40V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN160FG0W6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1595S0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN154NG0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR08CFR0Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC25B840V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC18AKN0Y5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD229UB0S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC119HN0R11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC158BQ0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC086FE0Y5A201C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2662M0W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM202W40Q5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC222LM0S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF152FD0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB010VS0R01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC130I00T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1801U0Y5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN080370Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1376H0T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0671O0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC082RH0Y5A201C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC142740U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD1622O0W5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC221TM0S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC09BRI0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC157TP0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF157VH0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN14CDJ0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC15AOE0V10C26A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM159U40V10C26A1000000/">
+    <title>台湾から米ワシントンに初の直行便　エバー航空、7月から</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM159U40V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T09:38:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN160FG0W6A110C2000000/">
+    <title>ウィキペディア、AI開発にデータ提供　アマゾンやメタと合意</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN160FG0W6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T09:20:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1595S0V10C26A1000000/">
+    <title>TBSがハリウッド進出、米映画製作レジェンダリーに240億円出資</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1595S0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T06:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN154NG0V10C26A1000000/">
+    <title>アメリカにBYDが上陸する日　「手頃な価格」旗印にする中国企業</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN154NG0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T06:12:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR08CFR0Y6A100C2000000/">
+    <title>プーマとアディダス、「兄弟げんか」は弟優勢　時価総額は9倍に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR08CFR0Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC25B840V21C25A2000000/">
+    <title>JTBの人事担当役員が語る新卒採用「ありがとうが一番の原動力」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC25B840V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC18AKN0Y5A211C2000000/">
+    <title>TOBで｢株式価値の算定低く｣圧力　東京コスモス電機、役員交代で発覚</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC18AKN0Y5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD229UB0S5A221C2000000/">
+    <title>日本特殊陶業、デンソーの車プラグ買収「3月は困難」　安定供給めざす</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD229UB0S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC119HN0R11C25A2000000/">
+    <title>コベルコ建機の山本社長「ICT建機、日本で鍛えれば海外でも通用」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC119HN0R11C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC158BQ0V10C26A1000000/">
+    <title>日本郵船、水上ドローン新興に出資　数年内に月10台生産へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC158BQ0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC086FE0Y5A201C2000000/">
+    <title>コーセー渋沢常務「東南アジアやグローバルサウスでM&amp;A」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC086FE0Y5A201C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2662M0W5A221C2000000/">
+    <title>閉鎖8日前の石炭火力、突然の稼働継続命令　米国でAIファースト</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2662M0W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM202W40Q5A221C2000000/">
+    <title>中国AI半導体、脱NVIDIAへ急成長　26年に国内自給率8割の予測も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM202W40Q5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC222LM0S5A221C2000000/">
+    <title>ジヤトコ社長「新規事業の市場創造」　EV向け駆動装置を本格展開</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC222LM0S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF152FD0V10C26A1000000/">
+    <title>アシックス、鳥取に｢オニツカタイガー｣専用工場　職人技伝える拠点へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF152FD0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB010VS0R01C25A2000000/">
+    <title>国民の4割がα世代のナイジェリア　「資源は人」目指すはデジタル大国</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB010VS0R01C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC130I00T10C26A1000000/">
+    <title>羽村市のNISSYO、DX推進・採用強化で事業拡大　新工場の用地取得も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC130I00T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1801U0Y5A211C2000000/">
+    <title>26年春季交渉、広がる働き方改革要求　勤務間インターバルや定年延長</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1801U0Y5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN080370Y6A100C2000000/">
+    <title>トヨタのアメ車「タンドラ」、意外と乗りやすい　日本上陸前に試乗</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN080370Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T04:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1376H0T10C26A1000000/">
+    <title>「イカゲーム」の体験型イベント開幕　1月16日ビジネス主な予定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1376H0T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0671O0W6A100C2000000/">
+    <title>千葉・津田沼はイオン一強　モール3月拡張、ファストリ系は一時閉店</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0671O0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC082RH0Y5A201C2000000/">
+    <title>サントリーHD社長、インフレの米国市場「RTDがもっと伸びる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC082RH0Y5A201C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC142740U6A110C2000000/">
+    <title>アイリスオーヤマ2期連続増収　米中失速も「国内回帰」事業が下支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC142740U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD1622O0W5A211C2000000/">
+    <title>金継ぎ、体験キットや教室人気　｢不完全の哲学｣に国境越え共感</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD1622O0W5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC221TM0S5A221C2000000/">
+    <title>アサヒGHD社長、酒税改正「スーパードライ4度未満のキレで勝負」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC221TM0S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC09BRI0Z00C26A1000000/">
+    <title>フィジカルAIの特許競争力、上位3社が中国勢　日経ビジネス調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC09BRI0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-16T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC157TP0V10C26A1000000/">
+    <title>パロマ･リームHD、27年にも売上高2兆円　社長｢グループでシナジー｣</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC157TP0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T22:03:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF157VH0V10C26A1000000/">
+    <title>関西電力、法人向けにエネルギー最適化支援　4月から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF157VH0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T21:52:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN14CDJ0U6A110C2000000/">
+    <title>USMCA「米企業こそ恩恵」　メキシコ大統領、トランプ氏に反論</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN14CDJ0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T21:39:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC15AOE0V10C26A1000000/">
+    <title>東京都が新クルーズ船ターミナル　650億円投じ35年度開業目指す</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC15AOE0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-15T21:27:49+09:00</dc:date>
+  </item>
+</rdf:RDF>
