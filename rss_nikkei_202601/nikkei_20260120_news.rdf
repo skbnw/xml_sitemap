@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-01-20T10:11:28+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1998P0Z10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF200JP0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200FA0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200F30Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200AI0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB197EP0Z10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200AG0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19AHX0Z10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD200HP0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2005A0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200IG0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2007R0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG144ED0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2002Z0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200330Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19AY20Z10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2001V0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19AYQ0Z10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC08C7Y0Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC16ARD0W6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC24ANO0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC09AGZ0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1696S0W6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC249200U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD138F00T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH1388M0T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2689V0W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF067RT0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC257MP0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB267A80W5A121C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1998P0Z10C26A1000000/">
+    <title>長期金利、一時2.330%に上昇　減税で財政悪化懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1998P0Z10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T10:08:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF200JP0Q6A120C2000000/">
+    <title>塩野義製薬、HIV薬の英社に3300億円追加出資　持ち分法適用会社に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF200JP0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T10:08:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200FA0Q6A120C2000000/">
+    <title>商品9時30分　金が小幅続伸　欧米対立への懸念で　原油は反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200FA0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T09:55:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200F30Q6A120C2000000/">
+    <title>日経平均株価、続落で始まる　米欧対立懸念で下げ幅一時500円超</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200F30Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T09:26:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200AI0Q6A120C2000000/">
+    <title>東証寄り付き　日経平均は続落　下げ幅400円、米欧摩擦激化を懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200AI0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T09:26:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB197EP0Z10C26A1000000/">
+    <title>ドバイ原油・20日午前、横ばい　62.60ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB197EP0Z10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T09:16:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200AG0Q6A120C2000000/">
+    <title>日経平均、続落で始まる　下げ幅300円、米欧対立の激化懸念で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200AG0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T09:10:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19AHX0Z10C26A1000000/">
+    <title>米財務長官、日本の為替介入「判断委ねる」　FRB議長人事は来週に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19AHX0Z10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T09:04:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD200HP0Q6A120C2000000/">
+    <title>日本海側中心に大雪の恐れ　気象庁、警戒呼びかけ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD200HP0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T09:01:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2005A0Q6A120C2000000/">
+    <title>債券寄り付き　先物、続落　財政拡張観測が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2005A0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T09:00:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200IG0Q6A120C2000000/">
+    <title>日経平均先物、続落し5万3490円で始まる　欧州株安で売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200IG0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T08:56:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2007R0Q6A120C2000000/">
+    <title>外為8時30分　円相場、下落し158円台前半　与野党が消費減税を主張</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2007R0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T08:47:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG144ED0U6A110C2000000/">
+    <title>FRONTEO、企業の営業支援AI開発へ　東大松尾研発の新興と</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG144ED0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2002Z0Q6A120C2000000/">
+    <title>日経平均株価、「高市トレード」再開の期待根強く（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2002Z0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T07:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200330Q6A120C2000000/">
+    <title>今日の株価材料（新聞など、20日）東電HD、柏崎刈羽原発、20日の再稼働延期</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200330Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T07:18:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19AY20Z10C26A1000000/">
+    <title>トランプ氏のグリーンランドへの野心、ノーベル平和賞落選で再燃か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19AY20Z10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T06:36:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2001V0Q6A120C2000000/">
+    <title>日経平均先物、夜間取引で下落　150円安の5万3510円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2001V0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T06:09:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19AYQ0Z10C26A1000000/">
+    <title>FRBパウエル議長、理事の解雇無効求める裁判出廷へ　政権との対立鮮明</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19AYQ0Z10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:46:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC08C7Y0Y6A100C2000000/">
+    <title>ChatGPTが昔買った旧製品の類似品探し　グッデイ、顧客対応を効率化</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC08C7Y0Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC16ARD0W6A110C2000000/">
+    <title>メガソーラー独自規制、北海道東の自治体で相次ぐ　生息調査や禁止区域</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC16ARD0W6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC24ANO0U5A221C2000000/">
+    <title>「焼肉きんぐ」の物語コーポ、中国で育てたハンバーグ店を東南アジアへ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC24ANO0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC09AGZ0Z00C26A1000000/">
+    <title>静岡の木内建設社長「安さ競う業界に戻らず」　営業益50億円めざす</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC09AGZ0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1696S0W6A110C2000000/">
+    <title>iPhoneに使う日東紡の特殊ガラス、AI大手が争奪　深刻な供給不足に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1696S0W6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC249200U5A221C2000000/">
+    <title>石川の白山、光通信部品3割増産　AI需要でデータセンター向け活況</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC249200U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD138F00T10C26A1000000/">
+    <title>AIによる雇用影響、先進国の新卒が最大　経験不足がリスクに</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD138F00T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH1388M0T10C26A1000000/">
+    <title>ジャズトランペット松井秀太郎「音楽ホールで、その瞬間だけの音楽を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH1388M0T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2689V0W5A221C2000000/">
+    <title>岡山市の三角屋根交番、町づくり拠点に再生へ　官民でリノベーション</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2689V0W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF067RT0W6A100C2000000/">
+    <title>積水ハウスの竹内順二・人財開発部長「自ら考え、取り組む力を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF067RT0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC257MP0V21C25A2000000/">
+    <title>車部品大手の仏ヴァレオCEO「中国はチャンビオンズリーグ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC257MP0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB267A80W5A121C2000000/">
+    <title>レゾナックの「変身」、ソニー出身CFOが主導　金庫番思考から脱却</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB267A80W5A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-20T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
