@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-01-22T11:14:30+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC216900R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN220VN0S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC20A530Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC19BN90Z11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC186NS0Y5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC181X70Y6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR20BWR0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN21CR60R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF057K40V01C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2204G0S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150150V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC23B170T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC20AVV0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC16AI70W6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB23A980T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC22A520S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC13A0O0T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC08A2P0Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC159J70V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC087MU0Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC067BW0W6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC177600X11C25A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB026S20S5A201C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC216ER0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD196B60Z10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2148L0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC223UT0S5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC153OC0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCA153GD0V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC253AS0V21C25A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC216900R20C26A1000000/">
+    <title>エンジニア転職支援のファインディ、26年に3つのAI新事業開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC216900R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T11:10:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN220VN0S6A120C2000000/">
+    <title>米バイオ新興のセラノス創業者、トランプ政権に減刑要請　詐欺罪で服役</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN220VN0S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T11:08:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC20A530Q6A120C2000000/">
+    <title>不二越、社長に中村成利執行役員が昇格</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC20A530Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T11:00:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC19BN90Z11C25A2000000/">
+    <title>三菱重工の高口執行役員「航空機部品、エアバスから新たに引き合い」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC19BN90Z11C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC186NS0Y5A211C2000000/">
+    <title>長崎・南島原のカステラ、銀座和光OEMで拡販　売上高5年で3倍超</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC186NS0Y5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC181X70Y6A110C2000000/">
+    <title>JFEスチール、風力発電支持構造物向けに厚鋼板　洋上大型化に対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC181X70Y6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR20BWR0Q6A120C2000000/">
+    <title>AI時代の「主権」堅持へ各国急ぐ　ダボス会議、バブル説には異論も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR20BWR0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T10:19:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN21CR60R20C26A1000000/">
+    <title>マスク氏VSアイルランド格安航空、衛星通信巡り批判合戦　買収も示唆</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN21CR60R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T10:18:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF057K40V01C25A2000000/">
+    <title>日東電工・高崎社長「医薬・衛生用品事業、27年3月期に営業黒字化」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF057K40V01C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T09:55:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2204G0S6A120C2000000/">
+    <title>Apple、音声アシスタントSiriに生成AI　グーグル技術採用と米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2204G0S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T09:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150150V10C26A1000000/">
+    <title>関税逆風はね返す日米玄関口　米ロス港、中国減でも東南アジアに活路</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150150V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:59:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC23B170T21C25A2000000/">
+    <title>サンマルクHD、「切り込み隊長」の牛カツで欧米へ　海外店舗数5倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC23B170T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC20AVV0Q6A120C2000000/">
+    <title>住友商事の巽CDO、生成AI時代「意思決定のスピード必須に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC20AVV0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC16AI70W6A110C2000000/">
+    <title>水門の自動開閉、後付け装置で遠隔操作　福岡のオートマイズ・ラボ</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC16AI70W6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB23A980T21C25A2000000/">
+    <title>川崎重工業CFO「純負債資本倍率70%以下に」　金利上昇に備え</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB23A980T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC22A520S5A221C2000000/">
+    <title>帝人、複合素材をデジタルで開発　「サンプルよりデータ」で顧客開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC22A520S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC13A0O0T10C26A1000000/">
+    <title>丸紅、医薬品で探る「脱商社」への道　コンサル機能で付加価値追求</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC13A0O0T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC08A2P0Y6A100C2000000/">
+    <title>3分でわかる鉄・非鉄業界　中国増産影響、生産集約や海外展開で反攻</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC08A2P0Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC159J70V10C26A1000000/">
+    <title>サツドラ、120万アプリ利用者に1対1販促　営業利益率2.5%超へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC159J70V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC087MU0Y6A100C2000000/">
+    <title>JFEスチール人事担当役員が求める人材「主体的で行動力がある人」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC087MU0Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC067BW0W6A100C2000000/">
+    <title>日立の中央研究所「協創の森」、顧客とイノベーション生む拠点に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC067BW0W6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC177600X11C25A1000000/">
+    <title>茨城の浜勘、北米･アジアにタラバガニ輸出　県産イセエビも強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC177600X11C25A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB026S20S5A201C2000000/">
+    <title>世界のVC投資、AI向け初の5割超42兆円　日本は1%満たず｢ブーム外｣</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB026S20S5A201C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC216ER0R20C26A1000000/">
+    <title>みずほ銀行と富士通、中小向けサービス開発へ　受発注データ自動変換</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC216ER0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD196B60Z10C26A1000000/">
+    <title>建設現場監督はAI　矢作建設、設計確認や労災防止で人手不足補う</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD196B60Z10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2148L0R20C26A1000000/">
+    <title>スタディスト、ベトナムに新拠点　手順書システムを100社に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2148L0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC223UT0S5A221C2000000/">
+    <title>野村不動産HD社長、住宅ローン金利上昇も「都心マンション需要続く」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC223UT0S5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC153OC0V10C26A1000000/">
+    <title>日本酒「梵」、最高級酒で海外需要開拓　ドバイで1本300万円超も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC153OC0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCA153GD0V10C26A1000000/">
+    <title>「西高東低」の原発利用、柏崎刈羽再稼働で転機</title>
+    <link>https://www.nikkei.com/article/DGXZQOCA153GD0V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC253AS0V21C25A2000000/">
+    <title>OpenAIがブラウザー、AI搭載で「秘書」に　Google1強に挑む</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC253AS0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>

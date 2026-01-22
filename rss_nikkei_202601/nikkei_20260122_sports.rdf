@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2026-01-22T10:12:55+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220M30S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220850S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220DV0S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220CY0S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH19ASY0Z10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH135C70T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC21BI40R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC21CA40R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH219XL0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC21BPU0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC21B760R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC21AYC0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC21AC90R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC21A220R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC219UM0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC219K70R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC219P70R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC217IF0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC219B70R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC219E20R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZMSX000S01_R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZMSK3ISU02_R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZMSK3ISU01_R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQSK3ITJ01_R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC218LN0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC218RP0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC217UG0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC217M70R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC216RD0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC216IO0R20C26A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220M30S6A120C2000000/">
+    <title>サッカー欧州CL、Bミュンヘン16強へ　リバプールも勝利</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220M30S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T09:23:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220850S6A120C2000000/">
+    <title>ドジャース移籍タッカー、入団会見　ロバーツ監督「打順は2、3番」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220850S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T08:43:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220DV0S6A120C2000000/">
+    <title>ドジャース、開幕戦は朝9時半から　本拠地でダイヤモンドバックスと</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220DV0S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T08:05:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220CY0S6A120C2000000/">
+    <title>FAのベリンジャー、ヤンキース残留　5年契約合意</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220CY0S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T08:00:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH19ASY0Z10C26A1000000/">
+    <title>サッカーアフリカ選手権　明暗分かれた10番に感服</title>
+    <link>https://www.nikkei.com/article/DGXZQODH19ASY0Z10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH135C70T10C26A1000000/">
+    <title>最後のハワイ？米ツアー開幕戦でスター候補が躍動　ソニーOP</title>
+    <link>https://www.nikkei.com/article/DGXZQODH135C70T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC21BI40R20C26A1000000/">
+    <title>バレーSVリーグ、V北海道に罰金300万円　債務超過で</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC21BI40R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T23:28:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC21CA40R20C26A1000000/">
+    <title>バスケ東アジアSL、宇都宮など日本勢が白星</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC21CA40R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T23:27:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH219XL0R20C26A1000000/">
+    <title>豊昇龍、薄氷の勝利で勝ち越し　左差されるも逆転「楽しんでやる気持ち」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH219XL0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T21:40:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC21BPU0R20C26A1000000/">
+    <title>サッカーU21日本代表、3月に海外遠征　ロス五輪世代</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC21BPU0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T21:30:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC21B760R20C26A1000000/">
+    <title>中井亜美、四大陸フィギュア「楽しみ」　22日開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC21B760R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T20:25:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC21AYC0R20C26A1000000/">
+    <title>スノボ平野歩夢は複数箇所の骨折　17日に負傷、五輪への影響懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC21AYC0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T20:01:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC21AC90R20C26A1000000/">
+    <title>ジャンプW杯蔵王大会、丸山希は8位　高梨沙羅9位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC21AC90R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T19:47:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC21A220R20C26A1000000/">
+    <title>大の里が連敗止める、安青錦ら2敗守り首位　大相撲初場所11日目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC21A220R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:55:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC219UM0R20C26A1000000/">
+    <title>GⅠ5勝馬ダイワメジャー死ぬ　2006・07年マイルCS連覇</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC219UM0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:55:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC219K70R20C26A1000000/">
+    <title>早田ひな、全日本卓球4連覇へ意欲　「1試合ずつ強く」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC219K70R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:45:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC219P70R20C26A1000000/">
+    <title>全日本卓球、12歳・松島美空ら4回戦進出</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC219P70R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:45:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC217IF0R20C26A1000000/">
+    <title>全豪テニス、アルカラス3回戦へ　サバレンカらも勝ち上がる</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC217IF0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:32:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC219B70R20C26A1000000/">
+    <title>DeNA山崎康晃「九回への思い強い」　抑え復帰と250セーブ狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC219B70R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:25:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC219E20R20C26A1000000/">
+    <title>城西大・女子駅伝、赤羽周平監督が退任へ　今季2冠導く</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC219E20R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:25:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZMSX000S01_R20C26A1000000/">
+    <title>大相撲初場所中入り後取組・12日目</title>
+    <link>https://www.nikkei.com/article/DGXZMSX000S01_R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:20:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZMSK3ISU02_R20C26A1000000/">
+    <title>大相撲初場所星取表・11日目</title>
+    <link>https://www.nikkei.com/article/DGXZMSK3ISU02_R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:20:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZMSK3ISU01_R20C26A1000000/">
+    <title>大相撲初場所中入り後勝負・11日目</title>
+    <link>https://www.nikkei.com/article/DGXZMSK3ISU01_R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:20:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQSK3ITJ01_R20C26A1000000/">
+    <title>テニス日本リーグ　第2ステージ第1日</title>
+    <link>https://www.nikkei.com/article/DGXZQSK3ITJ01_R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T18:00:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC218LN0R20C26A1000000/">
+    <title>プロ野球CSの方式変更は持ち越し　選手会、意見集約へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC218LN0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T17:44:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC218RP0R20C26A1000000/">
+    <title>五十嵐晴冬ら3人、五輪スキー代表に追加　出場枠再配分</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC218RP0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T17:43:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC217UG0R20C26A1000000/">
+    <title>広島・新井貴浩監督、高野山で護摩行　「今年はやってやる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC217UG0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T16:55:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC217M70R20C26A1000000/">
+    <title>ミラノ五輪代表、平野歩夢・小林陵侑ら52人認定　JOC発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC217M70R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T16:50:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC216RD0R20C26A1000000/">
+    <title>ミラノ五輪旗手にスノボ女子・冨田せな　スケート男子・森重航と</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC216RD0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T16:38:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC216IO0R20C26A1000000/">
+    <title>巨人・山崎伊織、開幕投手へ「準備する」　初の大役に意欲</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC216IO0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-21T16:33:10+09:00</dc:date>
+  </item>
+</rdf:RDF>
