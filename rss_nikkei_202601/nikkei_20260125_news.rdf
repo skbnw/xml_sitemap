@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-01-25T10:14:08+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH250BF0V20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK233870T20C25A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2509V0V20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2506T0V20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC147TW0U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH240JH0U6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2505L0V20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2502L0V20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD07AG30X00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOH1236SO0T20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC166RM0W5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB206Q70Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD256J80V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC266FF0W5A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC096BJ0Z00C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH255PE0V21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB265NE0W5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC235J00T21C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC234QA0T20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF174I60X11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2142J0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD122W10S6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODL080JZ0Y6A100C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150170V10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN243C10U6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN243930U6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB223LA0S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD161MH0W6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2438H0U6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN243B50U6A120C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH250BF0V20C26A1000000/">
+    <title>ダルビッシュ有が引退報道否定　昨秋に右肘手術「リハビリやり抜く」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH250BF0V20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T10:02:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK233870T20C25A9000000/">
+    <title>人権問題に無関心の米国　野放しの専制国家が打つ禁じ手</title>
+    <link>https://www.nikkei.com/article/DGXZQODK233870T20C25A9000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2509V0V20C26A1000000/">
+    <title>警報級降雪、交通影響も　石川・鳥取に「顕著な大雪」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2509V0V20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T09:42:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2506T0V20C26A1000000/">
+    <title>食料品の消費税減税、2026年度中に実現めざす　高市早苗首相</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2506T0V20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T09:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC147TW0U6A110C2000000/">
+    <title>福岡の室見川　春のシロウオ漁や野鳥100種類超、街中でも自然豊か</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC147TW0U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH240JH0U6A120C2000000/">
+    <title>25日の有力馬　アメリカジョッキークラブカップなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH240JH0U6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T08:44:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2505L0V20C26A1000000/">
+    <title>トランプ氏、ベネズエラ攻撃で「秘密兵器を使用した」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2505L0V20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T08:34:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2502L0V20C26A1000000/">
+    <title>大雪で名神・新名神高速、予防的通行止め　名古屋―大阪行き来できず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2502L0V20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T07:16:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD07AG30X00C26A1000000/">
+    <title>映画館が巨大カラオケルームに　中日本興業、名古屋駅前で法人を集客</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD07AG30X00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOH1236SO0T20C26A1000000/">
+    <title>人事、内閣府</title>
+    <link>https://www.nikkei.com/article/DGXZQOH1236SO0T20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC166RM0W5A211C2000000/">
+    <title>外国人ドライバー採用に3つの壁　外国免許切り替え厳格化で不透明感</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC166RM0W5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB206Q70Q6A120C2000000/">
+    <title>仮想通貨の活用、ひねり出す上場企業　支えは海外ファンド</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB206Q70Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD256J80V21C25A2000000/">
+    <title>中学受験、2026年は「サンデーショック」　桜蔭・女子学院併願どうなる</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD256J80V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC266FF0W5A121C2000000/">
+    <title>ロジスティード、日本郵便系の豪企業と協業　アジア物流広げ収益向上</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC266FF0W5A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC096BJ0Z00C26A1000000/">
+    <title>千葉・佐倉、令和に「江戸天下祭」を復活　文化都市の認知度向上へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC096BJ0Z00C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH255PE0V21C25A2000000/">
+    <title>ミラノ五輪は12年ぶり夢舞台　アイスホッケーNHLの猛者たち</title>
+    <link>https://www.nikkei.com/article/DGXZQODH255PE0V21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB265NE0W5A221C2000000/">
+    <title>レタスは猛暑嫌い山登る　高齢農家は追いつけず、価格は雲上へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB265NE0W5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC235J00T21C25A2000000/">
+    <title>「モールフラワー」もう離さないわ　韓国発の枯れない花、制作体験も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC235J00T21C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC234QA0T20C26A1000000/">
+    <title>1月19〜23日　スタートアップ資金調達まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC234QA0T20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF174I60X11C25A2000000/">
+    <title>がん治療研究者でワイン醸造家　「二刀流」導いた50代半ばの決断</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF174I60X11C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2142J0R20C26A1000000/">
+    <title>上野動物園のパンダ、25日で見納め　半世紀ぶり国内ゼロに</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2142J0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD122W10S6A110C2000000/">
+    <title>東京大学でまたも汚職事件　10兆円ファンドの支援、組織改革が左右</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD122W10S6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODL080JZ0Y6A100C2000000/">
+    <title>中国が取り締まるα世代の虚無スラング　｢ネズミ人間」爆発的拡散</title>
+    <link>https://www.nikkei.com/article/DGXZQODL080JZ0Y6A100C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150170V10C26A1000000/">
+    <title>トランプ関税、画餅の「一人勝ち経済」　製造業復活に移民制限の壁</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150170V10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN243C10U6A120C2000000/">
+    <title>トランプ氏、グリーンランドで「米軍基地エリアの主権得る」　米紙に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN243C10U6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T04:30:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN243930U6A120C2000000/">
+    <title>米高官「ウクライナ・ロシア、領土で溝埋まらず」　2月1日に再協議</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN243930U6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T04:05:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB223LA0S6A120C2000000/">
+    <title>金利高止まりの見込み　衆院選公示、緩和的な財政姿勢を警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB223LA0S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD161MH0W6A110C2000000/">
+    <title>東海東京証券、ゆうちょ銀行と新興ファンド　50億円規模</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD161MH0W6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2438H0U6A120C2000000/">
+    <title>米ミネアポリスで連邦職員が男性射殺　移民取り締まり巡り衝突続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2438H0U6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T03:50:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN243B50U6A120C2000000/">
+    <title>米国防総省のコルビー次官が訪日へ　防衛費目標5%に引き上げ要求か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN243B50U6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-25T03:40:11+09:00</dc:date>
+  </item>
+</rdf:RDF>
