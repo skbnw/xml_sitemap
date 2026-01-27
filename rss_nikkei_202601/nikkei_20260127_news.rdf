@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-01-27T10:12:59+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA226TL0S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2713Y0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG261P40W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN26BBN0W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD26AQ70W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL270OY0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL270OU0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL270D20X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN270CJ0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZTS00019601Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB268KQ0W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL270GN0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL270GF0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD23BEK0T20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2684F0W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA252190V20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN26BBK0W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR26AXJ0W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2702Y0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL26B370W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC270EE0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB2707E0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2702I0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC270E00X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2704S0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB21CWI0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL270190X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL270510X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL26AUV0W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN26B290W6A120C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA226TL0S6A120C2000000/">
+    <title>賃上げ「定着」に労使足並み　26年春季交渉開始、実質賃金プラス占う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA226TL0S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2713Y0X20C26A1000000/">
+    <title>ドバイ原油・27日午前、下落　63.10ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2713Y0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG261P40W6A120C2000000/">
+    <title>米国の科学AI開発計画、日本が協力　量子や核融合など研究加速</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG261P40W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:44:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN26BBN0W6A120C2000000/">
+    <title>米ミネソタ射殺、トランプ氏が強硬姿勢を修正　対立知事に秋波</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN26BBN0W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:40:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD26AQ70W6A120C2000000/">
+    <title>スカウト集団トップを逮捕　みかじめ料疑いで公開手配</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD26AQ70W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:34:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL270OY0X20C26A1000000/">
+    <title>東証寄り付き　日経平均は続落　円高懸念強く、半導体は高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL270OY0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:26:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL270OU0X20C26A1000000/">
+    <title>日経平均、続落で始まる　下げ幅200円、円高重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL270OU0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:09:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL270D20X20C26A1000000/">
+    <title>債券寄り付き　先物、軟調　2年金利は低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL270D20X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:08:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN270CJ0X20C26A1000000/">
+    <title>韓国への関税25%に引き上げ、トランプ氏表明　合意「不履行」批判</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN270CJ0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:03:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZTS00019601Q6A120C2000000/">
+    <title>衆議院選挙が公示、選挙の頻度は世界で突出　データでみる異例の戦い</title>
+    <link>https://www.nikkei.com/article/DGXZTS00019601Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB268KQ0W6A120C2000000/">
+    <title>12月の企業向けサービス価格2.6%上昇　伸び率は縮小</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB268KQ0W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:56:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL270GN0X20C26A1000000/">
+    <title>外為8時30分　円相場、上昇し154円台前半　対ユーロでは下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL270GN0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:56:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL270GF0X20C26A1000000/">
+    <title>日経平均先物、続落し5万2690円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL270GF0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:54:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD23BEK0T20C26A1000000/">
+    <title>最高裁裁判官の国民審査告示、2人が対象　期日前投票は2月1日から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD23BEK0T20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:47:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2684F0W6A120C2000000/">
+    <title>インド、大規模軍事パレード　極超音速対艦ミサイルを初披露</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2684F0W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:46:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA252190V20C26A1000000/">
+    <title>衆院選公示「積極財政」論戦火ぶた　2月8日投開票、政権評価問う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA252190V20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:42:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN26BBK0W6A120C2000000/">
+    <title>米政府、レアアース企業株式を1割取得へ　株価は8%上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN26BBK0W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:39:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR26AXJ0W6A120C2000000/">
+    <title>イスラエル軍、最後の人質を収容　ガザ南部検問所の再開条件が整う</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR26AXJ0W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:37:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2702Y0X20C26A1000000/">
+    <title>シカゴ日本株先物概況・26日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2702Y0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:25:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL26B370W6A120C2000000/">
+    <title>NY円相場、大幅続伸　1ドル=154円15〜25銭　日米当局による介入を警戒した円買い続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL26B370W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:14:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC270EE0X20C26A1000000/">
+    <title>田中碧は後半途中出場、リーズ引き分け　プレミアリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC270EE0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:09:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB2707E0X20C26A1000000/">
+    <title>米原子力空母が中東に到着　対イランで態勢強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB2707E0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:04:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2702I0X20C26A1000000/">
+    <title>中国軍幹部の粛清、米専門家「台湾侵攻の脅威を長期的に高める」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2702I0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:01:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC270E00X20C26A1000000/">
+    <title>アストロズのアルテューベ、WBC出場見送り　ベネズエラ代表</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC270E00X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T08:01:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2704S0X20C26A1000000/">
+    <title>日経平均株価、円高への警戒感が重荷（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2704S0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T07:59:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB21CWI0R20C26A1000000/">
+    <title>取締役選任、少数株主の賛成率開示を義務付け　東証が上場規則改正へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB21CWI0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T07:47:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL270190X20C26A1000000/">
+    <title>NY株ハイライト　「円キャリー巻き戻し→米への投資縮小」に警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL270190X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T07:37:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL270510X20C26A1000000/">
+    <title>今日の株価材料（新聞など、27日）ファナック、4〜12月14%増益　中国AI投資で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL270510X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T07:27:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL26AUV0W6A120C2000000/">
+    <title>NY債券、長期債小幅続伸　10年債利回り4.21%　持ち高調整の買いが継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL26AUV0W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T07:23:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN26B290W6A120C2000000/">
+    <title>「英中銀打ち負かした男」が日銀を救ったのか</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN26B290W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-27T06:57:29+09:00</dc:date>
+  </item>
+</rdf:RDF>
