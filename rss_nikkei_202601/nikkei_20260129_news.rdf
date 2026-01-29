@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-01-29T10:12:59+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD27AGW0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB291FU0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA288DY0Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB290GL0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC27AZ10X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB290LZ0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290OS0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290930Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290O80Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290OJ0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290XS0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC2825Z0Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28CXI0Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2535C0V20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290E20Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290OT0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290O70Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC27C4B0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2902N0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290MX0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM275FS0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR28CGY0Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA265L90W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290680Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC289QQ0Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2901U0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28CGU0Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2902S0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2903M0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28CVG0Y6A120C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD27AGW0X20C26A1000000/">
+    <title>警察官「闇バイト」潜入捜査、25年は13件　強盗・詐欺巡り5人逮捕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD27AGW0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T10:11:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB291FU0Z20C26A1000000/">
+    <title>ドバイ原油・29日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB291FU0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T10:11:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA288DY0Y6A120C2000000/">
+    <title>小中高生の自殺が25年に過去最多532人　学校や家庭、健康の悩みで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA288DY0Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T10:07:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB290GL0Z20C26A1000000/">
+    <title>金が5400ドル突破、1カ月で1000ドル上昇　国内は3万円目前に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB290GL0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T10:05:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC27AZ10X20C26A1000000/">
+    <title>大東建託、外国人入居者向けに対応言語追加　ネパールなど3カ国語</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC27AZ10X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T10:04:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB290LZ0Z20C26A1000000/">
+    <title>ノジマの純利益27%増　4〜12月、キャリアショップ好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB290LZ0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:57:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290OS0Z20C26A1000000/">
+    <title>商品9時30分　金が最高値　NY相場急伸で　現物金も高値更新</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290OS0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:54:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290930Z20C26A1000000/">
+    <title>FBI、ジョージア州の選挙関連施設を捜索　20年大統領選記録標的か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290930Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:48:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290O80Z20C26A1000000/">
+    <title>日経平均株価が一進一退　アドテスト株の買いは支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290O80Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:39:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290OJ0Z20C26A1000000/">
+    <title>東証寄り付き　日経平均は朝安後上昇　アドテストの買いが支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290OJ0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:33:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290XS0Z20C26A1000000/">
+    <title>サッカー欧州CL、伊藤洋輝らフル出場　1次リーグ最終戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290XS0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:33:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC2825Z0Y6A120C2000000/">
+    <title>九州企業の景況感、4四半期ぶりに改善　米関税への懸念後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC2825Z0Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:20:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28CXI0Y6A120C2000000/">
+    <title>Microsoft10〜12月6割増益　過剰投資嫌気、株価時間外で一時7%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28CXI0Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:18:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2535C0V20C26A1000000/">
+    <title>テスラがEV2車種の生産停止、ロボ転換　マスク氏AI企業出資で連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2535C0V20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:17:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290E20Z20C26A1000000/">
+    <title>外為8時30分　円相場、下落し153円台前半　日米協調介入観測が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290E20Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:13:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290OT0Z20C26A1000000/">
+    <title>日経平均、反落で始まる　一時300円安、値がさ株に売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290OT0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:12:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290O70Z20C26A1000000/">
+    <title>債券寄り付き　先物、反落　自民党優勢の報道で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290O70Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:03:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC27C4B0X20C26A1000000/">
+    <title>三菱電機、東大発のAI新興に50億円出資　フィジカルAI開発で連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC27C4B0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2902N0Z20C26A1000000/">
+    <title>日経平均先物、続伸し5万3850円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2902N0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T08:55:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290MX0Z20C26A1000000/">
+    <title>スピードスケート森重航、左膝は回復傾向　五輪へ慎重な調整</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290MX0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T08:50:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM275FS0X20C26A1000000/">
+    <title>サムスン半導体部門の営業利益5.7倍　25年10〜12月、メモリー価格上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM275FS0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T08:49:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR28CGY0Y6A120C2000000/">
+    <title>トランプ氏「次の攻撃甚大に」　イランに警告、空母展開で核放棄迫る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR28CGY0Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T08:42:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA265L90W6A120C2000000/">
+    <title>海外AI「カラス族」に羽　米中ブロック化に日本は信頼・協調で対抗</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA265L90W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T08:34:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290680Z20C26A1000000/">
+    <title>NY株ハイライト　HDDのシーゲート19%高、AI期待で電子部品人気</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290680Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T08:14:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC289QQ0Y6A120C2000000/">
+    <title>フィギュアスケート坂本花織らミラノへ出発　「自分らしく演技を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC289QQ0Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T08:14:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2901U0Z20C26A1000000/">
+    <title>メタ、10〜12月純利益9%増　26年はAI投資最大9割積み増し</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2901U0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T07:58:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28CGU0Y6A120C2000000/">
+    <title>NY円相場、反落　1ドル=153円40〜50銭　ベッセント米財務長官の発言受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28CGU0Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T07:57:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2902S0Z20C26A1000000/">
+    <title>シカゴ日本株先物概況・28日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2902S0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T07:55:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2903M0Z20C26A1000000/">
+    <title>日経平均、米テック株高が支え　アドテストに関心（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2903M0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T07:33:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28CVG0Y6A120C2000000/">
+    <title>FRBが利下げ見送り　米長期金利が小幅上昇、NYダウほぼ横ばい</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28CVG0Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-01-29T07:26:55+09:00</dc:date>
+  </item>
+</rdf:RDF>
