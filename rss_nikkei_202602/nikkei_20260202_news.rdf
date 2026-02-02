@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-02-02T11:12:52+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB22C140S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGS2695D0W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC196DF0Z11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA3065S0Q6A130C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC264TL0W6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2943Z0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC012N60R00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC010JZ0R00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC021C00S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020OV0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB021DF0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020MW0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020JP0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD285B70Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020KR0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020FS0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020ZR0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB020E60S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0212Z0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020JD0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB020FE0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020Y30S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020GW0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGS2908O0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2936J0Z20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020RD0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020DP0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020FY0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB30AZC0Q6A130C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD29BGT0Z20C26A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB22C140S6A120C2000000/">
+    <title>フリーランチは高くつく　債券市場の信認にハードル</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB22C140S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGS2695D0W6A120C2000000/">
+    <title>「安いタイ」さようなら　通貨高で苦境、輸出・観光立国岐路に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGS2695D0W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC196DF0Z11C25A2000000/">
+    <title>NTTアノード岸本社長「通信インフラ活用で水素運搬、技術標準化」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC196DF0Z11C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA3065S0Q6A130C2000000/">
+    <title>中道改革連合、後半戦挽回へ組織力に活路　地方議員数は自民党上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA3065S0Q6A130C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC264TL0W6A120C2000000/">
+    <title>2次元アイドル、武道館で「3次元」公演　ソニーGの技術で躍動</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC264TL0W6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2943Z0Z20C26A1000000/">
+    <title>台湾野党・国民党副主席が訪中　9年ぶりの国共対話へ　党首会談の布石に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2943Z0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC012N60R00C26A2000000/">
+    <title>レゾナックが30%以上値上げへ、電子回路基板向け銅張積層板など</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC012N60R00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC010JZ0R00C26A2000000/">
+    <title>三井金属、機能性多孔体の量産試作設備を導入へ　生産体制を強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC010JZ0R00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC021C00S6A200C2000000/">
+    <title>NBA河村勇輝、自己最多6アシスト・6リバウンド　ブルズは敗戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC021C00S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:59:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020OV0S6A200C2000000/">
+    <title>住友金属鉱山の株価10.4%安　金先物価格が急落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020OV0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:57:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB021DF0S6A200C2000000/">
+    <title>ダライ・ラマ14世にグラミー賞　「メディテーションズ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB021DF0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:53:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020MW0S6A200C2000000/">
+    <title>高島屋株価20年ぶり高値　純利益下方修正は織り込み済み</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020MW0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:52:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020JP0S6A200C2000000/">
+    <title>セリア株価反発　今期3度目の上方修正、生活防衛意識やシール好調で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020JP0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:51:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD285B70Y6A120C2000000/">
+    <title>ニデックTOB巡りインサイダー取引疑い、三田証券元幹部らを逮捕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD285B70Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:50:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020KR0S6A200C2000000/">
+    <title>上海株寄り付き　続落で始まる、政府版PMIで景気懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020KR0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:43:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020FS0S6A200C2000000/">
+    <title>レーザーテック株価が大幅続落　今期受注高見通し、物足りないとの見方</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020FS0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:41:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020ZR0S6A200C2000000/">
+    <title>香港株寄り付き　続落して始まる　景気不安で本土系テックに売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020ZR0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:38:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB020E60S6A200C2000000/">
+    <title>円相場、レートチェックの上昇半減　首相の「円安容認発言」見透かす</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB020E60S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:34:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0212Z0S6A200C2000000/">
+    <title>人民元基準値、対米ドルで6.9695元　前週末比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0212Z0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:34:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020JD0S6A200C2000000/">
+    <title>外為10時　円相場、155円台前半に下げ一服　日銀の早期利上げ観測支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020JD0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:32:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB020FE0S6A200C2000000/">
+    <title>ビットコイン急落、7万5000ドル台　米関税ショック以来</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB020FE0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:27:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020Y30S6A200C2000000/">
+    <title>大谷翔平、愛犬デコピンの絵本出版　収益は全て寄付</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020Y30S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:23:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020GW0S6A200C2000000/">
+    <title>久常涼、自己最高2位　米男子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020GW0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:22:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGS2908O0Z20C26A1000000/">
+    <title>タイ・カンボジア紛争「再燃の確率60%」　悲観するASEAN停戦監視団</title>
+    <link>https://www.nikkei.com/article/DGXZQOGS2908O0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:18:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2936J0Z20C26A1000000/">
+    <title>ドコモ発の新興AIPEX、アニメのグッズ化をAIで監修支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2936J0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020RD0S6A200C2000000/">
+    <title>東証10時　日経平均は上げ幅拡大　一時900円高　円下落で投機筋が先物買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020RD0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:14:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020DP0S6A200C2000000/">
+    <title>野村の株価5.3%安　4〜12月期純利益、市場予想下回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020DP0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:03:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020FY0S6A200C2000000/">
+    <title>商品9時30分　金急落、FRB次期議長指名で売り　白金も大幅安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020FY0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:03:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB30AZC0Q6A130C2000000/">
+    <title>日銀、次の利上げ「あまり時間かけすぎずに」　1月会合の意見</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB30AZC0Q6A130C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:00:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD29BGT0Z20C26A1000000/">
+    <title>トランプ氏、独りヤルタの闇　笑えぬ「第2の国連」構想</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD29BGT0Z20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-02-02T10:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
