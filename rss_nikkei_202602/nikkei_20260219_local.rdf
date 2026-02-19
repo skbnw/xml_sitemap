@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-02-19T10:15:33+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC191730Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC207440Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB28CII0Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC22AMK0S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1292N0S6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC168D80W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD166LD0W5A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD1641Q0W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC173VI0X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA183LO0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF112WG0R10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD171UY0X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC011JA0R00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC270M40X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC050I70V00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC050I50V00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC072NM0X00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC173W70X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC04AR40U6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD1258B0S6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN18BXC0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF18B360Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF180G80Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1858D0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1049X0Q6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC187VE0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF189UZ0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC184G80Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC184K10Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC17A9L0X10C26A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC191730Z10C26A2000000/">
+    <title>石川県知事選挙に3氏が立候補　保守分裂、能登復興が争点に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC191730Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T10:01:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC207440Q6A120C2000000/">
+    <title>渡り鳥シーズン到来、風力発電への衝突防ぐ　秋田の白神ウインド</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC207440Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB28CII0Y6A120C2000000/">
+    <title>ニデック、崩れるM&amp;A巧者の評価　買収後の統合作業の不備を自認</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB28CII0Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC22AMK0S6A120C2000000/">
+    <title>レクサス最大の工場、トヨタ九州　きらめく外装に宿る職人・ロボの技</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC22AMK0S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1292N0S6A210C2000000/">
+    <title>白桃瓶詰3000円台、福島･サンヨー缶詰が新ブランド　中東も視野</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1292N0S6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC168D80W6A210C2000000/">
+    <title>高級旅館「ふふ城ケ島」､三浦半島に27日開業　富裕層や訪日客に照準</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC168D80W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD166LD0W5A011C2000000/">
+    <title>2次元コード活用で物流データ一括管理　名古屋新興、脱炭素も支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD166LD0W5A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD1641Q0W6A210C2000000/">
+    <title>しゃぶしゃぶの木曽路社長「焼肉で脱食べ放題依存」　価格競争と距離</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD1641Q0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC173VI0X10C26A2000000/">
+    <title>足利銀行、取引先に人材を直接紹介　採用難や後継者不足に対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC173VI0X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA183LO0Y6A210C2000000/">
+    <title>iPS細胞の再生医療、厚労省部会が2製品審議　承認なら世界初の実用化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA183LO0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF112WG0R10C26A2000000/">
+    <title>「ミキハウス」社長・木村皓一氏　人は恐怖より信頼で動く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF112WG0R10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD171UY0X10C26A2000000/">
+    <title>広島市でホテルラッシュ　滞在延長へ都心再開発、ハイアット系進出</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD171UY0X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC011JA0R00C26A2000000/">
+    <title>静岡県、目指すはスタートアップ先進地　資金調達支援に官民で厚み</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC011JA0R00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC270M40X20C26A1000000/">
+    <title>大王海運、千葉ー西日本航路の輸送力強化　トラック運転手不足で商機</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC270M40X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC050I70V00C26A2000000/">
+    <title>東京都､「エッセンシャルワーカー」確保を支援　家賃補助や待遇改善</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC050I70V00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC050I50V00C26A2000000/">
+    <title>東京都心の巨大下水道管、9キロが開通へ　12の鉄道路線と地中で交差</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC050I50V00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC072NM0X00C26A2000000/">
+    <title>アイ・ケイ・ケイHD新社長「10年以内に1000億円企業が目標」</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC072NM0X00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T04:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC173W70X10C26A2000000/">
+    <title>スギノマシン社長「菓子加工から核融合まで、国内の人材確保重要」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC173W70X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC04AR40U6A200C2000000/">
+    <title>「手ぶら観光」鉄道事業者が推進　訪日客の荷物配送、車内混雑緩和へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC04AR40U6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD1258B0S6A210C2000000/">
+    <title>トヨタ系労組、賃上げ要求5年ぶり前年下回る　試される持続力</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD1258B0S6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-19T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN18BXC0Y6A210C2000000/">
+    <title>普天間返還には長い滑走路必要　米国防総省、辺野古移設に条件</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN18BXC0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T23:44:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF18B360Y6A210C2000000/">
+    <title>センコーGHD、丸運へのTOBを3月5日まで延長　取得下限に到達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF18B360Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T22:40:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF180G80Y6A210C2000000/">
+    <title>大阪メトロ社長に三井住友銀行・角元敬治氏　パナ出身の河井氏は会長</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF180G80Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T21:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1858D0Y6A210C2000000/">
+    <title>JR四国、自社商品の新ブランドで地域活性化　セーラー広告とタッグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1858D0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T20:19:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1049X0Q6A210C2000000/">
+    <title>徳島の明和クリーン、産廃の最終処分場拡張　商工中金など40億円融資</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1049X0Q6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T20:18:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC187VE0Y6A210C2000000/">
+    <title>四国化成工業や日亜化学、経産省から蓄電池の供給網強化計画で認定</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC187VE0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T20:18:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF189UZ0Y6A210C2000000/">
+    <title>シャープ元部長、不要なiPad発注し換金か　大阪府警が背任容疑で逮捕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF189UZ0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T20:18:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC184G80Y6A210C2000000/">
+    <title>日銀松山支店、愛媛の2月の景気判断据え置き</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC184G80Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T20:17:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC184K10Y6A210C2000000/">
+    <title>高知県、人口減対策に3補助金制度　26年度予算案5071億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC184K10Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T20:17:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC17A9L0X10C26A2000000/">
+    <title>青森・八戸市、地震の被害額115億円に拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC17A9L0X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-18T20:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
