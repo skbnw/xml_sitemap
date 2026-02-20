@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-02-20T11:13:11+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200Z20Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD161EH0W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH19A6W0Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC19AQN0Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC309H00Q6A130C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN201UN0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD18C2E0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK19BHQ0Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB17BBK0X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC188XG0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1681I0W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC127250S6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD186TW0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF036DQ0T00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM135Z10T10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC095F80Z00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1258Q0S6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC123N50S6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC163A10W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC152S70V10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC102DB0Q6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB161LC0W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC160ZD0W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB200PF0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC201V80Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL201DN0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2015L0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKE00002_Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH19A9S0Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130LBTT10C26A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200Z20Q6A220C2000000/">
+    <title>アドバンテストの株価続落　ランサムウェア被害の影響を引き続き懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200Z20Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:09:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD161EH0W6A210C2000000/">
+    <title>神奈川県警、交通違反2700件を取り消し　小隊ぐるみで取り締まり不正</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD161EH0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:07:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH19A6W0Z10C26A2000000/">
+    <title>フィギュア坂本花織、涙のラストダンス　「悔しい」舞いに込めた思い</title>
+    <link>https://www.nikkei.com/article/DGXZQODH19A6W0Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:04:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC19AQN0Z10C26A2000000/">
+    <title>ネコの名前、「ムギ」が7年連続1位　アニコム損保調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC19AQN0Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:01:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC309H00Q6A130C2000000/">
+    <title>農家初の「若返り」27都府県で　三重、イチゴ設備仲介で就農後押し</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC309H00Q6A130C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN201UN0Q6A220C2000000/">
+    <title>トランプ氏「地球外生命体やUFO」の情報公開指示　国防総省に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN201UN0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD18C2E0Y6A210C2000000/">
+    <title>米のベネズエラ介入、中南米に火種を拡散　シンクタンク首脳に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD18C2E0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK19BHQ0Z10C26A2000000/">
+    <title>「パンドラの箱」開けたエプスタイン問題　高まる特権層への不信</title>
+    <link>https://www.nikkei.com/article/DGXZQODK19BHQ0Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB17BBK0X10C26A2000000/">
+    <title>円高でも株価が上がる条件　｢いざなみ景気｣が欠いた内需と産業力こそ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB17BBK0X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC188XG0Y6A210C2000000/">
+    <title>日本公庫と日経、3月16日に鹿児島市でゼブラ企業活性化シンポ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC188XG0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1681I0W6A210C2000000/">
+    <title>岐阜県、若者の就農拡大へ相談窓口一元化　愛知や静岡は特産品で研修</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1681I0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC127250S6A210C2000000/">
+    <title>三重県伊賀市の稲森稔尚市長、就農者増へ「伊賀市版農業アカデミー」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC127250S6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD186TW0Y6A210C2000000/">
+    <title>極度の乾燥状態、来週いったん解消か　前線や低気圧接近</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD186TW0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF036DQ0T00C26A2000000/">
+    <title>京野菜や宇治茶、ブランドが若者就農呼ぶ　京都府に相談年300件超</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF036DQ0T00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM135Z10T10C26A2000000/">
+    <title>インドネシア、ガザに平和部隊「一番乗り」 同胞意識と　トランプ対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM135Z10T10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC095F80Z00C26A2000000/">
+    <title>4県で農家が若返り　富山県は「農業カレッジ」で高校新卒者ら育成</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC095F80Z00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1258Q0S6A210C2000000/">
+    <title>岡山県「高収益・多品種」で就農誘う、島根は3年研修　農家年齢低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1258Q0S6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC123N50S6A210C2000000/">
+    <title>JA全農みやぎ、就農者増へ育成事業　移住の30代イチゴ農家誕生</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC123N50S6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC163A10W6A210C2000000/">
+    <title>宮崎の農家若返り、中古ハウス仲介や実践塾奏功　県などが支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC163A10W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC152S70V10C26A2000000/">
+    <title>日立建機、バッテリー駆動式ショベルの充電管理効率化検証　呉で工事</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC152S70V10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC102DB0Q6A210C2000000/">
+    <title>山梨県、高級ブドウ栽培に若手参入　JA横浜はDXで都市型農業支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC102DB0Q6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB161LC0W6A210C2000000/">
+    <title>上場企業の4〜12月最高益、最終6%増　不動産・鉄道など内需好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB161LC0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC160ZD0W6A210C2000000/">
+    <title>北海道に若い農家を呼び込め　富良野、就農・育成・経営を包括支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC160ZD0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB200PF0Q6A220C2000000/">
+    <title>エプスタイン問題とは　少女売春で起訴された米富豪、政財界に人脈</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB200PF0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC201V80Q6A220C2000000/">
+    <title>ジャンプ小林陵侑「学びの多い五輪だった」　30年大会へ意欲も</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC201V80Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T10:58:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL201DN0Q6A220C2000000/">
+    <title>香港株寄り付き　反落して始まる、米株安が重荷　春節連休明け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL201DN0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T10:57:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2015L0Q6A220C2000000/">
+    <title>大崎電気工業の株価が連日最高値　自社株買いや特別配当など好感</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2015L0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T10:53:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKE00002_Q6A220C2000000/">
+    <title>株7万円もちらつく「高市2.0」相場の真実味　午後4時から生配信</title>
+    <link>https://www.nikkei.com/article/DGXZQOKE00002_Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T10:43:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH19A9S0Z10C26A2000000/">
+    <title>フィギュア、17歳・中井亜美は堂々銅メダル　最終滑走のびやかに</title>
+    <link>https://www.nikkei.com/article/DGXZQODH19A9S0Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T10:42:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130LBTT10C26A2000000/">
+    <title>地銀株相次ぎ取得　ありあけキャピタル田中社長「投資拡大あり得る」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130LBTT10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-20T10:38:55+09:00</dc:date>
+  </item>
+</rdf:RDF>
