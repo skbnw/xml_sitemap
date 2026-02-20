@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 20 Feb 2026 07:17:54 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 04:16:16 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>West Virginia Sues Apple, Claiming It Allows Sharing of Child Sexual Abuse Material</title>
+      <link>https://www.nytimes.com/2026/02/19/technology/apple-west-virginia-lawsuit-child-sexual-abuse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/19/technology/apple-west-virginia-lawsuit-child-sexual-abuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/19/technology/apple-west-virginia-lawsuit-child-sexual-abuse.html" rel="standout"></atom:link>
+      <description>The state’s attorney general said in a lawsuit filed on Thursday that the company declined to use tools that recognize the material stored on iCloud.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Thu, 19 Feb 2026 17:46:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCuskey, John B</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/19/multimedia/19biz-apple-csam-vwlb/19biz-apple-csam-vwlb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mike Segar/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Defense Department and Anthropic Square Off in Dispute Over A.I. Safety</title>
+      <link>https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html" rel="standout"></atom:link>
+      <description>How artificial intelligence will be used in future battlefields is an issue that has turned increasingly political and may put Anthropic in a bind.</description>
+      <dc:creator>Sheera Frenkel and Julian E. Barnes</dc:creator>
+      <pubDate>Thu, 19 Feb 2026 00:35:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palantir Technologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/18/multimedia/18biz-anthropic-pentagon-01-gwht/18biz-anthropic-pentagon-01-gwht-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>The Defense Department and Anthropic have been negotiating a contract over A.I. use by the Pentagon. </media:description>
+    </item>
+    <item>
+      <title>Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei</title>
+      <link>https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html" rel="standout"></atom:link>
+      <description>The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Wed, 18 Feb 2026 23:08:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepMind Technologies Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rationalists (Philosophical Movement)</category>
+      <category domain="">Effective altruism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Daniela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/18/multimedia/18biz-anthropic-explainer-02-tlgw/18biz-anthropic-explainer-02-tlgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>The contract between Anthropic and the Pentagon, worth as much as $200 million, is at stake.</media:description>
+    </item>
+    <item>
+      <title>What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.</title>
+      <link>https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html" rel="standout"></atom:link>
+      <description>We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.</description>
+      <dc:creator>Eve Washington</dc:creator>
+      <pubDate>Wed, 18 Feb 2026 18:20:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moltbook</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Mark Zuckerberg Takes the Stand in Social Media Addiction Trial</title>
+      <link>https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html" rel="standout"></atom:link>
+      <description>Meta’s chief executive said users spent a lot of time on Instagram because of its value, as he was grilled about child safety issues in front of a jury.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Thu, 19 Feb 2026 02:14:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/18/multimedia/18biz-zuckerberg-trial-hfo-zgvq/18biz-zuckerberg-trial-hfo-zgvq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Abramson for The New York Times</media:credit>
+      <media:description>Mark Zuckerberg has been criticized over allegations that his company created child safety and privacy problems.</media:description>
+    </item>
+    <item>
+      <title>Meta Begins $65 Million Election Push to Advance A.I. Agenda</title>
+      <link>https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html" rel="standout"></atom:link>
+      <description>Meta’s biggest election investment aims to prevent state legislation that it fears could inhibit artificial intelligence development. Its spending starts this week in Texas and Illinois.</description>
+      <dc:creator>Theodore Schleifer and Matt Zdun</dc:creator>
+      <pubDate>Wed, 18 Feb 2026 19:02:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Technology Excellence Project (Political Action Committee)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/02/18/multimedia/18biz-meta-pacs-tgck/18biz-meta-pacs-tgck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Meta is quietly supporting two new super PACs as it aims to influence the regulatory environment for artificial intelligence. </media:description>
+    </item>
+    <item>
+      <title>How to Watch Free Live Television on Your Phone or Tablet</title>
+      <link>https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html" rel="standout"></atom:link>
+      <description>Whether by app or old-school antennas, budget-friendly options abound.</description>
+      <dc:creator>J. D. Biersdorfer</dc:creator>
+      <pubDate>Wed, 18 Feb 2026 14:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tablet Computers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/18/technology/personaltech/18BIZ-TECHTIP-TOPART/18BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>J.D. Biersdorfer</media:credit>
+      <media:description>Tubi, shown here on an iPad, is one of the many advertising-supported streaming apps that bring free live television programs to mobile devices.</media:description>
+    </item>
+    <item>
+      <title>Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers</title>
+      <link>https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html" rel="standout"></atom:link>
+      <description>The company said it would encourage companies that operated chargers to install them in neighborhoods where its drivers lived and work.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Wed, 18 Feb 2026 12:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">EVgo Services LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freelancing, Self-Employment and Independent Contracting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Motivation and Incentive Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/18/multimedia/18biz-uber-charging-qmpt/18biz-uber-charging-qmpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>Drivers for Uber, Lyft and other taxi services are often the biggest users of charging stations, like this one at Kennedy International Airport.</media:description>
+    </item>
+    <item>
+      <title>Chatbots Are the New Influencers Brands Must Woo</title>
+      <link>https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html" rel="standout"></atom:link>
+      <description>Companies are realizing they can no longer simply promote themselves to potential customers. They have to win over the robots, too.</description>
+      <dc:creator>Erin Griffith</dc:creator>
+      <pubDate>Tue, 17 Feb 2026 10:02:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Athenahealth Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/11/business/00ai-marketing/00ai-marketing-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Kilbride</media:credit>
+    </item>
+    <item>
+      <title>With Niche Tech World References, Vibe Hopes Its Billboards Reach Start-Up Insiders</title>
+      <link>https://www.nytimes.com/2026/02/17/technology/vibe-tv-billboards-silicon-valley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/17/technology/vibe-tv-billboards-silicon-valley.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/17/technology/vibe-tv-billboards-silicon-valley.html" rel="standout"></atom:link>
+      <description>Billboards that wouldn’t make sense to people outside the tech industry have become common in the Bay Area. One company took the microtargeting game to another level.</description>
+      <dc:creator>Natallie Rocha and Minh Connors</dc:creator>
+      <pubDate>Tue, 17 Feb 2026 10:01:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Outdoor Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andreessen, Marc L</category>
+    </item>
+    <item>
+      <title>User Issues With X Appear to Have Resolved</title>
+      <link>https://www.nytimes.com/2026/02/16/technology/twitter-x-outage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/16/technology/twitter-x-outage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/16/technology/twitter-x-outage.html" rel="standout"></atom:link>
+      <description>The social media site was the subject of user complaints early Monday.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Mon, 16 Feb 2026 18:30:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CloudFlare Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CrowdStrike Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+    </item>
+    <item>
+      <title>Could an Electronic Coach Help Ski Jumpers Leap Farther?</title>
+      <link>https://www.nytimes.com/2026/02/15/science/olympics-technology-ski-jump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/15/science/olympics-technology-ski-jump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/15/science/olympics-technology-ski-jump.html" rel="standout"></atom:link>
+      <description>Future Olympic prospects are testing a device that can give them corrective advice in real time as they hurtle into the air.</description>
+      <dc:creator>Eric Niiler</dc:creator>
+      <pubDate>Sun, 15 Feb 2026 12:25:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ski Jumping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/16/multimedia/16sci-ski-jump-goggles-04-wvjt/16sci-ski-jump-goggles-04-wvjt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>More Than Ever, Videos Expose the Truth. And Cloud It, Too.</title>
+      <link>https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intelligence.html" rel="standout"></atom:link>
+      <description>In Minneapolis, videos of the Alex Pretti killing undermined the federal government’s account. But an A.I. video of Brad Pitt shows the dangers ahead.</description>
+      <dc:creator>Charles Homans</dc:creator>
+      <pubDate>Sun, 15 Feb 2026 10:02:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="721" medium="image" url="https://static01.nyt.com/images/2026/02/14/multimedia/14nat-minn-lessons-qtwm/14nat-minn-lessons-qtwm-mediumSquareAt3X.jpg" width="722"></media:content>
+      <media:credit>UGC/Reuters</media:credit>
+      <media:description>A screen grab from a video showing how federal agents wrestled Alex Pretti to the ground before fatally shooting him.</media:description>
+    </item>
+    <item>
+      <title>Ring Ends Deal to Link Neighborhood Cameras After Backlash to Super Bowl Ad</title>
+      <link>https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html" rel="standout"></atom:link>
+      <description>A commercial about a lost dog being reunited with his family ignited concerns that a “Search Party” feature posed privacy risks. Ring parted ways with the tech company Flock Safety.</description>
+      <dc:creator>Mark Walker</dc:creator>
+      <pubDate>Sat, 14 Feb 2026 21:33:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Super Bowl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ring Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flock Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/14/multimedia/14xp-ring-1-tqfc/14xp-ring-1-tqfc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jefferson Siegel for The New York Times</media:credit>
+      <media:description>A Ring doorbell security camera on the front of a building in New York. The planned integration of those cameras to activate a search function gave rise to criticism after a Super Bowl ad.</media:description>
+    </item>
+    <item>
+      <title>David J. Farber, ‘Grandfather of the Internet,’ Dies at 91</title>
+      <link>https://www.nytimes.com/2026/02/14/technology/david-farber-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/14/technology/david-farber-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/14/technology/david-farber-dead.html" rel="standout"></atom:link>
+      <description>A researcher, professor and federal policy adviser, he guided students who went on to do groundbreaking work in connecting the world online.</description>
+      <dc:creator>Peter Wayner</dc:creator>
+      <pubDate>Sat, 14 Feb 2026 13:09:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farber, David J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, Irvine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Keio University (Tokyo, Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+    </item>
+    <item>
+      <title>Their Secret to a Happy Marriage? A Translation App</title>
+      <link>https://www.nytimes.com/2026/02/14/technology/they-are-in-love-but-dont-speak-the-same-language.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/14/technology/they-are-in-love-but-dont-speak-the-same-language.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/14/technology/they-are-in-love-but-dont-speak-the-same-language.html" rel="standout"></atom:link>
+      <description>He speaks English. She speaks Mandarin. The secret to their happy marriage: Microsoft Translator.</description>
+      <dc:creator>Kashmir Hill and Oliver Farshi</dc:creator>
+      <pubDate>Mon, 16 Feb 2026 14:39:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Translation and Interpreters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-positive-happy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-positive-escape</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/02/15/multimedia/14biz-love-language-new-lede-jbfh/14biz-love-language-new-lede-jbfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>David Duda and Hong Liang at their home in New Haven, Conn. Mr. Duda and Ms. Liang met in Xian, China, in the fall of 2019.</media:description>
+    </item>
+    <item>
+      <title>Homeland Security Demands Social Media Sites Reveal Names Behind Anti-ICE Posts</title>
+      <link>https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html" rel="standout"></atom:link>
+      <description>The department has sent Google, Meta and other companies hundreds of subpoenas for information on accounts that track or comment on Immigration and Customs Enforcement, officials and tech workers said.</description>
+      <dc:creator>Sheera Frenkel and Mike Isaac</dc:creator>
+      <pubDate>Fri, 13 Feb 2026 23:24:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Discord Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/12/multimedia/00biz-ice-social-media-01-bwvf/00biz-ice-social-media-01-bwvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>The Department of Homeland Security is expanding its efforts to identify Americans who oppose Immigration and Customs Enforcement.</media:description>
+    </item>
+    <item>
+      <title>F.T.C. Chair Warns Apple Against Bias in Apple News</title>
+      <link>https://www.nytimes.com/2026/02/13/technology/ftc-chair-bias-apple-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/13/technology/ftc-chair-bias-apple-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/13/technology/ftc-chair-bias-apple-news.html" rel="standout"></atom:link>
+      <description>Andrew Ferguson of the F.T.C. said in a letter to Apple that it might be violating consumer protection law by stifling conservative speech in its news aggregation service.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Fri, 13 Feb 2026 18:59:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ferguson, Andrew N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/13/multimedia/ftc-apple-mctk/ftc-apple-mctk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>Trump-appointed leaders of federal agencies have been using consumer protection laws to punish media and tech companies for perceived left-leaning bias.</media:description>
+    </item>
+    <item>
+      <title>‘Something Big Is Happening’ + A.I. Rocks the Romance Novel Industry + One Good Thing</title>
+      <link>https://www.nytimes.com/2026/02/13/podcasts/something-big-is-happening-ai-rocks-the-romance-novel-industry-one-good-thing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/13/podcasts/something-big-is-happening-ai-rocks-the-romance-novel-industry-one-good-thing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/13/podcasts/something-big-is-happening-ai-rocks-the-romance-novel-industry-one-good-thing.html" rel="standout"></atom:link>
+      <description>“I do think we are reaching an inflection point in people’s feelings and senses about A.I. and where it’s going.”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Vjeran Pavic, Katie McMurran, Dan Powell, Elisheba Ittoop, Marion Lozano, Rowan Niemisto and Alyssa Moxley</dc:creator>
+      <pubDate>Fri, 13 Feb 2026 12:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/13/podcasts/13hardfork-panic/13hardfork-panic-mediumSquareAt3X-v2.png" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Photo: Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Meta Plans to Add Facial Recognition Technology to Its Smart Glasses</title>
+      <link>https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html" rel="standout"></atom:link>
+      <description>In an internal memo last year, Meta said the political tumult in the United States would distract critics from the feature’s release.</description>
+      <dc:creator>Kashmir Hill, Kalley Huang and Mike Isaac</dc:creator>
+      <pubDate>Sat, 14 Feb 2026 19:01:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Vision</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Be My Eyes (Accessibly Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">EssilorLuxottica SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/11/multimedia/BIZ-META-FACIAL-RECOGNITION-2-qwtg/BIZ-META-FACIAL-RECOGNITION-2-qwtg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lucia Vazquez for The New York Times</media:credit>
+      <media:description>The maker of Meta’s smart glasses said it sold more than seven million pairs last year. </media:description>
+    </item>
+    <item>
+      <title>Iran Turns to Digital Surveillance Tools to Track Down Protesters</title>
+      <link>https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html" rel="standout"></atom:link>
+      <description>As Iranian authorities restore some online services after crushing antigovernment demonstrations, they are using a technological dragnet to target attendees of the protests.</description>
+      <dc:creator>Adam Satariano, Paul Mozur and Farnaz Fassihi</dc:creator>
+      <pubDate>Fri, 13 Feb 2026 10:00:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Communications and Media Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/01/30/multimedia/00biz-iran-surveillance-1-wgpc/00biz-iran-surveillance-1-wgpc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Getty Images</media:credit>
+      <media:description>Antigovernment protesters blocked a road last month in Tehran. Iran is using facial recognition and phone data to track and detain people involved in political opposition activities.</media:description>
+    </item>
+  </channel>
+</rss>
