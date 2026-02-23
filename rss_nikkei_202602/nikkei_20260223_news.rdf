@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-02-23T10:11:30+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC230BR0T20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC19A5L0Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2309X0T20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR197MX0Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC135MX0T10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC230AD0T20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2305P0T20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2306I0T20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1210K0S6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC068WO0W6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD221X70S6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH230070T20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH205HQ0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH221F80S6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODL2303O0T20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN222FH0S6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH222GI0S6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB30B8Z0Q6A130C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA17BEZ0X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN17B8Z0X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA20AAD0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC18A8Z0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0392W0T00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1081O0Q6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF165ZD0W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC025M20S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD105MP0Q6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC125HK0S6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH195EZ0Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1638A0W6A210C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC230BR0T20C26A2000000/">
+    <title>松山英樹が28位、久常涼は45位　米男子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC230BR0T20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T10:02:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC19A5L0Z10C26A2000000/">
+    <title>品川大改造が本格始動　鉄道橋が77m移動、京急線は2階→1階へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC19A5L0Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T10:00:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2309X0T20C26A2000000/">
+    <title>松島輝空・張本美和ら2回戦へ　卓球シンガポールS</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2309X0T20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T10:00:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR197MX0Z10C26A2000000/">
+    <title>ウクライナ和平協議「期待低い」　侵略4年、ロシアは一段と強硬に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR197MX0Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC135MX0T10C26A2000000/">
+    <title>1個100円の卵、限界集落からミシュラン掲載店へ　耕作放棄地で養鶏</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC135MX0T10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC230AD0T20C26A2000000/">
+    <title>大坂なおみ、16位で変わらず　女子テニス世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC230AD0T20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T09:59:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2305P0T20C26A2000000/">
+    <title>北朝鮮の朝鮮労働党大会、金正恩氏を最高指導者に再任</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2305P0T20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T09:43:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2306I0T20C26A2000000/">
+    <title>米大リーグ、大谷翔平は投打で調整　鈴木誠也は1安打</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2306I0T20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T09:09:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1210K0S6A210C2000000/">
+    <title>ミラノ五輪閉幕、彩る名言「私がお姉さん」「生きて帰れた」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1210K0S6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T09:09:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC068WO0W6A200C2000000/">
+    <title>九州の鉄道、12社で2870キロ運行　赤字ローカル線は存廃論議</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC068WO0W6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD221X70S6A220C2000000/">
+    <title>東京スカイツリーでエレベーター急停止　20人が5時間半閉じ込め</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD221X70S6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T08:43:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH230070T20C26A2000000/">
+    <title>アイスホッケーは米国が46年ぶり金　耐えに耐えて延長決着</title>
+    <link>https://www.nikkei.com/article/DGXZQODH230070T20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T08:34:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH205HQ0Q6A220C2000000/">
+    <title>カーリング日本、世界で勝てるチームづくりを（市川美余）</title>
+    <link>https://www.nikkei.com/article/DGXZQODH205HQ0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T07:25:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH221F80S6A220C2000000/">
+    <title>ミラノ五輪閉幕、日本のメダルは冬季最多24個　2030年は仏アルプス</title>
+    <link>https://www.nikkei.com/article/DGXZQODH221F80S6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T07:20:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODL2303O0T20C26A2000000/">
+    <title>米東部に暴風雪警報　NYは非常事態宣言、市全域で移動禁止</title>
+    <link>https://www.nikkei.com/article/DGXZQODL2303O0T20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T07:15:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN222FH0S6A220C2000000/">
+    <title>メキシコ最凶の麻薬王「メンチョ」、特殊部隊が殺害　CJNG創始者</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN222FH0S6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:54:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH222GI0S6A220C2000000/">
+    <title>男子アイスホッケーで米国が3度目V、延長でカナダ下す　ミラノ五輪</title>
+    <link>https://www.nikkei.com/article/DGXZQODH222GI0S6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:05:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB30B8Z0Q6A130C2000000/">
+    <title>自治体向け融資、信金が照準　融資実績の積み上げ狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB30B8Z0Q6A130C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA17BEZ0X10C26A2000000/">
+    <title>維新「国保逃れ」の罪深さ　年金3号の見直し、語れるのか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA17BEZ0X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN17B8Z0X10C26A2000000/">
+    <title>米国「最も過酷なウルトラマラソン」電子機器禁じ作文提出</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN17B8Z0X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA20AAD0Q6A220C2000000/">
+    <title>太平洋の安保、東南アジアと一体強化　島しょ国と防衛相会合開催へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA20AAD0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC18A8Z0Y6A210C2000000/">
+    <title>韓流は第5世代に進化　アジアのコンテンツ、日本脅かすか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC18A8Z0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0392W0T00C26A2000000/">
+    <title>偏在解消「医師が循環する仕組みを」　全自病会長・望月泉氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0392W0T00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1081O0Q6A210C2000000/">
+    <title>アパレルや日用品、はや猛暑商戦　軽量スーツやイヌ用夏向けおむつ開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1081O0Q6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF165ZD0W6A210C2000000/">
+    <title>果実の形はどう決まる　京都大学などが3次元解析、新たな栽培技術に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF165ZD0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC025M20S6A200C2000000/">
+    <title>富士山麓も伊豆もホテルラッシュ　静岡で投資加速、観光立県へ商機</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC025M20S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD105MP0Q6A210C2000000/">
+    <title>豊田合成、車のドアゴムに再生材2割　脱臭磨いて新RAV4に採用</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD105MP0Q6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC125HK0S6A210C2000000/">
+    <title>トヨタ支えるホイール企業、タイヤ納入わずか2時間　早業で在庫最少</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC125HK0S6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH195EZ0Z10C26A2000000/">
+    <title>兵庫芸文センターのオペラ「カルメン」、佐渡裕「ホットな舞台に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH195EZ0Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1638A0W6A210C2000000/">
+    <title>「元気寿司」がコメ生産に参入　宇都宮の農家と共同出資で新会社</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1638A0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-23T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
