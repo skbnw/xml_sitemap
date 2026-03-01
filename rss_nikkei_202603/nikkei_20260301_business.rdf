@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-03-01T10:11:17+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0105L0R00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR283C10Y6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC21AWC0R20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA269R50W6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJE187F80Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD246JV0U6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA204QY0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA194J10Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA243ZR0U6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC252WS0V20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA201MH0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC091JQ0Z00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA171230X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZTS00020641Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN280IO0Y6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB129C20S6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC28AF70Y6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC069P30W6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA277X20X20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG246CR0U6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC145Q40U6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA254RQ0V20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC094I00Z00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC194470Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC163F80W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF272RS0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF231MW0T20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC110PU0R10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR1409E0U6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC281YB0Y6A220C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0105L0R00C26A3000000/">
+    <title>日本郵船など海運3社、ホルムズ海峡の航行停止　周辺海域で待機</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0105L0R00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T10:07:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR283C10Y6A220C2000000/">
+    <title>小米が「ライカのスマホ」製造、世界展開　シャープと提携終了か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR283C10Y6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:10:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC21AWC0R20C26A1000000/">
+    <title>武田薬品のウェバー社長、改革で老舗を世界へ　託した挑戦のバトン</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC21AWC0R20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA269R50W6A220C2000000/">
+    <title>かんぽ生命、4月にシンクタンク新設へ　金利上昇で経済予測重視</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA269R50W6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJE187F80Y6A210C2000000/">
+    <title>南海電鉄の新観光列車「GRAN天空」、動画で見る進化　車内グルメも</title>
+    <link>https://www.nikkei.com/article/DGXZQOJE187F80Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD246JV0U6A220C2000000/">
+    <title>名鉄百貨店、閉店しても鉄道ブランド高める　ご用聞きや域外催事導く</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD246JV0U6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA204QY0Q6A220C2000000/">
+    <title>「70歳以降も働く」初の4割超え　75歳以上は19%</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA204QY0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA194J10Z10C26A2000000/">
+    <title>土地や株「資産価値増える」2割に上昇　「減る」を逆転</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA194J10Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA243ZR0U6A220C2000000/">
+    <title>原発審査やテロ対策、強まる運用見直し論　原子力規制委の譲れぬ一線</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA243ZR0U6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC252WS0V20C26A2000000/">
+    <title>酒どころ新潟で「クラフトサケ」続々　免許制度の壁越え新市場開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC252WS0V20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA201MH0Q6A220C2000000/">
+    <title>チャットGPT「利用経験あり」33%　マイナ保険証は65%</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA201MH0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC091JQ0Z00C26A2000000/">
+    <title>就活、3年生すでに山場・企業は2年生視野　「AI就活」本格化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC091JQ0Z00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA171230X10C26A2000000/">
+    <title>外国人の増加「良くないこと」過去最多37%</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA171230X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZTS00020641Q6A220C2000000/">
+    <title>日経レアアース図鑑　南鳥島沖、深海6000mの海底からお宝</title>
+    <link>https://www.nikkei.com/article/DGXZTS00020641Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN280IO0Y6A220C2000000/">
+    <title>米政府のアンソロピック排除　専門家「企業存続の危機も」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN280IO0Y6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB129C20S6A210C2000000/">
+    <title>カニカマ商戦活況　ほぐれ食感も後味もカニらしく刷新、専用ビールも</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB129C20S6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC28AF70Y6A120C2000000/">
+    <title>博多駅で人気のクロワッサン「三日月屋」　酒に合うチーズ味、売れ筋5位</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC28AF70Y6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC069P30W6A200C2000000/">
+    <title>銀ラッシュに歯ぎしり　歯科は銀歯使うほど赤字、金管楽器では時価も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC069P30W6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA277X20X20C26A2000000/">
+    <title>地方の産業集積、広域・県・市町村･･･規模ごと3種の計画で支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA277X20X20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG246CR0U6A220C2000000/">
+    <title>柏崎刈羽再稼働、日本の原子力に大きな転機　拡大なら第三者的議論を</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG246CR0U6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC145Q40U6A110C2000000/">
+    <title>蛇口からお酒の「大衆酒泉テルマエ」、飲み放題438円に集う20代</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC145Q40U6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA254RQ0V20C26A2000000/">
+    <title>5つの抗てんかん薬、自動車運転の注意書き変更　添付文書改訂へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA254RQ0V20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC094I00Z00C26A2000000/">
+    <title>羽田に国内最大LEDウオールスタジオ　高さ10メートル、映画撮影に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC094I00Z00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC194470Z10C26A2000000/">
+    <title>黒字スーパーの売却決断、愛知クックマート「日本一と思う相手に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC194470Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC163F80W6A210C2000000/">
+    <title>出版不況も小学館「GOAT」42万部突破　脱タイパに響くフェス的設計</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC163F80W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF272RS0X20C26A1000000/">
+    <title>H2Oリテイリング、地域支援の新会社　26年春にも設立検討</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF272RS0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF231MW0T20C26A1000000/">
+    <title>京都旅行自由に作成、所要時間や拝観料自動算出　エムケイがサービス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF231MW0T20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC110PU0R10C26A1000000/">
+    <title>資生堂のマスカラ、カール持続と「お湯でオフ」両立　洗顔時の肌負担減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC110PU0R10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR1409E0U6A210C2000000/">
+    <title>ゴールドウイン、ロンドンに旗艦店　「ノース・フェース」の限界カバー</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR1409E0U6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC281YB0Y6A220C2000000/">
+    <title>JAL、羽田―ドーハ線を3日まで欠航　ドバイ国際空港は全便停止</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC281YB0Y6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T01:06:15+09:00</dc:date>
+  </item>
+</rdf:RDF>
