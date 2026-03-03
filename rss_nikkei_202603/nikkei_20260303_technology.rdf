@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-03-03T10:12:45+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN02B230S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN02B3Q0S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN02AX20S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC274E60X20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG022O20S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC022F20S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC011QP0R00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC025620S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC024XN0S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD025OJ0S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG1675Q0W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA278HR0X20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0203Q0S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG13AZ20T10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB168SU0W6A110C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF277SN0X20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC163P20W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG182TN0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2617Y0W6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB267Y50W6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC242PU0U6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12AK20S5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC195O50Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG207ZH0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG274V00X20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA201MH0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN280IO0Y6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG257HO0V20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG246CR0U6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN281MZ0Y6A220C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN02B230S6A300C2000000/">
+    <title>アンソロピック、国防総省との交渉決裂「米国民のAI監視」が要因に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN02B230S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-03T06:03:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN02B3Q0S6A300C2000000/">
+    <title>Apple、iPhone 17e発売　9万9800円から据え置き</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN02B3Q0S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-03T06:03:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN02AX20S6A300C2000000/">
+    <title>NVIDIA、米ルメンタムとコヒレントに6300億円出資　AI処理高速化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN02AX20S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-03T05:01:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC274E60X20C26A2000000/">
+    <title>日経メッセ開幕、1137社･団体参加　インバウンドや人手不足対策競う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC274E60X20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG022O20S6A300C2000000/">
+    <title>春の花粉は例年比で3割増　新たな発症に注意、トマトなどと関連も</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG022O20S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC022F20S6A300C2000000/">
+    <title>シャオミの新スマホはライカ搭載「ライツフォン」　中国の存在感増す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC022F20S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC011QP0R00C26A3000000/">
+    <title>モバイル見本市「MWC」、AI一色　ドコモは個人用AIエージェント</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC011QP0R00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T18:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC025620S6A300C2000000/">
+    <title>NTTデータ、在宅介護の支援アプリ　SOMPO系から承継</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC025620S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T17:44:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC024XN0S6A300C2000000/">
+    <title>電話応対AIのIVRy、コンタクトセンター向けサービス開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC024XN0S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T17:17:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD025OJ0S6A300C2000000/">
+    <title>サントリー生命科学財団、若手研究者支援で資金</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD025OJ0S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T17:02:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG1675Q0W6A210C2000000/">
+    <title>3日午後8時から皆既月食　天気の回復次第で赤い月が見られるかも</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG1675Q0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T15:23:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA278HR0X20C26A2000000/">
+    <title>日韓、AIやサイバー防御で協力　デジタル技術の標準化で連携も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA278HR0X20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T13:37:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0203Q0S6A300C2000000/">
+    <title>NVIDIA、「6G」でAIロボ運用　ソフトバンクやノキアと構築</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0203Q0S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T08:53:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG13AZ20T10C26A2000000/">
+    <title>血糖値抑えるインスリン効きにくい人、がん発症リスク高く　東大など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG13AZ20T10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB168SU0W6A110C2000000/">
+    <title>金融のデジタル投資に勢い、3割増3兆円　損保が相次ぎ最新システム</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB168SU0W6A110C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF277SN0X20C26A2000000/">
+    <title>パナHD「ペロブスカイト」普及へ実証開始、発電効率の規格作りも</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF277SN0X20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC163P20W6A210C2000000/">
+    <title>ロッテの「科学商談」、小売りも納得　売り場の演出でついで買い喚起</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC163P20W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG182TN0Y6A210C2000000/">
+    <title>「日本と新たな用途開拓」、民間宇宙基地の米バストが日本法人設立</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG182TN0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2617Y0W6A220C2000000/">
+    <title>GVA TECH、AIで民事裁判の訴状案作成　弁護士向けに</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2617Y0W6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB267Y50W6A220C2000000/">
+    <title>AIディストピア論とは　AI投資と失業「負の連鎖」が危機招く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB267Y50W6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC242PU0U6A220C2000000/">
+    <title>コネクテッドカーを支える未来の車載ソフト　96社の市場マップ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC242PU0U6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12AK20S5A211C2000000/">
+    <title>太平洋セメント、AIで焼成炉自動運転　素材現場支える熟練者を代替</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12AK20S5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T19:57:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC195O50Z10C26A2000000/">
+    <title>ロケット「カイロス」打ち上げ、4日以降に延期　天候みて直前に中止</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC195O50Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T14:50:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG207ZH0Q6A220C2000000/">
+    <title>5000年前から凍結の細菌、現代の抗生物質10種に耐性　国際研究</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG207ZH0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG274V00X20C26A2000000/">
+    <title>海氷減ってもホッキョクグマは太って健康、温暖化に適応　国際研究</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG274V00X20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA201MH0Q6A220C2000000/">
+    <title>チャットGPT「利用経験あり」33%　マイナ保険証は65%</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA201MH0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN280IO0Y6A220C2000000/">
+    <title>米政府のアンソロピック排除　専門家「企業存続の危機も」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN280IO0Y6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG257HO0V20C26A2000000/">
+    <title>根が無いコケは「ひげ」で栄養吸収、神戸大学が解明　植物の進化に光</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG257HO0V20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG246CR0U6A220C2000000/">
+    <title>柏崎刈羽再稼働、日本の原子力に大きな転機　拡大なら第三者的議論を</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG246CR0U6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN281MZ0Y6A220C2000000/">
+    <title>トランプ政権、AI企業選別に危うさ　アンソロピックを排除</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN281MZ0Y6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-02-28T20:28:42+09:00</dc:date>
+  </item>
+</rdf:RDF>
