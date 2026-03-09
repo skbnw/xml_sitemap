@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-03-09T11:15:41+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC04CP60U6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC028AA0S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC275PR0X20C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD064KI0W6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF090LY0Z00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA090E60Z00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD034DV0T00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD022BQ0S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC011IH0R00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA063BZ0W6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12BPW0S5A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF17BAF0X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC04AM00U6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD26AEF0W6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC179SE0X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0697T0W6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC038VJ0T00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC207CF0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC057BY0V00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF106IT0Q6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD276JD0X20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG106ED0Q6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC036EK0T00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC036A70T00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC056AC0V00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC185CH0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD064010W6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0327T0T00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG052230V00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF281WP0Y6A220C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC04CP60U6A300C2000000/">
+    <title>DIC系、米国で顔料生産能力拡大へ15億円投資</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC04CP60U6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC028AA0S6A300C2000000/">
+    <title>住友商事・犬伏専務執行役員、ピッツバーグ支店「地産地消拡大に商機」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC028AA0S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC275PR0X20C26A1000000/">
+    <title>伊藤忠がIP戦略再編　新会社でアニメ製作・グッズ、一気通貫で海外へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC275PR0X20C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD064KI0W6A300C2000000/">
+    <title>AI株で考える成長のワナ　ITバブル時の「警告」は生きるか</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD064KI0W6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF090LY0Z00C26A3000000/">
+    <title>オアシス、堀場製作所の堀場会長選任に反対　定時株主総会で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF090LY0Z00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T10:49:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA090E60Z00C26A3000000/">
+    <title>1月の経常収支、9416億円の黒字に　中国の春節ずれで貿易赤字が縮小</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA090E60Z00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T10:32:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD034DV0T00C26A3000000/">
+    <title>6G×AIで始まった総取り合戦　技術の標準を争奪、敗者復活難しく</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD034DV0T00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD022BQ0S6A300C2000000/">
+    <title>不良品の廃棄ゴムをリサイクル　水で脱臭、車部品に活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD022BQ0S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC011IH0R00C26A3000000/">
+    <title>震災からの産業復興、半導体・自動車集積も広がる地域格差</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC011IH0R00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA063BZ0W6A300C2000000/">
+    <title>1月実質賃金1.4%増、13カ月ぶりプラス　ガソリン減税でインフレ一服</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA063BZ0W6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12BPW0S5A910C2000000/">
+    <title>AI検索でアクセス減「AI最適化」に注目　読みやすさ･結論明記が重要</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12BPW0S5A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF17BAF0X10C26A2000000/">
+    <title>住友ファーマ､iPS医薬承認支えた親子の｢絆｣　住友化学が資金人材援助</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF17BAF0X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC04AM00U6A300C2000000/">
+    <title>動画広告市場、26年に1兆円超え　サイバーエージェント</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC04AM00U6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD26AEF0W6A220C2000000/">
+    <title>MTG松下社長「美容器はスマホ感覚で買い替え」　リファで法人開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD26AEF0W6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC179SE0X10C26A2000000/">
+    <title>赤字のJR指宿―枕崎、活用策模索　サイクルトレインや焼酎列車</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC179SE0X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0697T0W6A200C2000000/">
+    <title>日立のAIソリューション群、鉄道などインフラをリアルタイム分析</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0697T0W6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC038VJ0T00C26A3000000/">
+    <title>技術で勝ってビジネスでも勝つ　VCのビヨンドネクスト、資本政策綿密に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC038VJ0T00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC207CF0Q6A220C2000000/">
+    <title>富士フイルム、チェキ復活の真実　どん底知る「86世代」に託す改革</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC207CF0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC057BY0V00C26A2000000/">
+    <title>森ビル辻社長、東京・六本木の新たな再開発「工事に向けて大詰め」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC057BY0V00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF106IT0Q6A210C2000000/">
+    <title>グッズ製作のエスケイジャパン、キャラ発掘は全社員で　推し活キャッチ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF106IT0Q6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD276JD0X20C26A2000000/">
+    <title>名古屋市立大病院、外科医のアバターが手術説明　医師の負担4割減</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD276JD0X20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG106ED0Q6A210C2000000/">
+    <title>化合物を「蜂の巣構造」で立体合成、京都大学　電池材料など強固に</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG106ED0Q6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC036EK0T00C26A3000000/">
+    <title>松本中心市街地、進む新陳代謝　客層変化映しホテルなど充実へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC036EK0T00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC036A70T00C26A3000000/">
+    <title>静岡のクリーニング会社、稼げる事業に転換加速　無料保管や請負強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC036A70T00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC056AC0V00C26A3000000/">
+    <title>自販機の稼働台数はピークから3割減　飲料メーカーの戦略がわかる9選</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC056AC0V00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC185CH0Y6A210C2000000/">
+    <title>50年に「再エネ8割可能」、プラチナ構想ネットワーク</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC185CH0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD064010W6A300C2000000/">
+    <title>三ヶ日みかん、AIが1日500トン品質判定　農家は栽培に全集中</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD064010W6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0327T0T00C26A3000000/">
+    <title>基幹労連・津村正男委員長「30年遅れてきた賃上げ、取り返す」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0327T0T00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG052230V00C26A3000000/">
+    <title>南鳥島沖レアアース、経済性議論より技術確立が先　SIP石井正一氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG052230V00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF281WP0Y6A220C2000000/">
+    <title>日産が取引先の中小､ベトナムで再起　｢残したい技ある｣CFで帽子販売</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF281WP0Y6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-09T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
