@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Thu, 12 Mar 2026 07:15:17 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 06:18:35 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety</title>
+      <link>https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html" rel="standout"></atom:link>
+      <description>Blaming chatbots, they are joining an earlier push for better protections by parents who say social media contributed to their children’s deaths.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Wed, 11 Mar 2026 15:31:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Character.AI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/26/multimedia/BIZ-TECH-PARENTS-1-08-pcwb/BIZ-TECH-PARENTS-1-08-pcwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>Megan Garcia sued Google and Character.AI in 2024 over the suicide of her 14-year-old son, Sewell.</media:description>
+    </item>
+    <item>
+      <title>Meta Acquires Moltbook, the Social Network Just for A.I. Bots</title>
+      <link>https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html" rel="standout"></atom:link>
+      <description>Matt Schlicht, the site’s creator, helped kick off Silicon Valley’s obsession with artificial intelligence agents. Two months later, he is joining the Meta Superintelligence Lab.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 19:03:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moltbook</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/12/multimedia/12biz-meta-moltbook-print/10BIZ-META-Moltbook-2-fbqk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>At Moltbook, agents based on a software called OpenClaw can chat with one another, much like people on Facebook and Instagram.</media:description>
+    </item>
+    <item>
+      <title>YouTube Adds Tool to Help Public Figures Report Fake Videos</title>
+      <link>https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html" rel="standout"></atom:link>
+      <description>Social media companies are under pressure to crack down on so-called deepfake videos that use deceptive images of real people.</description>
+      <dc:creator>Natallie Rocha</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 14:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10BIZ-YOUTUBE-sub-gtkp/10BIZ-YOUTUBE-sub-gtkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anastasiia Sapon for The New York Times</media:credit>
+      <media:description>The San Bruno, Calif., headquarters of YouTube, which is introducing a program to help participants monitor and report videos that use artificial intelligence to impersonate them.</media:description>
+    </item>
+    <item>
+      <title>Former Meta A.I. Chief’s Start-Up Is Valued at $3.5 Billion</title>
+      <link>https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html" rel="standout"></atom:link>
+      <description>Advanced Machine Intelligence Labs, founded by Yann LeCun and other ex-Meta researchers, has raised more than $1 billion from investors.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 14:36:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeCun, Yann</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Advanced Machine Intelligence Labs (AMI Labs)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/BIZ-AMI-LABS-lzjg/biz-meta-ai-1-lzjg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Victor Llorente for The New York Times</media:credit>
+      <media:description>AMI Labs, which Yann LeCun founded a month ago after leaving Meta, has only a dozen employees.</media:description>
+    </item>
+    <item>
+      <title>They Don’t Want Their Company’s Surveillance Tool Used by ICE</title>
+      <link>https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html" rel="standout"></atom:link>
+      <description>Thomson Reuters, best known for its media outlet and legal research tools, provides an investigative tool to immigration enforcers. Its Minnesota employees want that to stop.</description>
+      <dc:creator>Kashmir Hill</dc:creator>
+      <pubDate>Wed, 11 Mar 2026 09:02:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thomson Reuters Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/11/multimedia/11biz-ice-ThomsonReuters-wftj/11biz-ice-ThomsonReuters-wftj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeenah Moon/Reuters</media:credit>
+      <media:description>Thomson Reuters is a $50 billion Toronto-based company that owns the Reuters news service. Its widely used legal research tool, Westlaw, has operations based in the suburbs of Minneapolis. </media:description>
+    </item>
+    <item>
+      <title>Boeing Says Wiring Issue Will Delay Some 737 Max Deliveries</title>
+      <link>https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html" rel="standout"></atom:link>
+      <description>The aerospace company said the delay would not prevent it from meeting its 2026 sales goal of about 500 Max jets.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 16:45:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10biz-boeing-delay-zvmg/10biz-boeing-delay-zvmg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Jennifer Buchanan</media:credit>
+      <media:description>A Boeing 737 Max at the company’s plant in Renton, Wash. Boeing said on Tuesday that it would delay delivery of some 737 Max jets as wiring issues were fixed.</media:description>
+    </item>
+    <item>
+      <title>How Do You Use A.I. for Daily Life?</title>
+      <link>https://www.nytimes.com/2026/03/10/technology/ai-daily-life-callout.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/technology/ai-daily-life-callout.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/technology/ai-daily-life-callout.html" rel="standout"></atom:link>
+      <description>We want to hear how artificial intelligence helps you with tasks like meal prep, translation and planning a trip.</description>
+      <dc:creator>Elie Levine</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 14:59:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-reader-callout</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/05/multimedia/05ai-callout-fklh/05ai-callout-fklh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kelsey McClellan for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy</title>
+      <link>https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html" rel="standout"></atom:link>
+      <description>More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 04:01:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Five</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Solar Energy Industries Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wood Mackenzie Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Chris (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/03/10/multimedia/10biz-solar-trump-pzbl/10biz-solar-trump-pzbl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mason Trinca for The New York Times</media:credit>
+      <media:description>A solar field in Riesel, Texas, in 2023. Solar power is projected to account for just over half of the new power projects that will be added this year.</media:description>
+    </item>
+    <item>
+      <title>Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label</title>
+      <link>https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html" rel="standout"></atom:link>
+      <description>The artificial intelligence company filed two lawsuits against the Department of Defense, saying it was being punished on ideological grounds.</description>
+      <dc:creator>Sheera Frenkel</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 22:12:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/09biz-anthropic-pzwb-email/09biz-anthropic-pzwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Dario Amodei, the chief executive of Anthropic.</media:description>
+    </item>
+    <item>
+      <title>For OpenAI and Anthropic, the Competition Is Deeply Personal</title>
+      <link>https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html" rel="standout"></atom:link>
+      <description>A fight over Pentagon contracts shows how the leaders of Silicon Valley’s two most important A.I. start-ups are feuding over the future of the tech industry.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Sat, 07 Mar 2026 16:58:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know</title>
+      <link>https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html" rel="standout"></atom:link>
+      <description>Negotiations, threats and amended contracts have left plenty of questions. Here are some answers.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Sat, 07 Mar 2026 19:36:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palantir Technologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/05/multimedia/ANTHROPIC-EXLAINER-1-plgb/ANTHROPIC-EXLAINER-1-plgb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>Secretary of Defense Pete Hegseth declared Anthropic a “supply chain risk,” a rare designation for an American company.</media:description>
+    </item>
+    <item>
+      <title>‘Designed to Wreak Havoc’: The Cheap Drones Shaping the War With Iran</title>
+      <link>https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html" rel="standout"></atom:link>
+      <description>Iran has launched waves of Shahed drones to menace Persian Gulf nations. The U.S. has unleashed its own copycat on Iran. It’s a sign of how war is changing.</description>
+      <dc:creator>Paul Mozur and Adam Satariano</dc:creator>
+      <pubDate>Sat, 07 Mar 2026 18:35:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+    </item>
+    <item>
+      <title>Are A.I.-Generated Videos Changing How We See Animals?</title>
+      <link>https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html" rel="standout"></atom:link>
+      <description>By manipulating animals to do wonderful things, we may become numb to their real wonder.</description>
+      <dc:creator>Sophie Haigney</dc:creator>
+      <pubDate>Wed, 11 Mar 2026 17:17:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+    </item>
+    <item>
+      <title>From 2017: Frances Gabe, Creator of the Only Self-Cleaning Home, Dies at 101</title>
+      <link>https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html" rel="standout"></atom:link>
+      <description>Equal parts quixotic dreamer and accomplished visionary, Ms. Gabe made the house do its own scrubbing.</description>
+      <dc:creator>Margalit Fox</dc:creator>
+      <pubDate>Tue, 10 Mar 2026 15:28:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gabe, Frances (1915-2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/07/19/us/19gabe-obit-1/15gabe-obit-1-moth.jpg" width="151"></media:content>
+      <media:credit>Shane Young</media:credit>
+      <media:description>Frances Gabe put the kitchen of her self-cleaning house through its paces in 2002.</media:description>
+    </item>
+    <item>
+      <title>OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop</title>
+      <link>https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html" rel="standout"></atom:link>
+      <description>“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Chris Wood, Dan Powell, Elisheba Ittoop and Rowan Niemisto</dc:creator>
+      <pubDate>Fri, 06 Mar 2026 12:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/06/podcasts/06hardfork-openai-fallout/06hardfork-openai-fallout-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Photo: Mandel Ngan/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’</title>
+      <link>https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html" rel="standout"></atom:link>
+      <description>Anthropic has said it will sue the Defense Department over the designation, which could prevent the start-up from doing business with the U.S. government.</description>
+      <dc:creator>Cade Metz, Julian E. Barnes and Sheera Frenkel</dc:creator>
+      <pubDate>Fri, 06 Mar 2026 01:23:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/05/multimedia/05biz-anthropic-1-pcvw/05biz-anthropic-1-pcvw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Although Anthropic is the only company that provides the Pentagon with artificial intelligence technologies for use on classified systems, other companies are angling to replace it.</media:description>
+    </item>
+    <item>
+      <title>Demand for AI Data Centers Sends Prospectors Hunting for Land and Power</title>
+      <link>https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html" rel="standout"></atom:link>
+      <description>Brian Janous, a former Microsoft executive, and his firm Cloverleaf have become modern-day land men, packaging electricity and land for data centers.</description>
+      <dc:creator>Tripp Mickle and Tim Gruber</dc:creator>
+      <pubDate>Thu, 05 Mar 2026 16:30:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cloverleaf Infrastructure LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vantage Data Centers Management Co LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Janous, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nebraska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/03/09/multimedia/ai-wildcatters-02-pkhj/ai-wildcatters-02-pkhj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tim Gruber for The New York Times</media:credit>
+      <media:description>Brian Janous, co-founder of Cloverleaf Infrastructure. His start-up has been thrust into heated community debates over data center development.</media:description>
+    </item>
+    <item>
+      <title>The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.</title>
+      <link>https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html" rel="standout"></atom:link>
+      <description>Amazon and Google think that artificially intelligent assistants like Alexa+ and Gemini will speed up the process of setting up a smart home, but many problems remain unsolved.</description>
+      <dc:creator>Brian X. Chen</dc:creator>
+      <pubDate>Thu, 05 Mar 2026 16:30:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Automation and Smart Homes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Appliances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speakers (Audio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lighting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/11/business/00techfix-smarthome/00techfix-smarthome-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sisi Yu</media:credit>
+    </item>
+    <item>
+      <title>How $800 Monthly Car Payments Are Hurting Car Sales</title>
+      <link>https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html" rel="standout"></atom:link>
+      <description>Cars have become so expensive that many Americans are putting off or not buying new cars, hurting the auto industry.</description>
+      <dc:creator>Neal E. Boudette</dc:creator>
+      <pubDate>Thu, 05 Mar 2026 21:13:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Insurance and Liability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Financing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/05/multimedia/05biz-auto-sales-hzvg/05biz-auto-sales-hzvg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeff Roberson/Associated Press</media:credit>
+      <media:description>The average monthly payment for a new car was $774 at the end of last year, and the average new car now costs nearly $50,000.</media:description>
+    </item>
+    <item>
+      <title>You’ve Never Seen Ants Like This Before</title>
+      <link>https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html" rel="standout"></atom:link>
+      <description>The Antscan database captures the tiny insects’ diversity and shows how the world’s living things could be rendered in three dimensions.</description>
+      <dc:creator>Ari Daniel</dc:creator>
+      <pubDate>Thu, 05 Mar 2026 10:03:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">3-D Devices and Effects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Methods (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>A Word to the Wise: Don’t Trust A.I. to File Your Taxes</title>
+      <link>https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html" rel="standout"></atom:link>
+      <description>The world’s smartest technology is no match for the U.S. tax code.</description>
+      <dc:creator>Stuart A. Thompson</dc:creator>
+      <pubDate>Thu, 05 Mar 2026 10:01:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Preparers and Preparation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rebates and Refunds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/03/07/business/00ai-taxes/00ai-taxes-mediumSquareAt3X.png" width="1600"></media:content>
+      <media:credit>Sean Dong</media:credit>
+    </item>
+  </channel>
+</rss>
