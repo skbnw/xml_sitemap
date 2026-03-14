@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/economy.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Feconomy.rdf">
+    <title>日経新聞 政治・経済</title>
+    <link>https://www.nikkei.com/news/category/economy/</link>
+    <description>日経新聞の政治・経済に関するフィードをお届けします。</description>
+    <dc:date>2026-03-14T11:13:48+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN11CU00R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN11CSD0R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA13AP10T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA136CC0T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA136F40T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1068R0Q6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA133FA0T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA133BQ0T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA12B2L0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA128HE0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA067FS0W6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA12B2O0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA110D60R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA119V40R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA121ME0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA262PU0W6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC128IQ0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA123Q70S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA119F50R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA122FG0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA121WU0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA257660V20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA117290R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA10AY50Q6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA11AXG0R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA119H70R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA115DI0R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB050L10V00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA111IJ0R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA097QN0Z00C26A3000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN11CU00R10C26A3000000/">
+    <title>米国の求人件数、1月は694万件　小売・金融で増加</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN11CU00R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-14T02:11:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN11CSD0R10C26A3000000/">
+    <title>米消費支出物価指数、1月は2.8%上昇　市場予想下回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN11CSD0R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-14T00:04:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA13AP10T10C26A3000000/">
+    <title>IMF専務理事｢エネルギー輸入国の影響深刻｣　中東情勢でインフレ懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA13AP10T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T21:00:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA136CC0T10C26A3000000/">
+    <title>裁量労働制の拡充、労使平行線　厚労省の分科会で議論</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA136CC0T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T18:33:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA136F40T10C26A3000000/">
+    <title>コメの民間備蓄、保有義務20万トンに　迅速な放出へ農水省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA136F40T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1068R0Q6A310C2000000/">
+    <title>日銀3月利上げ見送りへ、中東情勢見極め　4月以降に持ち越し</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1068R0Q6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T17:00:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA133FA0T10C26A3000000/">
+    <title>国家備蓄の売却「国内の石油精製事業者に」　赤沢経産相</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA133FA0T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T15:38:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA133BQ0T10C26A3000000/">
+    <title>片山財務相、円安進行「いかなる時も万全の対応」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA133BQ0T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T14:31:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA12B2L0S6A310C2000000/">
+    <title>OTC類似薬1100品目に追加負担　健保法改正案を閣議決定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA12B2L0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T12:03:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA128HE0S6A310C2000000/">
+    <title>26年産の備蓄米買い入れ、初回は4月14日に入札　農水省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA128HE0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T11:32:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA067FS0W6A300C2000000/">
+    <title>不眠症に認知行動療法、6月から保険適用　薬で効果不十分の患者ら</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA067FS0W6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T10:48:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA12B2O0S6A310C2000000/">
+    <title>原子力人材確保の行程表、26年度策定へ　経産省など産官学で新組織</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA12B2O0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA110D60R10C26A3000000/">
+    <title>AI活用で40年にGDP1000兆円、改革停滞より3割増　民間提言</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA110D60R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA119V40R10C26A3000000/">
+    <title>企業向けデジタルアドレス3月発行へ　日本郵便、物流DXの基盤整備</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA119V40R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA121ME0S6A310C2000000/">
+    <title>国家備蓄、石油元売りに随意契約　3月下旬〜4月上旬にも流通</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA121ME0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA262PU0W6A220C2000000/">
+    <title>ICTスタートアップ補助、1.5倍3000万円に拡大　他企業との連携条件</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA262PU0W6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T18:41:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC128IQ0S6A310C2000000/">
+    <title>東北企業の景況感2期ぶりマイナス　1~3月、運輸など大雪響く</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC128IQ0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T18:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA123Q70S6A310C2000000/">
+    <title>自民党、SNS詐欺広告対策で提言へ　Googleなどから聴取</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA123Q70S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T18:38:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA119F50R10C26A3000000/">
+    <title>AIエージェントやロボAI、「リスク抑制へ人間介在を」　政府指針案</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA119F50R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T18:25:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA122FG0S6A310C2000000/">
+    <title>木原官房長官、石油の協調放出歓迎　「国際市場の安定化に資する」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA122FG0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T13:54:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA121WU0S6A310C2000000/">
+    <title>高市首相、燃料価格対策「当面基金で対応」　予備費活用も否定せず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA121WU0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T13:06:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA257660V20C26A2000000/">
+    <title>キャットフード5年で6割高　人間の食べ物よりインフレ鮮明</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA257660V20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T11:46:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA117290R10C26A3000000/">
+    <title>大企業の1〜3月景況感、3四半期連続プラス　イラン情勢悪化前の調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA117290R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T10:17:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA10AY50Q6A310C2000000/">
+    <title>家計にのしかかる原油高、負担増年2〜3万円も　保険料軽減薄れる</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA10AY50Q6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA11AXG0R10C26A3000000/">
+    <title>日本、国内備蓄石油の2割を放出へ　需給逼迫の不安払拭狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA11AXG0R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-12T00:55:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA119H70R10C26A3000000/">
+    <title>高市首相、ガソリン170円程度に抑制表明　原油高の激変緩和策を指示</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA119H70R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-11T21:30:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA115DI0R10C26A3000000/">
+    <title>介護福祉士の試験猶予、5年延長へ　厚労省が関連法改正案に明記</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA115DI0R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-11T20:41:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB050L10V00C26A3000000/">
+    <title>1億円未満ファンドは監査不要　金融庁まず福岡で、個人の新興投資促す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB050L10V00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-11T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA111IJ0R10C26A3000000/">
+    <title>規制委員長「高次元の安全へ改善断行」　原発事故15年で職員に訓示</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA111IJ0R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-11T17:03:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA097QN0Z00C26A3000000/">
+    <title>裁量労働制、営業・コンサルに広がる？　成長戦略会議の分科会が始動</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA097QN0Z00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-11T15:18:45+09:00</dc:date>
+  </item>
+</rdf:RDF>
