@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-03-17T11:10:44+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA170T60X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN171DB0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB130IQ0T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1707F0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC1346P0T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB116MR0R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB106C90Q6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1124E0R10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC151V00V10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1611B0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA170YO0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170OI0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB171IC0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1712J0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC166NQ0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170ZW0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170H80X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL11486TR10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1714P0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170SU0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170LI0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170M60X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC170WU0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170IC0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC170860X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170D10X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB170SC0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF170KK0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC170LY0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL170D00X10C26A3000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA170T60X10C26A3000000/">
+    <title>巨額損失の農林中金、外部役員の登用可能に　法改正案を閣議決定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA170T60X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:07:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN171DB0X10C26A3000000/">
+    <title>キューバ政府、米圧力で経済開放へ　国外の自国民に投資許可</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN171DB0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:05:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB130IQ0T10C26A3000000/">
+    <title>世界株、｢供給ショック｣に身構え　設備投資・消費関連からマネー流出</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB130IQ0T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:02:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1707F0X10C26A3000000/">
+    <title>青森沖で漁船転覆、4人意識不明　貨物船と衝突</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1707F0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:01:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC1346P0T10C26A3000000/">
+    <title>平和不動産の土本清幸社長「札幌の再開発ビルをAI・GX新興拠点に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC1346P0T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:00:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB116MR0R10C26A3000000/">
+    <title>菜種、カナダや豪州で供給増加の観測　バイオ燃料の支えで相場崩れず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB116MR0R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB106C90Q6A310C2000000/">
+    <title>第四北越と群馬銀行、県境またぎ統合へ　ビジネス・観光活性化で連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB106C90Q6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1124E0R10C26A2000000/">
+    <title>福島のコメ農家、風評越え「電気もつくる」　魚沼産並みのブランド再興</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1124E0R10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC151V00V10C26A3000000/">
+    <title>住友化学、欧州農薬事業強化へフランス子会社統合　バイオ需要に対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC151V00V10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1611B0W6A310C2000000/">
+    <title>ランボルギーニ日本統括「株価上昇でスーパーカー販売堅調」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1611B0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA170YO0X10C26A3000000/">
+    <title>国民会議の有識者会議、座長に清家篤氏　構成員12人発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA170YO0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:53:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170OI0X10C26A3000000/">
+    <title>上海株寄り付き　小動き、原油高懸念後退は支え　米中関係に警戒も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170OI0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:43:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB171IC0X10C26A3000000/">
+    <title>米ワクチン政策の変更を停止　「科学的手法軽視」と地裁</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB171IC0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:40:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1712J0X10C26A3000000/">
+    <title>香港株寄り付き　続伸して始まる　消費関連に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1712J0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:39:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC166NQ0W6A310C2000000/">
+    <title>エプソン、半導体製造で台湾企業と協業　インクジェット技術活用へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC166NQ0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:37:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170ZW0X10C26A3000000/">
+    <title>外為10時　円相場、下げに転じる　159円台前半　実需の売り観測で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170ZW0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:31:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170H80X10C26A3000000/">
+    <title>パーク24株価急伸、英子会社の倒産更生手続きで不採算事業整理好感</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170H80X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:28:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL11486TR10C26A3000000/">
+    <title>円安助長する為替デリバティブ　地銀のオプション系取扱高急増</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL11486TR10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:27:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1714P0X10C26A3000000/">
+    <title>人民元基準値、対米ドルで6.8961元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1714P0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:26:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170SU0X10C26A3000000/">
+    <title>東証10時　日経平均は伸び悩み　アドテストやソフトバンクGが下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170SU0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:21:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170LI0X10C26A3000000/">
+    <title>NECの株価反落　「海底ケーブル事業に1000億円超投資」報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170LI0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:18:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170M60X10C26A3000000/">
+    <title>信越化学工業の株価1年8カ月ぶり高値　国内向け塩ビ樹脂2割値上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170M60X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:17:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC170WU0X10C26A3000000/">
+    <title>日産、九州工場で月内に1200台減産へ　中東向け輸出停滞で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC170WU0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T10:11:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170IC0X10C26A3000000/">
+    <title>商品9時30分　原油反落、一部船舶のホルムズ海峡通過で　金は続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170IC0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T09:49:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC170860X10C26A3000000/">
+    <title>山本由伸、2年連続の開幕投手　27日にダイヤモンドバックス戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC170860X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T09:36:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170D10X10C26A3000000/">
+    <title>東証寄り付き　日経平均は反発　一時600円高、原油高懸念後退で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170D10X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T09:29:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB170SC0X10C26A3000000/">
+    <title>ドバイ原油・17日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB170SC0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T09:20:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF170KK0X10C26A3000000/">
+    <title>兵庫県副知事に農林水産部長と企画部長　2人体制に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF170KK0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T09:13:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC170LY0X10C26A3000000/">
+    <title>世界カーリング女子、日本代表が初黒星　3勝1敗</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC170LY0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T09:09:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL170D00X10C26A3000000/">
+    <title>日経平均、反発で始まる　上げ幅500円、原油高一服と米株高で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL170D00X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-17T09:09:21+09:00</dc:date>
+  </item>
+</rdf:RDF>
