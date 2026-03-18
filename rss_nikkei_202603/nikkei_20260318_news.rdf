@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-03-18T10:11:05+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC17B4L0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB180MD0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB150IE0V10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC16AEF0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF127UE0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD1254U0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF1649X0W6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL180HR0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC180X10Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF180ED0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC17BN00X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB180UY0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL180D00Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA180LN0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL180CT0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC174QW0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL180A20Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL180EA0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL180FN0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC180EY0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB180F90Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB180FW0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1805M0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC180B60Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL178KT0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL17BZQ0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL180380Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL17B810X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1802O0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1804X0Y6A310C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC17B4L0X10C26A3000000/">
+    <title>川崎重工、ベア1万6000円　4年連続の満額回答</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC17B4L0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T10:06:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB180MD0Y6A310C2000000/">
+    <title>日経平均株価、一時1000円超高　原油調達不安が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB180MD0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T10:05:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB150IE0V10C26A3000000/">
+    <title>家計の金融資産5.3%増の2351兆円、株高で過去最高　25年12月末</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB150IE0V10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T10:05:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC16AEF0W6A310C2000000/">
+    <title>春季労使交渉、賃上げ率焦点に　集中回答日ドキュメント</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC16AEF0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T10:03:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF127UE0S6A310C2000000/">
+    <title>アシックス「作業靴」が好調、海外展開も　競技用の技術で疲れにくく</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF127UE0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD1254U0S6A310C2000000/">
+    <title>ホルムズ海峡封鎖が覆す中東の「常識」　砂上の繁栄に逆回転の危険</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD1254U0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF1649X0W6A210C2000000/">
+    <title>｢競業しない｣と誓った部長、退職後も継続　違約金2000万円は高いか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF1649X0W6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL180HR0Y6A310C2000000/">
+    <title>商品9時30分　原油、続落　需給不安の緩和で　金は反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL180HR0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:57:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC180X10Y6A310C2000000/">
+    <title>三菱電機、車部品子会社の持ち分譲渡「検証している」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC180X10Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:55:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF180ED0Y6A310C2000000/">
+    <title>USJ、「任天堂エリア」開業5周年で特別イベント　限定パレードも</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF180ED0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:55:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC17BN00X10C26A3000000/">
+    <title>中華AIのKimi、米国製に対抗心　「オープンモデルは最先端に迫る」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC17BN00X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:51:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB180UY0Y6A310C2000000/">
+    <title>ドバイ原油・18日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB180UY0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:23:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL180D00Y6A310C2000000/">
+    <title>東証寄り付き　日経平均は反発　原油の供給不安後退、900円高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL180D00Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:23:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA180LN0Y6A310C2000000/">
+    <title>2月の貿易黒字572億円　対米輸出は3カ月連続マイナス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA180LN0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:17:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL180CT0Y6A310C2000000/">
+    <title>日経平均、反発で始まる　原油の供給不安が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL180CT0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:07:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC174QW0X10C26A3000000/">
+    <title>高知銀行、「こうぎん久万川橋プラザ」の日曜営業休止　平日昼休み導入も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC174QW0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL180A20Y6A310C2000000/">
+    <title>債券寄り付き　先物、続伸　原油の供給懸念後退　米金利低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL180A20Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T08:59:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL180EA0Y6A310C2000000/">
+    <title>日経平均先物、反発し5万4170円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL180EA0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T08:51:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL180FN0Y6A310C2000000/">
+    <title>外為8時30分　円相場、上昇し158円台後半　対ユーロは安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL180FN0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T08:42:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC180EY0Y6A310C2000000/">
+    <title>サッカー欧州CL、守田英正は後半途中まで　スポルティング8強入り</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC180EY0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T08:21:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB180F90Y6A310C2000000/">
+    <title>イラン南部ブシェール原発に「攻撃」と報道　放射性物質の被害なし</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB180F90Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T08:18:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB180FW0Y6A310C2000000/">
+    <title>インドネシア、5月にガザへ500人派遣か　イスラエル紙報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB180FW0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T08:16:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1805M0Y6A310C2000000/">
+    <title>米IBM、1.7兆円でデータ処理のコンフルエント買収完了　AIに技術活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1805M0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T07:56:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC180B60Y6A310C2000000/">
+    <title>バスケ女子、日本がW杯出場へ　5大会連続</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC180B60Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T07:54:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL178KT0X10C26A3000000/">
+    <title>今日の株価材料（新聞など、18日）レアアース・銅、日米共同開発　三菱マ・三井物参加</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL178KT0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T07:34:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL17BZQ0X10C26A3000000/">
+    <title>NY株ハイライト　波乱の3月、半導体株がソフト株に劣後　中東緊迫が影</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL17BZQ0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T07:34:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL180380Y6A310C2000000/">
+    <title>日経平均株価、米株高と原油供給不安の後退が支え（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL180380Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T07:23:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL17B810X10C26A3000000/">
+    <title>NY円相場、小幅に続伸　1ドル=158円95銭〜159円05銭　日米中銀の会合控え様子見</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL17B810X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T07:02:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1802O0Y6A310C2000000/">
+    <title>シカゴ日本株先物概況・17日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1802O0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T07:01:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1804X0Y6A310C2000000/">
+    <title>トランプ氏、対キューバで「近く行動」　政治変革を要求</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1804X0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-18T06:23:54+09:00</dc:date>
+  </item>
+</rdf:RDF>
