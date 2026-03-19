@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-03-19T11:14:29+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB190HY0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04CGR0U6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCA055010V00C25A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB251LP0V20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1912E0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190KB0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1917S0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190L50Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190PH0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1918L0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL191DA0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1916E0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1904G0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL175I6TX10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190L20Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190FN0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190KY0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB190Z80Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190FP0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB060YP0W6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190220Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190FT0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190GX0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190JG0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1904T0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL185YY0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL18C630Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN18CEN0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL18BVH0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1902V0Z10C26A3000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB190HY0Z10C26A3000000/">
+    <title>日経平均一時1600円超安　米株安受け、原油高も重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB190HY0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T11:04:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04CGR0U6A300C2000000/">
+    <title>ブラジル株が海外マネー吸引、流入額はや前年超え　中東有事で再評価も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04CGR0U6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCA055010V00C25A3000000/">
+    <title>為替はどうして動く　｢ハワイ旅行いくら？｣から読み解く</title>
+    <link>https://www.nikkei.com/article/DGXZQOCA055010V00C25A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB251LP0V20C26A2000000/">
+    <title>四大監査法人、大型IPOにシフト　社数シェアは過去最低の45%</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB251LP0V20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1912E0Z10C26A3000000/">
+    <title>TOAの株価続伸、26年3月期純利益を上方修正　配当予想も上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1912E0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:59:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190KB0Z10C26A3000000/">
+    <title>三菱UFJFG株価反落、原油高で景気悪化懸念　長期金利上昇は支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190KB0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:52:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1917S0Z10C26A3000000/">
+    <title>上海株寄り付き　反落で始まる　非鉄と半導体が安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1917S0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:41:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190L50Z10C26A3000000/">
+    <title>岡野バルブ製造の株価が続伸　きょう日米首脳会談、対米投融資で思惑</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190L50Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:41:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190PH0Z10C26A3000000/">
+    <title>香港株寄り付き　反落、米株安で心理悪化　テンセントなど安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190PH0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:39:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1918L0Z10C26A3000000/">
+    <title>片山財務相、為替変動「しっかり構える」　1ドル=159円台後半</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1918L0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:37:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL191DA0Z10C26A3000000/">
+    <title>人民元基準値、対米ドルで6.8975元　前日比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL191DA0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:37:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1916E0Z10C26A3000000/">
+    <title>外為10時　円相場、159円台後半で軟調　財務相発言は支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1916E0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:34:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1904G0Z10C26A3000000/">
+    <title>円、再び160円接近　FRBと金が高めた「有事のドル」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1904G0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:28:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL175I6TX10C26A3000000/">
+    <title>アジアの利下げサイクル、原油高が導く終息　成長維持には難題</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL175I6TX10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:26:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190L20Z10C26A3000000/">
+    <title>キオクシアの株価が反落　米ベインキャピタルが一部売却</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190L20Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:21:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190FN0Z10C26A3000000/">
+    <title>東証10時　日経平均は下げ幅拡大　1600円安　先物主導の売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190FN0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T10:19:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190KY0Z10C26A3000000/">
+    <title>商品9時30分　原油、大幅反発　6000円超高　NY原油再び100ドル超えで</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190KY0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T09:48:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB190Z80Z10C26A3000000/">
+    <title>ドバイ原油・19日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB190Z80Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T09:34:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190FP0Z10C26A3000000/">
+    <title>東証寄り付き　日経平均は反落　下げ幅一時1500円強　米利下げ観測後退や原油高で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190FP0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T09:22:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB060YP0W6A300C2000000/">
+    <title>「遠くの戦争は買い」今回は通じず　原油100ドル超で株安加速</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB060YP0W6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T09:18:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190220Z10C26A3000000/">
+    <title>債券寄り付き　先物、反落　原油価格の騰勢を警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190220Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T09:09:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190FT0Z10C26A3000000/">
+    <title>日経平均、反落で始まる　原油高止まりに警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190FT0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T09:07:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190GX0Z10C26A3000000/">
+    <title>外為8時30分　円相場、大幅安　159円台後半　原油高の再燃で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190GX0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T08:59:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190JG0Z10C26A3000000/">
+    <title>日経平均先物、反落し5万3540円で始まる　1370円安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190JG0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T08:53:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1904T0Z10C26A3000000/">
+    <title>日経平均、FOMC・原油高受けた米株安が重荷に（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1904T0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T07:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL185YY0Y6A310C2000000/">
+    <title>今日の株価材料（新聞など、19日）JFE、福山製鉄所の火力発電一部停止へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL185YY0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T07:20:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL18C630Y6A310C2000000/">
+    <title>NY株ハイライト　「不確実性」広げたFRB議長、楽観的な株持ち高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL18C630Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T07:18:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN18CEN0Y6A310C2000000/">
+    <title>米市場関係者、関税と原油高の物価圧力下がれば「年後半に利下げ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN18CEN0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T07:07:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL18BVH0Y6A310C2000000/">
+    <title>NY円相場、反落　1ドル=159円85〜95銭　一時1年8カ月ぶり安値　FOMC受けドル買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL18BVH0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T06:46:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1902V0Z10C26A3000000/">
+    <title>シカゴ日本株先物概況・18日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1902V0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-19T06:33:25+09:00</dc:date>
+  </item>
+</rdf:RDF>
