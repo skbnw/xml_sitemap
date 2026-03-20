@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-03-20T11:12:02+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQSK2IKKC1_Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF13AX10T10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2641Y0W6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC200CO0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA200HR0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB200GV0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC200BS0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD165CO0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZTS00021101Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2009E0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2004U0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2004T0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD200FY0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD200ET0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2007P0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD200ED0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC188UP0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2009U0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2005D0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2005Q0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2005Y0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2005H0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19CD10Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL19C290Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN191OL0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19BYZ0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR19BL00Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL19CGB0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL19C250Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN19BXG0Z10C26A3000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQSK2IKKC1_Q6A320C2000000/">
+    <title>滋賀学園　5-4　長崎西　高校野球</title>
+    <link>https://www.nikkei.com/article/DGXZQSK2IKKC1_Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T11:10:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF13AX10T10C26A2000000/">
+    <title>都市が変える動物の体と心　リスは大きく歯が退化、トカゲは社交的に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF13AX10T10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2641Y0W6A220C2000000/">
+    <title>「3月12日を始める時だ」　震災語り継いできた元女将、15年目の決意</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2641Y0W6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC200CO0Q6A320C2000000/">
+    <title>JR九州4%賃上げ　4年連続ベア、夏季手当は2.9カ月分</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC200CO0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:47:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA200HR0Q6A320C2000000/">
+    <title>陸自高等工科学校の卒業生に訓示　小泉防衛相「技術駆使し活躍を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA200HR0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB200GV0Q6A320C2000000/">
+    <title>IEA、石油備蓄で国別の放出量を公表　日米で全体の6割</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB200GV0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:12:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC200BS0Q6A320C2000000/">
+    <title>久常涼・平田憲聖が47位、金谷拓実は出遅れ81位　米男子ゴルフ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC200BS0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:00:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD165CO0W6A310C2000000/">
+    <title>政府の「失敗」か「不作為」か　高市首相の戦略投資はやり方次第</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD165CO0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZTS00021101Y6A310C2000000/">
+    <title>再雇用職員が内部告発、直後に異動命令　年下上司と面談11時間の異様</title>
+    <link>https://www.nikkei.com/article/DGXZTS00021101Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2009E0Q6A320C2000000/">
+    <title>首相、日朝会談の意欲トランプ氏に伝達　拉致解決「全面的支持得た」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2009E0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2004U0Q6A320C2000000/">
+    <title>日米両政府、レアアースなど重要鉱物の共同プロジェクト合意を発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2004U0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2004T0Q6A320C2000000/">
+    <title>高市早苗首相、トランプ大統領へ桜の苗木　1年で250本植樹</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2004T0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD200FY0Q6A320C2000000/">
+    <title>転覆船運航団体を海保が家宅捜索　業過致死傷の疑い、辺野古</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD200FY0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T09:59:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD200ET0Q6A320C2000000/">
+    <title>地下鉄サリン31年で黙とう　東京・霞ケ関駅</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD200ET0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T09:46:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2007P0Q6A320C2000000/">
+    <title>日米首脳会談、高市首相とトランプ大統領の冒頭発言要旨</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2007P0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T09:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD200ED0Q6A320C2000000/">
+    <title>新名神の三重のトンネルで多重事故、5人死亡　トラックの運転手逮捕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD200ED0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T09:40:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC188UP0Y6A310C2000000/">
+    <title>大分ハーモニーランド、開園35周年で22キャラ集合　4月26日に式典</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC188UP0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2009U0Q6A320C2000000/">
+    <title>鎌田大地、決勝点アシストで8強　サッカー欧州カンファレンスリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2009U0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T08:55:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2005D0Q6A320C2000000/">
+    <title>鈴木唯人がゴール、フライブルク逆転8強に貢献　サッカー欧州リーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2005D0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T08:45:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2005Q0Q6A320C2000000/">
+    <title>岡本和真、中越え二塁打含む2安打　大リーグオープン戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2005Q0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T08:41:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2005Y0Q6A320C2000000/">
+    <title>ミラノ五輪銅の山田琉聖ら決勝Tへ　スノボHPスノーリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2005Y0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T08:35:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2005H0Q6A320C2000000/">
+    <title>サッカーW杯「日程通り開催を」　FIFA会長、イランには言及せず</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2005H0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T07:40:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19CD10Z10C26A3000000/">
+    <title>トランプ氏「日本ほど奇襲知る国ない」　真珠湾攻撃に言及、記者団に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19CD10Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T07:09:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL19C290Z10C26A3000000/">
+    <title>NY円相場、大幅反発　1ドル=157円65〜75銭　日銀会合受け買い優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL19C290Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T06:53:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN191OL0Z10C26A3000000/">
+    <title>対米投資第2弾、小型原子炉など3件で11兆円超　日米が合意</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN191OL0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T06:45:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19BYZ0Z10C26A3000000/">
+    <title>GMやトヨタなど日米車大手、トランプ政権に中国車規制を要請</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19BYZ0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T06:27:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR19BL00Z10C26A3000000/">
+    <title>トランプ氏、イスラエルにガス田攻撃「やるな」　部隊増派も否定</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR19BL00Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T06:19:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL19CGB0Z10C26A3000000/">
+    <title>日経平均先物、夜間取引で上昇　10円高の5万3000円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL19CGB0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T06:17:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL19C250Z10C26A3000000/">
+    <title>NY債券、長期債反発　10年債利回り4.25%　原油高の一服が支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL19C250Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T06:16:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN19BXG0Z10C26A3000000/">
+    <title>金・銀価格が再び急落　金利上昇・原油高・アジア株安、揺らぐ価値</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN19BXG0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-20T06:10:30+09:00</dc:date>
+  </item>
+</rdf:RDF>
