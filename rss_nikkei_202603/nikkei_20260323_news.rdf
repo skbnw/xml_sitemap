@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-03-23T11:11:37+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQSK2IKKC1_T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230VS0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230VA0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC188Z70Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC194X50Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC104IW0Q6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0524I0V00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC18A4H0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB230FF0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2311O0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230R10T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230F30T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230FG0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230YW0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2318C0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC173JF0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2312K0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160QZ0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2308N0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230M20T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2309H0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2310T0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230UY0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD18C2Z0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCA190HW0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230DC0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA230O20T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2308R0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230JW0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB230OI0T20C26A3000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQSK2IKKC1_T20C26A3000000/">
+    <title>東北　5-1　帝京長岡　高校野球</title>
+    <link>https://www.nikkei.com/article/DGXZQSK2IKKC1_T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T11:09:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230VS0T20C26A3000000/">
+    <title>フジ・メディアHDの株価が逆行高　村上世彰氏らが再び買い増し</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230VS0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T11:08:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230VA0T20C26A3000000/">
+    <title>日本テレビHDの株価堅調　広告収入増で26年3月期収益上方修正</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230VA0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T11:02:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC188Z70Y6A310C2000000/">
+    <title>AIメモリーのゲームチェンジ狙うサイメモリ　国策化も選択肢</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC188Z70Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC194X50Z10C26A3000000/">
+    <title>サイメモリ山口秀哉CEO「現行AIメモリーは30年ごろに限界」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC194X50Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC104IW0Q6A310C2000000/">
+    <title>パソナが健康経営支援サービス、3兆円市場に照準　人材業からシフト</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC104IW0Q6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0524I0V00C26A3000000/">
+    <title>三陸の海で生きる漁師、狙いはイルカからタコに　息子に借金残さない</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0524I0V00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC18A4H0Y6A310C2000000/">
+    <title>DNP、ARやVR活用の恐竜企画展　東京・新宿で福井県立大と</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC18A4H0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:55:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB230FF0T20C26A3000000/">
+    <title>日経平均株価、一時2600円超安　原油供給の停滞長期化を懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB230FF0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:51:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2311O0T20C26A3000000/">
+    <title>国内の金銀先物、サーキットブレーカー発動　中東情勢受け急落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2311O0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:50:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230R10T20C26A3000000/">
+    <title>香港株寄り付き　続落、ネット大手にリスク回避の売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230R10T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:47:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230F30T20C26A3000000/">
+    <title>三菱UFJFG株価が大幅続落　金利上昇もインフレによる景気懸念優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230F30T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:44:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230FG0T20C26A3000000/">
+    <title>ソフトバンクG株価、最高値から半値割れ　米AI投資「好材料視されず」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230FG0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:42:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230YW0T20C26A3000000/">
+    <title>上海株寄り付き　続落で始まる、リスク回避の売り先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230YW0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:41:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2318C0T20C26A3000000/">
+    <title>河村勇輝は25得点　NBA下部Gリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2318C0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:41:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC173JF0X10C26A3000000/">
+    <title>AI議事録のRimo、会議内容基に業務遂行　発注書やサイト作成も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC173JF0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:41:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2312K0T20C26A3000000/">
+    <title>大谷翔平、開幕5戦目に先発へ　佐々木朗希は4戦目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2312K0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:41:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160QZ0W6A310C2000000/">
+    <title>「ソフト株安、AI試練も過剰に悲観的」SMBC日興の業界担当菊池氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160QZ0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:40:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2308N0T20C26A3000000/">
+    <title>北朝鮮、金正恩氏を最高指導者に再任　指導部は世代交代</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2308N0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:36:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230M20T20C26A3000000/">
+    <title>KADOKAWAの株価逆行高　一時8%上昇、オアシス保有で思惑</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230M20T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:36:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2309H0T20C26A3000000/">
+    <title>外為10時　円相場、下げに転じる　159円台半ば　実需の売り観測で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2309H0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:30:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2310T0T20C26A3000000/">
+    <title>人民元基準値、対米ドルで6.9041元　前週末比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2310T0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:29:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230UY0T20C26A3000000/">
+    <title>東証10時　日経平均は2600円安　リスク回避の売り強まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230UY0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:12:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD18C2Z0Y6A310C2000000/">
+    <title>AI時代の人事は心理戦　透明な評価と心情への肉薄が経営力に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD18C2Z0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCA190HW0Z10C26A3000000/">
+    <title>秋田杉「エリート」増産、林業復興めざす　成長1.5倍で花粉少なく</title>
+    <link>https://www.nikkei.com/article/DGXZQOCA190HW0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230DC0T20C26A3000000/">
+    <title>商品9時30分　原油反落、利益確定の売り先行　金は大幅続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230DC0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T09:52:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA230O20T20C26A3000000/">
+    <title>三村財務官「あらゆる方面で万全の対応」　円安進行受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA230O20T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T09:51:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2308R0T20C26A3000000/">
+    <title>世界カーリング女子、日本4位　3位決定戦でスウェーデンに敗れる</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2308R0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T09:30:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230JW0T20C26A3000000/">
+    <title>東証寄り付き　日経平均は2100円安　米利下げ観測後退、中東情勢警戒で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230JW0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T09:28:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB230OI0T20C26A3000000/">
+    <title>ドバイ原油・23日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB230OI0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-23T09:20:02+09:00</dc:date>
+  </item>
+</rdf:RDF>
