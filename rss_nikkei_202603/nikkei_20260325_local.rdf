@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-03-25T11:15:37+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF232J20T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD272D60X20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC27AID0X20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD141KJ0U6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2420F0U6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC19BHW0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC169FE0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1881J0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH166TN0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC106A90Q6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC135VL0T10C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD125PA0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD1841R0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF183WF0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF202WP0Q6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC212QF0R20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC212JR0R20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC212GS0R20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC171RR0X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD111OW0R10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF1313O0T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH231090T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC220OK0S6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1184W0R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC190YQ0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC178560X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD097RN0Z00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC106SF0Q6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC182BA0Y6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC1922V0Z10C26A3000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF232J20T20C26A3000000/">
+    <title>万博の「温度差」に学ぶ　大阪から横浜へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF232J20T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD272D60X20C26A2000000/">
+    <title>大槌町の被災旅館に戻らぬ客足、遠い復興　女将「再開に悔いはない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD272D60X20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC27AID0X20C26A2000000/">
+    <title>北海電工社長「関東でM&amp;A検討」　人材確保へ新研修施設建設も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC27AID0X20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T10:35:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD141KJ0U6A310C2000000/">
+    <title>ゾルゲは日本中枢に食い入った　「20世紀最大のスパイ」が落とした影</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD141KJ0U6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2420F0U6A320C2000000/">
+    <title>新潟交通、入船営業所の窓口営業時間を短縮　平日午後1〜4時のみ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2420F0U6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC19BHW0Z10C26A3000000/">
+    <title>北海道新幹線、途中駅は乗客1日20人　延伸遅れ逆手に誘客に奔走</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC19BHW0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC169FE0W6A310C2000000/">
+    <title>「完璧」なチョコ作る　前橋の小林愛花さん、こだわりを会員に届ける</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC169FE0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1881J0Y6A210C2000000/">
+    <title>宇都宮市、AI新興の宇宙事業を支援　衛星データ使い防災・都市計画</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1881J0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH166TN0W6A310C2000000/">
+    <title>朝花美穂、大阪で歌芝居公演　曲の主人公のように情念こめた歌唱</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH166TN0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC106A90Q6A310C2000000/">
+    <title>首都圏の自治体「AI窓口」広がる　電話や庁舎、人手不足で業務軽減</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC106A90Q6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC135VL0T10C26A1000000/">
+    <title>人手不足の自治体、不要業務は勇気持って廃止を　早大・稲継教授</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC135VL0T10C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD125PA0S6A310C2000000/">
+    <title>「ジェンダー視点で全員挑戦する社会」女性起業へキーパーソンに聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD125PA0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD1841R0Y6A310C2000000/">
+    <title>トヨタ生産支える「チームサラマッポ」　人手不足補う気鋭の外国人部隊</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD1841R0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF183WF0Y6A310C2000000/">
+    <title>住友ゴムが米国にマーケティング拠点　4月開設、新技術の事業化担う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF183WF0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF202WP0Q6A120C2000000/">
+    <title>エレコム葉田会長「防災通信の更新需要つかむ」　日本アンテナ買収</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF202WP0Q6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC212QF0R20C26A3000000/">
+    <title>長野県、宿泊税収入を「宿集積地」に集中投資　周遊・滞在の拠点に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC212QF0R20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC212JR0R20C26A3000000/">
+    <title>山口県の西京銀行、ポイント還元20〜30%の独自ペイ　預金獲得へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC212JR0R20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC212GS0R20C26A3000000/">
+    <title>西京銀行「口座利便性で日本一」へ、スマホ決済導入　金利競争とは距離</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC212GS0R20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC171RR0X10C26A3000000/">
+    <title>越後味噌の魅力を発信、ネルニードの遠藤社長　地元飲食店巻き込む</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC171RR0X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD111OW0R10C26A2000000/">
+    <title>トヨタ、相場急騰下の豊田織機非公開化　株式持ち合いが足かせに</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD111OW0R10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF1313O0T10C26A3000000/">
+    <title>脱炭素の低利融資「SLL」、大阪府が認証代行　中小企業の利用後押し</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF1313O0T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH231090T20C26A3000000/">
+    <title>神戸の室内オケ存続問題、議論不十分の指摘　「結論ありき」批判も</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH231090T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC220OK0S6A320C2000000/">
+    <title>能登の自給自足「現代集落」、ドコモなど参加へ　過疎対策の集積地に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC220OK0S6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1184W0R10C26A3000000/">
+    <title>フクビ森社長「新築住宅減で汎用建材の競争激化」、海外製造でコスト減</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1184W0R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC190YQ0Z10C26A3000000/">
+    <title>北海道電力、もろ刃のラピダス効果　2.4兆円投資が財務リスクに</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC190YQ0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC178560X10C26A3000000/">
+    <title>ウクライナ避難民、横浜に交流の場　日本語習得や友達づくり支える</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC178560X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD097RN0Z00C26A3000000/">
+    <title>名キャンパス探訪（3）同志社大学 今出川キャンパス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD097RN0Z00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC106SF0Q6A210C2000000/">
+    <title>ライフデザイン・カバヤ、ベトナムで木造住宅　現地企業と富裕層開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC106SF0Q6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC182BA0Y6A210C2000000/">
+    <title>東京のごみ削減、多摩地域で先行　「有料化」20年かけ全市に普及</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC182BA0Y6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC1922V0Z10C26A3000000/">
+    <title>住友精密系、航空機脚部の修理能力2.5倍に　官民需要増で工場拡張</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC1922V0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-25T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
