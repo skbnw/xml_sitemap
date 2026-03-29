@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-03-29T11:16:00+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH282H90Y6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA249GI0U6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB274N40X20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG024JL0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA282KO0Y6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF221YP0S6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFK211ET0R20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB290DV0Z20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB290DY0Z20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290BX0Z20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD290C30Z20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2909H0Z20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2909A0Z20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290570Z20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD186F40Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2902X0Z20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC282RP0Y6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH280A40Y6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC230310T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR26C4C0W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC269GW0W6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD259CA0V20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG168EO0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB267M10W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC266UL0W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC185ES0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH243OQ0U6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA232WP0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB141IO0U6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC281FW0Y6A320C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH282H90Y6A320C2000000/">
+    <title>サッカー日本代表、スコットランドに1-0　超攻撃的布陣で決勝点</title>
+    <link>https://www.nikkei.com/article/DGXZQODH282H90Y6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T11:05:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA249GI0U6A320C2000000/">
+    <title>安保上重要な土地取得、国籍不問で規制へ　政府検討「許認可制」視野</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA249GI0U6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB274N40X20C26A3000000/">
+    <title>円安スタグフレーション　原油より怖い高市政権の積極財政</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB274N40X20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG024JL0S6A200C2000000/">
+    <title>数学はもうかる　AI時代の人材争奪戦、米国で平均年収2400万円</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG024JL0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA282KO0Y6A320C2000000/">
+    <title>国民民主党、地方議員「統一選で倍増」　2026年度の活動方針原案</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA282KO0Y6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF221YP0S6A320C2000000/">
+    <title>集団移転は限界集落を生んだか　女川町でカキとホヤ食べ考えたこと</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF221YP0S6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFK211ET0R20C26A3000000/">
+    <title>70年代石油危機の教訓　中東依存のツケ露呈、インフレ・円安抑止を</title>
+    <link>https://www.nikkei.com/article/DGXZQOFK211ET0R20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB290DV0Z20C26A3000000/">
+    <title>「船20隻のホルムズ海峡通航、イランが許可」　パキスタン外相</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB290DV0Z20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:55:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB290DY0Z20C26A3000000/">
+    <title>沖縄駐留の米海兵隊2500人が中東到着　佐世保配備の艦艇などで</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB290DY0Z20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:54:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290BX0Z20C26A3000000/">
+    <title>村上宗隆、2戦連続ホームラン　岡本和真は1安打</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290BX0Z20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:22:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD290C30Z20C26A3000000/">
+    <title>中国大使館侵入疑い、陸自3尉所属の駐屯地を捜索　警視庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD290C30Z20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:14:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2909H0Z20C26A3000000/">
+    <title>金谷拓実、34位に後退　米男子ゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2909H0Z20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:12:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2909A0Z20C26A3000000/">
+    <title>ドジャース、日本勢3戦連続先発へ　佐々木朗希・大谷翔平・山本由伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2909A0Z20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:10:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290570Z20C26A3000000/">
+    <title>ドバイ・ワールドカップ、フォーエバーヤングは2着　海外GⅠ連勝ならず</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290570Z20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:10:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD186F40Y6A310C2000000/">
+    <title>イラン・カーグ島制圧を阻む地理　米軍の長期占領は困難</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD186F40Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2902X0Z20C26A3000000/">
+    <title>出版業界団体、生成AI使用の指針作成へ　作家との契約書にも明記</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2902X0Z20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC282RP0Y6A320C2000000/">
+    <title>ジャンプW杯女子、丸山希3位　今季19度目の表彰台</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC282RP0Y6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T09:04:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH280A40Y6A320C2000000/">
+    <title>29日の有力馬　高松宮記念など競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH280A40Y6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC230310T20C26A3000000/">
+    <title>「プリ機」にもサイバー防衛　最大手フリュー、NTT系と連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC230310T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR26C4C0W6A320C2000000/">
+    <title>ウクライナの防空網、迎撃ミサイル不足の懸念　イラン軍事衝突が波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR26C4C0W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC269GW0W6A220C2000000/">
+    <title>宮崎オープンシティ推進協議会・米良理事長　ビジネス交流で地域活性化</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC269GW0W6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD259CA0V20C26A2000000/">
+    <title>「商談1日3件」鍛えた営業、カズを呼ぶ力に　スポーツで地域を育む</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD259CA0V20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG168EO0W6A310C2000000/">
+    <title>ウナギの増減、日欧で見解が真っ二つ　科学的根拠乏しく規制は否決</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG168EO0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB267M10W6A320C2000000/">
+    <title>F1日本GP開催50年　ドメニカリCEO「日本は常に戦略の一部」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB267M10W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC266UL0W6A320C2000000/">
+    <title>川崎・武蔵小杉「コスパ」で急伸　渋谷まで15分、子育て層を吸引</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC266UL0W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC185ES0Y6A310C2000000/">
+    <title>静岡缶詰メーカー、円安下で再び海外市場へ　宇宙食など新用途も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC185ES0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH243OQ0U6A320C2000000/">
+    <title>トレイルランニングの季節、景色楽しみストレスから解放（鏑木毅）</title>
+    <link>https://www.nikkei.com/article/DGXZQODH243OQ0U6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA232WP0T20C26A3000000/">
+    <title>中東緊迫でエネ庁に「危機管理報道官」　前例なき対応、にじむ切迫感</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA232WP0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB141IO0U6A310C2000000/">
+    <title>苦境の日本車、稼ぎ頭は金融事業　FRB新議長の利下げ路線は追い風か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB141IO0U6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC281FW0Y6A320C2000000/">
+    <title>レアアース、世界111社の関連銘柄の決定版や中国対抗の革新技術</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC281FW0Y6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-29T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
