@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/ynnews/economics.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fynnews%2Feconomics.rdf">
+    <title>47NEWS 全国 経済</title>
+    <link>https://www.47news.jp/news/economics</link>
+    <description>47NEWS 全国の経済に関するフィードをお届けします。</description>
+    <dc:date>2026-03-30T15:16:40+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/14073948.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14073646.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14076403.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14075916.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14075915.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14075784.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14073932.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14075152.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14075142.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14075086.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14073912.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14074951.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14074842.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14074622.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14074618.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14074613.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14074611.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14074466.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14073986.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14074176.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14073932.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14050121.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14056309.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14073646.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14073948.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/nayami_sodan"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/university-future"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/14073948.html">
+    <title>東京株式　30日15時　　　　</title>
+    <link>https://www.47news.jp/14073948.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14073646.html">
+    <title>為替相場　　30日（日本時間15時）</title>
+    <link>https://www.47news.jp/14073646.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14076403.html">
+    <title>島津製作所、ミュージアム建設　京都に29年夏、科学と社会結ぶ</title>
+    <link>https://www.47news.jp/14076403.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14075916.html">
+    <title>トヨタの2月世界生産3.9％減　中国や日本で落ち込み</title>
+    <link>https://www.47news.jp/14075916.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14075915.html">
+    <title>【速報】トヨタ2月世界生産3.9％減</title>
+    <link>https://www.47news.jp/14075915.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14075784.html">
+    <title>メディカルバイオニクス（人工臓器）市場に関する調査を実施（2025年）～2024年度のメディカルバイオニクス（人工臓器）市場規模は前年度比2.5％増の6,926億8,300万円、全般的に症例数は回復しているなか、海外製品を中心とした生産や輸送遅延等による供給問題により引き続き影響を受け、生産コスト増による製品値上げを実施～</title>
+    <link>https://www.47news.jp/14075784.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14073932.html">
+    <title>東証、一時2800円下落　為替債券も「トリプル安」</title>
+    <link>https://www.47news.jp/14073932.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14075152.html">
+    <title>税務書類で中小企業支援サービス　NTTデータ、分析し経営助言</title>
+    <link>https://www.47news.jp/14075152.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14075142.html">
+    <title>利上げ遅れのリスク指摘　長期金利加速、日銀総裁</title>
+    <link>https://www.47news.jp/14075142.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14075086.html">
+    <title>【速報】東証、午前終値2436円安</title>
+    <link>https://www.47news.jp/14075086.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14073912.html">
+    <title>WTO越境データ関税禁止が失効　閣僚会議、合意なく閉幕</title>
+    <link>https://www.47news.jp/14073912.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14074951.html">
+    <title>【速報】NTTデータ、財務書類通じ中小経営を助言</title>
+    <link>https://www.47news.jp/14074951.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14074842.html">
+    <title>NY原油、一時103ドル台　中東情勢緊迫続き</title>
+    <link>https://www.47news.jp/14074842.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14074622.html">
+    <title>【速報】WTO、越境データ関税禁止延長合意できず</title>
+    <link>https://www.47news.jp/14074622.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14074618.html">
+    <title>【速報】WTO改革完了へ期限設定と事務局長</title>
+    <link>https://www.47news.jp/14074618.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14074613.html">
+    <title>【速報】NY原油上昇、一時103ドル台</title>
+    <link>https://www.47news.jp/14074613.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14074611.html">
+    <title>【速報】WTO、組織改革巡り正式合意至らず</title>
+    <link>https://www.47news.jp/14074611.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14074466.html">
+    <title>東京円、159円台後半</title>
+    <link>https://www.47news.jp/14074466.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14073986.html">
+    <title>原油高「金融引き締めも」　日銀、3月会合の主な意見</title>
+    <link>https://www.47news.jp/14073986.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14074176.html">
+    <title>長期金利上昇2.390％　追加利上げの思惑広がる</title>
+    <link>https://www.47news.jp/14074176.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14073932.html">
+    <title>東証、一時2800円下落　為替債券も「トリプル安」</title>
+    <link>https://www.47news.jp/14073932.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14050121.html">
+    <title>飲食店運営の白鳥商店と関係会社、破産手続き開始　負債総額2社合計6億円</title>
+    <link>https://www.47news.jp/14050121.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14056309.html">
+    <title>足利のスーパー経営会社に破産開始決定　群馬県でスーパー経営</title>
+    <link>https://www.47news.jp/14056309.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14073646.html">
+    <title>為替相場　　30日（日本時間13時）</title>
+    <link>https://www.47news.jp/14073646.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14073948.html">
+    <title>東京株式　30日14時　　　　</title>
+    <link>https://www.47news.jp/14073948.html</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/nayami_sodan">
+    <title>もしも自分や身近な人が悩みを抱えたら？知っておきたい、「相談」の大切さ</title>
+    <link>https://www.47news.jp/special/nayami_sodan</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/university-future">
+    <title>大学特集〜大学教育の未来を探る〜</title>
+    <link>https://www.47news.jp/special/university-future</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-03-30T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
