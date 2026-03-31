@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-03-31T10:12:37+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF305C20Q6A330C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC273EC0X20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC26C0O0W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC05BLH0V00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC169IE0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF198O00Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2582A0V20C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC266XR0W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC306S40Q6A130C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD266H30W6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD2358P0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH254BM0V20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC093XD0Z00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC203AP0Q6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2637J0W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF183680Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF022VB0S6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC232SH0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC242P50U6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC222CK0S6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF042A70U6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC201QC0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC201DL0Q6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC0812K0Y6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA300WA0Q6A330C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC090UB0Z00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC234QQ0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM12B8S0S6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG182X90Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC282CQ0Y6A320C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF305C20Q6A330C2000000/">
+    <title>ニデック不正会計、個人株主が提訴請求　永守氏らの責任追及</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF305C20Q6A330C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T09:27:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC273EC0X20C26A3000000/">
+    <title>ハイマックス、月額給与水準引き上げ　全社平均8.5%アップ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC273EC0X20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC26C0O0W6A320C2000000/">
+    <title>セーレン、超小型人工衛星で宇宙事業拡大　スタートアップの技術活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC26C0O0W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC05BLH0V00C26A3000000/">
+    <title>カプセルトイの｢専門商社｣で急成長　茨城のクリエイション･コム</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC05BLH0V00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC169IE0W6A310C2000000/">
+    <title>群馬のスーパー「ベイシア」、国道16号の壁攻略　東京圏に本格出店</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC169IE0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF198O00Z10C26A2000000/">
+    <title>パナソニックHD、課長･係長100人を立候補で刷新　若手リーダー登用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF198O00Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2582A0V20C26A2000000/">
+    <title>象印、レンジの売上高倍増　市川典男社長「炊飯器だけに頼らない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2582A0V20C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC266XR0W6A320C2000000/">
+    <title>横浜・山手､「憧れの街」の進む道は　成熟か停滞か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC266XR0W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC306S40Q6A130C2000000/">
+    <title>ワコール、中国で追う「ゴーストベンダー」　見えぬ詐欺集団の全貌</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC306S40Q6A130C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD266H30W6A220C2000000/">
+    <title>復調エンジン市場の競争優位は　愛三工業社長「適合技術伸ばす」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD266H30W6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD2358P0T20C26A3000000/">
+    <title>名鉄名古屋駅、訪日客に届け「DJブース」　構内放送を文字起こし翻訳</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD2358P0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH254BM0V20C26A3000000/">
+    <title>文楽人形遣い・吉田玉男が4月公演で白太夫　「年相応にやりたい」</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH254BM0V20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC093XD0Z00C26A3000000/">
+    <title>自社開発のボードゲーム、海外市場に挑む　富山のEngames</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC093XD0Z00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC203AP0Q6A220C2000000/">
+    <title>イラストレーターの山本えり奈さん　北海道十勝の魅力をデザイン</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC203AP0Q6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2637J0W6A320C2000000/">
+    <title>酒造りに働き方改革、創業以来の「泊まり番」廃止　新潟・麒麟山酒造</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2637J0W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF183680Y6A310C2000000/">
+    <title>ソフト99、創業家･田中前社長が取締役辞任　エフィッシモの保有6割弱</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF183680Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF022VB0S6A300C2000000/">
+    <title>シャープがゲート無し駐車場システム　低費用売りに累計納入1万件へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF022VB0S6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC232SH0T20C26A3000000/">
+    <title>四国で最も古い司牡丹酒造　土佐の酒を守り、新たな味にも挑む</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC232SH0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC242P50U6A320C2000000/">
+    <title>「農耕型金融」提唱の山形大学教授が退職　4地域1000人超が共鳴</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC242P50U6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC222CK0S6A320C2000000/">
+    <title>静岡缶詰メーカー、多角化で収益安定へ　ツナ依存から脱却狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC222CK0S6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF042A70U6A300C2000000/">
+    <title>レンゴーがCO2国内排出1割減　LNGに燃料転換、27年度に石炭全廃</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF042A70U6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC201QC0Q6A320C2000000/">
+    <title>横浜特産のトマト、規格外野菜で釣り銭トレー　JAと共同開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC201QC0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC201DL0Q6A320C2000000/">
+    <title>東京･東村山の国立ハンセン病療養所　苦難の歴史、次世代に引き継ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC201DL0Q6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC0812K0Y6A300C2000000/">
+    <title>｢昼も眠らぬ街｣へすすきの変貌　札幌・ココノススキノが変える人流</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC0812K0Y6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA300WA0Q6A330C2000000/">
+    <title>自衛隊の｢反撃能力｣運用段階に　射程1000km級のミサイル初配備</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA300WA0Q6A330C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC090UB0Z00C26A3000000/">
+    <title>ウィーワーク、ホテルレストランをシェアオフィスに　沖縄で新事業</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC090UB0Z00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC234QQ0T20C26A3000000/">
+    <title>肥後銀行や徳島大正銀行、系統用蓄電池事業に参入　融資の知見積む</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC234QQ0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM12B8S0S6A310C2000000/">
+    <title>強いAI需要、目覚める半導体列島　TSMC首脳「熊本を基盤に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM12B8S0S6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG182X90Y6A310C2000000/">
+    <title>60年超の京大研究用原子炉、4月に運転終了　国内研究炉は3分の1に</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG182X90Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC282CQ0Y6A320C2000000/">
+    <title>AIがベテラン・若手の「潤滑油」に、山口の建設中堅　導入1年で効率化も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC282CQ0Y6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-03-31T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
