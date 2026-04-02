@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-04-02T11:12:41+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB021VY0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB199890Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2767X0X20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC245ZS0U5A221C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK304HG0Q6A330C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC281DJ0Y6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021PM0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021FB0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR020Y80S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021A60S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021DO0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020JE0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN01C7B0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB016QH0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN01CLC0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020UA0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0211K0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020PM0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021190S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020CS0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD317YF0R30C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC020SZ0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020L40S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN26CAA0W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB021120S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020X50S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020GO0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020UI0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2524JTV20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020GF0S6A400C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB021VY0S6A400C2000000/">
+    <title>原油価格急騰　トランプ氏演説受け停戦観測が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB021VY0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T11:04:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB199890Z10C26A3000000/">
+    <title>アジア―欧州直行便が高騰、イラン攻撃前の3倍も　中東ハブ空港まひで</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB199890Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2767X0X20C26A3000000/">
+    <title>ヒト型ロボ、苦肉の「中国生まれ日本育ち」　AI新興が礼節仕込む</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2767X0X20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC245ZS0U5A221C2000000/">
+    <title>フジテレビ、報道番組の外販を検討　中居氏問題が促した改革</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC245ZS0U5A221C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK304HG0Q6A330C2000000/">
+    <title>関税から戦争・原油途絶へ　複合危機に耐性強めよ</title>
+    <link>https://www.nikkei.com/article/DGXZQODK304HG0Q6A330C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC281DJ0Y6A320C2000000/">
+    <title>北海道・十勝で「リジェネラティブ農業」実証　土壌再生でコスト減狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC281DJ0Y6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021PM0S6A400C2000000/">
+    <title>NYダウ先物、一時319ドル安　トランプ大統領の演説で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021PM0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:59:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021FB0S6A400C2000000/">
+    <title>NY原油、一時104ドル台に上昇　トランプ氏演説で供給懸念再燃</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021FB0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:48:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR020Y80S6A400C2000000/">
+    <title>トランプ氏、イランに「圧倒的勝利」主張　2〜3週間攻撃継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR020Y80S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:47:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021A60S6A400C2000000/">
+    <title>香港株寄り付き　反落、連休前に持ち高調整　トランプ氏演説で戦闘の収束期待後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021A60S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:46:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021DO0S6A400C2000000/">
+    <title>上海株寄り付き　反落して始まる　半導体が安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021DO0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:45:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020JE0S6A400C2000000/">
+    <title>ソフトバンクG株価が続伸　米SOXやアーム株が上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020JE0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:43:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN01C7B0R00C26A4000000/">
+    <title>米自動車ショー、ガソリン急騰で「EVに再び関心」　全方位で勝負</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN01C7B0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:43:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB016QH0R00C26A4000000/">
+    <title>10年物国債の表面利率、29年ぶり2.4%　国内金利の上昇で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB016QH0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:39:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN01CLC0R00C26A4000000/">
+    <title>ナイキ株急落が映す、米消費減速の足音　業績回復に中東情勢の試練</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN01CLC0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:37:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020UA0S6A400C2000000/">
+    <title>アドバンテストの株価が反落　ユーロ建て転換社債、1000億円発行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020UA0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:37:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0211K0S6A400C2000000/">
+    <title>東証10時　日経平均、下げに転じる　一時400円安　トランプ氏の演説開始で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0211K0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:30:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020PM0S6A400C2000000/">
+    <title>中外製薬の株価一時3.8%高　肥満治療薬の承認「想定より早め」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020PM0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:29:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021190S6A400C2000000/">
+    <title>人民元基準値、対米ドルで6.8880元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021190S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:28:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020CS0S6A400C2000000/">
+    <title>外為10時　円相場、上値重い　中値「ドル買い優勢」　トランプ氏演説で159円台に下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020CS0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:27:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD317YF0R30C26A3000000/">
+    <title>トクリュウやサイバー捜査、国が司令塔　犯罪の高度・国際化に対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD317YF0R30C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:09:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC020SZ0S6A400C2000000/">
+    <title>キリンHD、「フォアローゼズ」米社に売却完了　譲渡益290億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC020SZ0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:07:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020L40S6A400C2000000/">
+    <title>商品9時30分　原油、小高い　トランプ氏演説前で取引慎重　金は続伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020L40S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:47:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN26CAA0W6A320C2000000/">
+    <title>NASA「アルテミス2」打ち上げ成功　有人で月を周回へ、半世紀ぶり</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN26CAA0W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:33:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB021120S6A400C2000000/">
+    <title>ドバイ原油・2日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB021120S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:32:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020X50S6A400C2000000/">
+    <title>カーリング男子世界選手権、日本は1次リーグ敗退</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020X50S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:30:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020GO0S6A400C2000000/">
+    <title>東証寄り付き　日経平均が続伸、一時500円高　米・イランの戦闘終結の期待感で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020GO0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:28:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020UI0S6A400C2000000/">
+    <title>大谷翔平、岡本和真と9日対戦へ　中7日でブルージェイズ戦に登板</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020UI0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:25:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2524JTV20C26A3000000/">
+    <title>流入続く債券ETF、高利回り債「再評価の流れ」　ブラックロック責任者</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2524JTV20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:18:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020GF0S6A400C2000000/">
+    <title>日経平均、続伸で始まる　米・イランの戦闘終結を期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020GF0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:11:06+09:00</dc:date>
+  </item>
+</rdf:RDF>

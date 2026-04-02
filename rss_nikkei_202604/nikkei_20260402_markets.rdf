@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-04-02T11:13:35+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB021VY0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021PM0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021FB0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021A60S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021DO0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020JE0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB016QH0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN01CLC0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020UA0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0211K0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020PM0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL021190S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020CS0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020L40S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB021120S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020GO0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2524JTV20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020GF0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020BG0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020CP0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL020OH0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN020900S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL017WL0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0204Z0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL01D7D0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL01CPJ0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL01CST0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0202S0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0202P0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0202O0S6A400C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB021VY0S6A400C2000000/">
+    <title>原油価格急騰　トランプ氏演説受け、停戦観測が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB021VY0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T11:04:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021PM0S6A400C2000000/">
+    <title>NYダウ先物、一時319ドル安　トランプ大統領の演説で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021PM0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:59:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021FB0S6A400C2000000/">
+    <title>NY原油、一時104ドル台に上昇　トランプ氏演説で供給懸念再燃</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021FB0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:48:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021A60S6A400C2000000/">
+    <title>香港株寄り付き　反落、連休前に持ち高調整　トランプ氏演説で戦闘の収束期待後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021A60S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:46:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021DO0S6A400C2000000/">
+    <title>上海株寄り付き　反落して始まる　半導体が安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021DO0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:45:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020JE0S6A400C2000000/">
+    <title>ソフトバンクG株価が続伸　米SOXやアーム株が上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020JE0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:43:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB016QH0R00C26A4000000/">
+    <title>10年物国債の表面利率、29年ぶり2.4%　国内金利の上昇で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB016QH0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:39:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN01CLC0R00C26A4000000/">
+    <title>ナイキ株急落が映す、米消費減速の足音　業績回復に中東情勢の試練</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN01CLC0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:37:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020UA0S6A400C2000000/">
+    <title>アドバンテストの株価が反落　ユーロ建て転換社債、1000億円発行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020UA0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:37:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0211K0S6A400C2000000/">
+    <title>東証10時　日経平均、下げに転じる　一時400円安　トランプ氏の演説開始で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0211K0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:30:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020PM0S6A400C2000000/">
+    <title>中外製薬の株価一時3.8%高　肥満治療薬の承認「想定より早め」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020PM0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:29:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL021190S6A400C2000000/">
+    <title>人民元基準値、対米ドルで6.8880元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL021190S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:28:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020CS0S6A400C2000000/">
+    <title>外為10時　円相場、上値重い　中値「ドル買い優勢」　トランプ氏演説で159円台に下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020CS0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T10:27:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020L40S6A400C2000000/">
+    <title>商品9時30分　原油、小高い　トランプ氏演説前で取引慎重　金は続伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020L40S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:47:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB021120S6A400C2000000/">
+    <title>ドバイ原油・2日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB021120S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:32:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020GO0S6A400C2000000/">
+    <title>東証寄り付き　日経平均が続伸、一時500円高　米・イランの戦闘終結の期待感で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020GO0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:28:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2524JTV20C26A3000000/">
+    <title>流入続く債券ETF、高利回り債「再評価の流れ」　ブラックロック責任者</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2524JTV20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:18:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020GF0S6A400C2000000/">
+    <title>日経平均、続伸で始まる　米・イランの戦闘終結を期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020GF0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:11:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020BG0S6A400C2000000/">
+    <title>債券寄り付き　先物、反落　日銀の早期利上げ観測で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020BG0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T09:02:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020CP0S6A400C2000000/">
+    <title>外為8時30分　円相場、上昇し158円台後半　対ユーロでも上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020CP0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T08:56:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL020OH0S6A400C2000000/">
+    <title>日経平均先物、続伸し5万4290円で始まる　米株続伸で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL020OH0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T08:54:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN020900S6A400C2000000/">
+    <title>メキシコへの送金額、2月は7090億円　2カ月ぶり増加</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN020900S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T07:35:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL017WL0R00C26A4000000/">
+    <title>今日の株価材料（新聞など、2日）アドテストが転換社債1000億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL017WL0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T07:30:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0204Z0S6A400C2000000/">
+    <title>日経平均、米株高が追い風　中東衝突の終結に期待（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0204Z0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T07:19:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL01D7D0R00C26A4000000/">
+    <title>イラン大統領、米国民宛て書簡で「イランは敵意を抱かず」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL01D7D0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T07:16:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL01CPJ0R00C26A4000000/">
+    <title>NY円相場、小反落　1ドル=158円70〜80銭　演説前の持ち高調整で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL01CPJ0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T07:03:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL01CST0R00C26A4000000/">
+    <title>NY株ハイライト　中東の緊張緩和を先取り　原油相場と目立つ「温度差」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL01CST0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T07:02:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0202S0S6A400C2000000/">
+    <title>シカゴ日本株先物概況・1日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0202S0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T06:32:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0202P0S6A400C2000000/">
+    <title>日本株ADR1日、ほぼ全面高　メガバンクと野村の上げ目立つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0202P0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T06:14:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0202O0S6A400C2000000/">
+    <title>日経平均先物、夜間取引で上昇　180円高の5万4280円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0202O0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T06:10:56+09:00</dc:date>
+  </item>
+</rdf:RDF>
