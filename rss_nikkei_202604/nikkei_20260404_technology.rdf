@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-04-04T11:16:19+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG024JX0S6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC318WW0R30C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG017DE0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC315NH0R30C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC02BFV0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2326U0T20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC02AXD0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC303T90Q6A330C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD038DW0T00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF023X20S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG016440R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC018ME0R00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG305P00Q6A330C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC138WF0T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF035JB0T00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG3087Y0Q6A330C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG0275S0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG032AT0T00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0201I0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF1284X0S5A211C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC3075I0Q6A130C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC162VX0W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN02D420S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF02AUI0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB020MY0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG301IA0Q6A330C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0226C0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0225N0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG021PP0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG011E20R00C26A2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG024JX0S6A200C2000000/">
+    <title>ウォール街支える「伊藤の公式」　日本発の数学、金融AI補う</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG024JX0S6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-04T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC318WW0R30C26A3000000/">
+    <title>三井不動産、｢本部長の宇都宮さん｣はAI　人格再現して壁打ち</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC318WW0R30C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG017DE0R00C26A4000000/">
+    <title>マングローブが津波や高波を減衰　京都大学など、数値モデル開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG017DE0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC315NH0R30C26A3000000/">
+    <title>「人手不足、AIで代替」経営トップの6割　ITエンジニアの逼迫感緩和</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC315NH0R30C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC02BFV0S6A400C2000000/">
+    <title>ソフトバンク、通信網「薄切り」の妙　F1中継を快適に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC02BFV0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2326U0T20C26A3000000/">
+    <title>異動で起こる「組織の記憶喪失」、AIで防ぐ　思考引き継ぎ超実践手法</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2326U0T20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC02AXD0S6A400C2000000/">
+    <title>Microsoft、日本でデータ拠点に1.6兆円　ソフトバンク･さくらネットと</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC02AXD0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T19:16:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC303T90Q6A330C2000000/">
+    <title>信越化学社長「AI銘柄になる」　56年ぶり新工場、半導体材料増産</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC303T90Q6A330C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T19:11:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD038DW0T00C26A4000000/">
+    <title>Microsoft社長、データ拠点倍増計画を維持　ミサイル対策で政府と協力</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD038DW0T00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T18:04:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF023X20S6A400C2000000/">
+    <title>新しい多孔性材料、ノーベル賞受賞のMOFより柔軟　京大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF023X20S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T17:48:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG016440R00C26A4000000/">
+    <title>自閉スペクトラム症、脳からの過剰な「合図」が一因　東海大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG016440R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T17:45:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC018ME0R00C26A4000000/">
+    <title>電池を壊さず内部を観察、膨張や発火防止へ　産業技術総合研究所</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC018ME0R00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T17:41:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG305P00Q6A330C2000000/">
+    <title>NASA探査の小惑星「ベンヌ」に尿素、生命の起源解明に　北大</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG305P00Q6A330C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T17:23:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC138WF0T10C26A3000000/">
+    <title>インテージ、市場分析をAIで　10分で販促策まで提案</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC138WF0T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T17:13:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF035JB0T00C26A4000000/">
+    <title>パナソニックHDと京大、生物多様性の研究で連携　工場緑地を活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF035JB0T00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T16:27:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG3087Y0Q6A330C2000000/">
+    <title>月周回は「途方もない偉業」　飛行士4人が宇宙船から会見</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG3087Y0Q6A330C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T15:21:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG0275S0S6A400C2000000/">
+    <title>手術を模擬する「デジタル心臓」、不整脈の治療で有用　米大学が成果</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG0275S0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T15:01:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG032AT0T00C26A4000000/">
+    <title>NASAの宇宙船、月へ向け軌道変更成功　飛行士「最高の気分」</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG032AT0T00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T11:15:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0201I0S6A400C2000000/">
+    <title>アンソロピック、AIツールのコードがまた漏洩　原因は「人為的ミス」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0201I0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T06:25:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF1284X0S5A211C2000000/">
+    <title>農業新興ノウタス、AIでブドウ栽培期間を1年未満に　横浜に新工場</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF1284X0S5A211C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC3075I0Q6A130C2000000/">
+    <title>メタ・Google、迫る規制強化の波　詐欺広告排除へ自浄作用に疑問の目</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC3075I0Q6A130C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC162VX0W6A310C2000000/">
+    <title>西川「ぷにとろ」まくら大ヒット　若年顧客の不満点、AI解析で鮮明に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC162VX0W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN02D420S6A400C2000000/">
+    <title>AI3強の超巨大IPO、惑星直列が引き寄せる資金のいびつな引力</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN02D420S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-03T04:50:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF02AUI0S6A400C2000000/">
+    <title>モンゴル地層に大型恐竜足跡、白亜紀前期の化石発見　岡山理科大など</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF02AUI0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T20:03:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB020MY0S6A400C2000000/">
+    <title>陰るAI相場の神通力　「M7」時価総額は2.3兆ドル減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB020MY0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T19:01:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG301IA0Q6A330C2000000/">
+    <title>阪大発新興、「量子ビット」制御装置で新技術　安定動作に期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG301IA0Q6A330C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0226C0S6A400C2000000/">
+    <title>中小企業の課題解決にAI　東京都がサイト公開、補助金や窓口紹介</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0226C0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T16:54:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0225N0S6A400C2000000/">
+    <title>S.RIDE、ロボタクシーをライブ空間に　自動運転をエンタメ化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0225N0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T16:10:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG021PP0S6A400C2000000/">
+    <title>月周回・アルテミス2の意義は　野口聡一氏「宇宙開発の時代の節目」</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG021PP0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T15:37:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG011E20R00C26A2000000/">
+    <title>米「アルテミス2」、有人で月周回へ出発　水資源確保へ中国に先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG011E20R00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-04-02T12:44:29+09:00</dc:date>
+  </item>
+</rdf:RDF>
