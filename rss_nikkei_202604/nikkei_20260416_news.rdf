@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-04-16T11:13:10+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC161W00W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA148GO0U6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF161TZ0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB15CUJ0V10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC14AA10U6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB06ADB0W6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB266ZJ0W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD104SR0Q6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM153IQ0V10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160TB0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160I80W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC161I50W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160VP0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC161DL0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160XK0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL161DP0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160I00W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160WG0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC161JM0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM161DO0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160BG0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1616A0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160WD0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160VRTW6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB161DZ0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB161C80W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL157IE0V10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160M80W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160N90W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL160LATW6A410C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC161W00W6A410C2000000/">
+    <title>今永昇太、6回11奪三振で2026年初勝利　鈴木誠也は2安打</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC161W00W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:05:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA148GO0U6A410C2000000/">
+    <title>自民党・自動車議連会長に西村康稔氏　EV重量税の議論にらむ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA148GO0U6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:01:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF161TZ0W6A410C2000000/">
+    <title>京都府南丹市の事件で逮捕の父親、市内数カ所に男児遺体を移動か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF161TZ0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:01:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB15CUJ0V10C26A4000000/">
+    <title>G7財務相、中東情勢巡り協議　物価高・原油調達議題に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB15CUJ0V10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC14AA10U6A410C2000000/">
+    <title>サントリーHD、20年ぶり医薬品「再参入」の勝算　健康軸に実取る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC14AA10U6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB06ADB0W6A400C2000000/">
+    <title>アクティビズムは是か非か　オアシスのセス氏「還元だけ要求終わり」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB06ADB0W6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB266ZJ0W6A320C2000000/">
+    <title>サッカーW杯特需、TVパネル価格に差　液晶↗有機EL↘</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB266ZJ0W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD104SR0Q6A410C2000000/">
+    <title>リファのMTG､｢逆張り｣のベテラン採用拡大　経験重視で60歳も対象に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD104SR0Q6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM153IQ0V10C26A4000000/">
+    <title>中国の実質GDP5.0%増に加速　1〜3月、輸出・生産好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM153IQ0V10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160TB0W6A410C2000000/">
+    <title>ダイキン工業株が年初来高値　米エリオットが3%保有</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160TB0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:53:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160I80W6A410C2000000/">
+    <title>HIOKI株が買い気配　1〜3月期41%増益</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160I80W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:51:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC161I50W6A410C2000000/">
+    <title>大リーグ、初の黒人選手「ロビンソン・デー」開催　ドジャースは式典</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC161I50W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:49:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160VP0W6A410C2000000/">
+    <title>パーク24株価が一進一退　3月国内駐車場10%増収も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160VP0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:49:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC161DL0W6A410C2000000/">
+    <title>大谷翔平、5年ぶり投手専念　ロバーツ監督「死球の影響」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC161DL0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:48:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160XK0W6A410C2000000/">
+    <title>第一三共株価が一時3.4%高　サントリーHDに市販薬事業を売却</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160XK0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:44:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL161DP0W6A410C2000000/">
+    <title>上海株寄り付き　小幅続伸で始まる　経済統計の発表控えて様子見ムード</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL161DP0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:43:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160I00W6A410C2000000/">
+    <title>JR東日本株価が軟調　伊藤忠との不動産子会社統合に反応薄</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160I00W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:43:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160WG0W6A410C2000000/">
+    <title>香港株寄り付き　続伸、米イランの交渉進展に期待　ネット大手高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160WG0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:42:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC161JM0W6A410C2000000/">
+    <title>佐々木朗希、2026年初勝利へ20日先発　敵地でロッキーズ戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC161JM0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:41:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM161DO0W6A410C2000000/">
+    <title>北朝鮮、金日成主席の生誕記念日に砲撃訓練　金正恩氏が視察</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM161DO0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:39:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160BG0W6A410C2000000/">
+    <title>外為10時　円相場、上げ拡大　158円台後半　中値は「ドル買い優勢」の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160BG0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:32:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1616A0W6A410C2000000/">
+    <title>人民元基準値、対米ドルで6.8616元　前日比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1616A0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:29:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160WD0W6A410C2000000/">
+    <title>東証10時　日経平均は高値圏で推移　海外投機筋の先物買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160WD0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:20:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160VRTW6A410C2000000/">
+    <title>株最高値　坪井氏「上値メドは6万円」、重見氏「株買いの勢い続く」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160VRTW6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:11:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB161DZ0W6A410C2000000/">
+    <title>トランプ氏、今度はイエス・キリストと並ぶ画像　他人の投稿引用</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB161DZ0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:11:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB161C80W6A410C2000000/">
+    <title>ドバイ原油・16日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB161C80W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T10:04:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL157IE0V10C26A4000000/">
+    <title>海外勢、日本株の買越額が過去最大　3兆9433億円　5〜11日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL157IE0V10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T09:55:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160M80W6A410C2000000/">
+    <title>商品9時30分　原油、小幅反発　価格高止まりでも需要堅調で　金は続伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160M80W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T09:45:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160N90W6A410C2000000/">
+    <title>東証寄り付き　日経平均は続伸、最高値上回る　米ハイテク株高で買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160N90W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T09:30:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL160LATW6A410C2000000/">
+    <title>最高値圏に戻った世界株　V字回復、中東紛争でも業績拡大期待つづく</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL160LATW6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-16T09:30:02+09:00</dc:date>
+  </item>
+</rdf:RDF>
