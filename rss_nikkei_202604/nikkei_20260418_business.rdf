@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-04-18T10:12:25+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN180110Y6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN17CTW0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN180010Y6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUE169A80W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC169GW0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB178OY0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOTG117S70R10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1561U0V10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC175X00X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB151F50V10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD08BK20Y6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC03APP0T00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC16AJZ0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC179X90X11C25A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2693D0W5A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC188SU0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB265H60W6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC253I00V20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC132MB0T10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC251M30V20C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC061BI0W6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC060Y00W6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC050KL0V00C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF173SV0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM178YT0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD17AN50X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC17AUY0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC17B9Q0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC171H30X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC175ZD0X10C26A4000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN180110Y6A410C2000000/">
+    <title>メタ、5月に約8000人の人員削減か　ロイター報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN180110Y6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T06:32:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN17CTW0X10C26A4000000/">
+    <title>米ウーバー、独デリバリーヒーロー株追加取得　欧州で料理宅配を拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN17CTW0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:52:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN180010Y6A410C2000000/">
+    <title>フォード、主力車「F-150」140万台リコール　変速機の制御に不具合</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN180010Y6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:49:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUE169A80W6A310C2000000/">
+    <title>技能実習終えたら大都市へ　青森・島根など8県、外国人材の半数流出</title>
+    <link>https://www.nikkei.com/article/DGXZQOUE169A80W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC169GW0W6A410C2000000/">
+    <title>良品廉価のホンダどこへ　四輪改革、開発の知恵取り戻せるか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC169GW0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB178OY0X10C26A4000000/">
+    <title>資生堂株1年半ぶり高値　中国で不買免れ下地整う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB178OY0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOTG117S70R10C26A3000000/">
+    <title>「法務部」置く企業、初の5割超　M&amp;AやAIなどリスク重視</title>
+    <link>https://www.nikkei.com/article/DGXZQOTG117S70R10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1561U0V10C26A4000000/">
+    <title>パワー半導体再編、4社の思惑　ローム社長は3社統合の「先頭に立つ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1561U0V10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC175X00X10C26A4000000/">
+    <title>4月13〜17日　スタートアップ資金調達まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC175X00X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB151F50V10C26A4000000/">
+    <title>ホルムズ代替のスエズ航路、全面再開遠く　仏海運CEO「保険負担重い」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB151F50V10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD08BK20Y6A400C2000000/">
+    <title>多彩なM&amp;Aを学ぶ本　中小の成長手段として</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD08BK20Y6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC03APP0T00C26A4000000/">
+    <title>花見、物価高で「ひとり・近場」シフト　26年平均予算は1000円超減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC03APP0T00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC16AJZ0W6A410C2000000/">
+    <title>携帯大手､料金×ポイント×通信品質の総合力勝負へ　値上げ出そろう</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC16AJZ0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC179X90X11C25A2000000/">
+    <title>マツキヨココカラ、パートも店長　登録販売者の資格取得を支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC179X90X11C25A2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2693D0W5A920C2000000/">
+    <title>サッポロ、飲食店に「エビス伝道師」　専門知識や3種の注ぎで認定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2693D0W5A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC188SU0Y6A310C2000000/">
+    <title>セブン、デリカ供給網を変革へ　キーパーソン2人に聞く危機感</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC188SU0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB265H60W6A320C2000000/">
+    <title>バンコクの家賃、平均20万7000円　バーツ高で「安いタイ」に異変</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB265H60W6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC253I00V20C26A3000000/">
+    <title>障害あってもパレード堪能　サンリオピューロランド、手話や光・音軽減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC253I00V20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC132MB0T10C26A4000000/">
+    <title>家庭の蓄電池から売電　韓国系やKDDI系が新サービス、電気代を節約</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC132MB0T10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC251M30V20C26A3000000/">
+    <title>サンスター文具は二度稼ぐ　アイデア×IPで「ボンドロ」抜きでも成長</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC251M30V20C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC061BI0W6A400C2000000/">
+    <title>ファンケル傘下のアテニア、失敗乗り越え「接客AIエージェント」導入</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC061BI0W6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC060Y00W6A400C2000000/">
+    <title>AI時代のマーケター「未言語の生活知つかめ」　博報堂幹部の教え</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC060Y00W6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC050KL0V00C26A3000000/">
+    <title>エンジニアと営業のもめ事「相手の考えを決めつけていませんか？」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC050KL0V00C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-04-18T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF173SV0X10C26A4000000/">
+    <title>小林製薬、宮城の新工場稼働　海外向け「アンメルツ」など増産</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF173SV0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-17T20:55:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM178YT0X10C26A4000000/">
+    <title>中国当局、通販や出前大手7社に罰金計840億円　食品安全問題で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM178YT0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-17T20:42:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD17AN50X10C26A4000000/">
+    <title>電算システムHD､再雇用者の定年70歳に　ベアも実施</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD17AN50X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-17T20:41:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC17AUY0X10C26A4000000/">
+    <title>米投資ファンド、三陽商会に株主提案　1株1200円の特別配当要求</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC17AUY0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-17T20:29:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC17B9Q0X10C26A4000000/">
+    <title>楽天G、「お買いものパンダ」ぬいぐるみ発売　全6色</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC17B9Q0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-17T20:26:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC171H30X10C26A4000000/">
+    <title>志摩スペイン村、ハビエル城博物館をリニューアル</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC171H30X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-17T19:51:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC175ZD0X10C26A4000000/">
+    <title>「管理職になりたい社員」過去最低の17%　パーソル総研調べ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC175ZD0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-17T19:49:37+09:00</dc:date>
+  </item>
+</rdf:RDF>
