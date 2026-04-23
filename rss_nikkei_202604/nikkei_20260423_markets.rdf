@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-04-23T10:15:34+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB170II0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230IY0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230A1TT20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230I10T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB231110T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230I50T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL190D1TZ10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230M80T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230K20T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2308I0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2178ITR20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2300J0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2303N0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL171IHTX10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22CW40S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22C500S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230380T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230360T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL230340T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22CGB0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN22BPH0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22C9B0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB073WC0X00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC210PS0R20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL200HVTQ6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB14A060U6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC2073X0Q6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22BIN0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22BIF0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL22BI20S6A420C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB170II0X10C26A4000000/">
+    <title>日経平均株価が初の一時6万円台　AI・半導体関連に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB170II0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T10:10:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230IY0T20C26A4000000/">
+    <title>商品9時30分　原油、続伸　供給停滞の長期化懸念で　金は反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230IY0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T09:55:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230A1TT20C26A4000000/">
+    <title>「ミーム」化する米輸送株、空売り解消が変動高める</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230A1TT20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T09:48:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230I10T20C26A4000000/">
+    <title>東証寄り付き　日経平均は初の6万円台　投機筋の買い加速、その後下げる場面も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230I10T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T09:35:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB231110T20C26A4000000/">
+    <title>ドバイ原油・23日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB231110T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T09:31:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230I50T20C26A4000000/">
+    <title>日経平均、続伸で始まる　初の6万円台</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230I50T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T09:13:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL190D1TZ10C26A4000000/">
+    <title>株価一時6万円台も、円と債券は戻らず　温度差生む原油高と政策</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL190D1TZ10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T09:12:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230M80T20C26A4000000/">
+    <title>債券寄り付き　先物が小反発、需給引き締まりを意識</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230M80T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T08:58:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230K20T20C26A4000000/">
+    <title>日経平均先物、小反落し5万9780円で始まる　その後上昇に転じる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230K20T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T08:54:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2308I0T20C26A4000000/">
+    <title>外為8時30分　円相場、下落し159円台半ば　対ユーロでは上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2308I0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T08:50:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2178ITR20C26A4000000/">
+    <title>最高値の韓国株　KOSPI8000時代到来か　半導体2強、海外勢が4カ月ぶり買い越し</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2178ITR20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T08:29:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2300J0T20C26A4000000/">
+    <title>日経平均株価、米ハイテク株高が追い風（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2300J0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T07:31:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2303N0T20C26A4000000/">
+    <title>今日の株価材料（新聞など、23日）牧野フの買収、政府がアジア系MBKに中止勧告</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2303N0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T07:23:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL171IHTX10C26A4000000/">
+    <title>中国のマンション販売、徹夜の行列復活　大幅値下げが新常態</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL171IHTX10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22CW40S6A420C2000000/">
+    <title>NY円相場、続落　1ドル=159円45〜55銭　米原油価格の上昇が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22CW40S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T06:55:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22C500S6A420C2000000/">
+    <title>NY株ハイライト　ナスダック再び最高値　AI支える黒子企業が好決算</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22C500S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T06:47:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230380T20C26A4000000/">
+    <title>シカゴ日本株先物概況・22日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230380T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T06:45:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230360T20C26A4000000/">
+    <title>日本株ADR22日、売り優勢　武田やトヨタが下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230360T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T06:11:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL230340T20C26A4000000/">
+    <title>日経平均先物、夜間取引で上昇　60円高の5万9860円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL230340T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T06:08:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22CGB0S6A420C2000000/">
+    <title>NY債券、長期債続落　10年債利回り4.30%　インフレ懸念が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22CGB0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T06:07:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN22BPH0S6A420C2000000/">
+    <title>米株市場にブラックスワンが3羽　「見ないふりトレード」という誘惑</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN22BPH0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T05:13:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22C9B0S6A420C2000000/">
+    <title>NY商品、原油上昇　供給不足長期化の観測　金は反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22C9B0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T05:09:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB073WC0X00C26A4000000/">
+    <title>ビックカメラ、グループ横断で新リース会計対応　ハイデイはAI判定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB073WC0X00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC210PS0R20C26A4000000/">
+    <title>AIシステムのLayerX、新興買収でサイバーセキュリティーへ進出</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC210PS0R20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL200HVTQ6A420C2000000/">
+    <title>「日銀利上げは6月、通貨供給がインフレ要因か」ソニーFGの井上氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL200HVTQ6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T04:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB14A060U6A410C2000000/">
+    <title>フジクラ、トランプ・ディールに踊る株価　6年前とは違う投資力</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB14A060U6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC2073X0Q6A420C2000000/">
+    <title>「日本の大株主」マスタートラスト、管理資産900兆円へ　福岡に新拠点</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC2073X0Q6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22BIN0S6A420C2000000/">
+    <title>ドイツ株22日　続落、通信ドイツテレコムに売り　仏株も下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22BIN0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T02:35:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22BIF0S6A420C2000000/">
+    <title>ロンドン株22日　小幅続落、空運や航空機関連に売り　鉱業は買い優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22BIF0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T02:20:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL22BI20S6A420C2000000/">
+    <title>欧州国債概況22日　独10年債利回り、小幅低下　英長期金利は横ばい圏</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL22BI20S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-23T01:18:29+09:00</dc:date>
+  </item>
+</rdf:RDF>
