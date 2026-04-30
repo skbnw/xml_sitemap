@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-04-30T10:11:13+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB301FC0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300BM0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300SI0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300DM0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA300KX0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300MO0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300DI0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300LJ0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB138U80T10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300G30Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2939D0Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293HB0Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2934S0Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3002K0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300320Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3004E0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293HC0Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN293VS0Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300310Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL293970Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3002Z0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3000X0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2936A0Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD28C2K0Y6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA194J10Z10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2911C0Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL292M30Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2929S0Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL292700Z20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2925C0Z20C26A4000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB301FC0Q6A430C2000000/">
+    <title>ドバイ原油・30日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB301FC0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T10:05:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300BM0Q6A430C2000000/">
+    <title>商品9時30分　原油、続伸　米イラン停戦の先行き不透明感　金は続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300BM0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T09:52:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300SI0Q6A430C2000000/">
+    <title>円160円台、来ぬ介入　FOMC「緩和バイアス反対3人」日銀効果消す</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300SI0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T09:38:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300DM0Q6A430C2000000/">
+    <title>東証寄り付き　日経平均は続落で始まる　下げ幅600円強、原油高など警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300DM0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T09:25:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA300KX0Q6A430C2000000/">
+    <title>3月の鉱工業生産指数0.5%低下、2カ月連続下げ　化学工業振るわず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA300KX0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T09:17:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300MO0Q6A430C2000000/">
+    <title>債券寄り付き　長期金利2.5%に上昇、29年ぶりの高さ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300MO0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T09:10:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300DI0Q6A430C2000000/">
+    <title>日経平均、続落で始まる　米利下げ観測後退や原油高が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300DI0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T09:09:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300LJ0Q6A430C2000000/">
+    <title>日経平均先物、続落し5万9200円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300LJ0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T08:53:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB138U80T10C26A4000000/">
+    <title>長期金利上昇、一時29年ぶり2.5%超　原油高でインフレ懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB138U80T10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T08:52:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300G30Q6A430C2000000/">
+    <title>外為8時30分　円相場、下落し160円台前半　対ユーロでも下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300G30Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T08:47:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2939D0Z20C26A4000000/">
+    <title>割れるFOMC、1992年以来の「反対4」　年内金利据え置き論広がる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2939D0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T08:10:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293HB0Z20C26A4000000/">
+    <title>パウエル氏、議長任期終了後も理事に留任　「FRBの独立性が危機に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293HB0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T08:06:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2934S0Z20C26A4000000/">
+    <title>NY株ハイライト　金利据え置きのFOMCでさざ波　ダウ平均が一時400ドル安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2934S0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T07:35:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3002K0Q6A430C2000000/">
+    <title>日経平均、米金融政策と中東情勢の不透明感が重荷（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3002K0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T07:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300320Q6A430C2000000/">
+    <title>シカゴ日本株先物概況・29日</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300320Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T07:23:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3004E0Q6A430C2000000/">
+    <title>今日の株価材料（新聞など、29〜30日）OLCの今期純利益7%減、ホテル修繕で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3004E0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T07:21:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293HC0Z20C26A4000000/">
+    <title>NY円相場、続落　1ドル=160円25〜35銭　原油高や米利下げ観測の後退で　一時は1年9カ月ぶり安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293HC0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T07:02:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN293VS0Z20C26A4000000/">
+    <title>FRB金利据え置き、「利下げは2027年にずれ込む」　米市場関係者に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN293VS0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T06:55:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300310Q6A430C2000000/">
+    <title>日本株ADR29日、ほぼ全面安　ソニーGやトヨタ下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300310Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T06:17:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL293970Z20C26A4000000/">
+    <title>NY債券、長期債下落　10年債利回り4.43%　FOMCと原油高受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL293970Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T06:11:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3002Z0Q6A430C2000000/">
+    <title>日経平均先物、夜間取引で下落　1350円安の5万8670円で終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3002Z0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T06:10:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3000X0Q6A430C2000000/">
+    <title>NY商品、原油続伸　米・イランの衝突が長引くとの懸念で　金は続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3000X0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T05:56:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2936A0Z20C26A4000000/">
+    <title>パウエルFRBの8年間、ダウ平均2倍　戦後議長「通信簿」だと5位</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2936A0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T05:44:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD28C2K0Y6A420C2000000/">
+    <title>英中銀、政策金利据え置きへ　年内利上げには意欲か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD28C2K0Y6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA194J10Z10C26A2000000/">
+    <title>土地や株「資産価値増える」2割に上昇　「減る」を逆転</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA194J10Z10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2911C0Z20C26A4000000/">
+    <title>東京エレクトロン、30日決算　注目は韓国向けの伸び</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2911C0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL292M30Z20C26A4000000/">
+    <title>ドイツ株29日　続落、金融に売り　アディダスは大幅高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL292M30Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T02:12:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2929S0Z20C26A4000000/">
+    <title>ロンドン株29日　反落、約1カ月ぶり安値　幅広い業種で売り優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2929S0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T01:45:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL292700Z20C26A4000000/">
+    <title>欧州国債概況29日　独10年債利回り、一時1カ月ぶり高水準　原油先物が上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL292700Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T01:15:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2925C0Z20C26A4000000/">
+    <title>ロンドン外為29日　ユーロ、対ドルで小動き　円相場は160円台前半</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2925C0Z20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-04-30T00:34:55+09:00</dc:date>
+  </item>
+</rdf:RDF>
