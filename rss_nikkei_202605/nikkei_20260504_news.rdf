@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-05-04T10:12:40+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0406H0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0407Q0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0408I0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0406X0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD168MI0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0407B0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC040540U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2797Z0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0405Y0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0405E0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH031X00T00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN040100U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN27AZR0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC30AX50Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC30ADB0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB057D70V00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFH307AV0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC246EQ0U6A220C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC236910T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG234MN0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0148H0R00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2743F0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2042H0Q6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM103V90Q6A210C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD063TQ0W6A300C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB303830Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC252XN0V20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB112VS0R10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD222P50S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH132KM0T10C26A4000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0406H0U6A500C2000000/">
+    <title>菅野智之、次回登板は5日メッツ戦　本拠地で4勝目めざす</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0406H0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T10:04:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0407Q0U6A500C2000000/">
+    <title>岡本和真が3試合連続本塁打　鈴木誠也2安打、大谷翔平は無安打</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0407Q0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T10:03:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0408I0U6A500C2000000/">
+    <title>佐野海舟らフル出場、渡辺剛・三戸舜介ゴール　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0408I0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T10:02:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0406X0U6A500C2000000/">
+    <title>谷川萌々子のバイエルン、準決勝敗退　サッカー女子欧州CL</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0406X0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T10:00:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD168MI0W6A410C2000000/">
+    <title>田中角栄の「ノー」に学ぼう　石油危機にプランBの備えを</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD168MI0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0407B0U6A500C2000000/">
+    <title>渡辺剛が今季2点目、三戸舜介は7点目　サッカーオランダ1部</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0407B0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T09:41:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC040540U6A500C2000000/">
+    <title>菊池雄星、左肩炎症で負傷者リスト入り　前回登板で緊急降板</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC040540U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T09:01:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2797Z0X20C26A4000000/">
+    <title>山形銀行、貸金庫使用料を引き上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2797Z0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0405Y0U6A500C2000000/">
+    <title>松山英樹53位、久常涼65位　米男子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0405Y0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T08:46:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0405E0U6A500C2000000/">
+    <title>原英莉花が9位、勝みなみ13位　米女子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0405E0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T08:40:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH031X00T00C26A5000000/">
+    <title>世界卓球、日本女子は3戦全勝で決勝Tへ　オーダー毎回変わるも安定</title>
+    <link>https://www.nikkei.com/article/DGXZQODH031X00T00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T07:15:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN040100U6A500C2000000/">
+    <title>トランプ氏、ホルムズ海峡からの脱出を支援　「妨害は力ずくで対処」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN040100U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T06:48:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN27AZR0X20C26A4000000/">
+    <title>反トランプの「オバマ党」に限界、民主新鋭が切り開く保守との接点</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN27AZR0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC30AX50Q6A430C2000000/">
+    <title>安芸の宮島訪問税「三方良し」で増収　インフラ整備で観光地モデルに</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC30AX50Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC30ADB0Q6A430C2000000/">
+    <title>テーマパークに新施設続々　体験レジャーの最前線がわかる10選</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC30ADB0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB057D70V00C26A2000000/">
+    <title>ニッポン企業「割安感」、買収攻勢かける外資　円安が迫る守りの経営</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB057D70V00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFH307AV0Q6A430C2000000/">
+    <title>東京都心の中古マンション、高値敬遠され小幅下落　動画でクイック解説</title>
+    <link>https://www.nikkei.com/article/DGXZQOFH307AV0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC246EQ0U6A220C2000000/">
+    <title>青森・山口はGX産業集積　都道府県の26年度重点事業</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC246EQ0U6A220C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC236910T20C26A4000000/">
+    <title>「魔改造の夜」に学ぶ新人研修　製造受託のSOLIZE、技術リーダー育成</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC236910T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG234MN0T20C26A4000000/">
+    <title>北米の山火事、温暖化で夜間も燃えやすく　カナダの研究チームが報告</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG234MN0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0148H0R00C26A5000000/">
+    <title>ANA・JALマイル経済圏に逆風　燃油高で薄れる特典航空券の魅力</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0148H0R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2743F0X20C26A4000000/">
+    <title>残るコロナの後遺症　中東緊迫、雇用助成の積立金まだ回復1割</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2743F0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2042H0Q6A420C2000000/">
+    <title>法的責任増す自治体の災害対応　司法、過失認める判断も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2042H0Q6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM103V90Q6A210C2000000/">
+    <title>中国、標準語起源は人口30万人のまち　発音訓練で首都経済に貢献</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM103V90Q6A210C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD063TQ0W6A300C2000000/">
+    <title>おひとりさまの老人ホーム探し、70歳が適齢期　後悔しない6つの視点</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD063TQ0W6A300C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB303830Q6A430C2000000/">
+    <title>日米欧中銀の針路を読む　怖いのはインフレか、政治の圧力か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB303830Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC252XN0V20C26A4000000/">
+    <title>浜松いわた信金、地元企業巻き込み動物園再生　人と技術結ぶ架け橋に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC252XN0V20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB112VS0R10C26A4000000/">
+    <title>家族に伝えた会社の内部情報、インサイダー取引に巻き込みます</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB112VS0R10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD222P50S6A420C2000000/">
+    <title>三度目の正直なるか　ローソン、小型スーパーに再々挑戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD222P50S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH132KM0T10C26A4000000/">
+    <title>日本ハム、一発攻勢支える「中間管理職」　横尾コーチはデータで語る</title>
+    <link>https://www.nikkei.com/article/DGXZQODH132KM0T10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
