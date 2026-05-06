@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-05-06T12:12:58+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN050BH0V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN052NW0V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN250E00V20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG229PP0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG226Z40S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC306820Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG225GG0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG229C40S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28CN40Y6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA235QS0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2733G0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN050380V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN042ED0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0424C0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG1881H0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG012VQ0R00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC17BD30X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC174GL0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN040CX0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG234MN0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA021RG0S6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG136Z20T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG273W40X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG243WA0U6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD133FT0T10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2269X0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN020E80S6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN01BWV0R00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG226FO0S6A120C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG011IO0R00C26A5000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN050BH0V00C26A5000000/">
+    <title>IBMのCEO「ソフト産業、従来型の成長難しく」　AIデータ基盤に注力</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN050BH0V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T08:55:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN052NW0V00C26A5000000/">
+    <title>アンソロピックCEO「中国のAI、6〜12カ月でMythosに追いつく」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN052NW0V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T06:17:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN250E00V20C26A4000000/">
+    <title>米AMD、1カ月で株価9割急騰　AIエージェント需要でCPU再評価</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN250E00V20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T06:07:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG229PP0S6A420C2000000/">
+    <title>危険な太陽嵐からアルテミス2の宇宙飛行士をどう守る</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG229PP0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG226Z40S6A420C2000000/">
+    <title>カメムシ「2026年は多い年」　果樹に影響も、九州や近畿では注意報</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG226Z40S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC306820Q6A430C2000000/">
+    <title>世界音楽大手、AI脅威で株安　楽曲の著作権は変わらぬ武器に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC306820Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG225GG0S6A420C2000000/">
+    <title>地下のジャガイモ収量、ドローンとAIで予測　東京大学とクボタ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG225GG0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG229C40S6A420C2000000/">
+    <title>ホルムズ海峡はなぜあんな地形なのか、いずれはふさがる運命</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG229C40S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T20:05:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28CN40Y6A420C2000000/">
+    <title>パランティア1〜3月純利益4倍　AI分析、米国がイラン攻撃で利用</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28CN40Y6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T18:52:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA235QS0T20C26A4000000/">
+    <title>産総研がVCファンド設立へ　AIや半導体、スタートアップを支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA235QS0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T17:10:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2733G0X20C26A4000000/">
+    <title>通信版「ファイブアイズ」にEU参加　6G開発で対中包囲網</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2733G0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T16:37:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN050380V00C26A5000000/">
+    <title>米SEC、マスク氏に罰金2.3億円　X買収時の報告違反で和解</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN050380V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T06:59:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN042ED0U6A500C2000000/">
+    <title>アンソロピック、ブラックストーンなど投資会社と連合　企業にAI販売</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN042ED0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T05:45:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0424C0U6A500C2000000/">
+    <title>「NVIDIA競合」のAI半導体セレブラス、IPOで評価額4兆円を計画</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0424C0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T05:30:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG1881H0Y6A310C2000000/">
+    <title>太陽熱を貯蔵し再利用、米大などが新たな分子技術　蓄電池上回る効率</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG1881H0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG012VQ0R00C26A5000000/">
+    <title>太陽から57億キロの「外縁天体」に大気が存在、冥王星以外で初確認</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG012VQ0R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC17BD30X10C26A3000000/">
+    <title>JSR、台湾で半導体材料フォトレジスト生産　TSMCなどに供給</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC17BD30X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC174GL0X10C26A4000000/">
+    <title>AI｢Mythos｣登場、米がソフト欠陥の全件分析を断念　検知が急増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC174GL0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T18:47:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN040CX0U6A500C2000000/">
+    <title>米ゲームストップ、EC大手eBayに8.8兆円で買収提案</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN040CX0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T12:03:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG234MN0T20C26A4000000/">
+    <title>北米の山火事、温暖化で夜間も燃えやすく　カナダの研究チームが報告</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG234MN0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA021RG0S6A500C2000000/">
+    <title>サイバー防御でモルドバと連携　総務省、人材育成や偽情報対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA021RG0S6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-03T16:21:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG136Z20T10C26A3000000/">
+    <title>AIに頼りすぎると科学の進歩鈍る恐れ　職場の人間関係も損ないかねず</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG136Z20T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-05-03T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG273W40X20C26A4000000/">
+    <title>長崎の星から気候変動へ　猿橋賞の今田由紀子東京大准教授</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG273W40X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG243WA0U6A420C2000000/">
+    <title>霊長類やマウスも「つわり」に悩む？　北大など、発生の仕組み解明へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG243WA0U6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD133FT0T10C26A4000000/">
+    <title>民間ロケット「失敗」の軽さ　成果見いだす無謬性、信頼損なう</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD133FT0T10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-03T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2269X0S6A420C2000000/">
+    <title>SNS「無限スクロール」日本でも企業に責任問う　子どもの依存対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2269X0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-02T18:20:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN020E80S6A500C2000000/">
+    <title>米ゲームストップ、EC大手イーベイに買収提案か　WSJ報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN020E80S6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-02T10:12:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN01BWV0R00C26A5000000/">
+    <title>OpenAI裁判両雄対峙、マスク氏｢発案は私｣　アルトマン氏｢嫌がらせ｣</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN01BWV0R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-02T06:16:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG226FO0S6A120C2000000/">
+    <title>「6倍速」で氷解けるグリーンランド、地下基地の放射性物質出る懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG226FO0S6A120C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG011IO0R00C26A5000000/">
+    <title>痛みで乳がん進行する可能性、知覚神経が出す物質関与　星薬科大など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG011IO0R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-02T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>

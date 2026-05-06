@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-05-06T11:15:00+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD212UE0R20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC305V40Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN052NW0V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC306820Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG225GG0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC283ZQ0Y6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB102U10Q6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC162QG0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFH0127H0R00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA151PE0V10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC190JH0Z10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR052BG0V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC17AZ50X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC059L10V00C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC028PF0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF195QJ0Z10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC272370X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC161010W6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC150X40V10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN052910V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR052250V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM050PD0V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF174060X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA235QS0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2733G0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM050M80V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM050PG0V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD234QY0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0426J0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN050380V00C26A5000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD212UE0R20C26A4000000/">
+    <title>リビングに「クラウン」　トヨタ紡織、高級車の座席をデスクチェアに</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD212UE0R20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC305V40Q6A430C2000000/">
+    <title>SOMPOケア、介護の他社支援専門の新会社　人材育成やコンサル提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC305V40Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T10:32:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN052NW0V00C26A5000000/">
+    <title>アンソロピックCEO「中国のAI、6〜12カ月でMythosに追いつく」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN052NW0V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T06:17:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC306820Q6A430C2000000/">
+    <title>世界音楽大手、AI脅威で株安　楽曲の著作権は変わらぬ武器に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC306820Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG225GG0S6A420C2000000/">
+    <title>地下のジャガイモ収量、ドローンとAIで予測　東京大学とクボタ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG225GG0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC283ZQ0Y6A420C2000000/">
+    <title>ノジマ買収の日立家電、ライバル店の本音　「商品は良いのに残念」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC283ZQ0Y6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB102U10Q6A410C2000000/">
+    <title>前職で入手したデータ、転職先での利用は違法かもしれません</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB102U10Q6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC162QG0W6A410C2000000/">
+    <title>「お好みソース」のオタフク、次の狙いは焼きそば　社内に資格創設</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC162QG0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFH0127H0R00C26A5000000/">
+    <title>ANA、「上級会員扱い」は年300万円決済が条件　動画でクイック解説</title>
+    <link>https://www.nikkei.com/article/DGXZQOFH0127H0R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA151PE0V10C26A4000000/">
+    <title>藤木俊光経産次官、石油由来部品「業界標準」で供給網の危機耐性向上</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA151PE0V10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC190JH0Z10C26A4000000/">
+    <title>千葉・木更津で憧れのポルシェ体験　地域に根下ろしブランド発信</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC190JH0Z10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR052BG0V00C26A5000000/">
+    <title>独ビオンテック、従業員の2割強を削減　コロナワクチンの需要減で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR052BG0V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T04:21:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC17AZ50X10C26A4000000/">
+    <title>EV・ロボの覇権導いた中国製造2025　高市成長戦略が学ぶ競争の光と影</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC17AZ50X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC059L10V00C26A2000000/">
+    <title>ALSOK、猫人気にあやかり「ニャルソック」で情報発信</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC059L10V00C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC028PF0S6A400C2000000/">
+    <title>良品計画、オフィス空間も「無印良品」流　家具や内装に木材ふんだん</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC028PF0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF195QJ0Z10C26A3000000/">
+    <title>P&amp;G「パンパース」1割以上増収　刷新から半年、ニーズ特化に磨き</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF195QJ0Z10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC272370X20C26A4000000/">
+    <title>ホンダ、カナダの1.7兆円EV工場計画凍結　GM共同開発車は販売終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC272370X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC161010W6A310C2000000/">
+    <title>駅チカにハワイ風の小型カフェ、トリドールHDが3年で50店へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC161010W6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC150X40V10C26A4000000/">
+    <title>ヤマダ、家具×家電で訪問営業　｢大塚家具｣と連携拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC150X40V10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN052910V00C26A5000000/">
+    <title>米ファイザー、1〜3月期純利益9%減　コロナ関連事業の低迷続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN052910V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T00:38:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR052250V00C26A5000000/">
+    <title>日産、欧州で従業員の1割削減　英国工場も生産ライン統合</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR052250V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T00:12:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM050PD0V00C26A5000000/">
+    <title>香港CKハチソン､英通信から撤退へ　ボーダフォンに9100億円で売却</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM050PD0V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T18:27:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF174060X10C26A4000000/">
+    <title>塩野義製薬、30年度までに事業投資8800億円以上　攻めの経営を継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF174060X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T17:31:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA235QS0T20C26A4000000/">
+    <title>産総研がVCファンド設立へ　AIや半導体、スタートアップを支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA235QS0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T17:10:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2733G0X20C26A4000000/">
+    <title>通信版「ファイブアイズ」にEU参加　6G開発で対中包囲網</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2733G0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T16:37:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM050M80V00C26A5000000/">
+    <title>グラブの1〜3月、純利益12倍　配車や料理宅配が好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM050M80V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T15:42:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM050PG0V00C26A5000000/">
+    <title>エア・インディア、7月まで減便　燃料費高騰で採算悪化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM050PG0V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T15:39:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD234QY0T20C26A4000000/">
+    <title>JR「ドクター東海」検測データ、分析時間を半減　架線保守をDX</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD234QY0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0426J0U6A500C2000000/">
+    <title>パラマウント1〜3月、純利益11%増　動画配信で加入者増</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0426J0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T08:03:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN050380V00C26A5000000/">
+    <title>米SEC、マスク氏に罰金2.3億円　X買収時の報告違反で和解</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN050380V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T06:59:31+09:00</dc:date>
+  </item>
+</rdf:RDF>
