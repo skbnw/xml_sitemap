@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2026-05-07T11:13:57+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC070W00X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC070IJ0X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC070IC0X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH0614F0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH302NI0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH252MK0V20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH061390W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH040A40U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC062VB0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC062G50W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH061XE0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC062760W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0615H0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH060X50W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC061IB0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC061CZ0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0617C0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC061B50W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0614W0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0612N0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC060M60W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC060Q30W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC060RD0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC060LC0W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC060J00W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC060700W6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH2449E0U6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD051180V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH0501R0V00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC051K60V00C26A5000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC070W00X00C26A5000000/">
+    <title>イングランド女子リーグ、長谷川唯らのマンCが優勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC070W00X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T09:49:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC070IJ0X00C26A5000000/">
+    <title>欧州CL、前回王者パリSGが決勝へ　バイエルン敗退</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC070IJ0X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T09:34:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC070IC0X00C26A5000000/">
+    <title>佐々木朗希、次回登板は10日　本拠地でのブレーブス戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC070IC0X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T09:07:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH0614F0W6A500C2000000/">
+    <title>世界卓球､日本女子8強入り　エース起用のカットマン橋本帆乃香が躍動</title>
+    <link>https://www.nikkei.com/article/DGXZQODH0614F0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T05:02:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH302NI0Q6A430C2000000/">
+    <title>阪神・工藤泰成、投球スタイル変えて挑む2年目　変化球を活用</title>
+    <link>https://www.nikkei.com/article/DGXZQODH302NI0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH252MK0V20C26A4000000/">
+    <title>ラグビーリーグワン「日本育ち優遇」は正当か　帰化選手が公取委に訴え</title>
+    <link>https://www.nikkei.com/article/DGXZQODH252MK0V20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH061390W6A500C2000000/">
+    <title>世界卓球・男子日本8強へ　張本智和2勝、自滅の1回戦から切り替え</title>
+    <link>https://www.nikkei.com/article/DGXZQODH061390W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH040A40U6A500C2000000/">
+    <title>コルダ2戦連続V　渋野日向子は出場機会増やせず　リビエラマヤOP</title>
+    <link>https://www.nikkei.com/article/DGXZQODH040A40U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC062VB0W6A500C2000000/">
+    <title>イラン・サッカー連盟、FIFAと20日に会談　ロイター報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC062VB0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-07T01:02:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC062G50W6A500C2000000/">
+    <title>世界卓球団体戦、日本は男女ともに8強入り</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC062G50W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T22:51:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH061XE0W6A500C2000000/">
+    <title>J1鹿島、盤石の戦いで「茨城ダービー」雪辱　次節にも東の1位確定</title>
+    <link>https://www.nikkei.com/article/DGXZQODH061XE0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T22:42:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC062760W6A500C2000000/">
+    <title>J1百年構想リーグ、名古屋が西首位浮上</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC062760W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T21:49:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0615H0W6A500C2000000/">
+    <title>6日のJ1百年構想リーグ　結果と戦評</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0615H0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T21:49:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH060X50W6A500C2000000/">
+    <title>西武・渡部聖弥が初の満塁弾　打線絶好調、5月は3度目2ケタ得点</title>
+    <link>https://www.nikkei.com/article/DGXZQODH060X50W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T19:47:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC061IB0W6A500C2000000/">
+    <title>サッカー三浦知良、最年長出場記録を更新　Jリーグ公式戦に先発</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC061IB0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T18:43:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC061CZ0W6A500C2000000/">
+    <title>J2・J3百年構想リーグ、宮崎が西B組1位確定</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC061CZ0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T18:41:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0617C0W6A500C2000000/">
+    <title>6日のプロ野球　結果と戦評</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0617C0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T18:29:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC061B50W6A500C2000000/">
+    <title>安青錦が稽古で足首負傷、病院へ　かど番の夏場所4日前</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC061B50W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T18:20:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0614W0W6A500C2000000/">
+    <title>ゴルフ菅楓華「上位にいける」　国内メジャー初戦に自信</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0614W0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T16:16:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0612N0W6A500C2000000/">
+    <title>タイガー・ウッズが全米プロ欠場　マスターズに続き、ミケルソンも</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0612N0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T15:31:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC060M60W6A500C2000000/">
+    <title>大谷翔平、2失点と好投も2敗目喫す　岡本和真は10号ソロ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC060M60W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T14:35:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC060Q30W6A500C2000000/">
+    <title>八村塁18得点、レーカーズ黒星発進　NBAプレーオフ西地区準決勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC060Q30W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T13:07:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC060RD0W6A500C2000000/">
+    <title>今井達也、マイナー戦で3回1失点　2度目のリハビリ登板</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC060RD0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T12:56:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC060LC0W6A500C2000000/">
+    <title>松井裕樹、メジャーに復帰　左脚故障を経てベンチ入り</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC060LC0W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T11:39:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC060J00W6A500C2000000/">
+    <title>菊池雄星、3〜4週間ノースロー調整　左肩炎症で</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC060J00W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T11:09:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC060700W6A500C2000000/">
+    <title>サッカー欧州CL、アーセナルが決勝へ　20年ぶり</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC060700W6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T09:06:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH2449E0U6A420C2000000/">
+    <title>ブラインドサッカー男子、堅守でアジア準V　パラ出場に層の厚み必須</title>
+    <link>https://www.nikkei.com/article/DGXZQODH2449E0U6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD051180V00C26A5000000/">
+    <title>二宮和弘氏が死去　モントリオール五輪柔道金メダリスト</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD051180V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH0501R0V00C26A5000000/">
+    <title>世界卓球、日本女子クロアチアに完勝で16強　18歳面手凜が初勝利</title>
+    <link>https://www.nikkei.com/article/DGXZQODH0501R0V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T22:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC051K60V00C26A5000000/">
+    <title>世界卓球団体戦、日本女子はクロアチアに快勝　決勝T1回戦突破</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC051K60V00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-05T20:16:09+09:00</dc:date>
+  </item>
+</rdf:RDF>
