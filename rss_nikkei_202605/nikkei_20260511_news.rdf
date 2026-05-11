@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-05-11T11:12:35+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM101R80Q6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110P90R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD27AMP0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB167JV0W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCA2046G0Q6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR042BJ0U6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC111870R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110SR0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1118A0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110SW0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110SM0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110FR0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110QC0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110VF0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110OT0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110LL0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL111350R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110WS0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGS083H10Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110S60R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110JK0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA110XZ0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD083E80Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110DD0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110BM0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB110PL0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110BE0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA071CR0X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1105H0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC083AJ0Y6A500C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM101R80Q6A510C2000000/">
+    <title>中国の消費者物価、4月1.2%上昇で伸び拡大　7カ月連続プラス</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM101R80Q6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T11:07:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110P90R10C26A5000000/">
+    <title>太陽誘電株価が一時7.9%安　27年3月期22%増益、予想下回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110P90R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T11:02:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD27AMP0X20C26A4000000/">
+    <title>「サムライの目」で訪日客呼び込む　名鉄観光、脱・名古屋飛ばしへ一手</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD27AMP0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB167JV0W6A410C2000000/">
+    <title>保険会社の代理店手数料、金融庁が調査　短期乗り換え促す構造にメス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB167JV0W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCA2046G0Q6A420C2000000/">
+    <title>ナフサやエチレンの複雑な供給網　中東情勢どう影響？</title>
+    <link>https://www.nikkei.com/article/DGXZQOCA2046G0Q6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR042BJ0U6A500C2000000/">
+    <title>シリア難民帰還加速、レバノンから30万人　混迷中東で「比較的安定」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR042BJ0U6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC111870R10C26A5000000/">
+    <title>伊東純也今季5点目　海外サッカー、鎌田大地・佐野海舟らフル出場</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC111870R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:54:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110SR0R10C26A5000000/">
+    <title>八村塁、プレーオフ第4戦「一戦ずつ戦う」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110SR0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:54:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1118A0R10C26A5000000/">
+    <title>久常涼は45位、松山英樹71位　米男子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1118A0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:53:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110SW0R10C26A5000000/">
+    <title>岡本和真・村上宗隆が1安打　大谷翔平は無安打、菅野智之3敗目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110SW0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:49:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110SM0R10C26A5000000/">
+    <title>原英莉花9位、勝みなみが14位　米女子ゴルフ最終日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110SM0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:48:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110FR0R10C26A5000000/">
+    <title>SGHD株価年初来安値　27年3月期増益だが「下押し懸念拭えず」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110FR0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:47:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110QC0R10C26A5000000/">
+    <title>トヨタ自動車株価、続落し連日安値　「割安感強い」との見方も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110QC0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:45:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110VF0R10C26A5000000/">
+    <title>上海株寄り付き　反発で始まる　4月の貿易統計好感　半導体株高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110VF0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:44:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110OT0R10C26A5000000/">
+    <title>ホンダの株価が反落　26年3月期営業赤字の報道、関心はHV戦略へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110OT0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:40:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110LL0R10C26A5000000/">
+    <title>任天堂株価一時1年9カ月ぶり安値　27年3月期見通し予想に届かず</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110LL0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:38:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL111350R10C26A5000000/">
+    <title>香港株寄り付き　続落で始まる　米中首脳会談前に利益確定売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL111350R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:37:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110WS0R10C26A5000000/">
+    <title>外為10時　円相場、軟調　一時157円台前半　実需の売りで</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110WS0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:33:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGS083H10Y6A500C2000000/">
+    <title>タイのタクシン元首相仮釈放、汚職で禁錮1年　政局に波及も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGS083H10Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:31:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110S60R10C26A5000000/">
+    <title>東証10時　日経平均は上げ幅縮小　ソフトバンクG下げに転じる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110S60R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:26:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110JK0R10C26A5000000/">
+    <title>人民元基準値、対米ドルで6.8467元　前週末比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110JK0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:26:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA110XZ0R10C26A5000000/">
+    <title>ハンタウイルス発生船の日本人乗客が英国着　外務省｢健康に問題なし」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA110XZ0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD083E80Y6A500C2000000/">
+    <title>米中、怒りと不信の「静寂」　トランプ訪中のジレンマ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD083E80Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110DD0R10C26A5000000/">
+    <title>商品9時30分　原油、大幅続伸　米イラン交渉難航で　金は反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110DD0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T09:49:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110BM0R10C26A5000000/">
+    <title>東証寄り付き　日経平均は反発で始まる　米ハイテク株高で　一時最高値上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110BM0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T09:31:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB110PL0R10C26A5000000/">
+    <title>ドバイ原油・11日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB110PL0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T09:28:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110BE0R10C26A5000000/">
+    <title>日経平均、反発　最高値上回る　一時500円高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110BE0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T09:17:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA071CR0X00C26A5000000/">
+    <title>農地の2割「所有者不明・不在」　集約妨げ、耕作放棄地拡大のおそれ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA071CR0X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T09:10:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1105H0R10C26A5000000/">
+    <title>債券寄り付き　先物、続落　原油高が重荷、米・イラン交渉に不透明感</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1105H0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T09:06:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC083AJ0Y6A500C2000000/">
+    <title>アイチコーポレーション、把持式穴掘建柱車を発売</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC083AJ0Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-11T09:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
