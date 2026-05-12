@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-05-12T10:13:49+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1210Q0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1205E0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF120NF0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120IJTS6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA116VD0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA115CH0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB120MM0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120K80S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA117X90R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1180T0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB120MU0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB112Z60R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120KP0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC120AH0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN11B0T0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120KS0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC089OX0Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120DG0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120M30S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1208X0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD115GL0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN11B5I0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC115X40R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN120810S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120270S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1209B0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1204C0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL110MLTR10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL11AWM0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN11AWE0R10C26A5000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1210Q0S6A510C2000000/">
+    <title>小泉防衛相、ホルムズ海峡巡る多国間会合へ　戦闘終結後の支援協議</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1210Q0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T10:11:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1205E0S6A510C2000000/">
+    <title>GM、IT人員を最大600人削減　次世代技術へ備え</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1205E0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T10:10:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF120NF0S6A510C2000000/">
+    <title>パナソニック、補聴器事業から撤退　33年まで修理対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF120NF0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T10:02:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120IJTS6A510C2000000/">
+    <title>米テックご意見番「27年にかけナスダック3万台」　AIラリー継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120IJTS6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T10:02:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA116VD0R10C26A5000000/">
+    <title>3月の消費支出2.9%減、4カ月連続マイナス　強まる節約志向</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA116VD0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T10:01:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA115CH0R10C26A5000000/">
+    <title>ふるさと納税11.5%が仲介手数料に　総務省、事業者に引き下げ要請へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA115CH0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T10:00:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB120MM0S6A510C2000000/">
+    <title>日経平均株価一時700円高、6万3000円上回る　米半導体株高受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB120MM0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:51:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120K80S6A510C2000000/">
+    <title>商品9時30分　原油、続伸　供給停滞が続くとの見方で　金は反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120K80S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:47:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA117X90R10C26A5000000/">
+    <title>高市首相、Mythos念頭にサイバー対策指示　重要インフラ対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA117X90R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:39:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1180T0R10C26A5000000/">
+    <title>4月末の外貨準備高、2カ月ぶり増加　金価格が上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1180T0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:39:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB120MU0S6A510C2000000/">
+    <title>ドバイ原油・12日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB120MU0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:37:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB112Z60R10C26A5000000/">
+    <title>長期金利上昇、一時29年ぶり2.54%　原油高でインフレ懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB112Z60R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:33:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120KP0S6A510C2000000/">
+    <title>東証寄り付き　日経平均は反発　最高値を一時上回る　米半導体株高で買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120KP0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:26:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC120AH0S6A510C2000000/">
+    <title>田中碧が終盤まで出場、守田英正は後半途中まで　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC120AH0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:13:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN11B0T0R10C26A5000000/">
+    <title>米半導体株の熱狂「1〜2年は続く」　バブルではなくブームか</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN11B0T0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:12:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120KS0S6A510C2000000/">
+    <title>日経平均、反発で始まる　米半導体株高で買い先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120KS0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:08:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC089OX0Y6A500C2000000/">
+    <title>北国銀行、宇出津支店建て替え　ホームセンターに一時移転</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC089OX0Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120DG0S6A510C2000000/">
+    <title>日経平均先物、大取で反発　490円高の6万2890円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120DG0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T08:52:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120M30S6A510C2000000/">
+    <title>債券寄り付き　先物が続落、原油高が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120M30S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T08:51:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1208X0S6A510C2000000/">
+    <title>外為8時30分　円相場、下落し157円台前半　対ユーロでも下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1208X0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T08:44:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD115GL0R10C26A5000000/">
+    <title>天皇皇后両陛下、6月13〜26日にオランダ・ベルギー訪問　閣議で決定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD115GL0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T08:39:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN11B5I0R10C26A5000000/">
+    <title>トランプ氏「台湾への武器売却、習氏と話し合う」　米中会談で議題に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN11B5I0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T08:33:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC115X40R10C26A5000000/">
+    <title>ソニー系、さらに冷たい「着るエアコン」　前モデル比2度低く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC115X40R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T08:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN120810S6A510C2000000/">
+    <title>米政府、原油備蓄の14%を放出　5330万バレルを企業に貸し出し</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN120810S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T07:49:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120270S6A510C2000000/">
+    <title>日経平均株価、米半導体株高が追い風（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120270S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T07:45:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1209B0S6A510C2000000/">
+    <title>「UAEが4月にイラン石油施設を攻撃」と米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1209B0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T07:31:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1204C0S6A510C2000000/">
+    <title>今日の株価材料（新聞など、12日）イビデンの27年3月期、営業益45%増</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1204C0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T07:31:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL110MLTR10C26A5000000/">
+    <title>任天堂株急落　値上げでスイッチ2普及ペース鈍化を懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL110MLTR10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T07:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL11AWM0R10C26A5000000/">
+    <title>NY株ハイライト　極まるモメンタム相場、「逆回転」への備え推奨も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL11AWM0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T07:14:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN11AWE0R10C26A5000000/">
+    <title>トランプ氏訪中、イーロン・マスク氏ら米企業トップ十数人が同行</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN11AWE0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T07:09:49+09:00</dc:date>
+  </item>
+</rdf:RDF>
