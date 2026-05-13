@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-05-13T11:14:36+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC083S40Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1317D0T10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF184AI0Y6A310C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF130RR0T10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC08A990Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC089BT0Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD128M50S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC247VP0U6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC077MA0X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC2873Z0Y6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC166S60W6A410C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC016BW0R00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF214XZ0R20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF124JM0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC014DF0R00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA013SI0R00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF033OK0T00C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC303MB0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF023EC0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0429Q0U6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF281XL0Y6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC281UJ0Y6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC301IV0Q6A430C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC178YV0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC081E30Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1119X0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC110OY0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC100G40Q6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC119LG0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC08A2K0Y6A500C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC083S40Y6A500C2000000/">
+    <title>データセンター、地方分散じわり　電力などインフラ確保がカギ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC083S40Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1317D0T10C26A5000000/">
+    <title>あいちFGと三十三FGが経営統合へ　総資産11兆円超、県境超え再編加速</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1317D0T10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T10:18:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF184AI0Y6A310C2000000/">
+    <title>社員が抜き取った売れ筋情報、営業秘密に当たるか　裁判所は否定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF184AI0Y6A310C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF130RR0T10C26A5000000/">
+    <title>ニデック、品質問題「不適切行為疑いが判明」　調査委設置検討を発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF130RR0T10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T09:56:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC08A990Y6A500C2000000/">
+    <title>高速、株主優待制度拡充　8月末基準日にQUOカード2000円分</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC08A990Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC089BT0Y6A500C2000000/">
+    <title>製茶問屋の小柳津清一商店、海外向け抹茶生産強化　27年夏に新工場</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC089BT0Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD128M50S6A510C2000000/">
+    <title>ノリタケ社長「祖業の食器は続ける」　物言う株主の撤退要求に反論</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD128M50S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC247VP0U6A420C2000000/">
+    <title>千葉・市川市、人口50万人突破　転入で膨らむ20〜30代の「山」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC247VP0U6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC077MA0X00C26A5000000/">
+    <title>農業で地域を元気に、松山市の長野隆介さん　担い手をネットワーク化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC077MA0X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC2873Z0Y6A420C2000000/">
+    <title>北海道で宿泊税導入1カ月、現場の混乱少なく　旅行者への周知は途上</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC2873Z0Y6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC166S60W6A410C2000000/">
+    <title>不利に負けない小笠原農協　高単価の南国フルーツ、直接販売で黒字</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC166S60W6A410C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC016BW0R00C26A5000000/">
+    <title>カプセルトイで山口元気に、自治体キャラ推し　サードプラネット支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC016BW0R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF214XZ0R20C26A4000000/">
+    <title>大阪4大オーケストラ「踊り」テーマに競演　情熱・躍動・明晰・甘美</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF214XZ0R20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF124JM0S6A510C2000000/">
+    <title>南海フェリー・小林社長「回復の絵描けず」　和歌山―徳島2年後廃止</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF124JM0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC014DF0R00C26A5000000/">
+    <title>セイヒョー、29年に売上高70億円へ　富山工場ハブに西へ販路拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC014DF0R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA013SI0R00C26A5000000/">
+    <title>立命館大・中須賀真一氏、宇宙産業まず5年官主導で　民間需要は後続</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA013SI0R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF033OK0T00C26A4000000/">
+    <title>新晃工業、データセンター空調を6割増産　空冷になお商機</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF033OK0T00C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC303MB0Q6A430C2000000/">
+    <title>コンクリート製品、製造時のCO2を8割削減　日本興業などが開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC303MB0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF023EC0S6A400C2000000/">
+    <title>村田製作所、社員の特許報奨10年で2.5倍　中韓に対抗で世界首位堅守</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF023EC0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0429Q0U6A400C2000000/">
+    <title>SLが鉄路走る姿、後世に引き継ぎたい　旧国鉄機関士の田村力さん</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0429Q0U6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF281XL0Y6A420C2000000/">
+    <title>佐藤圭一さん（3）南アフリカの植民都市を調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF281XL0Y6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC281UJ0Y6A420C2000000/">
+    <title>金沢工大が漁業体験ゲーム　「ハッカソン」で課題解決、石川県で推進</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC281UJ0Y6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC301IV0Q6A430C2000000/">
+    <title>北日本造船、ケミカルタンカー受注1000億円　レアメタル削減技術評価</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC301IV0Q6A430C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC178YV0X10C26A4000000/">
+    <title>富山ガラス造形研究所長の本郷仁氏、作家育成やまちづくりに注力</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC178YV0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC081E30Y6A500C2000000/">
+    <title>マツダ、トランプ関税から反転で3倍増益へ　リスクは中東情勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC081E30Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1119X0R10C26A5000000/">
+    <title>磐越道バス事故、部活引率「現場任せ」鮮明　安全とコストの両立悩む</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1119X0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC110OY0R10C26A5000000/">
+    <title>北海道物流開発代表の斉藤博之さん　「教え、学び、伝え合う」人材育成</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC110OY0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC100G40Q6A510C2000000/">
+    <title>香川の服部水産、「ハマチ養殖発祥の地」でサーモン　独自ブランドも</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC100G40Q6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC119LG0R10C26A5000000/">
+    <title>EIZO悩ます欧州と病院、けん引役は防衛　27年3月期は営業増益</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC119LG0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-13T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC08A2K0Y6A500C2000000/">
+    <title>南陽の純利益4%減22億円　27年3月期、負ののれん益の反動</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC08A2K0Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-12T21:40:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
