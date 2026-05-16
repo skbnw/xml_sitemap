@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-05-16T11:15:56+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD160MB0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH14B4B0U6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB14A2F0U6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB082ZE0Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF121GY0S6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD14B2K0U6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC160LQ0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC160KW0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC160K80W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC160G20W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1607T0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGS085V00Y6A500C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN160CV0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB160HZ0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB160GY0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC160E70W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC160DO0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH150ZI0V10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB160AV0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1603O0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL15CX70V10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN15D7S0V10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1603F0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN160010W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL15D250V10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL15CX60V10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1601G0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF135J90T10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL15CX30V10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN14DQD0U6A510C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD160MB0W6A510C2000000/">
+    <title>栃木の強盗殺人事件、3人目の16歳少年を逮捕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD160MB0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T11:02:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH14B4B0U6A510C2000000/">
+    <title>W杯日本代表、28年で海外組はゼロから88%に　実りのアラサーに強み</title>
+    <link>https://www.nikkei.com/article/DGXZQODH14B4B0U6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB14A2F0U6A510C2000000/">
+    <title>ホルムズ通過のLNG船、18日にも日本到着　海峡封鎖後で初</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB14A2F0U6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB082ZE0Y6A500C2000000/">
+    <title>ロシア、ウクライナ捕虜家族を脅迫　解放ほのめかし破壊工作へ誘導か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB082ZE0Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF121GY0S6A510C2000000/">
+    <title>立命館大・中須賀真一氏、宇宙開発「5年は官主導」　関西企業と協力</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF121GY0S6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD14B2K0U6A510C2000000/">
+    <title>天皇皇后両陛下が愛媛へ出発　全国植樹祭、西日本豪雨被災者と懇談も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD14B2K0U6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T10:45:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC160LQ0W6A510C2000000/">
+    <title>サッカーW杯チュニジア代表、スヒリやケディラら選出　日本と対戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC160LQ0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T10:39:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC160KW0W6A510C2000000/">
+    <title>ドジャース左腕スネル、再び負傷者リスト入り　左肘関節の骨片影響</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC160KW0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T10:38:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC160K80W6A510C2000000/">
+    <title>松山英樹、1打差の3位に浮上　全米プロゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC160K80W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T10:36:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC160G20W6A510C2000000/">
+    <title>竹田麗央5位に後退、原英莉花は16位　米女子ゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC160G20W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T09:59:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1607T0W6A510C2000000/">
+    <title>トランプ氏、台湾へ武器売却「するかも、しないかも」　交渉の切り札に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1607T0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T09:58:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGS085V00Y6A500C2000000/">
+    <title>天然ゴム、中東危機で代替需要拡大　タイの世界最大手は販売1割増</title>
+    <link>https://www.nikkei.com/article/DGXZQOGS085V00Y6A500C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T09:46:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN160CV0W6A510C2000000/">
+    <title>スペースX、6月12日にナスダック上場計画　史上最大IPO</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN160CV0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T09:46:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB160HZ0W6A510C2000000/">
+    <title>トランプ米大統領、苦戦報道は「反逆行為」　イラン情勢巡り</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB160HZ0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T09:46:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB160GY0W6A510C2000000/">
+    <title>トランプ米大統領、株式取引で過料3万円　MicrosoftやAmazon株</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB160GY0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T09:39:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC160E70W6A510C2000000/">
+    <title>日本は米国などと同組　サッカー女子U20W杯抽選</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC160E70W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T09:29:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC160DO0W6A510C2000000/">
+    <title>遠藤航メンバー外、左足負傷で復帰目指す　プレミアリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC160DO0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T09:19:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH150ZI0V10C26A5000000/">
+    <title>16日の有力馬　新潟大賞典など競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH150ZI0V10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T08:53:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB160AV0W6A510C2000000/">
+    <title>イスラエル、ハマス幹部を標的にガザ空爆　武装解除へ圧力</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB160AV0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T08:19:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1603O0W6A510C2000000/">
+    <title>米司法当局、ブラックロックの融資ファンドを捜査　米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1603O0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T07:27:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL15CX70V10C26A5000000/">
+    <title>NY円相場、続落　1ドル158円70〜80銭、原油高や米利上げ観測で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL15CX70V10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T06:49:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN15D7S0V10C26A5000000/">
+    <title>トランプ氏、イラン核開発停止「20年で十分」　濃縮ウラン撤去条件</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN15D7S0V10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T06:45:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1603F0W6A510C2000000/">
+    <title>FRB、パウエル氏が議長代行に　ウォーシュ氏就任まで</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1603F0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T06:40:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN160010W6A510C2000000/">
+    <title>トランプ氏、1〜3月の証券売買3600回超　資産報告書を公開</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN160010W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T06:37:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL15D250V10C26A5000000/">
+    <title>日経平均先物、大取の夜間取引で下落　240円安の6万1800円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL15D250V10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T06:27:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL15CX60V10C26A5000000/">
+    <title>NY債券、長期債続落　10年債利回り4.59%　1年ぶり高水準　原油高や米利上げ観測で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL15CX60V10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T06:08:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1601G0W6A510C2000000/">
+    <title>米バークシャー、Amazon株全て売却　アルファベット株は買い増し</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1601G0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T06:02:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF135J90T10C26A5000000/">
+    <title>パナソニックHD、自治体向けに街灯のAI劣化診断　作業3分の1に削減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF135J90T10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL15CX30V10C26A5000000/">
+    <title>米NYダウ一時500ドル安　金利急騰が冷やした陶酔</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL15CX30V10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T05:50:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN14DQD0U6A510C2000000/">
+    <title>米国の仮想通貨法案、成立に一歩前進　業界が熱望する「監督決定」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN14DQD0U6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-16T05:48:27+09:00</dc:date>
+  </item>
+</rdf:RDF>
