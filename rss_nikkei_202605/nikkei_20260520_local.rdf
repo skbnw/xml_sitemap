@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-05-20T10:14:25+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2013I0Q6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC2016S0Q6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC182JY0Y6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC13AEW0T10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC079SI0X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0799Y0X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2790C0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC177M00X10C26A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC176PS0X10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC245SC0U6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC305OV0Q6A330C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC175A30X10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC274LH0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC213DZ0R20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC272BA0X20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC181JV0Y6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC191CM0Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC190WK0Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC160HC0W6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF070HA0X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC142640U6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC172H00X10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1979C0Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD199GE0Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF1970G0Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC195530Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC198J00Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC197C70Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD195Z80Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF195LM0Z10C26A5000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2013I0Q6A520C2000000/">
+    <title>磐越道バス事故、運転の容疑者宅を捜索　福島県警</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2013I0Q6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T10:08:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC2016S0Q6A520C2000000/">
+    <title>国交省、スターフライヤー厳重注意　救命胴衣の交換期限反映せず</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC2016S0Q6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T10:02:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC182JY0Y6A510C2000000/">
+    <title>小売店舗変革に「現場で考えるAI」　北大発の新興、低コストで海外へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC182JY0Y6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC13AEW0T10C26A5000000/">
+    <title>札幌農学校からつないだ「育種」　開拓支えた技術、国際貢献に発展</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC13AEW0T10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC079SI0X00C26A5000000/">
+    <title>ピックルボール普及、母娘ペアで挑む　小湊陽子さん</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC079SI0X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0799Y0X00C26A5000000/">
+    <title>シャープ河村哲治社長「文句言われる関係」築く　欧米で浪速の営業流儀</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0799Y0X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2790C0X20C26A4000000/">
+    <title>大阪・池田のニュータウン、28年ぶりコンビニ　ローソンと市が連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2790C0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC177M00X10C26A2000000/">
+    <title>人手不足は好機　造船のまち今治で進むDXや外国人共生の実証実験</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC177M00X10C26A2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC176PS0X10C26A4000000/">
+    <title>高専人材を幸せに　新潟・プロッセルHDのCEO・横山和輝さん</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC176PS0X10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC245SC0U6A420C2000000/">
+    <title>サイボウズ･青野慶久さん（3）入社4年目で起業、設立3年で上場</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC245SC0U6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC305OV0Q6A330C2000000/">
+    <title>企業集積進む群馬・明和町長、「定住できる場所づくりを推進」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC305OV0Q6A330C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC175A30X10C26A3000000/">
+    <title>日光国立公園が日光で「ストーリー集」　地域ぐるみで滞在体験を発信</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC175A30X10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC274LH0X20C26A4000000/">
+    <title>長崎・五島で藻のスキンケア化粧品　コーセーOBら都内拠点で全国へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC274LH0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC213DZ0R20C26A4000000/">
+    <title>東京狭山茶→TOKYO MATCHA　都、茶農家の抹茶シフト後押し</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC213DZ0R20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC272BA0X20C26A4000000/">
+    <title>長瀬産業、半導体現像液をリサイクル　安定供給で地政学リスク軽減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC272BA0X20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC181JV0Y6A510C2000000/">
+    <title>逸品売る地域商社へ、福島・郡山　うすい百貨店社長「売り場縮小も」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC181JV0Y6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC191CM0Z10C26A5000000/">
+    <title>保育園留学のキッチハイク、鹿児島県錦江町と二地域居住で協定</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC191CM0Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC190WK0Z10C26A5000000/">
+    <title>洋菓子のノウハウ生かし新風　尾道・桂馬蒲鉾商店の村上優美さん</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC190WK0Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC160HC0W6A510C2000000/">
+    <title>北陸企業の6割が営業損益改善へ　価格転嫁進む、防衛・宇宙も寄与</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC160HC0W6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF070HA0X00C26A5000000/">
+    <title>弟子に伝わる真摯な態度　嵯峨嵐山文華館「それいけ！応挙塾」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF070HA0X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC142640U6A510C2000000/">
+    <title>敦賀海陸運輸・有馬社長「モーダルシフト追い風、設備増強で対応力」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC142640U6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC172H00X10C26A5000000/">
+    <title>北海道・十勝ぶどう園の中村利雄さん、信金役員定年後にワイナリー起業</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC172H00X10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-20T01:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1979C0Z10C26A5000000/">
+    <title>栃木強殺事件、逮捕6人は当日に初集合か　被害者次男宅が窃盗被害</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1979C0Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-19T22:37:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD199GE0Z10C26A5000000/">
+    <title>兵庫県たつの市の住宅、刺し傷ある母娘の遺体　事件に巻き込まれたか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD199GE0Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-19T22:34:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF1970G0Z10C26A5000000/">
+    <title>ハークスレイ、ハークスレイホールディングスに社名変更　7月1日から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF1970G0Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-19T19:36:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC195530Z10C26A5000000/">
+    <title>神奈川県私立中学高等学校協会、「特別市」に反対　教育の分断を懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC195530Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-19T19:32:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC198J00Z10C26A5000000/">
+    <title>石油製品「目詰まり懸念」相次ぐ　神奈川県が中小企業対策協議会</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC198J00Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-19T19:31:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC197C70Z10C26A5000000/">
+    <title>TDK、JSファンダリの新潟工場取得へ　脱炭素電源やGX投資に期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC197C70Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-19T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD195Z80Z10C26A5000000/">
+    <title>日本車両、台湾向け新型車両出荷　新幹線「N700S」ベースに設計</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD195Z80Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-19T19:21:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF195LM0Z10C26A5000000/">
+    <title>三同建設、遠隔操作で建物解体　コベルコ建機と共同で改善策を検証</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF195LM0Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-19T19:20:43+09:00</dc:date>
+  </item>
+</rdf:RDF>
