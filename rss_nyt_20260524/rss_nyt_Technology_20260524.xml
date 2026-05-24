@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 24 May 2026 07:49:50 +0000</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 01:44:16 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models</title>
+      <link>https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html" rel="standout"></atom:link>
+      <description>The president said he postponed the executive order, which would give the government power to evaluate A.I. models before their release, over concerns about “aspects of it.”</description>
+      <dc:creator>Tripp Mickle and Sheera Frenkel</dc:creator>
+      <pubDate>Thu, 21 May 2026 17:47:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21biz-ai-trump-eo-sub-lqbp/21biz-ai-trump-eo-sub-lqbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>On Wednesday President Trump invited A.I. chief executives to Thursday’s signing event, but many could not make it in time.</media:description>
+    </item>
+    <item>
+      <title>Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss</title>
+      <link>https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html" rel="standout"></atom:link>
+      <description>Gov. Gavin Newsom issued an executive order to explore an overhaul of labor policies to deal with potential mass job displacement from artificial intelligence.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Thu, 21 May 2026 15:26:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vocational Training</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21biz-newsom-AI-cfmv/21biz-newsom-AI-cfmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeff Chiu/Associated Press</media:credit>
+      <media:description>Gov. Gavin Newsom’s mandate is more exploratory in ideas than a law that will immediately change the jobs picture for California residents.</media:description>
+    </item>
+    <item>
+      <title>Trump Approved a Nvidia Chip for Sale in China. Beijing Doesn’t Want It.</title>
+      <link>https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html" rel="standout"></atom:link>
+      <description>The U.S. tech giant’s powerful H200 chip seemed poised to boost Beijing’s A.I. ambitions, but not a single one has been purchased in China.</description>
+      <dc:creator>Meaghan Tobin and Tripp Mickle</dc:creator>
+      <pubDate>Thu, 21 May 2026 12:21:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/20/multimedia/00Biz-China-Nvidia-02-wfmj/00Biz-China-Nvidia-02-wfmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Jensen Huang, the chief executive of Nvidia, said he did not bring up the chip with Chinese officials in Beijing last week.</media:description>
+    </item>
+    <item>
+      <title>Bluesky Says Kremlin Is Hacking Its Platform to Spread Propaganda</title>
+      <link>https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html" rel="standout"></atom:link>
+      <description>The company said it was fighting Russian efforts to hijack real users’ accounts to post fake content, an apparently novel tactic.</description>
+      <dc:creator>Steven Lee Myers</dc:creator>
+      <pubDate>Thu, 21 May 2026 09:02:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bluesky (Social Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="684" medium="image" url="https://static01.nyt.com/images/2026/05/18/business/00Bluesky-Disinfo/00Bluesky-Disinfo-mediumSquareAt3X.jpg" width="684"></media:content>
+      <media:credit>Davide Bonaldo/Sipa USA, via Associated Press</media:credit>
+      <media:description>Russia hacked into the accounts of real people on Bluesky to spread fake articles, the social media platform said. </media:description>
+    </item>
+    <item>
+      <title>Waymo Suspends Service in Six Cities After Cars Drove Into Flooded Roads</title>
+      <link>https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html" rel="standout"></atom:link>
+      <description>The temporary shutdowns came after videos emerged showing two Waymo cars stopped on swamped streets in Atlanta on Wednesday.</description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Fri, 22 May 2026 21:24:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Highway Traffic Safety Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22xp-waymo-bvwl/22xp-waymo-bvwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Loren Elliott for The New York Times</media:credit>
+      <media:description>Waymo also announced it was temporarily halting its highway service this week to improve its navigation system. </media:description>
+    </item>
+    <item>
+      <title>Google Appeals Landmark Ruling Declaring It a Monopolist in Search</title>
+      <link>https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html" rel="standout"></atom:link>
+      <description>Google asked a federal appeals court on Friday to reverse a judge’s ruling that it had violated antitrust laws, as well as a requirement it share some data with rivals.</description>
+      <dc:creator>David McCabe</dc:creator>
+      <pubDate>Fri, 22 May 2026 17:59:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mehta, Amit P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22biz-google-hfo-qjbt/22biz-google-hfo-qjbt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kelsey McClellan for The New York Times</media:credit>
+      <media:description>The Google campus in Mountain View, Calif.</media:description>
+    </item>
+    <item>
+      <title>Sundar Pichai Understands Why People Are Anxious About A.I.</title>
+      <link>https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html" rel="standout"></atom:link>
+      <description>After a busy Google I/O, the company’s chief executive sits down with the hosts of “Hard Fork” to discuss the future of Google Search, how he’s using A.I. agents and his advice for college graduates.</description>
+      <dc:creator>Kevin Roose, Casey Newton and Whitney Jones</dc:creator>
+      <pubDate>Fri, 22 May 2026 14:49:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="">Gemini (Google)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22hardfork-sundar/22hardfork-sundar-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vjeran Pavic/The New York Times</media:credit>
+      <media:description>“People, rightfully so, are anxious about the future that this technology will bring,” Google’s chief executive, Sundar Pichai, said this week after the company’s annual developer conference.</media:description>
+    </item>
+    <item>
+      <title>Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update</title>
+      <link>https://www.nytimes.com/2026/05/22/podcasts/our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/podcasts/our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/podcasts/our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update.html" rel="standout"></atom:link>
+      <description>“This is the only recent gathering of a large number of people where mentions of A.I. did not produce a large chorus of boos.”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Elisheba Ittoop, Rowan Niemisto and Alyssa Moxley</dc:creator>
+      <pubDate>Fri, 22 May 2026 11:11:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/podcasts/22hardfork-google/22hardfork-google-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Photo by Karl Mondon/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>‘Peanuts’ Music Owner Sues Interior Department and 3 Companies for Copyright Infringement</title>
+      <link>https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html" rel="standout"></atom:link>
+      <description>The owner of the “Peanuts” catalog would really like it if companies and the U.S. government stopped using its music without permission.</description>
+      <dc:creator>Aimee Ortiz</dc:creator>
+      <pubDate>Fri, 22 May 2026 01:43:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Charlie Brown Christmas (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heritage Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guaraldi, Vince</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mendelson, Lee (1933-2019)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21xp-peanuts/21xp-peanuts-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>ABC, via Associated Press</media:credit>
+      <media:description>A scene from “A Charlie Brown Christmas.”</media:description>
+    </item>
+    <item>
+      <title>Meta Settles a School District’s Social Media Addiction Lawsuit</title>
+      <link>https://www.nytimes.com/2026/05/21/technology/meta-settlement-social-media-addiction-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/technology/meta-settlement-social-media-addiction-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/21/technology/meta-settlement-social-media-addiction-lawsuit.html" rel="standout"></atom:link>
+      <description>Snap, TikTok and YouTube had already settled with the Kentucky district, allowing the companies to avert the first in a series of federal trials.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Thu, 21 May 2026 20:21:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/HFO-SOCIALMEDIA-SETTLEMENT-1-tflw/HFO-SOCIALMEDIA-SETTLEMENT-1-tflw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Meta, led by Mark Zuckerberg, shown at the U.S. Capitol in March, lost jury verdicts that month in two similar lawsuits.</media:description>
+    </item>
+    <item>
+      <title>Samsung Averts a Walkout With Big Bonuses, but Discord Over A.I. Profits Brews</title>
+      <link>https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html" rel="standout"></atom:link>
+      <description>Samsung Electronics, a global memory chip supplier, has been a major beneficiary of the A.I boom. It has also become the center of a debate over how to divide its spoils.</description>
+      <dc:creator>Max Kim</dc:creator>
+      <pubDate>Thu, 21 May 2026 18:06:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Electronics Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bonuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SK Group</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/00int-skorea-samsung-01-hpqw/00int-skorea-samsung-01-hpqw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kim Hong-Ji/Reuters</media:credit>
+      <media:description>Outside the Samsung Electronics semiconductor plant in Pyeongtaek, South Korea, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs</title>
+      <link>https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html" rel="standout"></atom:link>
+      <description>On a dark day of layoffs at Meta, one employee responded by creating an internal radio station that plays songs about job cuts — generated by artificial intelligence, of course.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Wed, 20 May 2026 22:57:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/20/multimedia/20biz-meta-layoffs-radio-promo-vwkq/20biz-meta-layoffs-radio-promo-vwkq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO</title>
+      <link>https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html" rel="standout"></atom:link>
+      <description>Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.</description>
+      <dc:creator>Ryan Mac and Lauren Hirsch</dc:creator>
+      <pubDate>Thu, 21 May 2026 00:23:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/14/multimedia/00biz-spacex-finances-hfo-zktq/00biz-spacex-finances-hfo-zktq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Meridith Kohut for The New York Times</media:credit>
+      <media:description>A successful SpaceX offering would bring riches to Wall Street, the company’s employees and, of course, Elon Musk, who is already the world’s richest person.</media:description>
+    </item>
+    <item>
+      <title>OpenAI Prepares to File for an I.P.O. in Coming Weeks</title>
+      <link>https://www.nytimes.com/2026/05/20/technology/openai-ipo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/20/technology/openai-ipo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/20/technology/openai-ipo.html" rel="standout"></atom:link>
+      <description>OpenAI would be one of the most highly anticipated potential initial public offerings, in what is set to be a major year of I.P.O.s for Silicon Valley.</description>
+      <dc:creator>Mike Isaac and Cade Metz</dc:creator>
+      <pubDate>Wed, 20 May 2026 18:41:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morgan Stanley</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goldman Sachs Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/20/multimedia/20biz-openai-ipo-Sam-Altman-jzpm/20biz-openai-ipo-Sam-Altman-jzpm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Sam Altman, OpenAI’s chief executive. The company is facing challenges from the tech giant Google and an A.I. rival, Anthropic. </media:description>
+    </item>
+    <item>
+      <title>Meta Lays Off 8,000 Employees, as A.I. Casualties Mount</title>
+      <link>https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html" rel="standout"></atom:link>
+      <description>Employees have signed petitions against being tracked by A.I. and were trying to figure out who had been let go on Wednesday, as the Silicon Valley giant tries to transform into an A.I.-first company.</description>
+      <dc:creator>Eli Tan, Kalley Huang and Mike Isaac</dc:creator>
+      <pubDate>Wed, 20 May 2026 21:56:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/19/multimedia/9biz-meta-layoffs-hpkt/9biz-meta-layoffs-hpkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian C. Bates for The New York Times</media:credit>
+      <media:description>Meta’s headquarters in Menlo Park, Calif. The company, which renamed itself for the metaverse, is transforming itself for the era of artificial intelligence.</media:description>
+    </item>
+    <item>
+      <title>How Google Is Starting to Win the A.I. Race</title>
+      <link>https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html" rel="standout"></atom:link>
+      <description>Despite its early stumbles, Google’s Gemini has leapfrogged ChatGPT in relevance and usefulness. Soon, it will be ubiquitous.</description>
+      <dc:creator>Brian X. Chen</dc:creator>
+      <pubDate>Tue, 19 May 2026 19:41:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/business/19techfix/19techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sisi Yu</media:credit>
+    </item>
+    <item>
+      <title>Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid</title>
+      <link>https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html" rel="standout"></atom:link>
+      <description>NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Tue, 19 May 2026 15:13:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NextEra Energy Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dominion Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spanberger, Abigail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/19/multimedia/19biz-utility-merger-pjvz/19biz-utility-merger-pjvz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tristan Spinski for The New York Times</media:credit>
+      <media:description>NextEra Energy’s acquisition of Dominion Energy would consolidate utility operations along much of the East Coast, which could shape electricity service for tens of millions of customers.</media:description>
+    </item>
+    <item>
+      <title>Senate Republicans Introduce Funding Measure to Combat Online Child Abuse</title>
+      <link>https://www.nytimes.com/2026/05/19/technology/senate-republicans-funding-combat-online-child-abuse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/technology/senate-republicans-funding-combat-online-child-abuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/19/technology/senate-republicans-funding-combat-online-child-abuse.html" rel="standout"></atom:link>
+      <description>As part of the reconciliation bill, the senators have allocated $108 million over three years to add nearly 200 specialists at the Department of Homeland Security.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Tue, 19 May 2026 18:22:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hawley, Josh D (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/19/multimedia/19biz-CONGRESS-CSAM-cqlk/19biz-CONGRESS-CSAM-cqlk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Senator Josh Hawley, Republican of Missouri, has championed the reconciliation bill.</media:description>
+    </item>
+    <item>
+      <title>Tesla’s Semi Truck could Jolt the Trucking Industry</title>
+      <link>https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html" rel="standout"></atom:link>
+      <description>California truckers have expressed strong interest in the Tesla Semi because it costs much less and can travel further on a charge than electric trucks sold by established manufacturers.</description>
+      <dc:creator>Jack Ewing and Gabriela Bhaskar</dc:creator>
+      <pubDate>Tue, 19 May 2026 20:31:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Daimler Truck AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Beach (Calif)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/00biz-tesla-semis-01-bqvl/00biz-tesla-semis-01-bqvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Screens on either side of a Tesla Semi’s steering wheel provide a view of the traffic around the vehicle.</media:description>
+    </item>
+    <item>
+      <title>As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead</title>
+      <link>https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html" rel="standout"></atom:link>
+      <description>A jury’s rejection of Elon Musk’s $150 billion lawsuit against OpenAI was a major hurdle crossed. But the maker of ChatGPT faces a list of other problems.</description>
+      <dc:creator>Cade Metz and Natallie Rocha</dc:creator>
+      <pubDate>Tue, 19 May 2026 13:32:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/19/multimedia/19biz-openai-future-ljkh/19biz-openai-future-ljkh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo/Reuters</media:credit>
+      <media:description>Lawyers for OpenAI, who won a resounding victory on Monday, outside the federal courthouse in Oakland, Calif. </media:description>
+    </item>
+    <item>
+      <title>Bipartisan Bill Would Impose New Annual Fee on Electric Vehicles</title>
+      <link>https://www.nytimes.com/2026/05/19/business/energy-environment/electrc-vehicles-annual-fee-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/business/energy-environment/electrc-vehicles-annual-fee-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/19/business/energy-environment/electrc-vehicles-annual-fee-congress.html" rel="standout"></atom:link>
+      <description>A House transportation bill introduced this week would require owners of electric cars to pay $130 to cover the cost of road repairs.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Tue, 19 May 2026 18:24:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gasoline Tax (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Transportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Highway Trust Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/19/multimedia/19biz-ev-fees-jvbc/19biz-ev-fees-jvbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maddie McGarvey for The New York Times</media:credit>
+      <media:description>Congress is considering imposing a new annual fee on electric vehicles to help pay for road repairs.</media:description>
+    </item>
+    <item>
+      <title>After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer</title>
+      <link>https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html" rel="standout"></atom:link>
+      <description>Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.</description>
+      <dc:creator>David Streitfeld and Natallie Rocha</dc:creator>
+      <pubDate>Tue, 19 May 2026 00:12:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/20/multimedia/00biz-musk-altman-ai-hlkm/00biz-musk-altman-ai-hlkm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Elon Musk on Monday lost his lawsuit accusing OpenAI and its chief executive, Sam Altman, of breaching the company’s founding contract.</media:description>
+    </item>
+    <item>
+      <title>Meta Reassigns 7,000 Employees to Focus on A.I.</title>
+      <link>https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html" rel="standout"></atom:link>
+      <description>The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Tue, 19 May 2026 00:48:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/18/multimedia/18biz-meta-ai-1-jvzc/18biz-meta-ai-1-jvzc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adrienne Grunwald for The New York Times</media:credit>
+      <media:description>The new Meta Lab flagship store, which sells tech like smart glasses and virtual reality headsets, on Fifth Avenue in Manhattan. </media:description>
+    </item>
+    <item>
+      <title>Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman</title>
+      <link>https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html" rel="standout"></atom:link>
+      <description>A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.</description>
+      <dc:creator>Cade Metz and Mike Isaac</dc:creator>
+      <pubDate>Tue, 19 May 2026 22:26:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brockman, Greg</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez Rogers, Yvonne (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/18/multimedia/18biz-ai-trial-ledeall-brockamn-glbh/18biz-ai-trial-ledeall-brockamn-glbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>OpenAI’s president, Greg Brockman, right, was also named in Mr. Musk’s lawsuit. </media:description>
+    </item>
+    <item>
+      <title>Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI</title>
+      <link>https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html" rel="standout"></atom:link>
+      <description>It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Mon, 18 May 2026 22:45:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brockman, Greg</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/18/multimedia/18biz-openai-trial-takeaways-1-gqtc/18biz-openai-trial-takeaways-1-gqtc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>The federal courthouse in Oakland, Calif., on Monday, when a jury decided that Elon Musk had waited too long to file his lawsuit against OpenAI.</media:description>
+    </item>
+    <item>
+      <title>What to Know About Elon Musk’s Trial Against OpenAI</title>
+      <link>https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html" rel="standout"></atom:link>
+      <description>A jury in Oakland, Calif., reached a decision after a three-week-long trial seen as pivotal for the future of OpenAI and the artificial intelligence race.</description>
+      <dc:creator>Cade Metz and Mike Isaac</dc:creator>
+      <pubDate>Mon, 18 May 2026 19:35:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brockman, Greg</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>
+    </item>
+    <item>
+      <title>Here’s what was on the jury’s list for a decision.</title>
+      <link>https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-what-was-on-the-jurys-list-for-a-decision</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-what-was-on-the-jurys-list-for-a-decision</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-what-was-on-the-jurys-list-for-a-decision" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Natallie Rocha</dc:creator>
+      <pubDate>Mon, 18 May 2026 20:39:17 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/18/multimedia/18openai-trial-verdict-jury-form-ktvh/18openai-trial-verdict-jury-form-ktvh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brennan Smart for The New York Times</media:credit>
+      <media:description>The Ronald V. Dellums U.S. Courthouse in Oakland, Calif.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Cade Metz and Mike Isaac</dc:creator>
+      <pubDate>Mon, 18 May 2026 20:47:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html" rel="standout"></atom:link>
+      <description>For decades, he criticized the industry’s lax attitudes toward computer security and individual digital privacy. He also developed solutions.</description>
+      <dc:creator>John Markoff</dc:creator>
+      <pubDate>Tue, 19 May 2026 17:57:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neumann, Peter G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Advanced Research Projects Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SRI International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/00neumann-kjbp-print1/00neumann-kjbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>Peter G. Neumann in 2012. At his death, he was still working full time on advanced computer security design being adopted by companies like Google and Microsoft.</media:description>
+    </item>
+  </channel>
+</rss>
