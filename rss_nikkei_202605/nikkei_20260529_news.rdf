@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-05-29T10:11:14+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC28A7I0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM27CF00X20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD068KC0W6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD2567O0V20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD284A20Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290DX0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC27CLR0X20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2866V0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC282TQ0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB291250Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL29087TZ20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290GE0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2861Z0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290GS0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA28A9H0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290OC0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290FX0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290AT0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290O90Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD28BGC0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA262CH0W6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA27BFQ0X20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD204SN0Q6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290EM0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290A90Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2668JTW6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL288EP0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2902C0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28D850Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL290250Z20C26A5000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC28A7I0Y6A520C2000000/">
+    <title>中古車「ガリバー」のIDOM、1年目から有休19日　人材確保へ9日増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC28A7I0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T10:02:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM27CF00X20C26A5000000/">
+    <title>中国は今月も人工雨だった　考えたくない「対外威圧カード化」の未来</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM27CF00X20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD068KC0W6A400C2000000/">
+    <title>80代女性が12億円被害、金融機関も欺く「劇場型」特殊詐欺</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD068KC0W6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD2567O0V20C26A5000000/">
+    <title>企業は博士を専門外で生かせ　「半導体×天文学」分野超えるスキルも</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD2567O0V20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD284A20Y6A520C2000000/">
+    <title>盛られた経歴、逆パワハラ…　5月に読みたい｢揺れた天秤｣まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD284A20Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290DX0Z20C26A5000000/">
+    <title>商品9時30分　原油、反落　米イラン暫定合意報道で　金は反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290DX0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:52:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC27CLR0X20C26A5000000/">
+    <title>いわき信用組合が問う「持続的な地域金融」　ガバナンス意識の向上カギ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC27CLR0X20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:50:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2866V0Y6A520C2000000/">
+    <title>東京23区の消費者物価、5月1.3%上昇　水道無償で伸び率縮小</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2866V0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:49:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC282TQ0Y6A520C2000000/">
+    <title>三菱ケミカルとアクセンチュアが合弁会社　事務代行にAI活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC282TQ0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:34:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB291250Z20C26A5000000/">
+    <title>ドバイ原油・29日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB291250Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:29:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL29087TZ20C26A5000000/">
+    <title>フェラーリ初EV、株価は大幅安　市場には「過剰反応」の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL29087TZ20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:27:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290GE0Z20C26A5000000/">
+    <title>東証寄り付き　日経平均は反発　上げ幅一時1200円　終値ベースの最高値上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290GE0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:25:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2861Z0Y6A520C2000000/">
+    <title>4月の有効求人倍率1.18倍、前月から横ばい　完全失業率は2.5%</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2861Z0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:19:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290GS0Z20C26A5000000/">
+    <title>日経平均、反発で始まる　一時1200円高　米主要指数が最高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290GS0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:15:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA28A9H0Y6A520C2000000/">
+    <title>4月の鉱工業生産指数0.8%上昇、3カ月ぶり上げ　業務用機械がけん引</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA28A9H0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:11:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290OC0Z20C26A5000000/">
+    <title>債券寄り付き　先物、続伸　米債高が波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290OC0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T09:01:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290FX0Z20C26A5000000/">
+    <title>日経平均先物、大取で反発　1170円高の6万5730円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290FX0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T08:55:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290AT0Z20C26A5000000/">
+    <title>外為8時30分　円相場、上昇し159円台前半　対ユーロでは下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290AT0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T08:54:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290O90Z20C26A5000000/">
+    <title>大リーグ、サラリーキャップ導入を提案　選手会は反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290O90Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T08:52:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD28BGC0Y6A520C2000000/">
+    <title>愛知の人口、戦後初の減少に　岐阜・三重は減少幅拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD28BGC0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T08:44:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA262CH0W6A520C2000000/">
+    <title>日本の人口1億2304万人、5年間で309万人減　2025年国勢調査速報値</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA262CH0W6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T08:30:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA27BFQ0X20C26A5000000/">
+    <title>進む東京一極集中、埼玉・千葉・神奈川が人口減に　25年国勢調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA27BFQ0X20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T08:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD204SN0Q6A420C2000000/">
+    <title>名鉄株、野村絢氏が2%弱保有　名古屋駅再開発に外部資本要求か</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD204SN0Q6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T08:05:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290EM0Z20C26A5000000/">
+    <title>全仏テニス、サバレンカとガウフが3回戦へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290EM0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T07:57:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290A90Z20C26A5000000/">
+    <title>村上宗隆が適時二塁打、西田陸浮は無安打</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290A90Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T07:56:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2668JTW6A520C2000000/">
+    <title>アセマネOne、きょう日本株の旗艦ファンド設定「目標は運用残高5000億円」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2668JTW6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T07:51:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL288EP0Y6A520C2000000/">
+    <title>日経平均株価、米ハイテク株高が追い風（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL288EP0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T07:32:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2902C0Z20C26A5000000/">
+    <title>米GAP「関税還付金で原油高を相殺」　通期売り上げ見通し引き下げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2902C0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T07:23:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28D850Y6A520C2000000/">
+    <title>今日の株価材料（新聞など、29日）日立、AI使い「考える工場」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28D850Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T07:22:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL290250Z20C26A5000000/">
+    <title>シカゴ日本株先物概況・28日　日経平均先物は550円高の6万5745円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL290250Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-05-29T07:12:54+09:00</dc:date>
+  </item>
+</rdf:RDF>
