@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-06-07T11:11:38+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC295JG0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC229FQ0S6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1851C0Y6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2835Q0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF240ZB0U5A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC170UO0X10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD0502E0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD190WD0Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA062D50W6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD0457W0U6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA032LT0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA061UN0W6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA060Z00W6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF1341H0T10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA060S70W6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0588P0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC207NQ0Q6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF060HR0W6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1575D0V10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0524J0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC030YU0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC210FC0R20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD257560V20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC101JI0Q6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD024PV0S6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD05ARV0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC055VC0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC057VI0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC031C90T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0558W0V00C26A6000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC295JG0Z20C26A5000000/">
+    <title>福岡県添田町「皇大神宮」のハルゼミのナゾ</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC295JG0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-07T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC229FQ0S6A520C2000000/">
+    <title>全国市区の歳出、公共施設の集約事業加速　義務的経費は増加続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC229FQ0S6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1851C0Y6A510C2000000/">
+    <title>移住にも期待、仁淀川河畔と中心部結び歩けるまちへ　高知県いの町</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1851C0Y6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2835Q0Y6A520C2000000/">
+    <title>福島第1原発地元の双葉町、人口予想2000人→700人　学校や工場別に試算</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2835Q0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF240ZB0U5A820C2000000/">
+    <title>「飛鳥・藤原」世界遺産へ準備着々　地下遺跡、アプリでリアルに再現</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF240ZB0U5A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC170UO0X10C26A5000000/">
+    <title>石川・能登地域で工場やホテル再建　復興の歩み徐々に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC170UO0X10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD0502E0V00C26A6000000/">
+    <title>農家が絵本を子どもたちに読み聞かせ　「農業は楽しくて魅力的」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD0502E0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD190WD0Z10C26A5000000/">
+    <title>ステーキのあさくま、サラダバー倍増45品で「がっかりさせない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD190WD0Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-07T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA062D50W6A600C2000000/">
+    <title>維新の馬場氏、世界遺産の登録勧告「歴史的な快挙」　飛鳥・藤原の宮都</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA062D50W6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T21:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD0457W0U6A600C2000000/">
+    <title>米レース「NASCAR」車、再び富士で披露　米国車65台がパレード</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD0457W0U6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T20:35:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA032LT0T00C26A6000000/">
+    <title>農地の分散抑制へ「集約率」公表　政府、ロボ農機やドローン活用促す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA032LT0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA061UN0W6A600C2000000/">
+    <title>与党は定数減より政治資金解決を　国民民主の榛葉氏「逃げては駄目」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA061UN0W6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA060Z00W6A600C2000000/">
+    <title>平岡秀夫元法相が中道に離党届　衆院選で落選、立民に復党意向</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA060Z00W6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF1341H0T10C26A5000000/">
+    <title>消防車両、ナフサ高の長期化に先手　モリタHDは塗料用シンナー再利用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF1341H0T10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T17:44:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA060S70W6A600C2000000/">
+    <title>「飛鳥・藤原の宮都」世界遺産の登録へ全力尽くす　高市首相がX投稿</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA060S70W6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0588P0V00C26A6000000/">
+    <title>ロート製薬、子どもの目の健康をテーマにイベント　動体視力測定など</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0588P0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T13:54:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC207NQ0Q6A520C2000000/">
+    <title>北陸、半導体やAI関連投資続々　NGKは700億円で新工場</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC207NQ0Q6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF060HR0W6A600C2000000/">
+    <title>「飛鳥・藤原の宮都」の地元奈良、喜び広がる　知事・村長らが会見</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF060HR0W6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T10:17:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1575D0V10C26A5000000/">
+    <title>レジェンド電車はドイツ生まれ　福井鉄道レトラム</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1575D0V10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0524J0V00C26A6000000/">
+    <title>風車世界大手ベスタスの誘致、室蘭や北九州競う　製造拠点どこに</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0524J0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC030YU0T00C26A6000000/">
+    <title>飛行船が生んだ土浦カレー　あふれる地元愛ともてなしの心</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC030YU0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC210FC0R20C26A5000000/">
+    <title>北陸3県に訪日客誘う伝統の技　工房訪ねるツアーも</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC210FC0R20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD257560V20C26A5000000/">
+    <title>「飛鳥・藤原の宮都」世界遺産へ　ユネスコ諮問機関が登録を勧告</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD257560V20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T03:33:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC101JI0Q6A510C2000000/">
+    <title>能登で「現代集落」　物々交換文化ベースに水・電気確保し自給自足</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC101JI0Q6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-06T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD024PV0S6A600C2000000/">
+    <title>あいちFG、ありあけキャピタルが筆頭株主　地銀再編の最前線で存在感</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD024PV0S6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-05T20:05:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD05ARV0V00C26A6000000/">
+    <title>芥川賞作家の目取真俊氏を在宅起訴　沖縄、フェンス壊した罪で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD05ARV0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-05T19:53:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC055VC0V00C26A6000000/">
+    <title>東レ合繊クラスターが定時総会　「ニーズとシーズ、結びつけ開発を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC055VC0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-05T19:45:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC057VI0V00C26A6000000/">
+    <title>北陸建工グループ、全製造拠点の使用電力を再エネ由来に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC057VI0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-05T19:43:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC031C90T00C26A6000000/">
+    <title>北陸の新入社員、就活で生成AI利用が6割超　北陸経済研が意識調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC031C90T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-05T19:35:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0558W0V00C26A6000000/">
+    <title>パナソニックホームズ「全館空調はダニ少なく」　個別空調と比較調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0558W0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-05T19:35:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
