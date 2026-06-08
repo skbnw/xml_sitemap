@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-06-08T11:12:09+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC055GJ0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC311CP0R30C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC080BD0Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC03DOM0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA051T50V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC041MF0U6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA053H70V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN070MO0X00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN072NR0X00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF02CP10S6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC06AAD0W6A200C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC05AL30V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC01A170R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC299TW0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC298G50Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC028170S6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC207VP0Q6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC257AT0V20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC0576R0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF036WY0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC056TM0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD026QK0S6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC036PQ0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC295YR0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC135CP0T10C26A3000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC285C20Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF154MY0V10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC033L20T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD023IO0S6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0528K0V00C26A6000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC055GJ0V00C26A6000000/">
+    <title>セールスフォース、日本でAI導入を伴走支援　アクセンチュアなど9社と提携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC055GJ0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T11:08:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC311CP0R30C26A5000000/">
+    <title>NTT、IOWN実用化へ米韓台と800億円ファンド　次世代光通信を推進</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC311CP0R30C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T11:05:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC080BD0Y6A600C2000000/">
+    <title>TOTO、ユニットバス受注を「通常通り」に　一部制限を解除</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC080BD0Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T10:48:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC03DOM0T00C26A6000000/">
+    <title>世界の航空で利益半減　危機が促す合従連衡、ANAとJALも共同運航へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC03DOM0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T10:39:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA051T50V00C26A6000000/">
+    <title>4月の経常黒字、65%増の3兆9078億円　貿易収支の黒字転換寄与</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA051T50V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T10:36:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC041MF0U6A600C2000000/">
+    <title>サントリー、知的障害持つ社員の職場公開　グループ会社と距離近く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC041MF0U6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T10:36:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA053H70V00C26A6000000/">
+    <title>実質GDP年率1.8%増に下方修正　1〜3月改定値、設備投資が下振れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA053H70V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T10:00:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN070MO0X00C26A6000000/">
+    <title>メキシコの国策EV「オリニア」発表　最速50キロ、商用化に壁</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN070MO0X00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T08:53:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN072NR0X00C26A6000000/">
+    <title>Appleが学生開発者を本社に招待　新旧CEOが激励、日本人も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN072NR0X00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T07:19:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF02CP10S6A600C2000000/">
+    <title>大阪名物「岩おこし」、奈良時代にルーツ？　発展支えた堂島の米文化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF02CP10S6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC06AAD0W6A200C2000000/">
+    <title>千葉・新湾岸道路、2ルート3案で探る　「アーバンビーチ」焦点に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC06AAD0W6A200C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC05AL30V00C26A6000000/">
+    <title>位置情報共有アプリのLinQ、アジアの若者開拓へ新機能　11億円調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC05AL30V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC01A170R00C26A6000000/">
+    <title>三和HD高山社長「高速開閉シャッターで工場環境改善」対猛暑で需要</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC01A170R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC299TW0Z20C26A5000000/">
+    <title>新興PXP、曲がる「カルコパイライト太陽電池」量産　27年3月に工場</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC299TW0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC298G50Z20C26A5000000/">
+    <title>石川県、自治体広報力で全国3位に　「能登に来ないで」払拭が課題</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC298G50Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC028170S6A600C2000000/">
+    <title>南海トラフへ備え「人も会社も限界」　高知・室戸、復旧担い手は60歳</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC028170S6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC207VP0Q6A520C2000000/">
+    <title>スズキ社食カレー、世界へ羽ばたく　JAL国際線の機内食に採用</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC207VP0Q6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC257AT0V20C26A5000000/">
+    <title>栃木でデジタル人材育成プロジェクト　専門家伴走、100万円支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC257AT0V20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC0576R0V00C26A6000000/">
+    <title>肥薩おれんじ鉄道は存続方針「観光資源として沿線に貢献」中村社長</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC0576R0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF036WY0T00C26A6000000/">
+    <title>エディオン会長「相手はヤマダしか」　M&amp;A巧者、会社存続へ賭け</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF036WY0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC056TM0V00C26A6000000/">
+    <title>平成筑豊鉄道はバス転換へ「三セク鉄道はインフレに弱い」河合社長</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC056TM0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD026QK0S6A600C2000000/">
+    <title>職場に居場所ありますか　「ある」と言える人、10年で5割に減少</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD026QK0S6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC036PQ0T00C26A6000000/">
+    <title>米核融合大手CFSのCEO「日本が最大の部品供給国、世界最速発電狙う」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC036PQ0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC295YR0Z20C26A5000000/">
+    <title>ソニーXperia、「お先真っ暗」からの新機種発売　AIカメラに再起託す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC295YR0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC135CP0T10C26A3000000/">
+    <title>別荘シェアを数百万円から利用可能に　SANU、拠点数の多さも強み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC135CP0T10C26A3000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC285C20Y6A520C2000000/">
+    <title>味の素「ひき肉が化ける。ハンバーグの素」 つなぎなし、調理時間半減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC285C20Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF154MY0V10C26A4000000/">
+    <title>線状降水帯を高精度に予測　世界水準の宇宙新興企業、実は地方に多く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF154MY0V10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC033L20T00C26A6000000/">
+    <title>年間7億人を運べ　東京都、バス運転手不足に生活費支援や自動運転</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC033L20T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD023IO0S6A600C2000000/">
+    <title>韓国調味料ヤンニョムに梨の風味　「規格外」生かして地域農業を応援</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD023IO0S6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0528K0V00C26A6000000/">
+    <title>顔認証改札、東武鉄道が宇都宮で先行導入　新サービス実証の場に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0528K0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-08T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
