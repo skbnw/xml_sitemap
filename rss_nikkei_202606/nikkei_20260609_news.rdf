@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-06-09T11:11:14+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC19A0T0Z10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM059ZB0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC228G00S6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0865P0Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB045J20U6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0533G0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0519S0V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090Y10Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG083870Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC091I20Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090PF0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL091GD0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090MO0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090YZ0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090XC0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090BU0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0912Z0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC091580Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD090YM0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090YX0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM090N50Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC090D70Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD05BK10V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB285PW0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0915X0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB0914X0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM090MC0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090FR0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL090DD0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB090SL0Z00C26A6000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC19A0T0Z10C26A5000000/">
+    <title>PFU、中堅向けにIT機器の運用代行サービス　負担軽減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC19A0T0Z10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T11:00:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM059ZB0V00C26A6000000/">
+    <title>ハワイより近くて安いベトナム「京畿道ダナン市」、韓国人に人気</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM059ZB0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC228G00S6A520C2000000/">
+    <title>円安・燃油高、地方への国内旅行に脚光　宮崎や秋田は宿泊割引で誘客</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC228G00S6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0865P0Y6A600C2000000/">
+    <title>政府が「こども実行計画」、安全なSNS環境へ法改正視野</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0865P0Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB045J20U6A600C2000000/">
+    <title>スペースX上場後の取引は　無視できぬ手数料負担、短期売買は不利に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB045J20U6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0533G0V00C26A6000000/">
+    <title>ビットコインに「四重苦」　米利上げ観測や巨大IPO、最高値の半値</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0533G0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0519S0V00C26A6000000/">
+    <title>AI浪費、社員1人で月1000万円　企業活用「やってる感」の落とし穴</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0519S0V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090Y10Z00C26A6000000/">
+    <title>ソフトバンクG株価が朝高後下げる　米オープンAI上場申請反応限定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090Y10Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:57:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG083870Y6A600C2000000/">
+    <title>「認知症」診断の数年前、朝の電気使用遅れ気味　都長寿医療センター</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG083870Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:57:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC091I20Z00C26A6000000/">
+    <title>サッカーW杯、オランダが親善試合勝利　日本と1次リーグ初戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC091I20Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:52:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090PF0Z00C26A6000000/">
+    <title>ステーキ店運営あさくま株価が続伸　5月の既存店22.3%増収</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090PF0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:49:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL091GD0Z00C26A6000000/">
+    <title>上海株寄り付き　反発、値ごろ感の買い先行　貿易統計控え様子見</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL091GD0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:47:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090MO0Z00C26A6000000/">
+    <title>日本製鉄株価が反発　前日安値更新、USスチールへ投資額拡大は重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090MO0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:46:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090YZ0Z00C26A6000000/">
+    <title>香港株寄り付き　続落して始まる　中東情勢なお不透明、米中対立懸念も重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090YZ0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:46:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090XC0Z00C26A6000000/">
+    <title>イビデン株価が一時5.6%高　米インテル株価急騰で連想買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090XC0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:40:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090BU0Z00C26A6000000/">
+    <title>外為10時　円相場、下げに転じる　一時160円29銭近辺　中値「ドル買い優勢」の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090BU0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:32:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0912Z0Z00C26A6000000/">
+    <title>人民元基準値、対米ドルで6.8147元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0912Z0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:27:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC091580Z00C26A6000000/">
+    <title>ゲーム「桃太郎電鉄」シリーズ、累計販売本数2000万本突破　コナミ系</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC091580Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:17:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD090YM0Z00C26A6000000/">
+    <title>巨人の阿部慎之助・前監督を書類送検、娘への暴行容疑　警視庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD090YM0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:13:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090YX0Z00C26A6000000/">
+    <title>東証10時　日経平均は一時下げに転じる　値がさ株の一角が押し下げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090YX0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:13:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM090N50Z00C26A6000000/">
+    <title>オーストラリア労組、INPEXのガス施設でスト拡大　労使交渉続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM090N50Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:05:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC090D70Z00C26A6000000/">
+    <title>三菱ふそう、ポルトガル工場を7月に一時停止　生産車種見直し</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC090D70Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T10:03:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD05BK10V00C26A6000000/">
+    <title>被害者参加制度の対象拡大、法制審で議論へ　平口法相が表明</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD05BK10V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T09:59:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB285PW0Y6A520C2000000/">
+    <title>銅価格が米国で急騰、トランプ関税見越し　内外価格差が流入促す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB285PW0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T09:58:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0915X0Z00C26A6000000/">
+    <title>ドバイ原油・9日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0915X0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T09:56:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB0914X0Z00C26A6000000/">
+    <title>イエメンからの無人機撃墜　イスラエル軍、フーシ派か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB0914X0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T09:55:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM090MC0Z00C26A6000000/">
+    <title>習近平氏の訪朝は「歴史的な契機」　北朝鮮メディア、大々的に報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM090MC0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T09:54:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090FR0Z00C26A6000000/">
+    <title>商品9時30分　原油、反落　イスラエル・イラン戦闘停止で売り　金は反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090FR0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T09:54:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL090DD0Z00C26A6000000/">
+    <title>東証寄り付き　日経平均は反発で始まる　一時1000円高、AI半導体に再び買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL090DD0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T09:24:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB090SL0Z00C26A6000000/">
+    <title>核兵器に9カ国が過去最高19兆円支出　2025年ICAN推計、19%増</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB090SL0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-09T09:13:38+09:00</dc:date>
+  </item>
+</rdf:RDF>
