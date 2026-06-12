@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-06-12T11:10:16+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC111ED0R10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC04BR70U6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR08B7H0Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC099OO0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF018JX0R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC048DX0U6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR097N20Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1856L0Y6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC053860V00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD102DW0Q6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC0917K0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC080J20Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB110E40R10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0109X0R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120RG0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1217U0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB121QU0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD017K10R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL121CT0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL121ME0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA120VC0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120N60S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA086BA0Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120CP0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1219X0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA120LB0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120O70S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL120T30S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL11CDO0R10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1210E0S6A610C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC111ED0R10C26A5000000/">
+    <title>農地を次代担う生産者へ託す　全国で集積率上昇、伸び幅トップは滋賀</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC111ED0R10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC04BR70U6A600C2000000/">
+    <title>三重、チームで農地集積後押し　静岡は事業エリア拡大に補助</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC04BR70U6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR08B7H0Y6A600C2000000/">
+    <title>サッカーW杯、ユニホームの27%が中国資本　今やプーマも傘下に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR08B7H0Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC099OO0Z00C26A6000000/">
+    <title>青森・八戸は水田を集約　岩手はアプリでスムーズに合意形成</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC099OO0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF018JX0R00C26A6000000/">
+    <title>淡路島の傾斜畑、再生へ企業誘致　負担ゼロでオーダーメイド整備</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF018JX0R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC048DX0U6A600C2000000/">
+    <title>富山の農地集積、飛び地集約で効率向上　福井は権利関係を明確化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC048DX0U6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR097N20Z00C26A6000000/">
+    <title>原油市場、上値抑える脱炭素の波　EV普及で中国の輸入減</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR097N20Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1856L0Y6A510C2000000/">
+    <title>東京エレクトロンデバイス宮本社長「自社製品で海外市場を開拓」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1856L0Y6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC053860V00C26A6000000/">
+    <title>中四国の農地集積、「顔の見える関係」が後押し　地域まるごと管理も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC053860V00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD102DW0Q6A610C2000000/">
+    <title>「中休み」多い梅雨、大気の状態は不安定　6月後半は大雨頻発も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD102DW0Q6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC0917K0Z00C26A6000000/">
+    <title>三つ星レストランも御用達、農地バンクから名産ヘベス　宮崎の建設会社</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC0917K0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC080J20Y6A600C2000000/">
+    <title>北海道の農地集積、全国1位　法人新設で耕作放棄地の受け皿に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC080J20Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB110E40R10C26A6000000/">
+    <title>スーパーエルニーニョで食料価格｢3割高｣　ウナギやうどんに波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB110E40R10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0109X0R00C26A6000000/">
+    <title>茨城で有機サツマイモ、埼玉はイオン系がコメ　農地集約進み規模拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0109X0R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120RG0S6A610C2000000/">
+    <title>キオクシアHD株価一時8.1%高　時価総額初の首位、米半導体株高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120RG0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:53:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1217U0S6A610C2000000/">
+    <title>イビデン株価、大幅続伸し2万円台回復　米インテル株急伸で連想</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1217U0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:51:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB121QU0S6A610C2000000/">
+    <title>イギリス新国防相にジャービス氏　ヒーリー氏辞任で</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB121QU0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:49:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD017K10R00C26A6000000/">
+    <title>サッカーW杯開幕戦、聖地に響く「メヒコ」の大合唱　米でもファン熱狂</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD017K10R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:48:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL121CT0S6A610C2000000/">
+    <title>香港株寄り付き　反発して始まる　中国テックに買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL121CT0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:40:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL121ME0S6A610C2000000/">
+    <title>上海株寄り付き　反発して始まる　半導体と非鉄が高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL121ME0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:40:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA120VC0S6A610C2000000/">
+    <title>国会、個人情報保護審査会委員など人事を承認　5機関16人</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA120VC0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:36:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120N60S6A610C2000000/">
+    <title>スポットワーク仲介のタイミー株価が急反発　売上高見通し「保守的」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120N60S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:31:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA086BA0Y6A600C2000000/">
+    <title>創業支援措置を導入、資産形成も支援　政府の26年版高齢社会白書</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA086BA0Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120CP0S6A610C2000000/">
+    <title>外為10時　円相場、上げ幅縮小　160円台前半　株高と実需の売りが重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120CP0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:28:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1219X0S6A610C2000000/">
+    <title>人民元基準値、対米ドルで6.8109元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1219X0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:27:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA120LB0S6A610C2000000/">
+    <title>高齢者の医療費窓口負担拡大「避けて通れない検討課題」　上野厚労相</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA120LB0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:25:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120O70S6A610C2000000/">
+    <title>日立製作所の株価反発　「米政権が日本マネーで原発新増設」報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120O70S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:24:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL120T30S6A610C2000000/">
+    <title>ビジョナル株価が一時10.5%安　8〜4月期営業増益、物足りず</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL120T30S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:21:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL11CDO0R10C26A6000000/">
+    <title>東証10時　日経平均は一時2800円高　スペースX上場に向けた換金売り一巡</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL11CDO0R10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:20:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1210E0S6A610C2000000/">
+    <title>杏林製薬、長引くせき治療アプリの治験開始　米企業と共同開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1210E0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-12T10:15:13+09:00</dc:date>
+  </item>
+</rdf:RDF>
