@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-06-13T11:12:48+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD2312M0T20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN130K40T10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1302N0T10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN12CB70S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN100260Q6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN12CNV0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC02DLX0S6A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC09AB10Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB129GG0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC118FQ0R10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0787Q0X00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG0153R0R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC124BA0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2639B0W6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC102RJ0Q6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC101EZ0Q6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD120F80S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC04CC70U6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC219HH0R20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC278HU0X20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC137D60T10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC037NY0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC276S30X20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM285NV0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC215HX0R20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC284XR0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM204W20Q6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD294GZ0Z20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0113M0R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0113C0R00C26A6000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD2312M0T20C26A5000000/">
+    <title>JR東海、社宅をリノベし分譲マンションに　千葉･松戸で第1弾</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD2312M0T20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN130K40T10C26A6000000/">
+    <title>アンソロピック、米政府指示でミュトス級AI提供停止　日本含む</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN130K40T10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T10:03:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1302N0T10C26A6000000/">
+    <title>米司法省、パラマウントのワーナー買収承認</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1302N0T10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T09:41:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN12CB70S6A610C2000000/">
+    <title>歌手アリアナ・グランデさん、トランプ政権の楽曲使用に抗議</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN12CB70S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T07:33:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN100260Q6A610C2000000/">
+    <title>4月の米原油輸出額、アジア向け2.4倍　韓国・日本で過去最高</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN100260Q6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:22:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN12CNV0S6A610C2000000/">
+    <title>マスク氏が世界初「兆万長者」　純資産1兆ドル、一般家庭の500万倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN12CNV0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:09:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC02DLX0S6A400C2000000/">
+    <title>再エネ開発を止めるな　東京電力HD小林喜光会長「日本の礎に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC02DLX0S6A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC09AB10Z00C26A6000000/">
+    <title>ミュージックアワードジャパン野村委員長「アーティストが目指す賞に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC09AB10Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB129GG0S6A610C2000000/">
+    <title>伊藤忠の株価低調、資源高の恩恵乏しく　1.5兆円投資に薄い反応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB129GG0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC118FQ0R10C26A6000000/">
+    <title>AI主権、世界はG2ではなく多極化へ　サカナAI・伊藤社長</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC118FQ0R10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0787Q0X00C26A5000000/">
+    <title>米国の薬価下げ政策、日本でドラッグロス懸念　製薬会社「脅しではない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0787Q0X00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG0153R0R00C26A6000000/">
+    <title>膵臓がん治療に道　増殖防ぐ新薬候補、電場や超音波も活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG0153R0R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC124BA0S6A610C2000000/">
+    <title>6月8〜12日　スタートアップ資金調達まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC124BA0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2639B0W6A520C2000000/">
+    <title>ファミリーマート「超も〜っちりパン」　 定番品に新食感、1個で満足</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2639B0W6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC102RJ0Q6A610C2000000/">
+    <title>講談社がインドに出版社　日系大手初、まず「進撃の巨人」など200作</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC102RJ0Q6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC101EZ0Q6A610C2000000/">
+    <title>トヨタのEV「bZ4X」シリーズ　安く・充電速く・アウトドア向き</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC101EZ0Q6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD120F80S6A610C2000000/">
+    <title>トヨタ、富士山麓にモータースポーツのテーマパーク　ホテルも併設</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD120F80S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC04CC70U6A600C2000000/">
+    <title>消費税減税に揺れる外食企業、ロイヤルHDはテイクアウト拡大へ備え</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC04CC70U6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC219HH0R20C26A5000000/">
+    <title>おにぎり新商品は「のりなし」主役　ファミマは全商品の3割に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC219HH0R20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC278HU0X20C26A5000000/">
+    <title>働く人の片頭痛で年1.5兆円の損失　「無理して勤務」で生産性低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC278HU0X20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC137D60T10C26A5000000/">
+    <title>LINE上でオンライン店開設　法人アカウントに機能追加へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC137D60T10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC037NY0T00C26A6000000/">
+    <title>猛暑に「清涼感クッキー」　ギルティーズ、チョコミント商品を初投入</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC037NY0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC276S30X20C26A5000000/">
+    <title>能率手帳｢NOLTY｣欧州全域へ　JMAM､日本文具ブームを追い風に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC276S30X20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM285NV0Y6A520C2000000/">
+    <title>ハノイ、旬の生ライチ高騰でも1キロ300円　日本では3000円</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM285NV0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC215HX0R20C26A4000000/">
+    <title>セクハラ事例　ランチに誘われた同僚「繰り返され怖かった」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC215HX0R20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC284XR0Y6A520C2000000/">
+    <title>伊藤忠が血液製剤をドローン輸送、28年度に　災害時にも最短距離で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC284XR0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM204W20Q6A520C2000000/">
+    <title>中国車の欧州シェアが1割へ　さらなる拡大へ、次の一手は「現地化」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM204W20Q6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD294GZ0Z20C26A5000000/">
+    <title>エノテーカ名古屋、｢世界の50店｣に　地元食材で本場イタリアの味</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD294GZ0Z20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0113M0R00C26A6000000/">
+    <title>ソフトバンクのAIスマホ　機能は発展途上も、ショッピングで便利実感</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0113M0R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0113C0R00C26A6000000/">
+    <title>P&amp;Gマーケター続々AI化、音部氏や西口氏に相談できるツール登場</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0113C0R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-13T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
