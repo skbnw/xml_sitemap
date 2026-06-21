@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-06-21T11:10:26+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210EM0R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH201DK0Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR157TD0V10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1768S0X10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD162SA0W6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB202P80Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210720R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210BC0R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210BJ0R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD235AA0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2106Y0R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB2108R0R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC121Z80S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR203130Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH200C50Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB184JU0Y6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR202NH0Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2030Y0Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH2032Y0Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR2030H0Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC17D8N0X10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA02C4B0S6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB19BM60Z10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD18B9W0Y6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH27AFI0X20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZTS00021481Q6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2895O0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD028I80S6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD1985G0Z10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC037B50T00C26A6000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210EM0R20C26A6000000/">
+    <title>ASのワールドカップ、チーム・フリールーティンで日本V</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210EM0R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T11:06:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH201DK0Q6A620C2000000/">
+    <title>サッカーW杯、オランダがスウェーデンに大勝　日本はチュニジア戦へ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH201DK0Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T11:00:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR157TD0V10C26A6000000/">
+    <title>子どものSNS規制拡大、英も16歳未満禁止へ　先行の豪では実効性課題</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR157TD0V10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1768S0X10C26A6000000/">
+    <title>日経平均株価の逆襲は終わりの始まり　「利益がバブル」の罠</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1768S0X10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD162SA0W6A610C2000000/">
+    <title>パナソニックに必要な「解体新書」　大型化やめて個の事業解き放とう</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD162SA0W6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB202P80Q6A620C2000000/">
+    <title>「フーバーになりなくない」トランプ氏、消えた開戦大義と残した禍根</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB202P80Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210720R20C26A6000000/">
+    <title>山下美夢有、5打差7位に浮上　米女子ゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210720R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T10:49:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210BC0R20C26A6000000/">
+    <title>久常涼は17位、松山英樹も65位に後退　全米オープンゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210BC0R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T10:29:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210BJ0R20C26A6000000/">
+    <title>張本美和・早田ひな組V　卓球世界ツアー、戸上隼輔・篠塚大登組も</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210BJ0R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T10:27:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD235AA0T20C26A4000000/">
+    <title>米国との近さで重み増す中南米　日本も独自の関与深める</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD235AA0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2106Y0R20C26A6000000/">
+    <title>岡本和真が勝ち越し3ラン　大谷翔平2試合ぶり復帰、山本由伸は先発</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2106Y0R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T09:23:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB2108R0R20C26A6000000/">
+    <title>スターマー英首相が22日にも辞意表明、現地報道　政府関係者は否定</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB2108R0R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T09:20:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC121Z80S6A610C2000000/">
+    <title>瀬の本高原　見渡すかぎりの草原、その先に阿蘇五岳やくじゅう連山</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC121Z80S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR203130Q6A620C2000000/">
+    <title>ポーランド、ゼレンスキー氏から勲章剝奪　歴史問題で批判の応酬</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR203130Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T08:47:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH200C50Q6A620C2000000/">
+    <title>21日の有力馬　府中牝馬Sなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH200C50Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T08:40:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB184JU0Y6A610C2000000/">
+    <title>日経平均は最高値続く勢い、円は39年半ぶり安値が視野</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB184JU0Y6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T08:09:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR202NH0Q6A620C2000000/">
+    <title>イラン「ホルムズ海峡を封鎖」　米・イスラエルが覚書違反と主張</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR202NH0Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T07:52:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2030Y0Q6A620C2000000/">
+    <title>米国、対イスラエルで迫られる忍耐　イランとの協議に妨害続く可能性</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2030Y0Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T07:47:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH2032Y0Q6A620C2000000/">
+    <title>オランダ快勝　スウェーデンの攻略法をどう読み解く</title>
+    <link>https://www.nikkei.com/article/DGXZQODH2032Y0Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T06:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR2030H0Q6A620C2000000/">
+    <title>米イラン、21日にスイスで実務者協議　バンス米副大統領も現地へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR2030H0Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T06:19:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC17D8N0X10C26A6000000/">
+    <title>新潟発の神道ツーリズム、細る神社支える　国内外にファンつくる</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC17D8N0X10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA02C4B0S6A600C2000000/">
+    <title>コンビニより多い歯科医が減少　ケア浸透、虫歯治療から予防にシフト</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA02C4B0S6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB19BM60Z10C26A6000000/">
+    <title>国債減で「適正体重」探る日銀　前門の金利急騰、後門の円安</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB19BM60Z10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD18B9W0Y6A610C2000000/">
+    <title>皇室とベルギー王室、3世代同い年の奇縁　始まりはエリザベス戴冠式</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD18B9W0Y6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH27AFI0X20C26A5000000/">
+    <title>高校野球の収入は米国の100分の1　ビジネスと一線、持続性に疑問</title>
+    <link>https://www.nikkei.com/article/DGXZQODH27AFI0X20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZTS00021481Q6A520C2000000/">
+    <title>東京・大阪の都心タワマン最上階、6割が現金一括購入　市場揺らす富裕層</title>
+    <link>https://www.nikkei.com/article/DGXZTS00021481Q6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2895O0Y6A520C2000000/">
+    <title>SFに近づく現代の科学　人工冬眠やミクロの医師、想像力が革新生む</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2895O0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD028I80S6A600C2000000/">
+    <title>「消費」された戦後沖縄　慰霊塔ブーム、本土から戦跡に免税店に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD028I80S6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD1985G0Z10C26A6000000/">
+    <title>イラン復興基金、48兆円の現実味　ペルシャ湾復活へ産油国の深謀</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD1985G0Z10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC037B50T00C26A6000000/">
+    <title>太古のロマン「化石」に囲まれ時をかける　買える専門店も登場</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC037B50T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-21T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
