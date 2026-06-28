@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-06-28T11:14:22+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR24CNT0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD158M50V10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD2279K0S6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD262YN0W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD222R80S6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2100R0R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH272870X20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH271GN0X20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA272H80X20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2809Q0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2805Y0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH270JL0X20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2806O0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM272H20X20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2803L0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2800T0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2801V0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN280200Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD12CRY0S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB26CCU0W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG23CIC0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD17APR0X10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM229ZG0S6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB169350W6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC198ZM0Z10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF288G10Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB196RS0Z10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC096F40Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA254OV0V20C26A6000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR24CNT0U6A620C2000000/">
+    <title>ウクライナ、避難民800万人の帰国促す　労働力不足や欧州「支援疲れ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR24CNT0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD158M50V10C26A6000000/">
+    <title>ブッキング・ドットコムの予約情報漏洩か、詐欺誘導多発　カード情報盗難</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD158M50V10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD2279K0S6A620C2000000/">
+    <title>政官、半径5メートルから踏み出せ　風雪に耐える長期構想を</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD2279K0S6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD262YN0W6A620C2000000/">
+    <title>じわり広がる「おとなのFX」　レバレッジ控えめ、円安が追い風</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD262YN0W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD222R80S6A620C2000000/">
+    <title>コメダ上場10年で迎えた踊り場　次の成長占う「和」のもてなし</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD222R80S6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2100R0R20C26A6000000/">
+    <title>米、イランと衝突の代償甚大　2カ月で日本の防衛予算超す12兆円消費</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2100R0R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH272870X20C26A6000000/">
+    <title>イングランド、コロンビアが1位通過　コンゴ民主共和国も決勝Tへ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH272870X20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T10:50:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH271GN0X20C26A6000000/">
+    <title>手品師は笑う　アンチェロッティ監督が呼び戻したブラジルの「幻想」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH271GN0X20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA272H80X20C26A6000000/">
+    <title>交通空白「29年までに解消」　政府が新目標、自動運転を活用へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA272H80X20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T10:19:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2809Q0Y6A620C2000000/">
+    <title>松山英樹22位、久常涼は33位　米男子ゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2809Q0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T09:29:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2805Y0Y6A620C2000000/">
+    <title>畑岡奈紗、19位に後退　全米女子プロゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2805Y0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T08:48:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH270JL0X20C26A6000000/">
+    <title>28日の有力馬　函館記念など競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH270JL0X20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T08:44:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2806O0Y6A620C2000000/">
+    <title>小泉進次郎防衛相、韓国空軍を視察　飛行チーム隊員と交流</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2806O0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T08:25:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM272H20X20C26A6000000/">
+    <title>中国・ロシア両軍機、日本海や東シナ海上空を合同飛行　日本を威圧か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM272H20X20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T08:16:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2803L0Y6A620C2000000/">
+    <title>米軍、イラン軍事施設を再攻撃　「停戦合意順守せず」報復の応酬激化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2803L0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T07:51:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2800T0Y6A620C2000000/">
+    <title>青森・岩手で震度5弱の地震、M6.1　津波の心配なし</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2800T0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T07:41:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2801V0Y6A620C2000000/">
+    <title>ベネズエラの連続大地震、死者1400人超える　行方不明者数万人か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2801V0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T06:24:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN280200Y6A620C2000000/">
+    <title>猛暑のパリで109人死亡　ドイツは41.5度、2日連続で史上最高</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN280200Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T06:16:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD12CRY0S6A610C2000000/">
+    <title>ワールドカップの地ダラス、元サッカー少年がたどり着いた勝負の場所</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD12CRY0S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB26CCU0W6A620C2000000/">
+    <title>欧州でも相次ぐクマ被害　ルーマニアなど、EUに保護規制の緩和を要請</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB26CCU0W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG23CIC0T20C26A6000000/">
+    <title>人類が火をおこした最古の証拠、5万年前→40万年前に　遺跡から発見</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG23CIC0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/">
+    <title>キオクシア、社員600人が「10億り人」　AIが生む富の新景色</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD17APR0X10C26A6000000/">
+    <title>「日本のUSB送れ」留学生に密命　過去のサイバー攻撃に中国軍の影</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD17APR0X10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM229ZG0S6A620C2000000/">
+    <title>中国バイク産業が飛躍　レジャー向け、部品や競技場が支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM229ZG0S6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB169350W6A610C2000000/">
+    <title>ホルムズ機雷「除去に1〜2カ月」と元海自指揮官　湾岸戦争時は半年</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB169350W6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC198ZM0Z10C26A6000000/">
+    <title>米アイダホ大学、広島大学キャンパス内に分校　日米で半導体人材育成</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC198ZM0Z10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF288G10Y6A520C2000000/">
+    <title>生活習慣介入で老化抑制、筋力や認知力など改善傾向　大阪大発新興</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF288G10Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB196RS0Z10C26A6000000/">
+    <title>DAZNとANAのネット炎上から考える「怒りのコスト」の重み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB196RS0Z10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC096F40Z00C26A6000000/">
+    <title>給食無償化、自治体の独自策が目白押し　「小1の壁」解消支援も浸透</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC096F40Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA254OV0V20C26A6000000/">
+    <title>日本語試験の実施回数を拡充　外国人労働者が増加、需要に対応</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA254OV0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
