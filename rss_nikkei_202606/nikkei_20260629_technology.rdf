@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-06-29T12:14:48+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB26AI50W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD16BE40W6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2837Z0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR09C420Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2590X0V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD037290T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG1739H0X10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2624Q0W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG230FK0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA272H80X20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG23CIC0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF288G10Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG0826B0Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2323F0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC25AZC0V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG242YF0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD201EA0Q6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC150JQ0V10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA253G50V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN270AJ0X20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC105FR0Q6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2249S0S6A420C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG253RF0V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG230EU0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG034B00T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC261A30W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC150JA0V10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG26CN60W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM269210W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG265AO0W6A620C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB26AI50W6A620C2000000/">
+    <title>報酬1億円以上の役員960人超　首位はソフトバンクGハース氏61億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB26AI50W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T10:20:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD16BE40W6A610C2000000/">
+    <title>AIが揺さぶる自由意思　個人情報保護法、技術優先の改正に落とし穴</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD16BE40W6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2837Z0Y6A620C2000000/">
+    <title>アンソロピック「Fable」週内に一般提供再開か　背後に迫る中国AI</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2837Z0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T06:21:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR09C420Z00C26A6000000/">
+    <title>プリファードの岡野原社長「AIはインフラ、すべて海外依存は不適切」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR09C420Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2590X0V20C26A6000000/">
+    <title>マウス体内にラット由来の腎臓、ES細胞活用　奈良先端大や長寿研</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2590X0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD037290T00C26A6000000/">
+    <title>トヨタ、車両仕様書をAIで統一　工程3割減らし国内生産スピード向上</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD037290T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG1739H0X10C26A6000000/">
+    <title>2026年に「スーパーエルニーニョ」か、どんな影響がある？</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG1739H0X10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2624Q0W6A620C2000000/">
+    <title>AIエージェントが設備の保全計画など支援　M2X、8.4億円調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2624Q0W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG230FK0T20C26A6000000/">
+    <title>人にブタ臓器移植、明大発新興が28年に国内初治験　ドナー不足補う</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG230FK0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-29T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA272H80X20C26A6000000/">
+    <title>交通空白「29年までに解消」　政府が新目標、自動運転を活用へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA272H80X20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T11:16:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG23CIC0T20C26A6000000/">
+    <title>人類が火をおこした最古の証拠、5万年前→40万年前に　遺跡から発見</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG23CIC0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF288G10Y6A520C2000000/">
+    <title>生活習慣介入で老化抑制、筋力や認知力など改善傾向　大阪大発新興</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF288G10Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG0826B0Y6A600C2000000/">
+    <title>UFOや心霊、幽体離脱…　超常現象の正体に科学で迫る</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG0826B0Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2323F0T20C26A6000000/">
+    <title>認知症は「脳だけの疾患」にあらず　日米中の研究者が淡路島で議論</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2323F0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC25AZC0V20C26A6000000/">
+    <title>三菱重工、ガスタービンに日米で1000億円超　電力需要増で生産能力2倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC25AZC0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG242YF0U6A620C2000000/">
+    <title>関東のギフチョウ、昔の移入の影響少なく　大阪公立大など遺伝子調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG242YF0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD201EA0Q6A620C2000000/">
+    <title>「空気からパン作る」天才化学者の悲劇　軍民両用時代に何を学ぶ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD201EA0Q6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC150JQ0V10C26A6000000/">
+    <title>ZOZO、AIで個人ごとに「似合う服」提案　体形や好みも考慮</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC150JQ0V10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-28T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA253G50V20C26A6000000/">
+    <title>インド・台湾などで高速通信実証　総務省が「デジタル回廊構想」8事業</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA253G50V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T18:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN270AJ0X20C26A6000000/">
+    <title>アンソロピック、AI「ミュトス」を米100社に提供再開へ　米政府許可</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN270AJ0X20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T10:32:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC105FR0Q6A610C2000000/">
+    <title>AIの広告クリック水増し防げ　博報堂「人へのなりすまし閲覧」排除</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC105FR0Q6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2249S0S6A420C2000000/">
+    <title>大西洋の巨大海流が変化　小麦農地半減の危機、日本で山火事増加</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2249S0S6A420C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG253RF0V20C26A6000000/">
+    <title>赤と緑を区別する色覚メカニズム解明　霊長類で、名古屋工業大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG253RF0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG230EU0T20C26A6000000/">
+    <title>W杯支える｢下水の監視部隊｣、感染症発生の予兆把握　650万人追跡</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG230EU0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T03:57:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG034B00T00C26A6000000/">
+    <title>「スマホ認知症」30代でもご用心　物忘れや集中力低下のリスク</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG034B00T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC261A30W6A620C2000000/">
+    <title>Googleスピーカー、「高級タイマー」今は昔　Gemini対応の革新</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC261A30W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC150JA0V10C26A6000000/">
+    <title>Google・OpenAI、買い物体験競う　どこでもカートやプロトコル連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC150JA0V10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-27T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG26CN60W6A620C2000000/">
+    <title>山梨で震度6弱の地震、富士山噴火との関連「低いとみられる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG26CN60W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-26T23:19:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM269210W6A620C2000000/">
+    <title>韓国サムスン・SK、国内で半導体工場投資へ　政府の産業振興に呼応</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM269210W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-26T18:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG265AO0W6A620C2000000/">
+    <title>「オートファジー」操作で脳神経が回復　東京大学など、マウスで実証</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG265AO0W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-26T17:00:26+09:00</dc:date>
+  </item>
+</rdf:RDF>
