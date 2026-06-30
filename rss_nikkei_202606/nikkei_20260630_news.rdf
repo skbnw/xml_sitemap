@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-06-30T12:15:17+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA301Z30Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA290WQ0Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB257UR0V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA302O40Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300X1TQ6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL301RQ0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3021I0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL301BDTQ6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300RE0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3021C0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM3013B0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2403J0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300Q30Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC297W20Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL301BA0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL301EW0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3015O0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF301WF0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG179K30X10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC300R60Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB22AN10S6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2990X0Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA298XN0Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM018S20R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1780U0X10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC244CM0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA301C50Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD230VX0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB300CC0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3008H0Q6A630C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA301Z30Q6A630C2000000/">
+    <title>国産AI開発支援、ソフトバンクなど設立の新会社選定　経産相が発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA301Z30Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T12:07:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA290WQ0Z20C26A6000000/">
+    <title>建設業の退職金増額へ　予定利回り1.5%に引き上げ、厚労省方針</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA290WQ0Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T12:05:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB257UR0V20C26A6000000/">
+    <title>新興国債券型投信の1年リターン　ブラジル関連が上位に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB257UR0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA302O40Q6A630C2000000/">
+    <title>国会議員所得3003万円、衆参平均2年ぶり増　首位は自民・中西氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA302O40Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300X1TQ6A630C2000000/">
+    <title>日経平均午前648円高、月末売りしのぐAI買い　年後半も続くか</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300X1TQ6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:58:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL301RQ0Q6A630C2000000/">
+    <title>商品11時30分　原油が上げ幅拡大　円安の進行で　金は下げ拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL301RQ0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:55:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3021I0Q6A630C2000000/">
+    <title>東証前引け　日経平均は続伸　648円高、東エレクが上場来高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3021I0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:51:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL301BDTQ6A630C2000000/">
+    <title>円162円台に下落　「実需が円押し下げ」「株への影響は限定」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL301BDTQ6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:43:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300RE0Q6A630C2000000/">
+    <title>新興株前引け　グロース250が続伸　新規上場のネイスが公開価格上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300RE0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:41:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3021C0Q6A630C2000000/">
+    <title>日経平均前引け　続伸　648円高の7万0116円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3021C0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:36:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM3013B0Q6A630C2000000/">
+    <title>豪ファーマス、インドネシアにAIデータセンター　エヌビディアと連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM3013B0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:30:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2403J0U6A620C2000000/">
+    <title>株高の今こそ債券の出番</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2403J0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300Q30Q6A630C2000000/">
+    <title>債券11時　長期金利、上昇幅拡大　2.665%　円安で物価高を意識</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300Q30Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:25:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC297W20Z20C26A6000000/">
+    <title>京王電鉄、夏休みに小児運賃を全額ポイント還元　路線バスは一律50円</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC297W20Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:22:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL301BA0Q6A630C2000000/">
+    <title>楽天グループ株価が大幅続伸　「日本版スターリンク」に政府支援報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL301BA0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:21:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL301EW0Q6A630C2000000/">
+    <title>コナミGなどサッカーW杯関連株価が安い　日本決勝T1回戦突破ならず</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL301EW0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:14:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3015O0Q6A630C2000000/">
+    <title>村田製作所株価反発　シティG証券が目標大幅引き上げ、最上位判断に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3015O0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:14:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF301WF0Q6A630C2000000/">
+    <title>脱線の近鉄京都線、全線で運転再開　設備に異常なし</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF301WF0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:10:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG179K30X10C26A6000000/">
+    <title>北日本で見えたオーロラ、高度500キロ以上に出現　北海道大など分析</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG179K30X10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:09:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC300R60Q6A630C2000000/">
+    <title>eSIMのトリファ、米のESTA申請を支援　スマホカメラ活用し自動入力</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC300R60Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:03:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB22AN10S6A620C2000000/">
+    <title>物言う株主が日本で苦戦、投資リターン3年で最低　対話路線伸び悩み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB22AN10S6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:00:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2990X0Z20C26A6000000/">
+    <title>6月の中国景況感、2カ月ぶり50超え　新規受注が回復</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2990X0Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA298XN0Z20C26A6000000/">
+    <title>国家公務員の夏ボーナス支給、一般行政職の平均73万円　4年連続増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA298XN0Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM018S20R00C26A6000000/">
+    <title>中国企業、日本が強みの半導体材料で攻勢　AI向けガラス繊維増産</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM018S20R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1780U0X10C26A6000000/">
+    <title>「家電の聖地」秋葉原から池袋へ　30日ヨドバシ開業、ビック対抗セール</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1780U0X10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC244CM0U6A620C2000000/">
+    <title>川崎発の看護新技術、病室をバーチャル自宅に　在宅でナースコール</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC244CM0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA301C50Q6A630C2000000/">
+    <title>片山さつき財務相「断固たる措置」に言及、39年半ぶり円安進行けん制</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA301C50Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T10:44:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD230VX0T20C26A6000000/">
+    <title>公立高校の改革基金、69校を支援　ワインや造船…地元産業の人材育成</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD230VX0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T10:41:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB300CC0Q6A630C2000000/">
+    <title>円相場、一時162円台に下落　39年半ぶり水準</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB300CC0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T10:40:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3008H0Q6A630C2000000/">
+    <title>上海株寄り付き　反落して始まる　資源や酒造に売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3008H0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-06-30T10:39:51+09:00</dc:date>
+  </item>
+</rdf:RDF>
