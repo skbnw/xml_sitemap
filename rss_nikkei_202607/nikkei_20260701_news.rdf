@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-07-01T11:13:04+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD233ZU0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA25DFL0V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC03CWC0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF23CMA0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR30BH40Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC26BC20W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC24B9K0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD24APU0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC259R80V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC258YJ0V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC298UD0Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF228R90S6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC258P60V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC247H70U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC267260W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC296KY0Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC245YU0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC255PL0V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB085OZ0Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC244SQ0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM304MU0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD264820W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC243P20U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM163MY0W6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC253DW0V20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC242NG0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA301LO0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL011H50R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC26AGO0W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB305D00Q6A630C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD233ZU0T20C26A6000000/">
+    <title>路線価5年連続上昇、伸び2.9%で過去最大　不動産・訪日客需要底堅く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD233ZU0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA25DFL0V20C26A6000000/">
+    <title>薬容器・包装の品薄続く　中東余波収まらず、一部医療機関は料金徴収</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA25DFL0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC03CWC0T00C26A6000000/">
+    <title>静岡県の26年路線価、2年連続上昇　熱海が5年連続伸び率首位</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC03CWC0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF23CMA0T20C26A6000000/">
+    <title>山田錦の田を守れ　兵庫・西宮の酒蔵社長、承継へ新会社</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF23CMA0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR30BH40Q6A630C2000000/">
+    <title>世界の海面水温、最高記録を更新　EU機関「未知の領域」警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR30BH40Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC26BC20W6A620C2000000/">
+    <title>福岡県の路線価4.2%上昇、佐賀駅前は17%上げ　「福岡都市圏」広がる</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC26BC20W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC24B9K0U6A620C2000000/">
+    <title>北海道の路線価1.8%上昇　富良野・小樽けん引、札幌は開発控えめ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC24B9K0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD24APU0U6A620C2000000/">
+    <title>愛知の26年路線価、2.2%上昇　オフィス活況も建築費高騰が下押し</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD24APU0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC259R80V20C26A6000000/">
+    <title>山梨県の路線価0.3%下落、甲府駅前は2年連続上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC259R80V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC258YJ0V20C26A6000000/">
+    <title>長野の路線価1.1%上昇、白馬は上昇率全国一　軽井沢は県内初首位</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC258YJ0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC298UD0Z20C26A6000000/">
+    <title>ストリマ、査定した中古車を個人も買い取り可能に　中間流通省く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC298UD0Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF228R90S6A620C2000000/">
+    <title>関西の路線価3.2%上昇、4年連続プラス　上昇率1位は御堂筋線の江坂</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF228R90S6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC258P60V20C26A6000000/">
+    <title>新潟県の路線価0.4%下落　再開発続く新潟駅前は4年連続上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC258P60V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC247H70U6A620C2000000/">
+    <title>埼玉の路線価2.3%上昇、5年連続プラス　さいたま市など需要堅調</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC247H70U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC267260W6A620C2000000/">
+    <title>千葉県の路線価4.4%上昇　東京近郊の松戸・習志野・船橋など堅調</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC267260W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC296KY0Z20C26A6000000/">
+    <title>東北の路線価1.2%上昇、都心の開発熱続く　資材高で伸び緩やかに</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC296KY0Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC245YU0U6A620C2000000/">
+    <title>群馬の路線価、34年ぶりプラスに　都心への通勤圏で価格上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC245YU0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC255PL0V20C26A6000000/">
+    <title>神奈川県の路線価4.5%上昇、鎌倉や二俣川で伸び　再開発が後押し</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC255PL0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB085OZ0Y6A600C2000000/">
+    <title>業務用の国産バター価格、異例の15%上昇　輸入進まず代替シフトも</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB085OZ0Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC244SQ0U6A620C2000000/">
+    <title>四国の路線価0.2%下落、34年連続マイナス　全国唯一の前年割れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC244SQ0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM304MU0Q6A630C2000000/">
+    <title>ゴジェック創業者「汚職」物議　インドネシアの法運用、投資に影</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM304MU0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD264820W6A620C2000000/">
+    <title>路線価上昇で変わる風景　高級住宅地は相続負担で売却、若者は下町へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD264820W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC243P20U6A620C2000000/">
+    <title>中国5県の路線価1.6%上昇、岡山・広島・山口は5年連続プラス</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC243P20U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM163MY0W6A610C2000000/">
+    <title>中国太陽光パネル材料の新会社、動静とだえる　半年で「脱内巻」停滞</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM163MY0W6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC253DW0V20C26A6000000/">
+    <title>東京の路線価9%上昇　浅草は伸び率トップ、訪日客と賃貸需要で</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC253DW0V20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC242NG0U6A620C2000000/">
+    <title>北陸の路線価0.5%上昇　観光客増加や中心部再開発に期待感</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC242NG0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA301LO0Q6A630C2000000/">
+    <title>故河野洋平元衆院議長に従二位</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA301LO0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL011H50R00C26A7000000/">
+    <title>上海株寄り付き　小反落で始まる　銀行や資源安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL011H50R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T10:46:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC26AGO0W6A620C2000000/">
+    <title>富士山が山開き、静岡・山梨側13年ぶり同日に　登山客の利便性向上</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC26AGO0W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T10:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB305D00Q6A630C2000000/">
+    <title>6月日銀短観、設備投資意欲崩れず　26年度は6.8%増計画</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB305D00Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T10:42:27+09:00</dc:date>
+  </item>
+</rdf:RDF>

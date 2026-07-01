@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-07-01T10:13:00+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010WP0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010KW0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010OT0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB010Y10R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010DW0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010ON0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010F60R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010BG0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL307O60Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010670R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010260R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL30BVI0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL30C6K0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN30CJ00Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN30CNV0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010240R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL30C6D0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010370R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL010230R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL30CEM0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD11BOM0R10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB039TJ0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB221V10S6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL291XXTZ20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB243FY0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL30BRB0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL30BR20Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL30BPE0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB280ZK0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL309RV0Q6A630C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010WP0R00C26A7000000/">
+    <title>マネックスGの株価が一時6.8%高　オアシスが5%超保有</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010WP0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T10:10:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010KW0R00C26A7000000/">
+    <title>商品9時30分　原油、上昇　米イラン協議に不透明感　金は小幅に続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010KW0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T09:45:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010OT0R00C26A7000000/">
+    <title>東証寄り付き　日経平均は続伸、一時1700円高　米株高が追い風</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010OT0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T09:29:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB010Y10R00C26A7000000/">
+    <title>ドバイ原油・1日午前</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB010Y10R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T09:26:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010DW0R00C26A7000000/">
+    <title>債券寄り付き　先物、続落　米金利高や日銀「後手」懸念が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010DW0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T09:11:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010ON0R00C26A7000000/">
+    <title>日経平均、続伸で始まる　上げ幅1300円超　米株高で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010ON0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T09:10:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010F60R00C26A7000000/">
+    <title>日経平均先物、大取で続伸　730円高の7万0920円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010F60R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T08:53:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010BG0R00C26A7000000/">
+    <title>外為8時30分　円相場、下落し162円台半ば　対ユーロも安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010BG0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T08:47:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL307O60Q6A630C2000000/">
+    <title>日経平均、米ハイテク株高が追い風　Jフロントに注目（先読み株式相場）</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL307O60Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T07:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010670R00C26A7000000/">
+    <title>今日の株価材料（新聞など、1日）Jフロントの3〜5月期、純利益7%減</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010670R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T07:29:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010260R00C26A7000000/">
+    <title>シカゴ日本株先物概況・30日　日経平均先物は405円高の7万1250円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010260R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T07:14:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL30BVI0Q6A630C2000000/">
+    <title>NY株ハイライト　SOX26年前半2倍、M7には復活期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL30BVI0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T07:07:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL30C6K0Q6A630C2000000/">
+    <title>NY円相場、続落　1ドル=162円55〜65銭　39年半ぶり円安水準</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL30C6K0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T06:51:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN30CJ00Q6A630C2000000/">
+    <title>ビットコイン、四重苦に直面　22年の｢仮想通貨の冬｣ぶり下落にAIの影</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN30CJ00Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T06:25:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN30CNV0Q6A630C2000000/">
+    <title>勢い鈍る米国株、「タカ派」FRBが転機　金は13年ぶり下落率</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN30CNV0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T06:13:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010240R00C26A7000000/">
+    <title>日本株ADR30日、売り優勢　ソニーGやトヨタ下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010240R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T06:13:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL30C6D0Q6A630C2000000/">
+    <title>NY債券、長期債下落　10年債利回り4.46%　米労働市場の底堅さを意識</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL30C6D0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T06:11:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010370R00C26A7000000/">
+    <title>NYダウ続伸、連日の最高値　巨大テック株に見直し買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010370R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T06:10:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL010230R00C26A7000000/">
+    <title>日経平均先物、大取の夜間取引で上昇　800円高の7万990円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL010230R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T06:10:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL30CEM0Q6A630C2000000/">
+    <title>NY商品、原油反落　供給回復の期待で　金は小幅続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL30CEM0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T05:33:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD11BOM0R10C26A6000000/">
+    <title>福田康夫元首相「原子力の議論深めよ」　変わらぬ石油の中東依存に懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD11BOM0R10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB039TJ0T00C26A6000000/">
+    <title>新興企業、M&amp;A目的に「メザニン」活用　株式希薄化抑えて資本増強</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB039TJ0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB221V10S6A620C2000000/">
+    <title>会計士協会、普通会費3割引き上げ　財政の大手法人依存から脱却狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB221V10S6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL291XXTZ20C26A6000000/">
+    <title>日本企業広がる外債発行　1〜6月56%増、利上げで変わる資金調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL291XXTZ20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T04:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB243FY0U6A620C2000000/">
+    <title>円相場、26年末に1ドル=160円前後　住友生命の菅野氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB243FY0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL30BRB0Q6A630C2000000/">
+    <title>ドイツ株30日　反発、AI恩恵銘柄に買い　ストックス600は最高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL30BRB0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:57:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL30BR20Q6A630C2000000/">
+    <title>ロンドン株30日　小幅反発、防衛関連に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL30BR20Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:47:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL30BPE0Q6A630C2000000/">
+    <title>欧州国債概況30日　独10年債利回り2.9%近辺で推移　独仏消費者物価は予想下回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL30BPE0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:00:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB280ZK0Y6A620C2000000/">
+    <title>金利上昇と株式投資</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB280ZK0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL309RV0Q6A630C2000000/">
+    <title>ロンドン外為30日　円、対ドルで一時162円50銭台　神経質に振れる場面も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL309RV0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T00:38:55+09:00</dc:date>
+  </item>
+</rdf:RDF>
