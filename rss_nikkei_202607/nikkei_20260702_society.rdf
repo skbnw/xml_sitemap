@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/society.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsociety.rdf">
+    <title>日経新聞 社会</title>
+    <link>https://www.nikkei.com/news/category/society/</link>
+    <description>日経新聞の社会に関するフィードをお届けします。</description>
+    <dc:date>2026-07-02T11:10:56+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD020UO0S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD302VG0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN01DH40R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2345W0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1706U0X10C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD018UB0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2870M0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD014OV0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD030PQ0T00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD014SV0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD30AU80Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD013AA0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD01BVD0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0169Z0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF019N70R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0199C0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF019VO0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUE308QQ0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD012XP0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD233ZU0T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD264820W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD010ZC0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD097VV0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD211TF0R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF299N50Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD186R50Y6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD264XW0W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD282UL0Y6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD192MF0Z10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD080IN0Y6A600C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD020UO0S6A700C2000000/">
+    <title>九州各地に線状降水帯　長崎で猛烈な雨観測、土砂災害に警戒呼びかけ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD020UO0S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T09:43:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD302VG0Q6A630C2000000/">
+    <title>貿易装うマネロン摘発、機器輸出名目で送金か　銀行が不審取引を通報</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD302VG0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T09:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN01DH40R00C26A7000000/">
+    <title>W杯で快進撃のメキシコ、祝勝会で4人死亡　首都に140万人殺到か</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN01DH40R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T06:21:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2345W0T20C26A6000000/">
+    <title>サッカーW杯のSNS中傷投稿は前回比5倍　閲覧数狙いで拍車、対策後手</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2345W0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1706U0X10C26A5000000/">
+    <title>FC今治高校里山校校長・辻正太氏「個の強さが組織の強さ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1706U0X10C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD018UB0R00C26A7000000/">
+    <title>自治体職員の3割応援派遣　能登被災地へ全国99自治体　復興に不可欠</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD018UB0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2870M0Y6A520C2000000/">
+    <title>「ニコチンパウチ」に若者依存リスク　無煙で手軽に口内摂取、利用急増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2870M0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD014OV0R00C26A7000000/">
+    <title>登録日本語教員とは　指導の質確保へ24年に創設</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD014OV0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD030PQ0T00C26A6000000/">
+    <title>日本語教員の国家試験、年1回→複数回へ　育成就労開始の27年度にも</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD030PQ0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD014SV0R00C26A7000000/">
+    <title>闇バイト応募しないで　警視庁、高校生にトクリュウ犯罪の実態伝える</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD014SV0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T22:18:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD30AU80Q6A630C2000000/">
+    <title>製薬大手元社員に二審も懲役16年　メタノールで妻殺害、東京高裁判決</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD30AU80Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T22:10:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD013AA0R00C26A7000000/">
+    <title>長野の住宅で母娘死亡、長男への殺人未遂容疑で父親逮捕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD013AA0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T22:09:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD01BVD0R00C26A7000000/">
+    <title>ガス漏れ事故で現場責任者を書類送検、三井化学の大牟田工場</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD01BVD0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T22:09:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0169Z0R00C26A7000000/">
+    <title>北越高「顧問が出張申請失念」、管理職遠征把握せず　磐越道事故</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0169Z0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T21:51:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF019N70R00C26A7000000/">
+    <title>エクソソーム治療、厚労省が規制検討　再生医療安全確保法見直し</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF019N70R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T20:31:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0199C0R00C26A7000000/">
+    <title>被爆者は9万1000人、平均年齢86.66歳　厚生労働省まとめ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0199C0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T20:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF019VO0R00C26A7000000/">
+    <title>バングラデシュでテロ犠牲者悼む、発生10年　風化懸念も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF019VO0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T20:27:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUE308QQ0Q6A630C2000000/">
+    <title>全自治体にUSB一斉調査　総務省、自衛隊のウイルス感染製品使用受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOUE308QQ0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD012XP0R00C26A7000000/">
+    <title>奄美地方が梅雨明け　平年より2日遅く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD012XP0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T12:01:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD233ZU0T20C26A6000000/">
+    <title>路線価5年連続上昇、伸び2.9%で過去最大　不動産・訪日客需要底堅く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD233ZU0T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD264820W6A620C2000000/">
+    <title>路線価上昇で変わる風景　高級住宅地は相続負担で売却、若者は下町へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD264820W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD010ZC0R00C26A7000000/">
+    <title>宮崎で震度4　マグニチュード5.1</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD010ZC0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T09:28:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD097VV0Z00C26A6000000/">
+    <title>障害者法定雇用率2.7%に引き上げ　数値目標とミスマッチ防止どう両立</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD097VV0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD211TF0R20C26A6000000/">
+    <title>50歳で始める「ゼロ活」　お金使い切り、人生楽しむ逆算テクニック</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD211TF0R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF299N50Z20C26A6000000/">
+    <title>かばん輸入卸、売り上げ除外し9800万円脱税疑い　大阪国税局が告発</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF299N50Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD186R50Y6A610C2000000/">
+    <title>自衛隊の感染USB、隊員の違和感から偶然発覚　残る3つの謎</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD186R50Y6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD264XW0W6A620C2000000/">
+    <title>サムライブルー健闘、国内でサッカー熱高まる　派生スポーツも</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD264XW0W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD282UL0Y6A620C2000000/">
+    <title>皇室典範改正案、例外ずくめの養子容認　「立法府の総意」超えた設計</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD282UL0Y6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD192MF0Z10C26A6000000/">
+    <title>戸板女子短期大学、Z世代の発想で社会課題解決　地方創生など35社と</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD192MF0Z10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD080IN0Y6A600C2000000/">
+    <title>現場主義、AIに「勝てる」学びとなるか　安斎徹・清泉女子大学教授</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD080IN0Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-01T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
