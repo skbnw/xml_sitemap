@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-07-04T11:13:58+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD02BR30S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC037ES0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB034RN0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB094MN0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC233T70T20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC021MI0S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB01C8Y0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR19AQU0Z10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC199IZ0Z10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD127S50S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF046Y00U6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC185NL0Y6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD013L50R00C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD292N60Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC311F50R30C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC220AA0S6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC220A60S6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0204V0S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN030BG0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOMG00001_S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOMG00002_S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB018TL0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC034TZ0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC03A940T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC012I50R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC03A350T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0182J0R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM039KQ0T00C26A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD02BR30S6A700C2000000/">
+    <title>JR東海の在来線検測車「ドクター東海」、異常即時に分析し作業減らす</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD02BR30S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC037ES0T00C26A7000000/">
+    <title>6月29日〜7月3日　スタートアップ資金調達まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC037ES0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB034RN0T00C26A7000000/">
+    <title>BIPROGY株軟調　システム開発にAI脅威論再び、買収負担懸念も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB034RN0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB094MN0Z00C26A6000000/">
+    <title>法テック開拓を評価、モンテスキューの板谷氏ら受賞　FT弁護士表彰</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB094MN0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC233T70T20C26A6000000/">
+    <title>W杯出場国、料理はみな優勝！　カボベルデやハイチの味も都内で堪能</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC233T70T20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC021MI0S6A700C2000000/">
+    <title>ソニーのプレステ、新作ゲームのディスク販売終了　割を食うのは誰か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC021MI0S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/">
+    <title>サカナAIの「フグ」、米モデル代替になり得るか　開発者が語る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB01C8Y0R00C26A7000000/">
+    <title>世界の電力、焦点はAI＋冷房</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB01C8Y0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR19AQU0Z10C26A6000000/">
+    <title>仏SGM、百貨店BHVの営業権売却　SHEIN開業から1年足らずで退去へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR19AQU0Z10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC199IZ0Z10C26A6000000/">
+    <title>メルシャン、日本ワインの親木に　急増・新興ワイナリーの指南役買う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC199IZ0Z10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD127S50S6A610C2000000/">
+    <title>患者と「二人三脚」で新薬開発、治療に反映　生活の質の向上</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD127S50S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF046Y00U6A600C2000000/">
+    <title>ワコール、月経周期に合わせたインナー　女性のセルフケアに照準</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF046Y00U6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC185NL0Y6A510C2000000/">
+    <title>70%で働く　「職場には、自然と頑張りすぎてしまう仕組みがある」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC185NL0Y6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD013L50R00C26A5000000/">
+    <title>藤井聡太さんも食した｢ぴよりん｣、カフェやバルーンで名古屋席巻</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD013L50R00C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD292N60Z20C26A6000000/">
+    <title>「TikTok」のバイトダンスは上場すべきなのか　へニー・センダー氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD292N60Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC311F50R30C26A5000000/">
+    <title>シロカ、2品同時にできる自動調理鍋　ごはん＋カレーは26分</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC311F50R30C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC220AA0S6A620C2000000/">
+    <title>ストックフォトのPIXTA、生成AI素材と決別　リアル体験ビジネス拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC220AA0S6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC220A60S6A620C2000000/">
+    <title>Z世代の企画屋、麻辣湯専門店に後発参入「今なら第一想起を取れる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC220A60S6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0204V0S6A700C2000000/">
+    <title>福島・南相馬で愛された中華そば、OWBと一風堂が復刻　店も開業へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0204V0S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN030BG0T00C26A7000000/">
+    <title>テイラー・スウィフトさん、NYで結婚式　大規模アリーナ異例の規模</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN030BG0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-04T00:11:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOMG00001_S6A700C2000000/">
+    <title>丸亀製麺、うどんプリン全国で販売　「あんみつ風」など4種類</title>
+    <link>https://www.nikkei.com/article/DGXZQOMG00001_S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T22:19:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOMG00002_S6A700C2000000/">
+    <title>カゴメ、国産トマト100%のジュース　さらっとしたのどごし</title>
+    <link>https://www.nikkei.com/article/DGXZQOMG00002_S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T22:19:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB018TL0R00C26A7000000/">
+    <title>カカオ豆が5カ月ぶり高値　スーパーエルニーニョで供給不安再燃</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB018TL0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T21:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/">
+    <title>中国アリババ、米アンソロピックのプログラミングAIを利用禁止に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T20:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC034TZ0T00C26A7000000/">
+    <title>芝浦機械、イタリア企業と合弁会社で覚書　工場の自動化システム提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC034TZ0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T20:41:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC03A940T00C26A7000000/">
+    <title>資生堂、小学校で日焼け予防教育　26年度は約300校予定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC03A940T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T20:41:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC012I50R00C26A7000000/">
+    <title>「IVS」閉幕、スタートアップの多様なあり方示す　オルツ問題も議論</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC012I50R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T20:23:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC03A350T00C26A7000000/">
+    <title>AIエージェント、大企業の約半数で本番運用　民間調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC03A350T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T20:21:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0182J0R00C26A7000000/">
+    <title>三重のプラトンホテル四日市、地下にクラフトビール醸造所</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0182J0R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T20:13:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM039KQ0T00C26A7000000/">
+    <title>中国ヒト型ロボットのユニツリー、上場承認　1000億円近く調達へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM039KQ0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-03T20:10:08+09:00</dc:date>
+  </item>
+</rdf:RDF>
