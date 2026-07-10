@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/ynnews/politics.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fynnews%2Fpolitics.rdf">
+    <title>47NEWS 全国 政治</title>
+    <link>https://www.47news.jp/news/politics</link>
+    <description>47NEWS 全国の政治に関するフィードをお届けします。</description>
+    <dc:date>2026-07-10T09:10:15+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/14600804.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14600432.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598634.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14599162.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598811.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598690.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598644.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598539.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598721.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598323.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598357.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598030.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14597947.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14597581.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14597420.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14597326.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14597246.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14596901.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14596733.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14596580.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14598634.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14597420.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14596901.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14599162.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14591793.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/nayami_sodan"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/university-future"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/14600804.html">
+    <title>【速報】皇室典範改正案、衆院委員会で審議入り</title>
+    <link>https://www.47news.jp/14600804.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14600432.html">
+    <title>［長崎県］議員定数維持を決議　県議会が閉会</title>
+    <link>https://www.47news.jp/14600432.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598634.html">
+    <title>れいわ山本代表が辞任、政界引退　31日に後任決め党名変更</title>
+    <link>https://www.47news.jp/14598634.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14599162.html">
+    <title>中野氏が松山市長選出馬を正式表明　県議を辞職  「未来へ投資する」</title>
+    <link>https://www.47news.jp/14599162.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598811.html">
+    <title>【速報】与野党、党首討論15日開催で合意</title>
+    <link>https://www.47news.jp/14598811.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598690.html">
+    <title>【速報】れいわ、7月31日の代表選後に党名変更へ</title>
+    <link>https://www.47news.jp/14598690.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598644.html">
+    <title>【速報】大幅な速度超過を反省とれいわ山本氏</title>
+    <link>https://www.47news.jp/14598644.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598539.html">
+    <title>【速報】れいわ山本代表が辞任表明</title>
+    <link>https://www.47news.jp/14598539.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598721.html">
+    <title>荒井氏、中道離党を表明　札幌市長選出馬へ</title>
+    <link>https://www.47news.jp/14598721.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598323.html">
+    <title>【速報】中道、皇室典範改正案の賛否保留</title>
+    <link>https://www.47news.jp/14598323.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598357.html">
+    <title>栗東市長選に滋賀県議の九里学さんが立候補表明　選挙戦の見込み</title>
+    <link>https://www.47news.jp/14598357.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598030.html">
+    <title>皇室典範、10日に審議入り　養子の子継承資格で論戦</title>
+    <link>https://www.47news.jp/14598030.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14597947.html">
+    <title>政府、典範改正で異例の事後説明　国会空転の影響で</title>
+    <link>https://www.47news.jp/14597947.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14597581.html">
+    <title>荒井氏、中道離党を表明　13日付</title>
+    <link>https://www.47news.jp/14597581.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14597420.html">
+    <title>副首都法案、10日に審議再開　会期内の成立不透明</title>
+    <link>https://www.47news.jp/14597420.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14597326.html">
+    <title>【速報】「交通空白」経済損失、年10兆円と初試算</title>
+    <link>https://www.47news.jp/14597326.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14597246.html">
+    <title>【速報】与野党、副首都法案の10日審議再開を決定</title>
+    <link>https://www.47news.jp/14597246.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14596901.html">
+    <title>皇室典範改正案、10日衆院通過　国民民主も賛成へ</title>
+    <link>https://www.47news.jp/14596901.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14596733.html">
+    <title>【速報】典範改正審議の参院特別委を10日設置へ</title>
+    <link>https://www.47news.jp/14596733.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14596580.html">
+    <title>合区、地方自治で各党討議　9条改正も、衆院憲法審</title>
+    <link>https://www.47news.jp/14596580.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14598634.html">
+    <title>れいわ山本代表が辞任、政界引退　31日に後任決め党名変更</title>
+    <link>https://www.47news.jp/14598634.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14597420.html">
+    <title>副首都法案、10日に審議再開　会期内の成立不透明</title>
+    <link>https://www.47news.jp/14597420.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14596901.html">
+    <title>皇室典範改正案、10日衆院通過　国民民主も賛成へ</title>
+    <link>https://www.47news.jp/14596901.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14599162.html">
+    <title>中野氏が松山市長選出馬を正式表明　県議を辞職  「未来へ投資する」</title>
+    <link>https://www.47news.jp/14599162.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14591793.html">
+    <title>船田氏、典範改正「総意を逸脱」　政府案に異論、自民内でも表面化</title>
+    <link>https://www.47news.jp/14591793.html</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/nayami_sodan">
+    <title>もしも自分や身近な人が悩みを抱えたら？知っておきたい、「相談」の大切さ</title>
+    <link>https://www.47news.jp/special/nayami_sodan</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/university-future">
+    <title>大学特集〜大学教育の未来を探る〜</title>
+    <link>https://www.47news.jp/special/university-future</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-07-10T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
