@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-07-12T11:13:32+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA120GU0S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2389V0T20C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD094A80Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB063K80W6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM103GQ0Q6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC081230Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD090RL0Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1203A0S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1209C0S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC120830S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1207T0S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM077040X00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR120440S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1207Y0S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1207M0S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC036HY0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH110I30R10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH112IV0R10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH1204W0S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB120150S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN113680R10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB120130S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM111Z10R10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC08C270Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD09BYO0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD10BV80Q6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC24AZG0U6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB159JQ0V10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD107LA0Q6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR1075C0Q6A710C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA120GU0S6A710C2000000/">
+    <title>自民・磯崎参院国対委員長「会期中に全法案成立、全力尽くす」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA120GU0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T11:12:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2389V0T20C26A4000000/">
+    <title>猛暑対策｢風では追いつかぬ｣　ソニー系は装着クーラーの性能2割向上</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2389V0T20C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD094A80Z00C26A7000000/">
+    <title>AI相場を超えて　アジア株市場に改革の伸びしろはあるか</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD094A80Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB063K80W6A700C2000000/">
+    <title>ウクライナ、「キルゾーン」での救護に無人車両　対ドローン戦で変貌</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB063K80W6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM103GQ0Q6A710C2000000/">
+    <title>アンワル首相が与党対決で敗北　マレーシア州議会選、政権運営に影</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM103GQ0Q6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC081230Y6A700C2000000/">
+    <title>ヒューリック、鉄緑会につけた数百億円の価値　目指す「秀才養成ビル」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC081230Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD090RL0Z00C26A7000000/">
+    <title>金型500点を一堂に　自動車補給部品の豊臣機工、愛知・岡崎に新工場</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD090RL0Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1203A0S6A710C2000000/">
+    <title>中国の「九段線」否定した仲裁判断　軍事化の10年、法の支配の重み</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1203A0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1209C0S6A710C2000000/">
+    <title>河村勇輝は12得点3アシスト　NBAサマーリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1209C0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T10:42:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC120830S6A710C2000000/">
+    <title>金谷拓実、24位に後退　米男子ゴルフISCO選手権第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC120830S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T10:00:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1207T0S6A710C2000000/">
+    <title>中島啓太、濃霧でプレー終わらず　スコットランドOPゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1207T0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T10:00:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM077040X00C26A7000000/">
+    <title>中国、4〜6月GDP15日発表　消費・投資低迷で迫る5%割れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM077040X00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T09:55:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR120440S6A710C2000000/">
+    <title>イラン革命防衛隊、ホルムズ再封鎖を宣言　米軍は再攻撃を開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR120440S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T09:13:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1207Y0S6A710C2000000/">
+    <title>佐々木麟太郎、初日は指名なし　大リーグドラフト会議</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1207Y0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T09:10:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1207M0S6A710C2000000/">
+    <title>山本由伸、オールスターは2年連続登板せず　直前に先発</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1207M0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T09:10:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC036HY0T00C26A7000000/">
+    <title>福岡・おいしい氷屋　ふわふわかき氷に「あまおう」や八女抹茶ソース</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC036HY0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH110I30R10C26A7000000/">
+    <title>12日の有力馬　七夕賞など競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH110I30R10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T08:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH112IV0R10C26A7000000/">
+    <title>イングランドが延長でノルウェー退け4強　サッカーW杯準々決勝</title>
+    <link>https://www.nikkei.com/article/DGXZQODH112IV0R10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T08:49:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH1204W0S6A710C2000000/">
+    <title>ノスコバが四大大会初優勝　ウィンブルドンテニス女子シングルス</title>
+    <link>https://www.nikkei.com/article/DGXZQODH1204W0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T08:06:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB120150S6A710C2000000/">
+    <title>イランとオマーン、ホルムズ海峡監視委の設置協議か　両国外相が会談</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB120150S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T06:24:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN113680R10C26A7000000/">
+    <title>ホワイトハウス記者会、トランプ政権の記者召喚を非難　「威嚇行為」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN113680R10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T06:19:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB120130S6A710C2000000/">
+    <title>イラン、レバノンの衝突回避チームにヒズボラ参加要求　米国は反対か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB120130S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T06:14:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM111Z10R10C26A7000000/">
+    <title>マレーシア与党連合が全勝　ジョホール州議会選、経済特区の重要州</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM111Z10R10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T06:07:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC08C270Y6A700C2000000/">
+    <title>「群馬パスポート」人気　地域紹介パンフ、残り2万部の抽選に5万人</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC08C270Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD09BYO0Z00C26A6000000/">
+    <title>格安USBに潜む2つのリスク、自分でできるセキュリティー対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD09BYO0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD10BV80Q6A710C2000000/">
+    <title>サッカーワールドカップの歓喜と涙、人生を変えるきっかけに</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD10BV80Q6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC24AZG0U6A620C2000000/">
+    <title>司法も医師もペンなし試験　広がり始めたCBT、多面的に理解度測る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC24AZG0U6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB159JQ0V10C26A6000000/">
+    <title>キャビアだけじゃない　味わうチョウザメの肉、刺し身やてんぷら</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB159JQ0V10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD107LA0Q6A710C2000000/">
+    <title>欧州勢W杯躍進、王室現地入り続々　王女とハーランド選手ハグ話題に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD107LA0Q6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR1075C0Q6A710C2000000/">
+    <title>マッターホルンに「幻の滝」　解ける氷河、熱波でスイスアルプス悲鳴</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR1075C0Q6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>

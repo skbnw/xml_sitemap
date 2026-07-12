@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-07-12T10:15:40+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD09BYO0Z00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG156XU0V10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC210IX0R20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG035610T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD020XL0S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN111T80R10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG099XC0Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM082660Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG087CW0Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG086540Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM082770Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC09A3A0Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC290AP0Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM072DW0X00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG08BB90Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC016670R00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF108H00Q6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC063HG0W6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGS09AMK0Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM100ER0Q6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0730O0X00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1008I0Q6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN09CM00Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN09CXN0Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG07BAS0X00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG199KW0Z10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG187RF0Y6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC074R20X00C26A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD09BYO0Z00C26A6000000/">
+    <title>格安USBに潜む2つのリスク、自分でできるセキュリティー対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD09BYO0Z00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG156XU0V10C26A6000000/">
+    <title>人型ロボの「W杯」、7割中国製　発案国の日本はピッチで見当たらず</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG156XU0V10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC210IX0R20C26A6000000/">
+    <title>「空気を読み笑いとるAIは出ない」　吉本興業傘下FANYの梁弘一社長</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC210IX0R20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG035610T00C26A7000000/">
+    <title>廃棄プラ製ボトルでカニが成長　海上2カ月漂流、広島大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG035610T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/">
+    <title>社員のAI活用、報酬に反映　ホンダは選抜1000人に月最大15万円増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD020XL0S6A700C2000000/">
+    <title>再生医療法見直しへ議論開始　自由診療の実態解明を</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD020XL0S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-12T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN111T80R10C26A7000000/">
+    <title>メタ「インスタ」画像、無断でAI合成できる機能を停止　批判受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN111T80R10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-11T19:13:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG099XC0Z00C26A7000000/">
+    <title>再使用ロケット実験機を打ち上げ着陸、JAXA「正常に飛行」</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG099XC0Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-11T12:00:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM082660Y6A700C2000000/">
+    <title>韓国SKハイニックス米上場、初日は13%高　時価総額1.2兆ドル</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM082660Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-11T10:48:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG087CW0Y6A700C2000000/">
+    <title>南極で観測のニュートリノ、110億年前の遠い銀河から飛来の可能性</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG087CW0Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG086540Y6A700C2000000/">
+    <title>「タウ」蓄積による認知障害の仕組み解明　量子科学技術研究開発機構</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG086540Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM082770Y6A700C2000000/">
+    <title>韓国SKが半導体資金確保に先手　米上場で4兆円調達、工場新設費5倍に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM082770Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC09A3A0Z00C26A7000000/">
+    <title>Apple Watchが見破った筆者の｢睡眠時無呼吸｣　通知からの顚末記</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC09A3A0Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-11T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC290AP0Z20C26A6000000/">
+    <title>「CRMで成果が出ない」理由は明白　マーケ部門のやるべきこと</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC290AP0Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-11T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM072DW0X00C26A7000000/">
+    <title>中国企業、AI追い風に成熟半導体の受託拡大　ネクスチップ香港上場</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM072DW0X00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T17:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG08BB90Y6A700C2000000/">
+    <title>研究者の技術流出リスクを判定・管理　FRONTEOが提供開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG08BB90Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T16:07:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC016670R00C26A7000000/">
+    <title>「AIプロジェクト赤字」日本企業の31%　米社調査、ROI意識は拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC016670R00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T15:28:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF108H00Q6A610C2000000/">
+    <title>平城宮跡を「まるごと博物館」に　奈良文化財研究所とDNPが連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF108H00Q6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T15:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC063HG0W6A700C2000000/">
+    <title>川崎商工会議所、富士通のAI専門家をアドバイザーに　中小の導入支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC063HG0W6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T13:17:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGS09AMK0Z00C26A7000000/">
+    <title>AIは生産性を向上、バンコクは75%が回答　NYやロンドンは低く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGS09AMK0Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T11:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM100ER0Q6A710C2000000/">
+    <title>SKハイニックス、ADR上場の公募価格149ドル　4兆円調達へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM100ER0Q6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T10:59:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0730O0X00C26A7000000/">
+    <title>高性能AI、安全評価とサイバー防御に活用　政府が基本計画を改定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0730O0X00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1008I0Q6A710C2000000/">
+    <title>マイクロンが米国産メモリー投資41兆円に増額　35年まで、域内確保へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1008I0Q6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T09:23:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN09CM00Z00C26A7000000/">
+    <title>OpenAI、ChatGPTで業務用機能を強化　アンソロピック対抗</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN09CM00Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T06:21:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN09CXN0Z00C26A7000000/">
+    <title>アンソロピックの監督機関にバーナンキ元FRB議長　AIと経済巡り助言</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN09CXN0Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T06:00:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/">
+    <title>メタ｢インスタ｣画像、他人がAIで合成可能　拒否しないと勝手に素材化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T05:16:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG07BAS0X00C26A7000000/">
+    <title>JAXA、再使用ロケット実験機打ち上げ　コスト削減でスペースX追う</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG07BAS0X00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG199KW0Z10C26A6000000/">
+    <title>熱で縮む微細な材料、東京科学大学が安全に合成　半導体の熱膨張を抑制</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG199KW0Z10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG187RF0Y6A610C2000000/">
+    <title>なぜ片頭痛が増えているのか？　原因と対処法を専門家に聞いた</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG187RF0Y6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC074R20X00C26A7000000/">
+    <title>米データロボット、AIエージェント開発を支援　日本でFDE開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC074R20X00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-10T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
