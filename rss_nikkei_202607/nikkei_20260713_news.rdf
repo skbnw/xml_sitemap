@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-07-13T11:10:28+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA095BV0Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA097040Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD089CJ0Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF107ZH0Q6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB035RT0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB302H00Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH121K60S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH120940S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130G20T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130B70T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130M30T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130WG0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1315N0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130V60T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD069BS0W6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130HC0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130L70T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130Q70T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130AW0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD08CG20Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC09BHU0Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130JV0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1309V0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB130EQ0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1309O0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB071QZ0X00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB130IB0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1309F0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH121BJ0S6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH120YX0S6A710C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA095BV0Z00C26A7000000/">
+    <title>日本からの海外送金、25年度1兆円超え　外国人の就労拡大映す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA095BV0Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T11:08:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA097040Z00C26A7000000/">
+    <title>金利上昇懸念で骨太決定ずれ込み　消費税は未決着、市場反応見通せず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA097040Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T11:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD089CJ0Y6A700C2000000/">
+    <title>自治体システム標準化に遅れ　名古屋のアズウェル、作業支援に商機</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD089CJ0Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF107ZH0Q6A710C2000000/">
+    <title>パナソニックHD、無人搬送車を遠隔操作　緊急時の駆けつけ不要に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF107ZH0Q6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB035RT0T00C26A7000000/">
+    <title>インドネシア、「愛国者債」購入資金は捜査対象外　マネロン温床と批判</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB035RT0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB302H00Q6A630C2000000/">
+    <title>ウナギかば焼き1割安、中国産が手ごろに　2025年産の稚魚豊漁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB302H00Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH121K60S6A710C2000000/">
+    <title>イングランド、鉄の意志で4強　「後発組」も奮闘し適材適所の総力戦</title>
+    <link>https://www.nikkei.com/article/DGXZQODH121K60S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH120940S6A710C2000000/">
+    <title>負けないアルゼンチン、薄氷でも4強　メッシの連続ゴールは止まる</title>
+    <link>https://www.nikkei.com/article/DGXZQODH120940S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130G20T10C26A7000000/">
+    <title>安川電機の株価がストップ安　3〜5月期、純利益22%減</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130G20T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:47:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130B70T10C26A7000000/">
+    <title>イオンの株価が朝高後下落　34%営業増益も、総合スーパー事業不振</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130B70T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:45:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130M30T10C26A7000000/">
+    <title>香港株寄り付き　小動きで始まる　中東情勢が重荷　アリババ高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130M30T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:43:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130WG0T10C26A7000000/">
+    <title>上海株寄り付き　続落で始まる　中東懸念が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130WG0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:41:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1315N0T10C26A7000000/">
+    <title>金谷拓実15位、フィスク優勝　米男子ゴルフISCO選手権</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1315N0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:37:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130V60T10C26A7000000/">
+    <title>人民元基準値、対米ドルで6.7972元　前週末比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130V60T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:29:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD069BS0W6A700C2000000/">
+    <title>ミャンマー、民主化進むの？　事実上の軍政続き安定遠く</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD069BS0W6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:24:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130HC0T10C26A7000000/">
+    <title>外為10時　円相場、下げ幅拡大　162円台前半　中値「ドル買い優勢」の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130HC0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:22:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130L70T10C26A7000000/">
+    <title>良品計画株価、上場来高値　海外好調で26年8月期上方修正</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130L70T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:20:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130Q70T10C26A7000000/">
+    <title>東証10時　日経平均、下げに転じる　一時700円安　韓国株安も重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130Q70T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:19:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130AW0T10C26A7000000/">
+    <title>キオクシアHD株価が一進一退　韓国SKハイニックスの米上場は支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130AW0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:13:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD08CG20Y6A700C2000000/">
+    <title>SONYを変えた「破壊と創造」　よみがえる創業者の警句</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD08CG20Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC09BHU0Z00C26A7000000/">
+    <title>ビルに日傘効果、室温低下に店舗デザインも一新　膜構造が変える建築</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC09BHU0Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130JV0T10C26A7000000/">
+    <title>商品9時30分　原油、反発　ホルムズ海峡再封鎖を警戒　金は続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130JV0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:53:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1309V0T10C26A7000000/">
+    <title>東証寄り付き　日経平均、朝安後に上昇　一時6万9000円台</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1309V0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:30:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB130EQ0T10C26A7000000/">
+    <title>ドバイ原油・13日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB130EQ0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:24:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1309O0T10C26A7000000/">
+    <title>日経平均、反落で始まる　中東情勢の緊迫が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1309O0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:13:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB071QZ0X00C26A7000000/">
+    <title>三菱UFJFG、時価総額42兆円で初の首位に　金融機関でバブル後初</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB071QZ0X00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:12:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB130IB0T10C26A7000000/">
+    <title>バングラデシュ、洪水や土砂崩れで50人超死亡　600人以上救助</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB130IB0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:07:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1309F0T10C26A7000000/">
+    <title>債券寄り付き　長期金利、2.735%に上昇　前週末の反動で売り先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1309F0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:05:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH121BJ0S6A710C2000000/">
+    <title>スイス初の4強ならず　エンボロ退場で逆転機運しぼむ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH121BJ0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH120YX0S6A710C2000000/">
+    <title>沈黙のハーランド　テクノロジーの「援護」なく、ノルウェー4強逃す</title>
+    <link>https://www.nikkei.com/article/DGXZQODH120YX0S6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-13T09:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
