@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/ynnews/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fynnews%2Fnews.rdf">
+    <title>47NEWS 全国 最新ニュース</title>
+    <link>https://www.47news.jp/news</link>
+    <description>47NEWS 全国の最新ニュースに関するフィードをお届けします。</description>
+    <dc:date>2026-07-20T02:13:07+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/14652314.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652315.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652254.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652253.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652252.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652243.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652212.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652184.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651369.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652150.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651828.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652039.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14652027.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651858.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651881.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651778.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651777.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14649713.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651742.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651744.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14542276.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651828.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14649534.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14651026.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/14649921.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/nayami_sodan"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/university-future"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/14652314.html">
+    <title>【速報】横浜市の市道で3歳男児が車にはねられ死亡</title>
+    <link>https://www.47news.jp/14652314.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652315.html">
+    <title>キミ・アントネッリが6勝目　F1第10戦、ベルギーGP</title>
+    <link>https://www.47news.jp/14652315.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652254.html">
+    <title>海水浴場で群馬の男児死亡　富山・黒部</title>
+    <link>https://www.47news.jp/14652254.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652253.html">
+    <title>大谷翔平、23日は先発登板せず　左膝の炎症、指名打者で出場へ</title>
+    <link>https://www.47news.jp/14652253.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652252.html">
+    <title>【速報】富山の海水浴場で群馬の10歳男児死亡</title>
+    <link>https://www.47news.jp/14652252.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652243.html">
+    <title>【速報】ドジャース大谷、23日は登板せず</title>
+    <link>https://www.47news.jp/14652243.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652212.html">
+    <title>＜あのころ＞小泉郵政相が辞任　33年前の7月20日</title>
+    <link>https://www.47news.jp/14652212.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652184.html">
+    <title>松山英樹は前半終え3アンダー　全英オープンゴルフ最終日</title>
+    <link>https://www.47news.jp/14652184.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651369.html">
+    <title>県道で正面衝突、2人死亡　2人けが、岡山・備前</title>
+    <link>https://www.47news.jp/14651369.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652150.html">
+    <title>【速報】スポーツカーで事故死の2人は兵庫の兄弟</title>
+    <link>https://www.47news.jp/14652150.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651828.html">
+    <title>競輪で落車、伏見俊昭さん死去　50歳、アテネ五輪「銀」</title>
+    <link>https://www.47news.jp/14651828.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652039.html">
+    <title>伏見さん訃報、新田選手は号泣　「信じられない」と井上選手</title>
+    <link>https://www.47news.jp/14652039.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14652027.html">
+    <title>大山への死球で警告試合　17日には前川が骨折</title>
+    <link>https://www.47news.jp/14652027.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651858.html">
+    <title>広2―4神（19日）　佐藤が八回勝ち越し二塁打</title>
+    <link>https://www.47news.jp/14651858.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651881.html">
+    <title>投打に淡泊、ヤクルト5連敗　7月は3勝13敗</title>
+    <link>https://www.47news.jp/14651881.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651778.html">
+    <title>バレー男子、日本は12戦全勝　ネーションズリーグ1次L</title>
+    <link>https://www.47news.jp/14651778.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651777.html">
+    <title>D5―1ヤ（19日）　新人の片山、プロ初勝利</title>
+    <link>https://www.47news.jp/14651777.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14649713.html">
+    <title>栃木・足利の住宅倒壊で男女死亡　裏手の山崩れ、60代の夫婦か</title>
+    <link>https://www.47news.jp/14649713.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651742.html">
+    <title>【独自】闇バイトX投稿に警告、7万件超　2025年中、33都道府県警</title>
+    <link>https://www.47news.jp/14651742.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651744.html">
+    <title>【独自】42カ国が原発導入や検討に着手　ウクライナ侵攻後に急拡大</title>
+    <link>https://www.47news.jp/14651744.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14542276.html">
+    <title>【独自】「ロシア兵器9割に日本部品」　ミサイルや無人機に転用</title>
+    <link>https://www.47news.jp/14542276.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651828.html">
+    <title>競輪で落車、伏見俊昭さん死去　50歳、アテネ五輪「銀」</title>
+    <link>https://www.47news.jp/14651828.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14649534.html">
+    <title>転落に巻き込まれ女性死亡　名古屋・栄、落下の男性は重体</title>
+    <link>https://www.47news.jp/14649534.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14651026.html">
+    <title>キーウに弾道ミサイル攻撃　過去最大、40発以上</title>
+    <link>https://www.47news.jp/14651026.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/14649921.html">
+    <title>静岡・御殿場で倒木、7人重軽傷　「時之栖」サッカーの試合中</title>
+    <link>https://www.47news.jp/14649921.html</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/nayami_sodan">
+    <title>もしも自分や身近な人が悩みを抱えたら？知っておきたい、「相談」の大切さ</title>
+    <link>https://www.47news.jp/special/nayami_sodan</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/university-future">
+    <title>大学特集〜大学教育の未来を探る〜</title>
+    <link>https://www.47news.jp/special/university-future</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-07-20T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
