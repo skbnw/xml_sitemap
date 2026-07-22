@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Most Popular</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 22 Jul 2026 07:43:53 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 02:13:59 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Most Popular</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>Maps Show Where Wildfire Smoke Will Darken Skies on Thursday</title>
+      <link>https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html" rel="standout"></atom:link>
+      <description>Air quality in several cities reached hazardous levels on Thursday morning as smoke was expected to move across North America.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 18:10:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16wea-smoke-tpcb/16wea-smoke-tpcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cole Burston/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Smoke gave the sky in Toronto an orange hue on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Tate Brothers Arrested in Miami As U.K. Authorities File Sex Crime Charges</title>
+      <link>https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html" rel="standout"></atom:link>
+      <description>Federal marshals arrested the influencers, who are known for their misogynistic views and have faced years of criminal investigations in Europe. The new charges concern offenses dating to 2010, British officials said.</description>
+      <dc:creator>Isabella Kwai, Megan Twohey and Mack Liederman</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 11:25:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tate, Andrew (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tate, Tristan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostitution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bedfordshire (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hertfordshire (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18xp-tatebrothers-kbvl/18xp-tatebrothers-kbvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Julia Demaree Nikhinson</media:credit>
+      <media:description>Influencers Andrew Tate (right) and his brother Tristan Tate have developed a following for content that promotes hyper-masculinity. They have faced investigations over sexual abuse allegations.</media:description>
+    </item>
+    <item>
+      <title>The F.D.A. Approves a New Pill to Slash Cholesterol Levels</title>
+      <link>https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html" rel="standout"></atom:link>
+      <description>The new pills can lower cholesterol levels far below what can be achieved with statins, clinical trials have shown.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 17:28:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statins (Cholesterol-Lowering Drugs)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck &amp; Company Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/15/science/15SCI-CHOLESTEROL-PILL/15SCI-CHOLESTEROL-PILL-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Getty Images</media:credit>
+      <media:description>Merck’s cholesterol drug enlicitide will be available as a daily pill prescribed by a primary care physician.</media:description>
+    </item>
+    <item>
+      <title>Trump to Impose 50% Tariff on Many Canadian Goods</title>
+      <link>https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html" rel="standout"></atom:link>
+      <description>The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.</description>
+      <dc:creator>Ana Swanson and Ian Austen</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:25:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sales and Excise Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20DC-TRUMP-CANADA-01-twqm/20DC-TRUMP-CANADA-01-twqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Geoff Robins/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The tariffs, which go into effect in 30 days, would be imposed on a range of Canadian exports, including wine and dairy products.</media:description>
+    </item>
+    <item>
+      <title>ICE Agent Defended Shooting of Immigrant in Maine, Ex-Wife Says</title>
+      <link>https://www.nytimes.com/2026/07/18/us/david-brouillette-ice-agent-maine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/us/david-brouillette-ice-agent-maine.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/us/david-brouillette-ice-agent-maine.html" rel="standout"></atom:link>
+      <description>The agent, whose identity has not been confirmed by officials, has a history of abusive and frightening behavior, according to a former wife and others who knew him.</description>
+      <dc:creator>Jenna Russell, Pooja Salhotra and Jacey Fortin</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 09:02:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guerrero, Joan Sebastian (d 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Biddeford (Me)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brouillette, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-maine-shooter-qvwb/17nat-maine-shooter-qvwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christopher Capozziello for The New York Times</media:credit>
+      <media:description>A memorial for Johan Sebastián Durán Guerrero, who was killed by the ICE agent David Brouillette. </media:description>
+    </item>
+    <item>
+      <title>Pentagon Withheld Dozens of U.S. Military Injuries in Iran War</title>
+      <link>https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html" rel="standout"></atom:link>
+      <description>On social media, the Pentagon said later on Monday that the number of U.S. military casualties from Iranian attacks since July 7 had risen to nearly 100.</description>
+      <dc:creator>Eric Schmitt</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 02:49:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20dc-military-injured-vhtj/20dc-military-injured-vhtj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Defense Secretary Pete Hegseth earlier this month. More than 400 U.S. service members have been injured in the Iran conflict, according to U.S. Central Command.</media:description>
+    </item>
+    <item>
+      <title>Cyclospora Outbreak: What to Know About Symptoms and Food Safety</title>
+      <link>https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html" rel="standout"></atom:link>
+      <description>The parasite has sickened thousands across the United States. Experts have tips on how to stay safe.</description>
+      <dc:creator>Alice Callahan and Caroline Hopkins Legaspi</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 15:22:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dehydration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diarrhea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <media:content height="1714" medium="image" url="https://static01.nyt.com/images/2026/07/15/well/15WELL-CYCLOSPORA-WTK-image/15WELL-CYCLOSPORA-WTK-image-mediumSquareAt3X.jpg" width="1714"></media:content>
+      <media:credit>Claire Merchlinsky/The New York Times; Photographs via Getty</media:credit>
+    </item>
+    <item>
+      <title>The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?</title>
+      <link>https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html" rel="standout"></atom:link>
+      <description>The largest U.S. automakers have backed away from electric vehicles, even as global sales are booming. The decision may make them obsolete.</description>
+      <dc:creator>Matthew Shaer</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 17:06:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Utility Vehicles and Light Trucks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Efficiency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ford Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stellantis NV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Trump Administration Fires Roger Rogoff, U.S. Attorney, Minutes After His Appointment</title>
+      <link>https://www.nytimes.com/2026/07/15/us/trump-fires-prosecutor-roger-rogoff.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/us/trump-fires-prosecutor-roger-rogoff.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/us/trump-fires-prosecutor-roger-rogoff.html" rel="standout"></atom:link>
+      <description>Federal judges had chosen the veteran Seattle prosecutor to fill the vacant seat. Now, a potential legal battle looms.</description>
+      <dc:creator>Danny Hakim and Jonah E. Bromwich</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 02:15:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Attorneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rogoff, Roger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floyd, Charles Neil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seattle (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15nat-usattorney-battle-jhcb/15nat-usattorney-battle-jhcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ted S. Warren/Associated Press</media:credit>
+      <media:description>Roger Rogoff, a former federal prosecutor and state judge, in court in Seattle in 2016.</media:description>
+    </item>
+    <item>
+      <title>‘The Odyssey’ Review: Passion in Every Frame</title>
+      <link>https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html" rel="standout"></atom:link>
+      <description>Few directors close the divide between the art film and the blockbuster like Christopher Nolan.</description>
+      <dc:creator>Manohla Dargis</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 12:03:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Damon, Matt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>The Odyssey, by Donald Trump</title>
+      <link>https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html" rel="standout"></atom:link>
+      <description>The president lacks not only a coherent strategic concept but an elementary understanding of what strategy is.</description>
+      <dc:creator>Frank Bruni and Bret Stephens</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 13:43:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16conversation-bgzw/16conversation-bgzw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ioulex for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Cyclospora Linked to Taylor Farms Lettuce Sent to Taco Bell</title>
+      <link>https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html" rel="standout"></atom:link>
+      <description>Federal officials worked with Michigan investigators to trace the outbreak to iceberg lettuce, which may also have gone to other vendors.</description>
+      <dc:creator>Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 20:46:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16WELL-CYCLOSPORA-SOURCE-gcbk/16WELL-CYCLOSPORA-SOURCE-gcbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <media:description>Cyclosporiasis cases have been linked to iceberg lettuce that Taylor Farms supplied to Taco Bell.</media:description>
+    </item>
+    <item>
+      <title>Low-T, High Chair</title>
+      <link>https://www.nytimes.com/2026/07/18/opinion/trump-hegseth-testosterone.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/opinion/trump-hegseth-testosterone.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/opinion/trump-hegseth-testosterone.html" rel="standout"></atom:link>
+      <description>Where are Hegseth’s hormones when Trump needs them?</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 13:37:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/18dowd-whtv/18dowd-whtv-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Army Veteran Killed Outside His ‘Trump House’</title>
+      <link>https://www.nytimes.com/2026/07/16/us/army-veteran-trump-house.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/army-veteran-trump-house.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/us/army-veteran-trump-house.html" rel="standout"></atom:link>
+      <description>Kerry Sheron could often be found waving and nodding to those who passed his home, which stood out in Escondido, Calif.</description>
+      <dc:creator>Corina Knoll</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 09:00:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Signs and Signage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Escondido (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheron, Kerry (1957-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10nat-trump-house-top-option-wlbh/10nat-trump-house-top-option-wlbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Abramson for The New York Times</media:credit>
+      <media:description>A photograph of Kerry Sheron and his wife, Maria Garcia, hanging on the fence outside their home.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Kiss of Death</title>
+      <link>https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html" rel="standout"></atom:link>
+      <description>On top of everything else, the president is inept.</description>
+      <dc:creator>Thomas B. Edsall</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 18:54:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">One Big Beautiful Bill Act (2025)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21edsall-mzhc/21edsall-mzhc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by Philotheus Nisch for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>It’s No Longer So Much Fun to Be MAGA in Washington</title>
+      <link>https://www.nytimes.com/2026/07/19/opinion/washington-dc-maga-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/opinion/washington-dc-maga-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/opinion/washington-dc-maga-trump.html" rel="standout"></atom:link>
+      <description>It’s a vibe shift.</description>
+      <dc:creator>Sally Quinn</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 19:44:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference</title>
+      <link>https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html" rel="standout"></atom:link>
+      <description>Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements.</description>
+      <dc:creator>Julian E. Barnes and Maggie Haberman</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 08:12:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17vid-Trump-election-vidcover-gcwf/17vid-Trump-election-vidcover-gcwf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Saul Loeb</media:credit>
+    </item>
+    <item>
+      <title>Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’</title>
+      <link>https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html" rel="standout"></atom:link>
+      <description>The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.</description>
+      <dc:creator>Maggie Haberman</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 04:06:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19DC-Trump-plane-wqkl/19DC-Trump-plane-wqkl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump exiting the Qatari-donated jet earlier this month in South Dakota.</media:description>
+    </item>
+    <item>
+      <title>Federal Agents Were Told FBI Will No Longer Investigate ICE Confrontations</title>
+      <link>https://www.nytimes.com/2026/07/19/us/politics/fbi-ice-agents-investigations-shootings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/us/politics/fbi-ice-agents-investigations-shootings.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/us/politics/fbi-ice-agents-investigations-shootings.html" rel="standout"></atom:link>
+      <description>Senior officials deny such a change is in the works, despite guidance shared with agents around the country in recent days.</description>
+      <dc:creator>Devlin Barrett and Hamed Aleaziz</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 15:57:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17dc-fbi-top-cqhk/17dc-fbi-top-cqhk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Guttenfelder/The New York Times</media:credit>
+      <media:description>Crime scene tape near the vehicle of Renee Good, who was shot and killed by ICE agents in Minneapolis in January. </media:description>
+    </item>
+  </channel>
+</rss>

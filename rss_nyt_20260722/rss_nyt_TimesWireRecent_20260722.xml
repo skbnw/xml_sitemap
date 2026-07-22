@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Most Recent Headlines</title>
+    <link>https://www.nytimes.com/timeswire</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/recent.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 22 Jul 2026 07:45:07 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 07:37:10 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Most Recent Headlines</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/timeswire</link>
+    </image>
+    <item>
+      <title>Tornadoes, Floods and Thunderstorms Hit U.S.</title>
+      <link>https://www.nytimes.com/video/weather/100000011045921/weather-tornado-warning-floods-storm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/weather/100000011045921/weather-tornado-warning-floods-storm.html</guid>
+      <atom:link href="https://www.nytimes.com/video/weather/100000011045921/weather-tornado-warning-floods-storm.html" rel="standout"></atom:link>
+      <description>A sprawling weather system prompted flash flood alerts and tornado warnings from Kentucky up to New England on Tuesday.</description>
+      <dc:creator>Shawn Paik</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 07:34:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22vid-wea-storm--tpfb/22vid-wea-storm--tpfb-thumbStandard-v2.jpg" width="75">
+        <media:credit>Spencer Platt/Getty Images</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Colombia, el mayor falsificador de dólares del mundo</title>
+      <link>https://www.nytimes.com/es/2026/07/22/espanol/dolares-dinero-falso-colombia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/es/2026/07/22/espanol/dolares-dinero-falso-colombia.html</guid>
+      <atom:link href="https://www.nytimes.com/es/2026/07/22/espanol/dolares-dinero-falso-colombia.html" rel="standout"></atom:link>
+      <description>Así siguieron el rastro de uno de los mayores maestros de la falsificación de dinero del mundo.</description>
+      <dc:creator>Yudhijit Bhattacharjee</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 07:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Counterfeit Money and Financial Instruments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Man Who Attacked Salman Rushdie Faces Terrorism Charges in Federal Trial</title>
+      <link>https://www.nytimes.com/2026/07/22/nyregion/salman-rushdie-hadi-matar-terror-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/nyregion/salman-rushdie-hadi-matar-terror-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/nyregion/salman-rushdie-hadi-matar-terror-trial.html" rel="standout"></atom:link>
+      <description>Mr. Rushdie is expected to testify against Hadi Matar, the man who repeatedly stabbed him in 2022. Mr. Matar’s lawyers argue that he acted on his own, not on behalf of Iran.</description>
+      <dc:creator>Santul Nerkar</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 07:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buffalo (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chautauqua (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rushdie, Salman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Matar, Hadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22met-matar-hjfv/22met-matar-hjfv-thumbStandard.jpg" width="75">
+        <media:credit>Dia Dipasupil/Getty Images</media:credit>
+        <media:description>The attack on the author Salman Rushdie left him blind in his right eye.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>NYT Spelling Bee Answers for July 22, 2026</title>
+      <link>https://www.nytimes.com/2026/07/22/crosswords/spelling-bee-forum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/crosswords/spelling-bee-forum.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/crosswords/spelling-bee-forum.html" rel="standout"></atom:link>
+      <description>Feeling stuck on today’s puzzle? We can help.</description>
+      <dc:creator>New York Times Games</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 07:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Spelling Bee (Game)</category>
+    </item>
+    <item>
+      <title>遺留之物</title>
+      <link>https://www.nytimes.com/zh-hant/interactive/2026/07/22/chinese/hong-kong-fire-objects-families.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/zh-hant/interactive/2026/07/22/chinese/hong-kong-fire-objects-families.html</guid>
+      <atom:link href="https://www.nytimes.com/zh-hant/interactive/2026/07/22/chinese/hong-kong-fire-objects-families.html" rel="standout"></atom:link>
+      <description>香港一場致命大火奪走他們摯愛的生命。數月後，他們重返宏福苑，查看火災廢墟。以下是他們從中帶回的物品。</description>
+      <dc:creator>Anjali Tsui and Lam Yik Fei</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 07:10:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-disable-fab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Apartment Complex Fire (Nov 2025)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/2026-07-06-hongkong-fire-photos-index/2026-07-06-hongkong-fire-photos-index-thumbStandard.jpg" width="75">
+        <media:credit>The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Japan Is Startled by Prime Minister’s Grueling Sleep Schedule</title>
+      <link>https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html" rel="standout"></atom:link>
+      <description>Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance.</description>
+      <dc:creator>Javier C. Hernández and Hisako Ueno</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 06:03:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Overtime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Working Hours</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-Japan-Takaichi-sleep-vbzg/22int-Japan-Takaichi-sleep-vbzg-thumbStandard.jpg" width="75">
+        <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
+        <media:description>Prime Minister Sanae Takaichi at a meeting at Japan’s Parliament in Tokyo last week. A social media post by Ms. Takaichi about her schedule has prompted a debate about work hours and the hazards of sleep deprivation.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘The Daily Show’ Tackles Trump’s Latest Move in His ‘War on Canada’</title>
+      <link>https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html" rel="standout"></atom:link>
+      <description>“Fighting again with Canada?” Desi Lydic said about the president imposing new tariffs on the country. “I thought we were going to work this ‘oot.’”</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 06:02:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Daily Show with Jon Stewart (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lydic, Desi (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jimmy Kimmel Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fallon, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyers, Seth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night with Seth Meyers (TV Program)</category>
+    </item>
+    <item>
+      <title>El audaz escape de una familia de Corea del Norte</title>
+      <link>https://www.nytimes.com/es/2026/07/22/espanol/mundo/corea-norte-escape-desertores.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/es/2026/07/22/espanol/mundo/corea-norte-escape-desertores.html</guid>
+      <atom:link href="https://www.nytimes.com/es/2026/07/22/espanol/mundo/corea-norte-escape-desertores.html" rel="standout"></atom:link>
+      <description>Su determinación de alcanzar la libertad se fortaleció durante la pandemia, cuando vivieron una devastadora escasez de alimentos y se vieron obligados a presenciar frecuentes ejecuciones públicas.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 06:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yeonpyeong Island (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/17/espanol/00int-nkorea-escape-01-mtzk-ES-copy1/00int-nkorea-escape-01-mtzk-thumbStandard.jpg" width="75">
+        <media:credit>Woohae Cho para The New York Times</media:credit>
+        <media:description>Kim Yu-mi, a la derecha, desertó con un grupo que incluía a sus dos hijos y a su madre. La vida en Corea del Sur no ha sido exactamente lo que imaginaban, pero no se arrepienten de haber abandonado la brutal dictadura y la incesante propaganda del Norte.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>6 Takeaways From Arizona’s Tense, Trump-Dominated Primaries</title>
+      <link>https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html" rel="standout"></atom:link>
+      <description>Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.</description>
+      <dc:creator>Tim Balk</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 05:49:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biggs, Andy (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feely, Jay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lamb, Mark (Pinal County, Ariz, Sheriff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schweikert, David (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21pol-arizona-takeaways-tbvj/21pol-arizona-takeaways-tbvj-thumbStandard.jpg" width="75">
+        <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+        <media:description>Representative Andy Biggs of Arizona, who was endorsed by President Trump, easily won the Republican primary for governor over Representative David Schweikert.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Iran’s Neighbors Long for a Deal, Any Deal, to End the War</title>
+      <link>https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html" rel="standout"></atom:link>
+      <description>Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.</description>
+      <dc:creator>Elian Peltier and Asim Hafeez</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 05:02:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mangoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21int-pakistan-iran-promo-bgfl/21int-pakistan-iran-promo-bgfl-thumbStandard.jpg" width="75">
+        <media:credit>Asim Hafeez for The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Russia Will Not Yield</title>
+      <link>https://www.nytimes.com/2026/07/22/opinion/russia-putin-ukraine-west.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/opinion/russia-putin-ukraine-west.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/opinion/russia-putin-ukraine-west.html" rel="standout"></atom:link>
+      <description>A journey around the globe showed the country’s relentless adaptation.</description>
+      <dc:creator>Hanna Notte</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 05:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Georgian Dream (Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/23/opinion/23notte-putin/23notte-putin-thumbStandard.jpg" width="75">
+        <media:credit>Illustration by The New York Times; pool photo by Maxim Shipenkov</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Quote of the Day: Lillian Roberts, Rousing leader of Municipal Union, Dies at 98</title>
+      <link>https://www.nytimes.com/2026/07/22/pageoneplus/quote-of-the-day-lillian-roberts-rousing-leader-of-municipal-union-dies-at-98.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/pageoneplus/quote-of-the-day-lillian-roberts-rousing-leader-of-municipal-union-dies-at-98.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/pageoneplus/quote-of-the-day-lillian-roberts-rousing-leader-of-municipal-union-dies-at-98.html" rel="standout"></atom:link>
+      <description>Quotation of the Day for Wednesday, July 22, 2026.</description>
+      <pubDate>Wed, 22 Jul 2026 04:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.nytimes.com/video/embedded/nyregion/100000011045753/21vid-met-mamdani-netanyahu-theintv-46801.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/embedded/nyregion/100000011045753/21vid-met-mamdani-netanyahu-theintv-46801.html</guid>
+      <atom:link href="https://www.nytimes.com/video/embedded/nyregion/100000011045753/21vid-met-mamdani-netanyahu-theintv-46801.html" rel="standout"></atom:link>
+      <description>Mayor Zohran Mamdani, in an interview published Saturday, described what he would do when Prime Minister Benjamin Netanyahu comes to New York City for the United Nations General Assembly.</description>
+      <dc:creator>The Interview</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 06:26:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Election Denier Wins G.O.P. Nomination to Be Arizona’s Top Election Official</title>
+      <link>https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html" rel="standout"></atom:link>
+      <description>State Representative Alexander Kolodin will take on Adrian Fontes, the incumbent Democratic secretary of state, after defeating a more moderate Republican in the primary.</description>
+      <dc:creator>David W. Chen</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 03:22:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fontes, Adrian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21nat-arizona-secretaryofstate-Kolodin-mltk/21nat-arizona-secretaryofstate-Kolodin-mltk-thumbStandard.jpg" width="75">
+        <media:credit>Samantha Chow/Associated Press</media:credit>
+        <media:description>State Representative Alexander Kolodin at the State Capitol in Phoenix last year.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor</title>
+      <link>https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html" rel="standout"></atom:link>
+      <description>Representative Andy Biggs, a conservative Republican and an ally of the president, will try to unite Republicans against Gov. Katie Hobbs in a crucial swing state.</description>
+      <dc:creator>Reis Thebault</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 03:06:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biggs, Andy (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21nat-ariz-gov-Andy-Biggs-cgbh/21nat-ariz-gov-Andy-Biggs-cgbh-thumbStandard.jpg" width="75">
+        <media:credit>Pool photo by Diannie Chavez</media:credit>
+        <media:description>Representative Andy Biggs debated his Republican opponents in Scottsdale, Ariz., in June.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel</title>
+      <link>https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html" rel="standout"></atom:link>
+      <description>U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons.</description>
+      <dc:creator>David E. Sanger, Edward Wong and William J. Broad</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 03:44:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2025/11/18/multimedia/21dc-saudi-nuclear-1/18TrumpMBS-Flipper-mflw-thumbStandard.jpg" width="75">
+        <media:credit>Kenny Holston/The New York Times</media:credit>
+        <media:description>President Trump shaking hands with Saudi Crown Prince Mohammed bin Salman Al Saud at the White House last November.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms</title>
+      <link>https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html" rel="standout"></atom:link>
+      <description>Republicans managed to push through legislation to fund the government through Dec. 4. But with Democrats opposed, the stage is set for a broader battle.</description>
+      <dc:creator>Catie Edmondson</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 02:37:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cole, Tom (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeLauro, Rosa L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Hakeem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Mike (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thune, John R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-spend-photo-wpzf/21dc-spend-photo-wpzf-thumbStandard.jpg" width="75">
+        <media:credit>Alex Kent/The New York Times</media:credit>
+        <media:description>Speaker Mike Johnson at the Capitol on Tuesday.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>NYT Crossword Answers for July 23, 2026</title>
+      <link>https://www.nytimes.com/2026/07/21/crosswords/daily-puzzle-2026-07-23.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/crosswords/daily-puzzle-2026-07-23.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/crosswords/daily-puzzle-2026-07-23.html" rel="standout"></atom:link>
+      <description>Damon Gulczynski puzzles over the mysteries of the universe.</description>
+      <dc:creator>Sean McGowan</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 02:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crossword Puzzles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Games</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/23wordplay-darkenergy-mbgt/23wordplay-darkenergy-mbgt-thumbStandard.jpg" width="75">
+        <media:credit>Graham Dickie for The New York Times</media:credit>
+        <media:description>Late-week puzzles don’t have to be scary. Ready to unmask some Thursday trickery?</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>NYT Crossword Answers for July 22, 2026</title>
+      <link>https://www.nytimes.com/2026/07/21/crosswords/daily-puzzle-2026-07-22.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/crosswords/daily-puzzle-2026-07-22.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/crosswords/daily-puzzle-2026-07-22.html" rel="standout"></atom:link>
+      <description>Rebecca Goldstein rigs up a clever crossword.</description>
+      <dc:creator>Sam Corbin</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 02:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crossword Puzzles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Games</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/crosswords/22wordplay-ringtoss-header-bhml/22wordplay-ringtoss-header-bhml-thumbStandard.jpg" width="75">
+        <media:credit>Jim Wilson/The New York Times</media:credit>
+        <media:description>Wind up stuck? Read the Wordplay column for the theme explanation and other tips.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him</title>
+      <link>https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html" rel="standout"></atom:link>
+      <description>Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.</description>
+      <dc:creator>Liam Stack</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 03:49:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Law Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21MET-MAMDANI-NETANYAHU-jmlt/21MET-MAMDANI-NETANYAHU-jmlt-thumbStandard.jpg" width="75">
+        <media:credit>Dave Sanders for The New York Times</media:credit>
+        <media:description>Mayor Zohran Mamdani said that New York cannot arrest Prime Minister Benjamin Netanyahu of Israel, but the United States should.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Wildfire Threatening Pleasanton Prompts Evacuation Order for Thousands</title>
+      <link>https://www.nytimes.com/2026/07/21/us/little-fire-pleasanton-ca.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/little-fire-pleasanton-ca.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/little-fire-pleasanton-ca.html" rel="standout"></atom:link>
+      <description>One firefighter was injured as a fire spread quickly across dry hillsides in Northern California, forcing some residents to evacuate.</description>
+      <dc:creator>Soumya Karlamangla and Francesca Regalado</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 06:48:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alameda County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Bay (San Francisco, Calif)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/us/21nat-ca-fire/21nat-ca-fire-thumbStandard.jpg" width="75">
+        <media:credit>Cal Fire SCU</media:credit>
+        <media:description>The Little fire in Northern California, which has prompted evacuation orders.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Trump Plans to Impose Tariffs on Generic Drugs</title>
+      <link>https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html" rel="standout"></atom:link>
+      <description>The administration has repeatedly said it will impose steep pharmaceutical tariffs but has not followed through on them.</description>
+      <dc:creator>Rebecca Robbins</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 01:24:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generic Brands and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2024/12/21/multimedia/21dc-trump-drugs/21SCI-SPAN-05-tqkf-thumbStandard.jpg" width="75">
+        <media:credit>Mette Lampcov for The New York Times</media:credit>
+        <media:description>President Trump said he plans to impose tariffs on generic medicines in an effort to bring pharmaceutical manufacturing back to the United States.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Zelensky Fires Ukraine’s Top General After Days of Protests</title>
+      <link>https://www.nytimes.com/video/world/europe/100000011045087/zelensky-fires-ukraines-top-general-after-days-of-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000011045087/zelensky-fires-ukraines-top-general-after-days-of-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/europe/100000011045087/zelensky-fires-ukraines-top-general-after-days-of-protests.html" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky of Ukraine dismissed Gen. Oleksandr Syrskyi after supporters of the ousted defense minister, Mykhailo Fedorov, took to the streets to call for the general’s ousting.</description>
+      <dc:creator>Jackeline Luna</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 02:27:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/world/europe/General-firing_Thumb2/General-firing_Thumb2-thumbStandard.jpg" width="75">
+        <media:credit>Ukranian Presidency, via Agence France-Presse</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Inquiry Into James Dolan’s Use of Facial Recognition Ends in Modest Fines</title>
+      <link>https://www.nytimes.com/2026/07/21/nyregion/msg-dolan-fine-liquor-authority.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/nyregion/msg-dolan-fine-liquor-authority.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/msg-dolan-fine-liquor-authority.html" rel="standout"></atom:link>
+      <description>The New York State Liquor Authority withdrew charges that tied facial recognition systems at James Dolan’s MSG Entertainment to exclusionary practices and issued $30,000 in fines for an unrelated offense.</description>
+      <dc:creator>Dana Rubinstein and Corey Kilgannon</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 02:51:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York State Liquor Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dolan, James L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wired</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22met-msg-dolan-01-vlqf/22met-msg-dolan-01-vlqf-thumbStandard.jpg" width="75">
+        <media:credit>Gili Benita for The New York Times</media:credit>
+        <media:description>The security checkpoint through the street entrance to Madison Square Garden highlights facial recognition enforcement.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Trump Lifts Ban on Direct Flights to Lebanon</title>
+      <link>https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html" rel="standout"></atom:link>
+      <description>The prohibition had been in place since 1985, when it was imposed in response to Hezbollah’s hijacking of TWA Flight 847.</description>
+      <dc:creator>Karoun Demirjian</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 00:23:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aoun, Joseph (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-trump-flights-photo-ghmv/21dc-trump-flights-photo-ghmv-thumbStandard.jpg" width="75">
+        <media:credit>Kenny Holston/The New York Times</media:credit>
+        <media:description>President Trump with President Joseph Aoun of Lebanon at the White House on Tuesday.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Tornadoes Are Reported in Kentucky as Storms Sweep Across U.S.</title>
+      <link>https://www.nytimes.com/2026/07/21/weather/kentucky-tornado-wind-storm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/weather/kentucky-tornado-wind-storm.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/weather/kentucky-tornado-wind-storm.html" rel="standout"></atom:link>
+      <description>Storms set off tornado warnings all the way to New York on Tuesday. Forecasters also warned of flash flooding.</description>
+      <dc:creator>Erin McCann, Amy Graff, Madaleine Rubin and Francesca Regalado</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 07:37:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/20/weather/2026-07-20-tuesday-northeast-index-promo/2026-07-20-tuesday-northeast-index-promo-thumbStandard-v5.jpg" width="75">
+        <media:credit>The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special</title>
+      <link>https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html" rel="standout"></atom:link>
+      <description>At the Mark Twain Prize ceremony, the comedian Whitney Cummings made a joke about the president that seemed to refer to Jeffrey Epstein.</description>
+      <dc:creator>Malia Mendez</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 00:22:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cummings, Whitney</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maher, Bill</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21cul-kennedy-joke-ptfw/21cul-kennedy-joke-ptfw-thumbStandard.jpg" width="75">
+        <media:credit>Paul Morigi/Getty Images</media:credit>
+        <media:description>Whitney Cummings opened the ceremony for the Mark Twain Prize, which was awarded to Bill Maher at the Kennedy Center last month.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate</title>
+      <link>https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html" rel="standout"></atom:link>
+      <description>President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 00:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-prexy-gzjm/21dc-prexy-gzjm-thumbStandard.jpg" width="75">
+        <media:credit>Kenny Holston/The New York Times</media:credit>
+        <media:description>“We’ll be hitting that area probably pretty soon,” President Trump said of Pickaxe Mountain on Tuesday. “And there’s not a thing they can do about it.”</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Hegseth Estimates Cost of Iran War Has Reached $37.5 Billion</title>
+      <link>https://www.nytimes.com/video/us/politics/100000011045230/hegseth-hearing-iran-war-cost.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000011045230/hegseth-hearing-iran-war-cost.html</guid>
+      <atom:link href="https://www.nytimes.com/video/us/politics/100000011045230/hegseth-hearing-iran-war-cost.html" rel="standout"></atom:link>
+      <description>Defense Secretary Pete Hegseth appeared before the Senate Appropriations Committee Tuesday to request an additional $70 billion to fund the war and replenish weapons stockpiles.</description>
+      <dc:creator>Jamie Leventhal</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 02:27:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Appropriations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21vid-hegseth-hearing-pkg-cover-pmwg/21vid-hegseth-hearing-pkg-cover-pmwg-thumbStandard.jpg" width="75">
+        <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Mykhailo Drapatyi: What to Know About Ukraine’s New Top General</title>
+      <link>https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html" rel="standout"></atom:link>
+      <description>Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.</description>
+      <dc:creator>Cassandra Vinograd</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 23:39:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-ukraine-who-is-drapatyi-qjzk/22int-ukraine-who-is-drapatyi-qjzk-thumbStandard.jpg" width="75">
+        <media:credit>Genya Savilov/Agence France-Presse — Getty Images</media:credit>
+        <media:description>Maj. Gen. Mykhailo Drapatyi speaking to journalists in Ukraine last year.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Cyclospora Cases in the U.S. Hit Record High</title>
+      <link>https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html" rel="standout"></atom:link>
+      <description>Federal health officials have confirmed another 2,500 cases of the parasitic infection.</description>
+      <dc:creator>Alice Callahan and Caroline Hopkins Legaspi</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 23:30:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21WELL-CYCLO-CASES-vjzl/21WELL-CYCLO-CASES-vjzl-thumbStandard.jpg" width="75">
+        <media:credit>Scott Rossi for The New York Times</media:credit>
+        <media:description>Farmworkers harvesting lettuce in Holtville, Ca. last year.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Jury Deadlocks on Murder Charges Against 2 Men in California Mass Shooting</title>
+      <link>https://www.nytimes.com/2026/07/21/us/sacramento-mass-shooting-trial-verdict.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/sacramento-mass-shooting-trial-verdict.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/sacramento-mass-shooting-trial-verdict.html" rel="standout"></atom:link>
+      <description>The defendants were convicted of weapons charges in connection with the 2022 shootout in Sacramento, which left six people dead and 13 others injured outside a downtown arena.</description>
+      <dc:creator>Ishani Desai</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 23:33:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sacramento, Calif, Shootings (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sacramento (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sacramento County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alexander, Johntaya (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Melinda (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Sergio (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turner, Devazia (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martinez-Andrade, Yamile (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Smiley (April 3, 2022 Shooting)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Payton, Mtula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Deandre</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/00xp-sacramento-wlgm/00xp-sacramento-wlgm-thumbStandard.jpg" width="75">
+        <media:credit>Rich Pedroncelli/Associated Press</media:credit>
+        <media:description>A crime scene investigator taking photographs of evidence markers at the scene of the shooting in Sacramento, Calif., in 2022.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Former Conductor to Plead Guilty in Child Sex Abuse Imagery Case</title>
+      <link>https://www.nytimes.com/2026/07/21/arts/music/wachner-plea-deal-child-sex-abuse-imagery-trinity-church.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/arts/music/wachner-plea-deal-child-sex-abuse-imagery-trinity-church.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/arts/music/wachner-plea-deal-child-sex-abuse-imagery-trinity-church.html" rel="standout"></atom:link>
+      <description>Julian Wachner, the former music director at Trinity Church in New York, faces up to 10 years in prison after reaching a plea deal.</description>
+      <dc:creator>Derrick Bryson Taylor</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 22:09:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wachner, Julian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indianapolis (Ind)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trinity Church (Manhattan, NY)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2025/08/28/multimedia/21cul-wachner-plea-iopb/26cul-wachner-charges-bmgl-thumbStandard.jpg" width="75">
+        <media:credit>Vincent Tullo for The New York Times</media:credit>
+        <media:description>Julian Wachner directed the music program for Trinity Church in New York until his ouster in 2022.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Salmon With Anchovy-Garlic Butter</title>
+      <link>https://www.nytimes.com/video/dining/100000011044726/salmon-with-anchovy-garlic-butter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/dining/100000011044726/salmon-with-anchovy-garlic-butter.html</guid>
+      <atom:link href="https://www.nytimes.com/video/dining/100000011044726/salmon-with-anchovy-garlic-butter.html" rel="standout"></atom:link>
+      <description>In this recipe from Cooking’s Melissa Clark, linked below, minced anchovies and garlic add a complex salinity to seared salmon, enriching and deepening its flavor.</description>
+      <pubDate>Tue, 21 Jul 2026 22:02:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salmon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anchovies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butter</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2024/11/24/multimedia/Salmon-With-Anchovy-Butterrex-mqtc/Salmon-With-Anchovy-Butterrex-mqtc-thumbStandard.jpg" width="75">
+        <media:credit>Christopher Testani for The New York Times. Food Stylist: Spencer Richards.</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Zelensky Removes Ukraine’s Top General</title>
+      <link>https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html" rel="standout"></atom:link>
+      <description>Also, the Pentagon estimates the Iran war has cost $37.5 billion. Here’s the latest at the end of Tuesday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 22:01:29 +0000</pubDate>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21evening-nl-ukraine-syrskyi-zwlf/21evening-nl-ukraine-syrskyi-zwlf-thumbStandard.jpg" width="75">
+        <media:credit>Brendan Hoffman for The New York Times</media:credit>
+        <media:description>Oleksandr Syrskyi, left, with Volodymyr Zelensky in March.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.nytimes.com/video/embedded/us/politics/100000011045389/21vid-hegseth-kennedy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/embedded/us/politics/100000011045389/21vid-hegseth-kennedy.html</guid>
+      <atom:link href="https://www.nytimes.com/video/embedded/us/politics/100000011045389/21vid-hegseth-kennedy.html" rel="standout"></atom:link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 21:59:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, John Neely</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/21visualUploader-15234-cover/21visualUploader-15234-cover-thumbStandard.jpg" width="75">
+        <media:credit>U.S. Senate Appropriations Committee, via Associated Press</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Small Plane Crashes Into House Near Houston</title>
+      <link>https://www.nytimes.com/2026/07/21/us/texas-plane-crash-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/texas-plane-crash-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/texas-plane-crash-home.html" rel="standout"></atom:link>
+      <description>The plane, a Piper J3C-65, struck the house in Fulshear, Texas, around 6:45 a.m. on Monday, the authorities said. Its pilot was in serious condition on Tuesday, a hospital spokesman said.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 21:40:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fulshear, Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+    </item>
+    <item>
+      <title>Hegseth Estimates Iran War Has Cost $37.5 Billion</title>
+      <link>https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html" rel="standout"></atom:link>
+      <description>Defense Secretary Pete Hegseth is requesting as much as $70 billion in emergency military spending after nearly five months of war.</description>
+      <dc:creator>Greg Jaffe</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 21:30:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-war-cost-photo-mqvk/21dc-war-cost-photo-mqvk-thumbStandard.jpg" width="75">
+        <media:credit>Haiyun Jiang/The New York Times</media:credit>
+        <media:description>“This is a new request based on new realities of a world we face, stepping up to meet that moment,” Defense Secretary Pete Hegseth said on Tuesday.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library</title>
+      <link>https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html" rel="standout"></atom:link>
+      <description>The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 23:50:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-thumbStandard.jpg" width="75">
+        <media:credit>Aaron Wojack for The New York Times</media:credit>
+        <media:description>OpenAI and other companies have warned that their new A.I. systems could be powerful hacking tools.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Mamdani’s Version of DOGE Tries to Put a New Spin on Efficiency</title>
+      <link>https://www.nytimes.com/2026/07/21/nyregion/mamdani-coge-charter-revision.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/nyregion/mamdani-coge-charter-revision.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/mamdani-coge-charter-revision.html" rel="standout"></atom:link>
+      <description>The mayor’s version has sought to include public input as it formulates changes to the New York City Charter aimed at streamlining the government.</description>
+      <dc:creator>Emma Goldberg</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 21:24:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Charter Revision Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Government Efficiency Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commission on Government Efficiency</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21met-mamdani-coge-01-jhqc/21met-mamdani-coge-01-jhqc-thumbStandard.jpg" width="75">
+        <media:credit>Dave Sanders for The New York Times</media:credit>
+        <media:description>Mayor Zohran Mamdani empaneled a Charter Revision Commission to come up with ways to improve government efficiency.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>A New Critique of Trumpism Goes Too Easy on Elites</title>
+      <link>https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html" rel="standout"></atom:link>
+      <description>Even under populism, elite failure is still a problem.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 00:11:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Populism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Government Efficiency Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ehrlich, Paul R</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/opinion/21douthat-newsletter/21douthat-newsletter-thumbStandard-v2.jpg" width="75">
+        <media:credit>Photo illustration by The New York Times; source images by Hirkophoto, and Scott Eisen, via Getty Images</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>A Wartime Rift in Ukraine</title>
+      <link>https://www.nytimes.com/2026/07/21/world/ukraine-general-fired-india-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/world/ukraine-general-fired-india-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/world/ukraine-general-fired-india-protests.html" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky fired his top general after a feud between old-school officers and younger innovators spilled into the streets.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 04:31:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Avignon Festival</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-theworld-ukraine-syrskyi-twzc/22int-theworld-ukraine-syrskyi-twzc-thumbStandard.jpg" width="75">
+        <media:credit>Brendan Hoffman for The New York Times</media:credit>
+        <media:description>Volodymyr Zelensky and the former commander in chief, Oleksandr Syrskyi, in March.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Call the Veep, Agent Mulder!</title>
+      <link>https://www.nytimes.com/2026/07/21/opinion/jd-vance-vice-president.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/opinion/jd-vance-vice-president.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/opinion/jd-vance-vice-president.html" rel="standout"></atom:link>
+      <description>Have the “space Jews” come to get us at last?</description>
+      <dc:creator>Bret Stephens</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 21:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mossad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rogan, Joe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/21stephens-tkfz/21stephens-tkfz-thumbStandard.jpg" width="75">
+        <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>What to Know About Iran’s Pickaxe Mountain</title>
+      <link>https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html" rel="standout"></atom:link>
+      <description>The fortified underground complex, in central Iran, is about one mile away from the Natanz uranium enrichment facility.</description>
+      <dc:creator>Anushka Patil</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 20:59:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fordo (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Natanz (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institute for Science and International Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21mideast-live-wwk-pickaxe-mountain-topart-vbfh/21mideast-live-wwk-pickaxe-mountain-topart-vbfh-thumbStandard.jpg" width="75">
+        <media:credit>Vantor, via Reuters</media:credit>
+        <media:description>A satellite image provided by Vantor shows an entrance to tunnels at Pickaxe Mountain in Iran last month.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>What the Cyclospora Outbreak Reveals</title>
+      <link>https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html" rel="standout"></atom:link>
+      <description>Warming is expected to fuel the spread of food-borne pathogens. We might not be prepared.</description>
+      <dc:creator>Claire Brown</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 20:52:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/21cli-newsletter-cyclospora/21cli-newsletter-cyclospora-thumbStandard.jpg" width="75">
+        <media:credit>Melanie Moser/CDC, via Associated Press</media:credit>
+        <media:description>A microscopic view of cyclospora parasite eggs, stained reddish pink, in a lab sample.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Israeli Troops Shoot Near Lebanese Army Deploying in ‘Pilot Zone’</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000011044082/lebanon-israel-pilot-zone.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000011044082/lebanon-israel-pilot-zone.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/middleeast/100000011044082/lebanon-israel-pilot-zone.html" rel="standout"></atom:link>
+      <description>Israeli forces fired shots near Lebanese Army troops on Tuesday as they took the first steps in a new U.S.-brokered plan to transfer control of occupied areas to Beirut.</description>
+      <pubDate>Tue, 21 Jul 2026 23:03:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21mideast-live-lebanon-zhlv/21mideast-live-lebanon-zhlv-thumbStandard.jpg" width="75">
+        <media:credit>Reuters</media:credit>
+        <media:description>Lebanese army troops in Zawtar al-Gharbiya, southern Lebanon, after Israeli forces withdrew from the area on Tuesday.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.nytimes.com/video/embedded/us/politics/100000011045183/21vid-hegseth-lloyd-austin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/embedded/us/politics/100000011045183/21vid-hegseth-lloyd-austin.html</guid>
+      <atom:link href="https://www.nytimes.com/video/embedded/us/politics/100000011045183/21vid-hegseth-lloyd-austin.html" rel="standout"></atom:link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 20:51:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/21visualUploader-22005-cover/21visualUploader-22005-cover-thumbStandard-v2.jpg" width="75">
+        <media:credit>U.S. Senate Appropriations Committee, via Associated Press</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>NYC Businesses Brace for More Flooding With Severe Storms in the Forecast</title>
+      <link>https://www.nytimes.com/2026/07/21/nyregion/nyc-flooding-storms-rain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/nyregion/nyc-flooding-storms-rain.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/nyc-flooding-storms-rain.html" rel="standout"></atom:link>
+      <description>Some businesses in low-lying areas of New York City have developed routines to keep their goods and customers dry.</description>
+      <dc:creator>Hilary Howard</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 20:41:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basements and Cellars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Department of Environmental Protection (NYC)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/18/arts/thumb/thumb-thumbStandard.jpg" width="75">
+        <media:credit>Sarah Kerr/The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Why Does Fashion Heart N.Y.?</title>
+      <link>https://www.nytimes.com/video/t-magazine/100000011045163/why-does-fashion-heart-ny.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/t-magazine/100000011045163/why-does-fashion-heart-ny.html</guid>
+      <atom:link href="https://www.nytimes.com/video/t-magazine/100000011045163/why-does-fashion-heart-ny.html" rel="standout"></atom:link>
+      <description>T Magazine’s editor at large, Nick Haramis, examines why fashion designers can’t get enough of New York City.</description>
+      <dc:creator>Hannah Cousins</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 20:36:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+    </item>
+    <item>
+      <title>France Passes Law Restricting Social Media for Youths</title>
+      <link>https://www.nytimes.com/video/world/europe/100000011043897/france-law-social-media-ban-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000011043897/france-law-social-media-ban-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/europe/100000011043897/france-law-social-media-ban-restrictions.html" rel="standout"></atom:link>
+      <description>France is the first European country to ban access to social media for anyone under 15. The law could go into effect as soon as Sept. 1.</description>
+      <dc:creator>McKinnon de Kuyper</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 23:03:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21evening-nl-france-social-hclw/21evening-nl-france-social-hclw-thumbStandard.jpg" width="75">
+        <media:credit>Manuel Ausloos/Reuters</media:credit>
+      </media:content>
+    </item>
+  </channel>
+</rss>
