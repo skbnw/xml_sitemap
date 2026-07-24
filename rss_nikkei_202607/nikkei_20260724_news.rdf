@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-07-24T10:11:31+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL240NN0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA234930T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR218FR0R20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA232MS0T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA240RF0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA23AOW0T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240ZE0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA23ARL0T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL240VP0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2410B0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL240KY0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240N80U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA23AFJ0T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL240K40U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2409X0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB240WX0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA234GD0T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA22A430S6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL240800U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2404A0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL240CQ0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2409S0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN23C510T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL240500U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL240NA0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2401Y0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240GM0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN23BUB0T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240GB0U6A720C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL240NN0U6A720C2000000/">
+    <title>愛媛銀行株価が年初来高値　「いよぎんHDと経営統合へ」報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL240NN0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T10:08:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA234930T20C26A7000000/">
+    <title>6月の消費者物価、1.6%上昇　5カ月連続2%割れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA234930T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T10:01:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR218FR0R20C26A7000000/">
+    <title>英国政治が探る「怒り」の先　バーナム新首相が負う、統治再建の痛み</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR218FR0R20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA232MS0T20C26A7000000/">
+    <title>国民年金、25年度確定の最終納付率85.6%　13年連続改善</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA232MS0T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA240RF0U6A720C2000000/">
+    <title>改正皇室典範を公布、10月24日施行　女性皇籍保持と旧宮家の養子</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA240RF0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA23AOW0T20C26A7000000/">
+    <title>「交付税不要」は87自治体、景気回復でも微増どまり　ピークの6割</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA23AOW0T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:58:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240ZE0U6A720C2000000/">
+    <title>山下美夢有・原英莉花は5位、首位と4打差　米女子ゴルフ第1日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240ZE0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:52:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA23ARL0T20C26A7000000/">
+    <title>国家情報局、初代局長に警察出身の原和也氏　31日に設置決定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA23ARL0T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:49:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/">
+    <title>日本の生成AI利用まだ6割　仕事中心、7割超の米国は「友達」使い</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:47:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL240VP0U6A720C2000000/">
+    <title>韓国株、反落で始まる　一時3%超安　レバETF規制前倒しも重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL240VP0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:43:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2410B0U6A720C2000000/">
+    <title>いよぎんHDと愛媛銀行、経営統合を取締役会へ付議</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2410B0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:42:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL240KY0U6A720C2000000/">
+    <title>商品9時30分　原油が続伸、中東の緊張高まる　金は反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL240KY0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:42:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240N80U6A720C2000000/">
+    <title>岡本和真、3打数無安打　松井裕樹は1回1/3無失点</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240N80U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:38:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA23AFJ0T20C26A7000000/">
+    <title>社会保障費の自然増0.4兆円　27年度予算の概算要求基準案</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA23AFJ0T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:28:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL240K40U6A720C2000000/">
+    <title>日経平均株価が反落、下げ幅一時1700円超　米ハイテク株安受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL240K40U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:27:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2409X0U6A720C2000000/">
+    <title>東証寄り付き　日経平均反落　下げ幅一時1700円強　米株安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2409X0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:25:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB240WX0U6A720C2000000/">
+    <title>ドバイ原油・24日午前、上昇　98.30ドル前後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB240WX0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:22:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA234GD0T20C26A7000000/">
+    <title>経財白書、物価・賃金の好循環「近づく」　中東リスクには警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA234GD0T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:20:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA22A430S6A720C2000000/">
+    <title>検事総長に川原隆司氏、東京高検検事長に松本裕氏</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA22A430S6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:19:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL240800U6A720C2000000/">
+    <title>ECB、利上げ小休止　市場は「9月に0.25%上げ」を再認識</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL240800U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:18:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2404A0U6A720C2000000/">
+    <title>USMCA見直し、米と交渉　メキシコ経済相「関税は現状維持」強調</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2404A0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:13:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL240CQ0U6A720C2000000/">
+    <title>債券寄り付き　長期金利、2.795%に上昇　原油高や円安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL240CQ0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:11:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2409S0U6A720C2000000/">
+    <title>日経平均、反落で始まる　米ハイテク株安が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2409S0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T09:07:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN23C510T20C26A7000000/">
+    <title>トランプ氏、イランへの大規模攻撃「決断寸前」　兵力増強と米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN23C510T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T08:58:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL240500U6A720C2000000/">
+    <title>外為8時30分　円相場、下落し163円台後半　対ユーロでは上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL240500U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T08:55:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL240NA0U6A720C2000000/">
+    <title>日経平均先物、大取で反落　870円安の6万5480円で始まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL240NA0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T08:53:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2401Y0U6A720C2000000/">
+    <title>シカゴ日本株先物概況・23日　日経平均先物は1005円安の6万5395円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2401Y0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T08:41:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240GM0U6A720C2000000/">
+    <title>ドジャース、トランプ米大統領を表敬　大谷翔平・山本由伸ら出席</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240GM0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T08:40:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN23BUB0T20C26A7000000/">
+    <title>トランプ米政権が新関税を発表　24日発動、日本は12.5%</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN23BUB0T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T08:35:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240GB0U6A720C2000000/">
+    <title>佐々木麟太郎「わくわくが一番強い」　マーリンズ入団会見</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240GB0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-24T08:30:40+09:00</dc:date>
+  </item>
+</rdf:RDF>
