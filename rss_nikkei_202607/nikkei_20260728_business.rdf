@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-07-28T10:12:37+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN27A740X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC277XN0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB280KM0Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN280I70Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN27A1J0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN27A550X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC159OG0V10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC179LN0X10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF139C20T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC168Z00W6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM027VH0S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM276R70X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1458P0U6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC154UK0V10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF094T40Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC084DP0Y6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC244DJ0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC223NQ0S6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC172W00X10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC252Q40V20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODL142LH0U6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF211Y50R20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF291Y00Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC121P60S6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC271PZ0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC220ZL0S6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC260SG0W6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2747H0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR27A170X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2139T0R20C26A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN27A740X20C26A7000000/">
+    <title>Microsoft、「AIのチームプレー」でサイバー防御自動化　コスト半減</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN27A740X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T10:07:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC277XN0X20C26A7000000/">
+    <title>日立、ミュトス活用でサイバー対策の検証作業軽減　数週間を数時間に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC277XN0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB280KM0Y6A720C2000000/">
+    <title>大塚HDの1〜6月、純利益24%増に上方修正　腎臓病薬など好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB280KM0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T09:22:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN280I70Y6A720C2000000/">
+    <title>米J&amp;Jベビーパウダー集団訴訟、9000億円で和解</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN280I70Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T09:12:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN27A1J0X20C26A7000000/">
+    <title>フォード、米軍向けトラック開発参入　米自動車大手の軍需頼み鮮明</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN27A1J0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T06:43:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN27A550X20C26A7000000/">
+    <title>保守派が批判の米外食大手、CEOが退任　ロゴ変更にトランプ氏も介入</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN27A550X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:02:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC159OG0V10C26A7000000/">
+    <title>北海道「エアコン要らず」今は昔　賃貸物件に必須、ダイキンなど攻勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC159OG0V10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC179LN0X10C26A6000000/">
+    <title>ABBロボ日本法人社長、ソフトバンクGによる買収「認知度の向上期待」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC179LN0X10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF139C20T10C26A7000000/">
+    <title>関西企業の夏ボーナス、SCREENHD235万円　半導体関連で伸び</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF139C20T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC168Z00W6A710C2000000/">
+    <title>洋上風力発電、輸送船は国産で　長崎・沖新船舶が2隻の小型船建造へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC168Z00W6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM027VH0S6A700C2000000/">
+    <title>チョコザップ、アジア展開に「コミット」　まず香港で月20店出店</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM027VH0S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM276R70X20C26A7000000/">
+    <title>インドIT大手インフォシス、次期CEOに生え抜き　AI変革を主導へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM276R70X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1458P0U6A710C2000000/">
+    <title>高専卒は倍率30倍の争奪戦　半導体活況が拍車、広告で電柱ジャックも</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1458P0U6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC154UK0V10C26A7000000/">
+    <title>漫画家の告発が問う出版社の支援体制　講談社は創作環境に配慮</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC154UK0V10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF094T40Z00C26A7000000/">
+    <title>ニプロ、インドで透析の研修車両　農村部巡回で人材と市場を育成</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF094T40Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC084DP0Y6A700C2000000/">
+    <title>石川・西野製作所、マシンで大谷翔平選手ら投球再現　人材確保に一役</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC084DP0Y6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC244DJ0U6A720C2000000/">
+    <title>介護の将来見据え、外国人材を積極活用　現地へ足運び親と面談</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC244DJ0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC223NQ0S6A720C2000000/">
+    <title>静岡・南富士、外装工事をAIで施工管理　ノウハウ共有し若手確保</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC223NQ0S6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC172W00X10C26A7000000/">
+    <title>社内物流トドケール、佐川・ヤマトと連携　送り状を即時印字・印刷</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC172W00X10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC252Q40V20C26A7000000/">
+    <title>アスコットグローバルCEOのゴー氏「地方都市にホテル出店拡大」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC252Q40V20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODL142LH0U6A710C2000000/">
+    <title>盛らないSNS「Setlog」、若年層は映えより共感　ありのままを交歓</title>
+    <link>https://www.nikkei.com/article/DGXZQODL142LH0U6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF211Y50R20C26A7000000/">
+    <title>「日本一短い私鉄」紀州鉄道、揺れる存続　地元も「利用せず」9割</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF211Y50R20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF291Y00Z20C26A6000000/">
+    <title>小型農機に自動化の波　ヤンマーやクボタ、山間部やハウスで負担軽く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF291Y00Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC121P60S6A610C2000000/">
+    <title>山形のモトタテ、社寺建築に「仕組み」導入　持続めざしアトツギが挑戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC121P60S6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC271PZ0X20C26A7000000/">
+    <title>大東建託が米・テキサス州に進出　中古住宅を改修し再販</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC271PZ0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC220ZL0S6A720C2000000/">
+    <title>新潟・日本ハイドロパウテックが「粉末カスタード」　菓子工場などに</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC220ZL0S6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC260SG0W6A720C2000000/">
+    <title>「シャドーAI」や機密情報入力を検知　LRM、AI利用監視サービス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC260SG0W6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2747H0X20C26A7000000/">
+    <title>メキシコの輸出額、1〜6月25%増　米製造業「中国離れ」の受け皿に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2747H0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T04:40:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR27A170X20C26A7000000/">
+    <title>仏LVMH1〜6月純利益横ばい　中東危機で伸び悩む</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR27A170X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T04:05:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2139T0R20C26A7000000/">
+    <title>｢値上げしない｣サイゼリヤ、物価高限界　客単価10円上げで20億円増益</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2139T0R20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-28T04:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
