@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-07-30T11:11:57+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC301P40Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC200L90Q6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD29B730Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB149NZ0U6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB288M10Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1081L0Q6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD157PN0V10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB224H40S6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN3008F0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB29AJO0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL301BN0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3018O0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL301B80Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300VD0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300FY0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB301L20Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300NV0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL3011E0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300KV0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN3011F0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2956Y0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA292PO0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN285KL0Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL29CBR0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300KT0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH29ADX0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC300S00Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR270100X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL300A30Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM296220Z20C26A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC301P40Q6A730C2000000/">
+    <title>FIFA、パレデスら調査対象に　ワールドカップで乱闘騒ぎ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC301P40Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:06:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC200L90Q6A720C2000000/">
+    <title>高専卒の初任給「大卒並み」広がる　政府、学位の格差も是正へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC200L90Q6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:05:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD29B730Z20C26A7000000/">
+    <title>熊本地震の死者17人に　生活インフラ被災、30日も猛暑日の予想</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD29B730Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:02:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB149NZ0U6A710C2000000/">
+    <title>ガソリン・軽油の供給懸念が再燃　ロシア製油所攻撃で原油と値差拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB149NZ0U6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB288M10Y6A720C2000000/">
+    <title>ウクライナ、「ロシアのアマゾン」狙い撃ち　市民生活打撃で厭戦醸成</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB288M10Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1081L0Q6A710C2000000/">
+    <title>テレビ用有機ELパネルの値下がり加速　「偏光板レス」量産で価格競争</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1081L0Q6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD157PN0V10C26A7000000/">
+    <title>トヨタ偏重脱した三河のウルトラマン　プレス技術を力に変身</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD157PN0V10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB224H40S6A720C2000000/">
+    <title>史上最強エルニーニョ、小麦減産やパナマ運河通航制限も　識者の見方</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB224H40S6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN3008F0Q6A730C2000000/">
+    <title>ウォーシュFRB議長、煮え切らぬ利上げ姿勢　「唯一の解決策ではない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN3008F0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:53:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB29AJO0Z20C26A7000000/">
+    <title>ノジマの4~6月、純利益2倍　投資有価証券売却益が寄与</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB29AJO0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:47:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL301BN0Q6A730C2000000/">
+    <title>上海株寄り付き　反落で始まる、中東情勢悪化を懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL301BN0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:42:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3018O0Q6A730C2000000/">
+    <title>香港株寄り付き　続伸して始まる　中際旭創の初値は公開価格割れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3018O0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:39:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL301B80Q6A730C2000000/">
+    <title>人民元基準値、対米ドルで6.7892元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL301B80Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:30:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300VD0Q6A730C2000000/">
+    <title>ソシオネクスト株価、3カ月ぶり安値　4〜6月期最終赤字を嫌気</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300VD0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:25:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300FY0Q6A730C2000000/">
+    <title>外為10時　円相場、伸び悩み　163円台半ば　中値「ドル買い優勢」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300FY0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:25:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB301L20Q6A730C2000000/">
+    <title>ドバイ原油・30日午前、横ばい</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB301L20Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:24:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300NV0Q6A730C2000000/">
+    <title>NEC株価続伸　4〜6月期純利益2.6倍、通期予想も上方修正</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300NV0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:24:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL3011E0Q6A730C2000000/">
+    <title>東証10時　日経平均は上げ幅拡大　一時1300円高、AI半導体が全面高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL3011E0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:22:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300KV0Q6A730C2000000/">
+    <title>アドバンテスト株価一時16.7%高　27年3月期純利益を上方修正</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300KV0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:22:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN3011F0Q6A730C2000000/">
+    <title>米軍、イランに「報復攻撃」　トランプ氏の思惑外れ戦闘再開</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN3011F0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:13:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2956Y0Z20C26A7000000/">
+    <title>韓国サムスン電子、株価一時4%高　4〜6月期純利益は市場予想超え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2956Y0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:06:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA292PO0Z20C26A7000000/">
+    <title>26年度実質成長率が1.3%→0.9%に下振れ　政府見通し、原油高を反映</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA292PO0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:02:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN285KL0Y6A720C2000000/">
+    <title>二大政党の米国で「独立系」47%　空転する既存政党に若者らそっぽ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN285KL0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL29CBR0Z20C26A7000000/">
+    <title>「ウォーシュ流」対話術に慣れぬ市場　進む債券利回りの急勾配化</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL29CBR0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T09:50:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300KT0Q6A730C2000000/">
+    <title>商品9時30分　原油、大幅反発　米イラン攻撃再開で　金も反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300KT0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T09:45:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH29ADX0Z20C26A7000000/">
+    <title>中日・細川成也、2戦3発でMVP　オールスター第2戦</title>
+    <link>https://www.nikkei.com/article/DGXZQODH29ADX0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T09:44:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC300S00Q6A730C2000000/">
+    <title>DF橋岡大樹、ドイツ1部ボルシアMG加入へ　現地報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC300S00Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T09:38:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR270100X20C26A7000000/">
+    <title>EU、消費者に「修理する権利」を担保　買い替え前提から転換迫る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR270100X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T09:34:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL300A30Q6A730C2000000/">
+    <title>東証寄り付き　日経平均、朝安後上げに転じる　アドテストが大幅高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL300A30Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T09:30:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM296220Z20C26A7000000/">
+    <title>サムスン半導体営業益が223倍の10兆円　4〜6月、スマホは初の赤字</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM296220Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T09:30:48+09:00</dc:date>
+  </item>
+</rdf:RDF>
