@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-07-31T10:10:19+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28BSK0Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN30CV00Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG149H50U6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC252LP0V20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC292VL0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2920L0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM296220Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM304OF0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG305Y20Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC295WP0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29CUC0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG29AYE0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG298JI0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290ES0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN300T90Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1582K0V10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28BS90Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN297180Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG275HO0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC02CSG0S6A700C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC29B230Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG288XX0Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2824O0Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM28A110Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2925P0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM282C80Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG235N00T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28BP10Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG109JL0Q6A610C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/">
+    <title>アンソロピックAI「Claude」も暴走　試験中にサイバー攻撃3件</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T09:49:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28BSK0Y6A720C2000000/">
+    <title>Apple4〜6月最高益　半導体不足で成長鈍化、株価一時8%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28BSK0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T08:14:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN30CV00Q6A730C2000000/">
+    <title>Microsoft、株価一時17%急騰　時価総額は1日で史上最大の72兆円増</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN30CV00Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T06:12:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG149H50U6A710C2000000/">
+    <title>1800万年前の新種の類人猿をエジプトで発見、進化の定説覆すか</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG149H50U6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC252LP0V20C26A7000000/">
+    <title>自動運転のロボトラック、52億円調達　人が介入せず関東から中部を走破</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC252LP0V20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC292VL0Z20C26A7000000/">
+    <title>IBM、量子計算機でスパコン「富岳」上回る　先端材料の性能評価</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC292VL0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2920L0Z20C26A7000000/">
+    <title>はやぶさ2、フライバイ史上最接近　小惑星表面から約400メートル</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2920L0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T18:49:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM296220Z20C26A7000000/">
+    <title>サムスン半導体営業益が223倍の10兆円　4〜6月、スマホは初の赤字</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM296220Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T17:39:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM304OF0Q6A730C2000000/">
+    <title>サムスン電子、米国にAI向け半導体工場新設　最先端2ナノ品を量産</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM304OF0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T17:36:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG305Y20Q6A730C2000000/">
+    <title>胃がん・食道がんの患者、術後に約8割が仕事に復帰　京都大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG305Y20Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T17:28:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC295WP0Z20C26A7000000/">
+    <title>米新興Runway、日本でAI映画祭　CEO「日本のコンテンツ企業と協力」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC295WP0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T15:51:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29CUC0Z20C26A7000000/">
+    <title>メタ営業減益、AI巨額費用が本業圧迫　クラウドなく投資回収見通せず</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29CUC0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T13:57:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG29AYE0Z20C26A7000000/">
+    <title>H3ロケット8号機失敗、衛星台座の不備が原因　文科省が報告書了承</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG29AYE0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T13:47:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG298JI0Z20C26A7000000/">
+    <title>新規エボラワクチン、ヒトで安全性と免疫反応確認　大阪大や東京大</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG298JI0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T13:45:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290ES0Z20C26A7000000/">
+    <title>米核融合のコモンウェルス、1600億円を調達　AI普及で資金流入</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290ES0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T13:01:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN300T90Q6A730C2000000/">
+    <title>英アーム、7〜9月売上高22%増に　増収でも時間外取引で一時8%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN300T90Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:21:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1582K0V10C26A7000000/">
+    <title>世界のM&amp;A過去最高450兆円　1〜6月5割増、AI主導権争い電力に波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1582K0V10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T11:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28BS90Y6A720C2000000/">
+    <title>メタの4〜6月純利益14%減、研究開発や訴訟費用増加　株価一時11%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28BS90Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T07:26:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN297180Z20C26A7000000/">
+    <title>Microsoft、4〜6月3割増益　AIクラウド4年ぶりの増収率</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN297180Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T06:25:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG275HO0X20C26A7000000/">
+    <title>海水からリチウム回収、細菌活用で省エネ化　物質・材料研究機構など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG275HO0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC02CSG0S6A700C2000000/">
+    <title>探究型の幼児教育広がる　AI時代に「考える力」育成、興味を起点に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC02CSG0S6A700C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC29B230Z20C26A7000000/">
+    <title>中国・墨鋒新材料、PODフィルム量産拡大へ　AI向け放熱市場開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC29B230Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-30T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG288XX0Y6A720C2000000/">
+    <title>熊本地震、10年前の断層「割れ残り」で発生か　政府調査委</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG288XX0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-29T21:58:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2824O0Y6A720C2000000/">
+    <title>AIガバナンスの国際規格、ABEJAが取得　リスク管理訴求し案件獲得へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2824O0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-29T17:30:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM28A110Y6A720C2000000/">
+    <title>SK純利益10兆円　半導体需要の波が不安材料、長期供給契約で払拭へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM28A110Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-29T16:45:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2925P0Z20C26A7000000/">
+    <title>京都銀行の与信管理、AIで粉飾決算検知　可能性を定量把握</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2925P0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-29T15:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM282C80Y6A720C2000000/">
+    <title>SKハイニックス、4〜6月純利益13倍の10兆円 　AI向け半導体価格上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM282C80Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-29T08:19:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG235N00T20C26A7000000/">
+    <title>原人の赤ちゃん、現代人と同じく頭骨軟らかく　東大などが発見</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG235N00T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-29T08:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28BP10Y6A720C2000000/">
+    <title>メタ、巨大AI施設の2.3兆円投資を簿外に　米ブラックロックと新会社</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28BP10Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-29T05:19:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG109JL0Q6A610C2000000/">
+    <title>地中で水素製造、電気使わずコスト8割減　九大と九電が30年にも実証</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG109JL0Q6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-29T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
