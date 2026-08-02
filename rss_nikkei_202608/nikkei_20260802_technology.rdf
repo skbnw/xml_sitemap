@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-08-02T11:10:29+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK271SA0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD26BF90W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG3091Y0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG3060J0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG272NY0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29CE10Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD22AA30S6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2746U0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG233UQ0T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31CW50R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC29CNT0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG297A90Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG2967X0Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD244QK0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC210AQ0R20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB28AJP0Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD316420R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF318WY0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG316FT0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM310T50R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC315QM0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF271610X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN313NH0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28BSK0Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2953T0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG303TW0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN30CV00Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG149H50U6A710C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK271SA0X20C26A7000000/">
+    <title>2020年代は何を残すのか　試される自由・民主主義</title>
+    <link>https://www.nikkei.com/article/DGXZQODK271SA0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD26BF90W6A620C2000000/">
+    <title>子どものSNS規制は是か非か　研究者・事業者に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD26BF90W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG3091Y0Q6A730C2000000/">
+    <title>ブラックホールの「爆風」、30万光年先まで届く　東北大学など観測</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG3091Y0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG3060J0Q6A730C2000000/">
+    <title>2023〜24年のCO2濃度増、原因は陸上植物などの吸収低下　国立環境研</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG3060J0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG272NY0X20C26A7000000/">
+    <title>中国で遺伝子治療の女児死亡、専門家「世界初を急ぎ安全評価軽視か」</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG272NY0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29CE10Z20C26A7000000/">
+    <title>米スペースX、4日にIPO後初の決算　市場は赤字予想</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29CE10Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD22AA30S6A720C2000000/">
+    <title>トキ復活めざす能登半島　地域の風習守る象徴に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD22AA30S6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2746U0X20C26A7000000/">
+    <title>左利きの魚、獲物の獲得も左側から　北海道大学が解明</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2746U0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG233UQ0T20C26A7000000/">
+    <title>死体に擬態する花　ショクダイオオコンニャクの進化の道筋を解明</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG233UQ0T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T01:05:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/">
+    <title>EU、生成AIコンテンツに識別表示義務　禁止行為なら制裁金63億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T09:05:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31CW50R30C26A7000000/">
+    <title>Apple株一時10%安、売り上げ予測に失望　半導体不足が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31CW50R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T06:30:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC29CNT0Z20C26A7000000/">
+    <title>中国AI「Kimi」、コスパに強みタイパに弱み 応答時間は米Fableの2倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC29CNT0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG297A90Z20C26A7000000/">
+    <title>免疫の暴走抑える脂質応答　大阪大学などが解明、人工粒子作製も</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG297A90Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG2967X0Z20C26A6000000/">
+    <title>京都1200年分の花見記録で気温追跡　直近190年は満開14日早く</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG2967X0Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD244QK0U6A720C2000000/">
+    <title>令和なコトバ「RAMマゲドン」　半導体が世界を滅ぼす</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD244QK0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC210AQ0R20C26A7000000/">
+    <title>8割の中間層に効くIBM流コーチング､「型を身に付ければ人は変わる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC210AQ0R20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB28AJP0Y6A720C2000000/">
+    <title>メモリー大手5社の現金収支14兆円プラス　4〜6月、巨額マネー流入</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB28AJP0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T20:55:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD316420R30C26A7000000/">
+    <title>ゴールドマンもAIツルハシ銘柄に？　ロンドン×東京で語る</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD316420R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T20:44:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF318WY0R30C26A7000000/">
+    <title>パナソニックHD、半導体製造装置で新組織　AIで増える電力消費抑制</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF318WY0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T19:52:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG316FT0R30C26A7000000/">
+    <title>熊本地震、最長40キロで断層破壊と東北大推定　政府調査委より長く</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG316FT0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T18:14:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM310T50R30C26A7000000/">
+    <title>韓国電池3社が営業黒字に　4〜6月、EV不振からAI向けシフト奏功</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM310T50R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T18:14:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC315QM0R30C26A7000000/">
+    <title>国の地域未来戦略に九州2件　熊本の半導体と北九州のフィジカルAI</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC315QM0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T17:53:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF271610X20C26A7000000/">
+    <title>村田製作所の27年3月期、AI向け部品好調で純利益最高　44%増に上振れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF271610X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T17:21:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN313NH0R30C26A7000000/">
+    <title>テスラが中国事業の分離検討か　スペースXと統合に備え、米紙報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN313NH0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T14:56:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28BSK0Y6A720C2000000/">
+    <title>Apple4〜6月最高益　半導体不足で成長鈍化、株価一時8%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28BSK0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T13:07:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2953T0Z20C26A7000000/">
+    <title>米テック4社、4〜6月現金15兆円流出　本業超えるAI投資の持続力試す</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2953T0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T11:58:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG303TW0Q6A730C2000000/">
+    <title>研究機器の共同利用拠点、北海道大や早稲田大など19件採択　文科省</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG303TW0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T10:54:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/">
+    <title>アンソロピックAI「Claude」も暴走　試験中にサイバー攻撃3件</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T09:49:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN30CV00Q6A730C2000000/">
+    <title>Microsoft、株価一時17%急騰　時価総額は1日で史上最大の72兆円増</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN30CV00Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T06:12:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG149H50U6A710C2000000/">
+    <title>1800万年前の新種の類人猿をエジプトで発見、進化の定説覆すか</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG149H50U6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-07-31T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>

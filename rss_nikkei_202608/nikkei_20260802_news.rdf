@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-08-02T11:10:47+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD011Z00R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM30C1R0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC22B2S0S6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM30ATE0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB29ACS0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK271SA0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD311KR0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB310C50R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB020AD0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020AP0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020AW0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD020BL0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB0209J0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD271CK0X20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB0201E0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0207O0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC238TX0T20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0206U0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB0202H0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH010NU0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB0205V0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN013860R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB0202W0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB0201M0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN15C6Z0V10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN29C380Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD26BF90W6A620C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA16B710W6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM30AIV0Q6A630C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC17ABA0X10C26A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD011Z00R00C26A8000000/">
+    <title>熊本地震の死者38人に　初の災害関連死疑い、車中泊で熱中症</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD011Z00R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:03:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM30C1R0Q6A730C2000000/">
+    <title>ベトナム臨時国会3日開会　土地法改正など前倒し審議、原発も議題に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM30C1R0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC22B2S0S6A720C2000000/">
+    <title>BYDの軽EV「ラッコ」襲来　スーパー駐車場を徹底観察、日本攻略へ執念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC22B2S0S6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM30ATE0Q6A730C2000000/">
+    <title>AI特需の台湾、2億円マンション次々成約　好況の恩恵偏在に政権危機感</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM30ATE0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB29ACS0Z20C26A7000000/">
+    <title>日本円沈没の危機　「4%に利上げを」アベノミクスの師が警鐘</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB29ACS0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK271SA0X20C26A7000000/">
+    <title>2020年代は何を残すのか　試される自由・民主主義</title>
+    <link>https://www.nikkei.com/article/DGXZQODK271SA0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD311KR0R30C26A7000000/">
+    <title>熊本地震でトイレ使えず、「簡易」の自宅備蓄2割　避難所は追加配備</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD311KR0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB310C50R30C26A7000000/">
+    <title>「英雄か虐殺者か」歴史摩擦　ポーランドでウクライナ人に憎悪犯罪</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB310C50R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB020AD0S6A800C2000000/">
+    <title>ペルー小型機墜落13人死亡　ナスカの地上絵見物</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB020AD0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T10:30:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020AP0S6A800C2000000/">
+    <title>大坂なおみ、準決勝敗退　ムバダラDCオープン</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020AP0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T10:23:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020AW0S6A800C2000000/">
+    <title>スキージャンプGP、中村直幹が優勝　開幕戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020AW0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T10:23:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD020BL0S6A800C2000000/">
+    <title>岡山県矢掛町で不明の2歳男児保護　山中で発見、21時間後</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD020BL0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T10:16:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB0209J0S6A800C2000000/">
+    <title>米水道サイバー攻撃7州に　中西部、イラン関与か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB0209J0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T10:05:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD271CK0X20C26A6000000/">
+    <title>AI時代でも繰り返される奇襲　警戒情報を無駄にする政治家の思い込み</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD271CK0X20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB0201E0S6A800C2000000/">
+    <title>モスクワで爆発3人死亡　中心部の飲食店、21人負傷</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB0201E0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T09:41:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0207O0S6A800C2000000/">
+    <title>中島啓太、首位と7打差23位に浮上　米男子ゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0207O0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T09:40:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC238TX0T20C26A7000000/">
+    <title>減りゆく夏の花火大会　遠くに見るうれしさ</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC238TX0T20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0206U0S6A800C2000000/">
+    <title>桑木志帆は首位と3打差2位、勝みなみら8位　全英女子ゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0206U0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T08:50:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB0202H0S6A800C2000000/">
+    <title>人工池損壊の起訴却下、トランプ氏「100%同意できない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB0202H0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T08:34:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH010NU0R00C26A8000000/">
+    <title>2日の有力馬　クイーンステークスなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH010NU0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T08:26:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB0205V0S6A800C2000000/">
+    <title>エボラ出血熱の感染3600人超　コンゴ民主、過去最大の流行に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB0205V0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T08:08:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN013860R00C26A8000000/">
+    <title>日米介入劇場、円相場は155円巡る攻防へ　「月曜早朝」に市場が警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN013860R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T07:19:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB0202W0S6A800C2000000/">
+    <title>紅海要衝の通航料求めず、封鎖は「サウジのみ」　イエメンのフーシ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB0202W0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T06:47:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB0201M0S6A800C2000000/">
+    <title>マレーシア、アンワル首相陣営が地方選2連敗　早期解散の可能性も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB0201M0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T06:14:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN15C6Z0V10C26A7000000/">
+    <title>嫌われるAI、「恩恵なき熱狂」に疑いの視線　米中間選挙の新たな戦場</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN15C6Z0V10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN29C380Z20C26A7000000/">
+    <title>米中間選挙とは？　「トランプ2.0」に下る世論の審判　残り3カ月</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN29C380Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD26BF90W6A620C2000000/">
+    <title>子どものSNS規制は是か非か　研究者・事業者に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD26BF90W6A620C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA16B710W6A710C2000000/">
+    <title>脱炭素、市町村の優先度は低め？　切迫感の欠如映す環境省「護送船団」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA16B710W6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM30AIV0Q6A630C2000000/">
+    <title>香港金融街「オフィス足りない」　欧米勢の進出加速、空室率が急低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM30AIV0Q6A630C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC17ABA0X10C26A7000000/">
+    <title>青森・五所川原の「立佞武多」、2年ぶり新作に歓声　展示施設は新装</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC17ABA0X10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>

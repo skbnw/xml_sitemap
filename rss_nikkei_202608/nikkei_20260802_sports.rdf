@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2026-08-02T11:10:33+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020AP0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC020AW0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0207O0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0206U0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH010NU0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH2874E0Y6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC012W80R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC012T40R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH012O50R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0120V0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH31B3L0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC012O00R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC012B20R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0127A0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC012650R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC011P40R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC011UZ0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC011UW0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC011XL0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC011R50R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC011850R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0117G0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010Q10R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010TW0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010KZ0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH010FZ0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC010IH0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0109R0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH010BV0R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH316M60R30C26A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020AP0S6A800C2000000/">
+    <title>大坂なおみ、準決勝敗退　ムバダラDCオープン</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020AP0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T10:23:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC020AW0S6A800C2000000/">
+    <title>スキージャンプGP、中村直幹が優勝　開幕戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC020AW0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T10:23:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0207O0S6A800C2000000/">
+    <title>中島啓太、首位と7打差23位に浮上　米男子ゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0207O0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T09:40:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0206U0S6A800C2000000/">
+    <title>桑木志帆は首位と3打差2位、勝みなみら8位　全英女子ゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0206U0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T08:50:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH010NU0R00C26A8000000/">
+    <title>2日の有力馬　クイーンステークスなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH010NU0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T08:26:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH2874E0Y6A720C2000000/">
+    <title>57歳のランニング生活、医療と厚底シューズに支えられ（鏑木毅）</title>
+    <link>https://www.nikkei.com/article/DGXZQODH2874E0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC012W80R00C26A8000000/">
+    <title>バレー日本男子、米に敗れ決勝進出ならず　ネーションズリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC012W80R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T23:31:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC012T40R00C26A8000000/">
+    <title>高校総体、サッカー男子は静岡学園が初V　近大付に競り勝つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC012T40R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T23:06:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH012O50R00C26A8000000/">
+    <title>西武・林安可、閉塞感破る同点打　調子上げる来日1年目の左打者</title>
+    <link>https://www.nikkei.com/article/DGXZQODH012O50R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T23:06:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0120V0R00C26A8000000/">
+    <title>1日のプロ野球　結果と戦評</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0120V0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T23:05:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH31B3L0R30C26A7000000/">
+    <title>FIFAの子会社設立・売却計画が頓挫　独行を許したガバナンスの不全</title>
+    <link>https://www.nikkei.com/article/DGXZQODH31B3L0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T23:03:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC012O00R00C26A8000000/">
+    <title>FC東京、ドルトムントに0-1で敗戦　親善試合</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC012O00R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T22:27:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC012B20R00C26A8000000/">
+    <title>八村塁、代表復帰の意向明言　「日本バスケのため頑張りたい」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC012B20R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T20:01:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0127A0R00C26A8000000/">
+    <title>世界ラクロス、日本女子は7位決定戦制す　プエルトリコに勝利</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0127A0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T19:56:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC012650R00C26A8000000/">
+    <title>横浜と前回V沖縄尚学が対戦、履正社は享栄と　夏の甲子園5日開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC012650R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T19:24:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC011P40R00C26A8000000/">
+    <title>第108回全国高校野球選手権大会組み合わせ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC011P40R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T19:00:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC011UZ0R00C26A8000000/">
+    <title>バスケ津屋一球「いい報告を」　アジア大会へ日本代表が合宿</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC011UZ0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T18:28:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC011UW0R00C26A8000000/">
+    <title>卓球Tリーグ、九州が白星発進　平野美宇はシングルスで快勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC011UW0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T17:31:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC011XL0R00C26A8000000/">
+    <title>女子高校野球、神戸弘陵が5度目の優勝　学法石川下す</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC011XL0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T17:29:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC011R50R00C26A8000000/">
+    <title>大倉山サマージャンプ、二階堂蓮V　女子は勢藤優花が優勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC011R50R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T17:12:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC011850R00C26A8000000/">
+    <title>陽岱鋼「周囲に恵まれた」　日本ハムなどで活躍、引退会見</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC011850R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T16:38:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0117G0R00C26A8000000/">
+    <title>松山英樹32位、久常涼と中島啓太48位　米男子ゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0117G0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T15:05:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010Q10R00C26A8000000/">
+    <title>大谷翔平・村上宗隆が24号　岡本和真1安打、今永昇太は9敗目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010Q10R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T14:42:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010TW0R00C26A8000000/">
+    <title>大坂なおみ、逆転勝ちで準決勝へ　ムバダラDCオープン</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010TW0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T12:06:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010KZ0R00C26A8000000/">
+    <title>大谷翔平の野球カード、17億円超で取引　スポーツ史上3番目の高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010KZ0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T10:38:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH010FZ0R00C26A8000000/">
+    <title>FIFAがW杯運営の子会社設立計画を撤回　会長「分断生み出す」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH010FZ0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T10:20:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC010IH0R00C26A8000000/">
+    <title>今井達也、中継ぎに配置転換　エスパーダ監督が明らかに</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC010IH0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T10:03:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0109R0R00C26A8000000/">
+    <title>村上宗隆、熊本地震の被災地支援　ホワイトソックスがオークション</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0109R0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T09:16:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH010BV0R00C26A8000000/">
+    <title>桑木志帆は首位と1打差2位、勝みなみ6位浮上　全英女子ゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQODH010BV0R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T08:42:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH316M60R30C26A7000000/">
+    <title>1日の有力馬　豊橋ステークスなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH316M60R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-01T08:15:25+09:00</dc:date>
+  </item>
+</rdf:RDF>
