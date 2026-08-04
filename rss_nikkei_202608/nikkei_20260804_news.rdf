@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-08-04T11:10:11+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD039150T00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0418G0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF041DP0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB214IP0R20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB032T80T00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM131AW0T10C26A4000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM020K60S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB041TR0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC041BA0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL041FB0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL041210U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC038N20T00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL041B00U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0415R0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040TM0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0410A0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC037F70T00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040F90U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040HR0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC0410G0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN040A20U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2990C0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040IT0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040CW0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB040V60U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040QN0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB040PE0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040CL0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040J80U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB040HQ0U6A800C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD039150T00C26A8000000/">
+    <title>熊本地震1週間、酷暑の避難なお8000人超　生活インフラ復旧途上</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD039150T00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:08:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0418G0U6A800C2000000/">
+    <title>福島駅西口2万平方メートル　地元建設カゲヤマHDが取得、再開発へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0418G0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:01:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF041DP0U6A800C2000000/">
+    <title>京都信用金庫、熊本地震で災害復旧支援融資　事業者向けに</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF041DP0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:01:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB214IP0R20C26A7000000/">
+    <title>輸入鶏肉1〜2割安、供給回復で「投機売買」収束　国産からシフト促す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB214IP0R20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB032T80T00C26A8000000/">
+    <title>韓国も為替介入観測、日本に相乗り？　ウォン安是正にSK米上場が追い風</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB032T80T00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM131AW0T10C26A4000000/">
+    <title>韓国、3歳未満幼児への詰め込み教育禁止へ　英語幼稚園の過熱で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM131AW0T10C26A4000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM020K60S6A800C2000000/">
+    <title>中国の夏休みキッズ、家庭教師はAI　勉強特化の専用端末28万円</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM020K60S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB041TR0U6A800C2000000/">
+    <title>米国、名古屋領事館など閉鎖計画　5カ国の在外拠点縮小と報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB041TR0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:54:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC041BA0U6A800C2000000/">
+    <title>今永昇太、ドジャース戦へ調整　6日に大谷翔平と対戦へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC041BA0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:51:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL041FB0U6A800C2000000/">
+    <title>上海株寄り付き　反発して始まる　半導体株に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL041FB0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:48:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL041210U6A800C2000000/">
+    <title>香港株寄り付き　続伸で始まる、主力テック株に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL041210U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:40:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC038N20T00C26A8000000/">
+    <title>DDグループ、ふるさと納税仲介に参入　返礼品を飲食店で活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC038N20T00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:34:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL041B00U6A800C2000000/">
+    <title>人民元基準値、対米ドルで6.7917元　前日比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL041B00U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:27:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0415R0U6A800C2000000/">
+    <title>外為10時　円相場、下げ幅拡大　157円台半ば　実需のドル買い観測</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0415R0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:24:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040TM0U6A800C2000000/">
+    <title>日産自動車株価一時2.2%安　通期の販売台数下振れを不安視</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040TM0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:18:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0410A0U6A800C2000000/">
+    <title>東証10時　日経平均は下げ拡大　一時800円安　韓国株安で売り加速</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0410A0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:16:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC037F70T00C26A8000000/">
+    <title>日本ディープラーニング協会、AIガバナンスの認証制度開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC037F70T00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:14:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040F90U6A800C2000000/">
+    <title>ワークマン株価反発　4〜6月33%営業増益、市場予想上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040F90U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:11:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040HR0U6A800C2000000/">
+    <title>三菱UFJFG株価が続落　27年3月期業績予想据え置き「保守的」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040HR0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:11:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC0410G0U6A800C2000000/">
+    <title>ヌートバー、ダイヤモンドバックスへ　大リーグがトレード期限</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC0410G0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:03:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN040A20U6A800C2000000/">
+    <title>トランプ新関税巡り米25州も提訴　企業に続き、徴収停止求める</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN040A20U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T10:02:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2990C0Z20C26A7000000/">
+    <title>高級車で信号待ち車列間を走行・衝突、傷害容疑で男逮捕　警視庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2990C0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:55:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040IT0U6A800C2000000/">
+    <title>商品9時30分　原油、反発　米イラン協議に不透明感　金は小反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040IT0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:54:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040CW0U6A800C2000000/">
+    <title>東証寄り付き　日経平均はもみ合い　AI半導体の一角には買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040CW0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:32:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB040V60U6A800C2000000/">
+    <title>ドバイ原油・4日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB040V60U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:29:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040QN0U6A800C2000000/">
+    <title>韓国株、反発で始まる　自律反発狙いの買い先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040QN0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:26:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB040PE0U6A800C2000000/">
+    <title>ゼレンスキー氏、対日外交に不満　大使らに強化指示</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB040PE0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:23:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040CL0U6A800C2000000/">
+    <title>日経平均、反発で始まる　一時400円高、米株高で買い先行</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040CL0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:12:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040J80U6A800C2000000/">
+    <title>債券寄り付き　先物、反発　米金利低下で買い優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040J80U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:01:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB040HQ0U6A800C2000000/">
+    <title>米司法長官人事、承認の見通し　基金計画廃止で反対議員が転換</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB040HQ0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T08:59:10+09:00</dc:date>
+  </item>
+</rdf:RDF>
