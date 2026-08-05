@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/society.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsociety.rdf">
+    <title>日経新聞 社会</title>
+    <link>https://www.nikkei.com/news/category/society/</link>
+    <description>日経新聞の社会に関するフィードをお届けします。</description>
+    <dc:date>2026-08-05T10:10:29+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF149AO0U6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF095YC0Z00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD296YD0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD0129I0R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD04BK20U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD04BIC0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD04ASS0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH043ZO0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD04AKQ0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH0473F0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD043YI0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD048ZG0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD042H30U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC044MZ0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF046YM0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD313F30R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF047SQ0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD047AJ0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC315DA0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD042KD0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD040GR0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD039150T00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM020K60S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2990C0Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB040HT0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB040G80U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0407B0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0403U0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD011V60R00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC31CBR0R30C26A7000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF149AO0U6A710C2000000/">
+    <title>就業規則違反で再雇用せず　定年直前のシニア、コロナ下外出で譴責</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF149AO0U6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-05T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF095YC0Z00C26A7000000/">
+    <title>原爆投下時の広島動画、AIで脚色生成　SNSで関心喚起も史実とズレ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF095YC0Z00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD296YD0Z20C26A7000000/">
+    <title>池上彰の大岡山通信　学生らとの読書会、対話が深める本への思い</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD296YD0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD0129I0R00C26A6000000/">
+    <title>多様性揺らぐ米国、留学での異文化体験の意義は　加藤喜之立教大教授</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD0129I0R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-08-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD04BK20U6A800C2000000/">
+    <title>東野圭吾さん新刊「永遠の記憶」発売　「ガリレオ」シリーズ最新作</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD04BK20U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-05T00:53:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD04BIC0U6A800C2000000/">
+    <title>大阪・河内長野で警察官が刃物男に発砲　男は死亡</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD04BIC0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-05T00:36:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD04ASS0U6A800C2000000/">
+    <title>夜空に浮かぶ巨大人形灯籠　「五所川原立佞武多」開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD04ASS0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T22:24:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH043ZO0U6A800C2000000/">
+    <title>高木美帆さんに国民栄誉賞授与　「スケートを代表しての名誉、光栄」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH043ZO0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T21:29:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD04AKQ0U6A800C2000000/">
+    <title>国宝地震被害、2件に訂正　熊本震度7で文化庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD04AKQ0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T21:27:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH0473F0U6A800C2000000/">
+    <title>広陵高の暴力被害、加害者中傷の発信者開示　賠償請求へ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH0473F0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T20:12:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD043YI0U6A800C2000000/">
+    <title>熊本地震1週間、断水4万戸超　住まい再建見えず「それでも前へ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD043YI0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T19:40:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD048ZG0U6A800C2000000/">
+    <title>広域強盗幹部、懲役20年確定へ　最高裁が上告棄却</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD048ZG0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T19:35:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD042H30U6A800C2000000/">
+    <title>羽田上空でANA機の衝突防止装置が作動　国の飛行検査機が付近に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD042H30U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T18:53:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC044MZ0U6A800C2000000/">
+    <title>オンワードHD従業員、貴重品取りに戻り死亡　イオンモール熊本事故で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC044MZ0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T18:10:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF046YM0U6A800C2000000/">
+    <title>点滴に汚物混入し患者殺害、病院の元看護師を起訴　千葉地検</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF046YM0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T17:59:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD313F30R30C26A7000000/">
+    <title>「まんじゅうや」当選無効巡り弁論　茨城・神栖市長選、県選管争う姿勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD313F30R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T17:47:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF047SQ0U6A800C2000000/">
+    <title>「希少品格安」販売に詐欺疑い　消費者庁、サイト名公表し注意喚起</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF047SQ0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T17:45:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD047AJ0U6A800C2000000/">
+    <title>熊本地震、気象庁「1週間程度は震度5強以上注意」　平常時の80倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD047AJ0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T17:41:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC315DA0R30C26A7000000/">
+    <title>栃木県、県庁直下地震の被害想定　30年度に住宅耐震率96%へ引き上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC315DA0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T17:04:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD042KD0U6A800C2000000/">
+    <title>東北、北陸が梅雨明け　全国的に厳しい暑さ続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD042KD0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T16:35:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD040GR0U6A800C2000000/">
+    <title>熊本地震1週間、酷暑・断水追い打ち　｢今後どうすれば｣再建見えず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD040GR0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T12:19:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD039150T00C26A8000000/">
+    <title>熊本地震1週間、酷暑の避難なお8000人超　生活インフラ復旧途上</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD039150T00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:08:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM020K60S6A800C2000000/">
+    <title>中国の夏休みキッズ、家庭教師はAI　勉強特化の専用端末28万円</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM020K60S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2990C0Z20C26A7000000/">
+    <title>高級車で信号待ち車列間を走行・衝突、傷害容疑で男逮捕　警視庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2990C0Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T09:55:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB040HT0U6A800C2000000/">
+    <title>米国で寄生虫感染症2人死亡　初確認、6700人感染</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB040HT0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T08:34:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB040G80U6A800C2000000/">
+    <title>ベネズエラ地震死者6000人超に　6月発生、マグニチュード7超</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB040G80U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T08:20:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0407B0U6A800C2000000/">
+    <title>「大阪地検特捜部でパワハラ」　元検事男性の手記公表</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0407B0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T07:00:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0403U0U6A800C2000000/">
+    <title>熊本県宇城市で震度4 M4.1</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0403U0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T06:21:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD011V60R00C26A8000000/">
+    <title>熊本地震、把握できぬ車中泊　熱中症・エコノミー症候群のケア急げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD011V60R00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC31CBR0R30C26A7000000/">
+    <title>キングサーモン完全養殖、挑む水産業の構造転換　北海道大学と函館市</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC31CBR0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-04T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
