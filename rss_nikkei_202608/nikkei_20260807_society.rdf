@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/society.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsociety.rdf">
+    <title>日経新聞 社会</title>
+    <link>https://www.nikkei.com/news/category/society/</link>
+    <description>日経新聞の社会に関するフィードをお届けします。</description>
+    <dc:date>2026-08-07T13:12:19+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC064O10W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD057580V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD14BJM0U6A510C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD05B8L0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB01BDC0R00C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0323U0T00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF302SM0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF069RS0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD06BAU0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD06B7B0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD06AS70W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF052UN0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0692F0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF067LQ0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD055Z90V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0684I0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG291N50Z20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD062RQ0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD064IZ0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD063UM0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD042R30U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD062SU0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0438C0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF052UD0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD054UE0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0616D0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF060PN0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC051HA0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD060Q70W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB060GE0W6A800C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC064O10W6A800C2000000/">
+    <title>南海トラフ地震の津波、大分佐伯市で最大12.9メートル　県が被害想定</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC064O10W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-07T13:06:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD057580V00C26A8000000/">
+    <title>「背の高い高気圧」で西日本、猛暑続く　涼しかった関東も気温上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD057580V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-07T11:02:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD14BJM0U6A510C2000000/">
+    <title>息子の不始末で債務755万円　連帯保証の母、支払い拒否は通るか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD14BJM0U6A510C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-07T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD05B8L0V00C26A8000000/">
+    <title>なりすましメール遮断、金融機関の対策27%　民間調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD05B8L0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-07T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB01BDC0R00C26A6000000/">
+    <title>みずほ銀行が助言した組織再編「行き過ぎた節税」　大阪地裁が認定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB01BDC0R00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-08-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0323U0T00C26A8000000/">
+    <title>熊本地震、復旧阻む災害ごみの山　震度7の氷川町は推計22年分</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0323U0T00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-07T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF302SM0Q6A730C2000000/">
+    <title>被爆者減る、16県は100人未満　設立70年の日本被団協は存続議論</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF302SM0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-07T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF069RS0W6A800C2000000/">
+    <title>東京科学大が初の心臓移植　患者の待機期間短縮目指す</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF069RS0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T23:47:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD06BAU0W6A800C2000000/">
+    <title>熊本・宇城市で竹やぶ火災　消火難航、地震の影響で水不足</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD06BAU0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T23:31:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD06B7B0W6A800C2000000/">
+    <title>愛知の女児死亡、第三者委「事実語れる環境確保を」　母親が面談同席</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD06B7B0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T23:19:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD06AS70W6A800C2000000/">
+    <title>司法試験でパソコン不具合200件超、今年からCBT方式導入</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD06AS70W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T21:42:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF052UN0V00C26A8000000/">
+    <title>原爆「世界で考える契機に」、広島で平和式典　若者動き記憶継ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF052UN0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0692F0W6A800C2000000/">
+    <title>熊本地震で亡くなった方々（6日までに公表）</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0692F0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T19:47:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF067LQ0W6A800C2000000/">
+    <title>写真加工アプリ「SNOW」のステマに措置命令　消費者庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF067LQ0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T19:23:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD055Z90V00C26A8000000/">
+    <title>サングラス「レイバン」日本法人、価格拘束で改善計画　公取委が認定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD055Z90V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T18:36:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0684I0W6A800C2000000/">
+    <title>宮内庁長官、改正皇室典範を4宮家に説明　養親の対象に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0684I0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T18:29:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG291N50Z20C26A7000000/">
+    <title>東大が2年連続赤字へ　「貯金」数年で枯渇、研究者の削減不可避</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG291N50Z20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD062RQ0W6A800C2000000/">
+    <title>DNA鑑定不正13件追送検　佐賀県警、特別監察で判明</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD062RQ0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T16:52:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD064IZ0W6A800C2000000/">
+    <title>毎日新聞記者を逮捕　包丁で夫脅した疑い</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD064IZ0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T15:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD063UM0W6A800C2000000/">
+    <title>天皇ご一家、広島原爆の日で黙とう　上皇ご夫妻も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD063UM0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T13:45:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD042R30U6A800C2000000/">
+    <title>熊本地震の便乗犯罪に注意　被災宅に空き巣、義援金装う詐欺メール</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD042R30U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T12:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD062SU0W6A800C2000000/">
+    <title>睡眠時無呼吸影響で事故か　男性を書類送検、危険運転の疑い</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD062SU0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T12:29:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0438C0U6A800C2000000/">
+    <title>トクリュウ通信把握、捜査手法議論へ　計画段階で特殊詐欺や強盗防ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0438C0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T12:29:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF052UD0V00C26A8000000/">
+    <title>広島原爆の日、「体動く限り」惨禍伝える　平和祈る被爆者</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF052UD0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD054UE0V00C26A8000000/">
+    <title>週刊少年ジャンプのグッズ、43億円分注文・キャンセルか　32歳女逮捕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD054UE0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T11:17:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0616D0W6A800C2000000/">
+    <title>産経新聞、東北6県での発行休止へ　11月末で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0616D0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF060PN0W6A800C2000000/">
+    <title>広島で式典、平和への一歩踏み出す　小学生3人誓う</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF060PN0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC051HA0V00C26A8000000/">
+    <title>広島81回目の原爆の日　松井市長「核兵器のない世界、遠のくばかり」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC051HA0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T09:57:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD060Q70W6A800C2000000/">
+    <title>熊本・長崎・鹿児島3県で震度4の地震　M5.1</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD060Q70W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T09:08:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB060GE0W6A800C2000000/">
+    <title>ローマ教皇レオ14世、ペルー「帰郷」へ　11月に南米3カ国歴訪</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB060GE0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-06T08:17:33+09:00</dc:date>
+  </item>
+</rdf:RDF>
