@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-08-10T12:11:34+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF101900Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF062R80W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM100XD0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB062WT0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1011PTQ6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL100EC0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB100GM0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1013N0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC101HL0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL101GL0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1013M0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC101H90Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH101DE0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL100NB0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL100VE0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1576Y0V10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL100B20Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC101B20Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR07B9I0X00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC055VT0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM3034S0Q6A730C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM090E30Z00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1012N0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD100K00Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL100ZD0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL100FG0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1015F0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL100OY0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL100T40Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC100WK0Q6A810C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF101900Q6A810C2000000/">
+    <title>日本被団協が結成70年　「核兵器、戦争ない人間社会を」声明を発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF101900Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T12:10:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF062R80W6A800C2000000/">
+    <title>白鶴酒造、資料館の店舗を刷新　円形テーブルに目玉商品</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF062R80W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T12:06:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM100XD0Q6A810C2000000/">
+    <title>ミキハウス、深圳に新店舗　社長「世界へのブランド発信地に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM100XD0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T12:00:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB062WT0W6A800C2000000/">
+    <title>7月末の公募投信残高、352兆円　4カ月ぶり減少</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB062WT0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1011PTQ6A810C2000000/">
+    <title>日経平均午前1324円高、米利上げ観測後退で25日移動平均を突破</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1011PTQ6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:54:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL100EC0Q6A810C2000000/">
+    <title>商品11時30分　金、上値重い　NY相場下落で　ゴムは2週ぶり高値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL100EC0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:52:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB100GM0Q6A810C2000000/">
+    <title>トランプ氏、SNSでイスラム教徒「違い」強調　差別的と批判</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB100GM0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:49:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1013N0Q6A810C2000000/">
+    <title>東証前引け　日経平均は反発　一時1400円高　米ハイテク株高で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1013N0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:46:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC101HL0Q6A810C2000000/">
+    <title>サントリーHD、熊本工場復旧に3〜4カ月　熊本地震で被災</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC101HL0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:43:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL101GL0Q6A810C2000000/">
+    <title>新興株前引け　グロース250が続伸　AIや宇宙関連に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL101GL0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:40:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1013M0Q6A810C2000000/">
+    <title>日経平均前引け　大幅反発　1324円高の6万6931円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1013M0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:37:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC101H90Q6A810C2000000/">
+    <title>スキージャンプGP、伊藤有希V　高梨沙羅は16位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC101H90Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:32:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH101DE0Q6A810C2000000/">
+    <title>高校野球・明徳義塾の馬淵史郎監督、2年後をめどに勇退意向</title>
+    <link>https://www.nikkei.com/article/DGXZQODH101DE0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:30:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL100NB0Q6A810C2000000/">
+    <title>債券11時　長期金利、2.810%に上昇　日銀利上げペース加速の思惑</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL100NB0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:26:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL100VE0Q6A810C2000000/">
+    <title>セイコーG株価36年ぶり高値　27年3月期上方修正、時計需要好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL100VE0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:19:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1576Y0V10C26A7000000/">
+    <title>ケーズHD加藤名誉会長「地域一番店なら生き残れる」　家電特化貫く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1576Y0V10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL100B20Q6A810C2000000/">
+    <title>日本マクドナルドHD株価反落　26年12月期上方修正に「物足りない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL100B20Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:12:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC101B20Q6A810C2000000/">
+    <title>河村勇輝、NBAクリッパーズと契約　キャンプ参加へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC101B20Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:09:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR07B9I0X00C26A8000000/">
+    <title>世界の7月の海面水温が過去最高、エルニーニョ強まる見通し　EU機関</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR07B9I0X00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC055VT0V00C26A8000000/">
+    <title>ソニーGとTSMC、熊本工場に1兆円投資　次世代画像センサー29年量産</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC055VT0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM3034S0Q6A730C2000000/">
+    <title>北朝鮮と中国「開かずの新橋」ついに開通へ？　北側で税関の建設着々</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM3034S0Q6A730C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM090E30Z00C26A8000000/">
+    <title>台湾、初のスマホ通信制限訓練　1700万人対象に「有事」の耐性探る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM090E30Z00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1012N0Q6A810C2000000/">
+    <title>日南学園、明徳義塾にサヨナラ勝ち　夏の甲子園</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1012N0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T10:52:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD100K00Q6A810C2000000/">
+    <title>日本特殊陶業、米国で車向け修理部品事業を売却　今期純利益押し上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD100K00Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T10:52:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL100ZD0Q6A810C2000000/">
+    <title>上海株寄り付き　小幅続伸で始まる　貴州茅台酒が高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL100ZD0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T10:45:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL100FG0Q6A810C2000000/">
+    <title>香港株寄り付き　続伸で始まる、米株高が波及　ネット大手高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL100FG0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T10:43:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1015F0Q6A810C2000000/">
+    <title>ドバイ原油・10日午前、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1015F0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T10:39:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL100OY0Q6A810C2000000/">
+    <title>人民元基準値、対米ドルで6.7884元　前週末比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL100OY0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T10:27:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL100T40Q6A810C2000000/">
+    <title>外為10時　円相場、上げ幅縮小　一時158円台前半　中値「ドル買い」の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL100T40Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T10:26:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC100WK0Q6A810C2000000/">
+    <title>WNBA、山本麻衣16得点・6アシスト　エースズは大敗</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC100WK0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-10T10:25:06+09:00</dc:date>
+  </item>
+</rdf:RDF>
