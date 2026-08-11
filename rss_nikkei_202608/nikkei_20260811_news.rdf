@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-08-11T10:10:12+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1071I0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA110730R10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC073E80X00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1104Q0R10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1100I0R10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN108UK0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1087Q0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL108VT0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN108YW0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL108IV0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL108KN0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN108YP0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN108WY0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL108IW0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN108530Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN108OP0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL108IU0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL108JI0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN108T70Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC31BDV0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH06AZN0W6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH0399J0T00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC318BW0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH0482I0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA246WD0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF035K10T00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC074Z10X00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODL053SB0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJE283KP0Y6A720C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1071I0Q6A810C2000000/">
+    <title>主要企業の4〜6月期決算を深読み　レゾナックは半導体メーカーに脱皮</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1071I0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T09:43:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA110730R10C26A8000000/">
+    <title>高市首相「宇宙先進国として世界をリード」　「H3」打ち上げ成功に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA110730R10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T09:08:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC073E80X00C26A8000000/">
+    <title>ニッポン高度紙工業、高知大学図書館スペースの命名権を取得</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC073E80X00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1104Q0R10C26A8000000/">
+    <title>大リーグ、ワールドシリーズ開幕は10月23日　PS日程発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1104Q0R10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T08:33:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1100I0R10C26A8000000/">
+    <title>NYダウは反落し60ドル安、原油高を嫌気　エヌビディアが下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1100I0R10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T07:05:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN108UK0Q6A810C2000000/">
+    <title>NVIDIAと金融6社、外部から80兆円調達　AIデータセンター構築支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN108UK0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T07:04:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1087Q0Q6A810C2000000/">
+    <title>台風15号、11日夕にも関東上陸か　東から接近する異例の進路</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1087Q0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T07:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL108VT0Q6A810C2000000/">
+    <title>NY円相場、大幅反落　1ドル=159円25〜35銭　原油高や米金利上昇受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL108VT0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T06:56:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN108YW0Q6A810C2000000/">
+    <title>バークシャー株、最高値に迫る　現金の山動かした新CEOに投資家喝采</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN108YW0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T06:27:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL108IV0Q6A810C2000000/">
+    <title>日経平均先物、大取の夜間取引で下落　440円安の6万6720円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL108IV0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T06:17:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL108KN0Q6A810C2000000/">
+    <title>NY債券、長期債反落　10年債利回り4.70%　原油高が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL108KN0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T06:15:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/">
+    <title>メタ、AIを「数十億人に無償提供」　高性能モデルの技術を外部に開放</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:59:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN108YP0Q6A810C2000000/">
+    <title>はや薄れる日米協調介入の神通力　円159円台、半値戻す</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN108YP0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:55:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN108WY0Q6A810C2000000/">
+    <title>トランプ氏「我々も賠償要求」　イラン6項目に反発、交渉泥仕合に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN108WY0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:43:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL108IW0Q6A810C2000000/">
+    <title>シカゴ日本株先物概況・10日　日経平均先物は410円高の6万6725円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL108IW0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:37:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN108530Q6A810C2000000/">
+    <title>インテル、公募増資で2.4兆円規模調達　AI向け半導体に投資</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN108530Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:32:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN108OP0Q6A810C2000000/">
+    <title>米原油が再び上昇、一時82ドル台　イラン外相「米国とは協議しない」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN108OP0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:30:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL108IU0Q6A810C2000000/">
+    <title>日本株ADR10日、売りが優勢　金融安い、ソニーGは上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL108IU0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:15:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL108JI0Q6A810C2000000/">
+    <title>NY商品、原油続伸　米・イラン交渉の停滞観測で　金は続伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL108JI0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:14:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN108T70Q6A810C2000000/">
+    <title>FRB議長を擁護するトランプ氏　「非常に尊敬」、議長は難しい立場に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN108T70Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:09:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC31BDV0R30C26A7000000/">
+    <title>外商、夏の主戦場は避暑地　「銀座の和光」が富裕層狙い軽井沢に出店</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC31BDV0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH06AZN0W6A800C2000000/">
+    <title>アシックス､マラソン練習用の新シューズ　ソール薄く･プレート非搭載</title>
+    <link>https://www.nikkei.com/article/DGXZQODH06AZN0W6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH0399J0T00C26A8000000/">
+    <title>プロ野球で2軍革命、阪神新拠点に21万人　育成と収益の二刀流へ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH0399J0T00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC318BW0R30C26A7000000/">
+    <title>AIの26年末10大予想　ChatGPT「国内時価総額1位はソフトバンクG」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC318BW0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH0482I0U6A800C2000000/">
+    <title>大阪フィルがラフマニノフ連続公演　尾高忠明「曲想の違い楽しんで」</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH0482I0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA246WD0U6A720C2000000/">
+    <title>炎天下の建設現場「休んだら収入減」　夏季休工に募る不安</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA246WD0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF035K10T00C26A8000000/">
+    <title>熊本地震の避難所に移動式薬局　無償で調剤、復旧までの「つなぎ役」に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF035K10T00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC074Z10X00C26A8000000/">
+    <title>最低賃金、各地の引き上げ状況は？　地方審議会の答申まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC074Z10X00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODL053SB0V00C26A8000000/">
+    <title>若者ひきつける恋愛リアリティーショー、「おひなさま」ら有名人輩出</title>
+    <link>https://www.nikkei.com/article/DGXZQODL053SB0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJE283KP0Y6A720C2000000/">
+    <title>お寺に泊まりデジタルデトックス、宿坊でスマホ断てる？　動画で検証</title>
+    <link>https://www.nikkei.com/article/DGXZQOJE283KP0Y6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-11T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
