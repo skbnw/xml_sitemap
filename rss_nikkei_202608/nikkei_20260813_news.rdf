@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-08-13T11:11:08+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD125V20S6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB057G30V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF106K80Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA056190V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD085E70Y6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC131440T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130LI0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1311Z0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2930GTZ20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130N60T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC130UI0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC130YS0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130940T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130LO0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130Q50T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130IE0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130ON0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB130OZ0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130GA0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD123EF0S6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN130G70T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1303A0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130F00T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB130UM0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF130PY0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN130C20T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1309T0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL130J20T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1309O0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1300M0T10C26A8000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD125V20S6A810C2000000/">
+    <title>コメ兵子会社の元経理責任者逮捕、約1億円を着服疑い　警視庁</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD125V20S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T11:09:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB057G30V00C26A8000000/">
+    <title>7月の企業物価指数7.2%上昇、2カ月連続7%超　AI需要も押し上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB057G30V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T11:04:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF106K80Q6A810C2000000/">
+    <title>「10分泳げば欧州」スペイン殺到の不法移民、数千人滞留　住民の不満募る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF106K80Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA056190V00C26A8000000/">
+    <title>個人向け国債の発行、金利上昇で最高ペース　4〜8月は前年比6割増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA056190V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD085E70Y6A600C2000000/">
+    <title>リチウムイオン電池、夏に火災多発　AIカメラで正しく分別・回収</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD085E70Y6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC131440T10C26A8000000/">
+    <title>香川県知事選挙、4氏届け出　現県政への評価争点</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC131440T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130LI0T10C26A8000000/">
+    <title>上海株寄り付き　続伸で始まる　半導体株に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130LI0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:42:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1311Z0T10C26A8000000/">
+    <title>香港株寄り付き　続落して始まる　決算銘柄に売り　テンセントは3%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1311Z0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:41:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2930GTZ20C26A7000000/">
+    <title>円相場じり安　値幅縮小、介入にらんで売りはゆっくり</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2930GTZ20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:39:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130N60T10C26A8000000/">
+    <title>KOKUSAI ELECTRIC株価大幅高　米MSCIに採用</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130N60T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:35:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC130UI0T10C26A8000000/">
+    <title>世界新体操が開幕　ロサンゼルス五輪予選、喜田未来乃は前半19位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC130UI0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:32:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC130YS0T10C26A8000000/">
+    <title>佐々木朗希14日、山本由伸は15日先発　本拠地ブルワーズ戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC130YS0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:30:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130940T10C26A8000000/">
+    <title>外為10時　円相場、小動き　159円台前半　中値「偏りなし」の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130940T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:29:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130LO0T10C26A8000000/">
+    <title>人民元基準値、対米ドルで6.7888元　前日比で元安設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130LO0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:26:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130Q50T10C26A8000000/">
+    <title>日本マイクロニクス株価一時8.1%高　26年12月期純利益91%増</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130Q50T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:22:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130IE0T10C26A8000000/">
+    <title>東京海上HD、株価が続落　4〜6月純利益3%増で材料出尽くし売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130IE0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:16:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130ON0T10C26A8000000/">
+    <title>東証10時　日経平均、上昇一服　戻り売りが重荷、TOPPANがストップ高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130ON0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:12:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB130OZ0T10C26A8000000/">
+    <title>トランプ氏のSNS有料化、メディアが提訴　「異例で腐敗した仕組み」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB130OZ0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:08:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130GA0T10C26A8000000/">
+    <title>TOPPANHD、株価が一時ストップ高　4〜6月純利益2.3倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130GA0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:07:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD123EF0S6A810C2000000/">
+    <title>トヨタ奥田元社長死去、大村知事「心より哀悼の意」　愛知万博に尽力</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD123EF0S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:05:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN130G70T10C26A8000000/">
+    <title>米フォード「リンカーン」生産を中国から国内に一部移管　関税など背景</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN130G70T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:05:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1303A0T10C26A8000000/">
+    <title>コロンビア地震の死者265人に　「発生後72時間」迫る</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1303A0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:03:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130F00T10C26A8000000/">
+    <title>商品9時30分　原油、反落　需要減退の観測で　金は小幅続伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130F00T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T10:00:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB130UM0T10C26A8000000/">
+    <title>ドバイ原油・13日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB130UM0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T09:48:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF130PY0T10C26A8000000/">
+    <title>熊本城が見学再開　地震で石垣崩落、市が安全性確認</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF130PY0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T09:33:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN130C20T10C26A8000000/">
+    <title>Apple、「Siri AI」でのニュース配信へメディアと協議　WSJ報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN130C20T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T09:31:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1309T0T10C26A8000000/">
+    <title>東証寄り付き　日経平均続伸　上げ幅1200円、米ハイテク株高で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1309T0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T09:23:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL130J20T10C26A8000000/">
+    <title>債券寄り付き　先物、反発　米早期利上げ観測が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL130J20T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T09:11:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1309O0T10C26A8000000/">
+    <title>日経平均、続伸で始まる　米ハイテク株高で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1309O0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T09:08:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1300M0T10C26A8000000/">
+    <title>米AI半導体セレブラス、株価一時17%急落　ハード部門が減収</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1300M0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-13T09:01:54+09:00</dc:date>
+  </item>
+</rdf:RDF>
