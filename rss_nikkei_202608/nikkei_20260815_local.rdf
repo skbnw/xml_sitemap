@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-08-15T11:11:41+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC074Z10X00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC059K00V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZTS00022121S6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0712C0X00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0505N0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1359C0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF214RG0R20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC123WF0S6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC132HJ0T10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC290R30Z20C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC140OM0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1499B0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC143750U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC148F10U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC142ZR0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC141590U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1458X0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF1473X0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD145J50U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD134W00T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC147FD0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1466P0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC145NS0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC143660U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1430U0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1313R0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC123R80S6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC146L90U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC05ACM0V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1348Y0T10C26A8000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC074Z10X00C26A8000000/">
+    <title>最低賃金引き上げ、あなたの地元は?　地方審議会の答申まとめ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC074Z10X00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC059K00V00C26A8000000/">
+    <title>イオンモール爆発、「災害に強い」LPガスの誤算　防災拠点の自負崩れる</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC059K00V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZTS00022121S6A810C2000000/">
+    <title>井上ひさし『おれたちと大砲』幕末の横浜、時代にあらがう御家人の奔走</title>
+    <link>https://www.nikkei.com/article/DGXZTS00022121S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0712C0X00C26A7000000/">
+    <title>栃木・足利市の古印最中　印章モチーフ、しっかりした甘みと重量感</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0712C0X00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0505N0V00C26A8000000/">
+    <title>障害者ら送迎「福祉有償運送」、各地で縮小　報酬少なく担い手高齢化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0505N0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1359C0T10C26A8000000/">
+    <title>星野リゾートが山形に初進出　東北周遊の旅後押し、スキー場で連携も</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1359C0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF214RG0R20C26A5000000/">
+    <title>たねや旗艦店「LAGO大津」初年度91万人　琵琶湖の森めざし植樹</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF214RG0R20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC123WF0S6A810C2000000/">
+    <title>長野・信州里の菓工房の「水きんとん」　自然の恵み詰まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC123WF0S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC132HJ0T10C26A6000000/">
+    <title>浜松・三ヶ日の長坂養蜂場、「追いハチミツ」でソフトクリームを堪能</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC132HJ0T10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC290R30Z20C26A6000000/">
+    <title>「ひとり出版社」無私の経営で新風　斜め書きなど書籍に新機軸</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC290R30Z20C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC140OM0U6A810C2000000/">
+    <title>よつ葉乳業、ホテルと組み製品・ブランドPR　観光客の胃袋つかむ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC140OM0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-15T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1499B0U6A810C2000000/">
+    <title>東京ガスなど3社、千葉県の都市ガス復旧へ応援700人を派遣</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1499B0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T23:30:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC143750U6A810C2000000/">
+    <title>千葉豪雨、お盆の消費に打撃　百貨店やレジャー施設が休業</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC143750U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T21:47:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC148F10U6A810C2000000/">
+    <title>千葉市の「親子三代夏祭り」中止　記録的豪雨受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC148F10U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T20:41:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC142ZR0U6A810C2000000/">
+    <title>ビーイングHDの1〜6月、純利益24%減　物流施設移転で費用増</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC142ZR0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC141590U6A810C2000000/">
+    <title>横浜・山中市長に辞職要求　市議会自民・公明・立民、パワハラ問題で</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC141590U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:26:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1458X0U6A810C2000000/">
+    <title>ジオロケーションテクノロジーの27年6月期、税引き利益1200万円</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1458X0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:22:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF1473X0U6A810C2000000/">
+    <title>辺野古転覆事故、遺族が同志社に要望書　「中立性確保し検証を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF1473X0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:09:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD145J50U6A810C2000000/">
+    <title>愛知県､8月補正にジブリパーク整備費　磁気・電子産業集積へ基金も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD145J50U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:04:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD134W00T10C26A8000000/">
+    <title>朝日インテックの27年6月期、純利益18%増　中国や中東で販売増</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD134W00T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:01:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC147FD0U6A810C2000000/">
+    <title>福井銀行が定期預金金利を引き上げ、24日から　期間1年0.5%に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC147FD0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1466P0U6A810C2000000/">
+    <title>渋谷工業株が上場来高値、受注高や業績の伸びを好感</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1466P0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC145NS0U6A810C2000000/">
+    <title>富山県、県内企業と耐震シェルターの特許実施契約締結　製造・販売開始へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC145NS0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC143660U6A810C2000000/">
+    <title>鹿児島―福岡の高速バス、15日に運行再開　九州道全線復旧で</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC143660U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1430U0U6A810C2000000/">
+    <title>秋田県のクマ目撃情報共有アプリがリリース　官民競作、即時性向上</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1430U0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1313R0T10C26A8000000/">
+    <title>島根県の最低賃金59円上げ1092円答申　過去2番目の引き上げ額</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1313R0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T18:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC123R80S6A810C2000000/">
+    <title>松山・道後温泉、蜷川実花さん監修の浴衣　周辺の宿泊施設で貸し出し</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC123R80S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T18:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC146L90U6A810C2000000/">
+    <title>旧根岸競馬場活用へ民間参入を　横浜経済人会議、28日に提言</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC146L90U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T18:43:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC05ACM0V00C26A8000000/">
+    <title>九州･沖縄の地銀4〜6月期17行増益、利ざや改善　熊本地震先行きに影</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC05ACM0V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T18:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1348Y0T10C26A8000000/">
+    <title>鳥取県、職員の自律型AI活用に制限　指針改訂し民意収集はNGに</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1348Y0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-14T18:30:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
