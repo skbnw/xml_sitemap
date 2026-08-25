@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Science</title>
+    <link>https://www.nytimes.com/section/science</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Tue, 25 Aug 2026 07:30:02 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 05:04:34 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Science</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/science</link>
+    </image>
+    <item>
+      <title>Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities</title>
+      <link>https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html" rel="standout"></atom:link>
+      <description>When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future.</description>
+      <dc:creator>Dylan Freedman</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 18:09:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/science/00-openai-huggingface-explainer-alt-art/00-openai-huggingface-explainer-alt-art-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times; source photos by Aaron Wojack and Ulysses Ortega for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Wildfires Are Turning Forests in the American West Into Shrubland</title>
+      <link>https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html" rel="standout"></atom:link>
+      <description>Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said.</description>
+      <dc:creator>Eric Niiler and Nic Coury</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 13:59:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra Nevada Region (US)</category>
+    </item>
+    <item>
+      <title>Mapping America’s Largest ‘Dead Zone’</title>
+      <link>https://www.nytimes.com/2026/08/22/science/gulf-coast-hypoxia-fish.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/science/gulf-coast-hypoxia-fish.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/science/gulf-coast-hypoxia-fish.html" rel="standout"></atom:link>
+      <description>In a decades-long crisis, marine life has suffered as oxygen periodically dwindles in waters along the Gulf Coast.</description>
+      <dc:creator>K. R. Callaway and Bryan Tarnowski</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 15:53:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oxygen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fertilizer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Louisiana State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Louisiana Universities Marine Consortium</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24SCI-GULF-HYPOXIA-stillpromo/24SCI-GULF-HYPOXIA-stillpromo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Bryan Tarnowski for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Quiz question: It’s a Greek letter and a guy’s name. What does it mean?</title>
+      <link>https://www.nytimes.com/quiz/2026/08/21/science/21sciencequiz-gamma-ray.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/quiz/2026/08/21/science/21sciencequiz-gamma-ray.html</guid>
+      <atom:link href="https://www.nytimes.com/quiz/2026/08/21/science/21sciencequiz-gamma-ray.html" rel="standout"></atom:link>
+      <description>Test your science knowledge.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 15:27:29 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/science/21science-quiz-gamma-ray-01/21science-quiz-gamma-ray-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Neils Gehrels Swift Observatory/NASA/Goddard</media:credit>
+    </item>
+    <item>
+      <title>Trump Announces a New Policy for a ‘Golden Age of Space Transportation’</title>
+      <link>https://www.nytimes.com/2026/08/20/science/trump-space-transportation-policy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/science/trump-space-transportation-policy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/science/trump-space-transportation-policy.html" rel="standout"></atom:link>
+      <description>The policy aims to greatly increase the number of spacecraft launches and re-entries.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 01:03:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20sci-trump-space-wfct/20sci-trump-space-wfct-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Steve Nesius/Reuters</media:credit>
+      <media:description>The Trump administration wants to increase to 1,000 the number of rocket launches and spacecraft re-entries from space per year.</media:description>
+    </item>
+    <item>
+      <title>England’s Ancient Trees Are Dying in the Heat</title>
+      <link>https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html" rel="standout"></atom:link>
+      <description>Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 12:17:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20xp-trees-major-oak-copy-promo/20xp-trees-major-oak-copy-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Royal Society for the Protection of Birds, via Associated Press</media:credit>
+      <media:description>The Major Oak at Sherwood Forest Nature Reserve in Nottinghamshire, England, in May.</media:description>
+    </item>
+    <item>
+      <title>This Skeleton is the First Confirmed Death by Trebuchet</title>
+      <link>https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html" rel="standout"></atom:link>
+      <description>Researchers believe a young man buried inside a Scottish castle was a victim of the long-feared siege weapon, more powerful than a typical catapult.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 09:02:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skeletons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle Ages (Historical Period)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+    </item>
+    <item>
+      <title>NASA’s Attempt to Save the Swift Telescope Has Failed</title>
+      <link>https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html" rel="standout"></atom:link>
+      <description>NASA’s Swift Observatory, which studies some of the most powerful explosions in the universe, will soon burn up in the atmosphere.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 01:17:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+    </item>
+    <item>
+      <title>Humans Love Having Pets. Seems Like Some Other Primates Do, Too.</title>
+      <link>https://www.nytimes.com/2026/08/18/science/primates-pets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/science/primates-pets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/science/primates-pets.html" rel="standout"></atom:link>
+      <description>We aren’t the only animals that like to take care of other species. A new study finds that the roots of keeping a pet may stretch deep into our primate past.</description>
+      <dc:creator>Taylor Mitchell Brown</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 14:25:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Primates (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Nevada Sues Trump Administration Over Colorado River Cuts</title>
+      <link>https://www.nytimes.com/2026/08/24/climate/nevada-sues-colorado-river-cuts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/climate/nevada-sues-colorado-river-cuts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/climate/nevada-sues-colorado-river-cuts.html" rel="standout"></atom:link>
+      <description>The state seeks to block plans for significant water use restrictions over the next decade.</description>
+      <dc:creator>Scott Dance</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 20:48:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Reclamation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+      <media:content height="1247" medium="image" url="https://static01.nyt.com/images/2026/08/24/climate/24cli-colorado-river/24cli-colorado-river-mediumSquareAt3X.jpg" width="1247"></media:content>
+      <media:credit>L.E. Baskow/Las Vegas Review-Journal, via Getty Images</media:credit>
+      <media:description>Nevada argued in a lawsuit that federal officials did not impose mandatory water restrictions on states in the Colorado River’s upper basin.</media:description>
+    </item>
+    <item>
+      <title>The Ruthless Efficiency of Ultrapotent Street Drugs</title>
+      <link>https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html" rel="standout"></atom:link>
+      <description>Five decades after the “war on drugs” sought to make substance abuse unaffordable, illicit drugs are cheaper and more powerful than ever. A visit to Baltimore shows why.</description>
+      <dc:creator>Matt Richtel</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 15:12:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fentanyl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heroin</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/16/multimedia/00HS-DRUGS-BALTIMOREnew-01-hltp/00HS-DRUGS-BALTIMOREnew-01-hltp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>KT Kanazawich for The New York Times</media:credit>
+      <media:description>Last summer, the city of Baltimore experienced several mass overdose crises, the result of fentanyl being mixed with powerful synthetic chemicals.</media:description>
+    </item>
+    <item>
+      <title>Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries</title>
+      <link>https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html" rel="standout"></atom:link>
+      <description>The president may disdain clean energy tech, but energy storage is also crucial for A.I. and defense — and China’s dominance in the sector has officials worried.</description>
+      <dc:creator>Brad Plumer</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 09:03:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sila Nanotechnologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Chris (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Salt Lake (Utah)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24cli-batteries-01-gvlj/24cli-batteries-01-gvlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
+      <media:description>While the Trump administration has rolled back efforts to expand clean energy, officials have come to see batteries as essential for many of their priorities.</media:description>
+    </item>
+    <item>
+      <title>Why Getting High Has Only Gotten Cheaper</title>
+      <link>https://www.nytimes.com/2026/08/24/science/opioids-drugs-economics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/science/opioids-drugs-economics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/science/opioids-drugs-economics.html" rel="standout"></atom:link>
+      <description>The “war on drugs” sought to reduce substance abuse by driving up prices and lowering demand. Today, street drugs are less expensive and more dangerous than ever.</description>
+      <dc:creator>Matt Richtel and Irena Hwang</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 09:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cannabis Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fentanyl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heroin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>U.S. Cuts Colorado River Water for Arizona, California and Nevada</title>
+      <link>https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html" rel="standout"></atom:link>
+      <description>Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.</description>
+      <dc:creator>Scott Dance</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 18:03:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservoirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Reclamation</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21CLI-COLORADO-CUTS-vkzj/21CLI-COLORADO-CUTS-vkzj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <media:description>The Colorado River at Horseshoe Bend near Page, Ariz., last month.</media:description>
+    </item>
+    <item>
+      <title>Climate: Trump vs. California</title>
+      <link>https://www.nytimes.com/2026/08/20/climate/climate-trump-vs-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/climate/climate-trump-vs-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/climate/climate-trump-vs-california.html" rel="standout"></atom:link>
+      <description>At least a half-dozen federal agencies have moved to undermine the state’s environmental efforts.</description>
+      <dc:creator>Maxine Joselow</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 19:09:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20cli-newsletter-california-01-bcpv/20cli-newsletter-california-01-bcpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump signed a measure in June 2025 to block a California rule that would have barred the sale of new gas-powered cars by 2035.</media:description>
+    </item>
+    <item>
+      <title>Climate: Saving Old Trees Might Save Lives</title>
+      <link>https://www.nytimes.com/2026/08/20/climate/climate-saving-old-trees-might-save-lives.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/climate/climate-saving-old-trees-might-save-lives.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/climate/climate-saving-old-trees-might-save-lives.html" rel="standout"></atom:link>
+      <description>We know that trees are good for cities. A new study finds that mature trees are especially good.</description>
+      <dc:creator>Alexander Nazaryan</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 18:38:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/climate/18CLI-NEWSLETTER-TREES/18CLI-NEWSLETTER-TREES-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Serhii Chrucky/Alamy</media:credit>
+      <media:description>Researchers working with satellite images of Chicago matched changes in tree canopy in different neighborhoods over the years with mortality rates in those areas.</media:description>
+    </item>
+    <item>
+      <title>Moderna’s Shift to Cancer Company Lifts Stock Up 177%</title>
+      <link>https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html" rel="standout"></atom:link>
+      <description>The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.</description>
+      <dc:creator>Rebecca Robbins</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 14:23:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck &amp; Company Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Melanomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/business/19biz-moderna-alt/19biz-moderna-alt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Glanzman/Bloomberg</media:credit>
+      <media:description>A lab at Moderna’s headquarters in Cambridge, Mass., in 2024.</media:description>
+    </item>
+    <item>
+      <title>How Trump Is Trying to Crush California’s Climate Policies</title>
+      <link>https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html" rel="standout"></atom:link>
+      <description>At least a half-dozen federal agencies have taken action against the state that has led the nation in environmental protections.</description>
+      <dc:creator>Maxine Joselow</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 17:17:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil Spills</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Coastal Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sable Offshore Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Barbara (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20CLI-CALIFORNIA-01-lbfm/20CLI-CALIFORNIA-01-lbfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ariana Drehsler for The New York Times</media:credit>
+      <media:description>An oil platform seen from Sands Beach next to Coal Oil Point Natural Reserve in Santa Barbara, Calif.</media:description>
+    </item>
+    <item>
+      <title>What Is Treatment-Resistant Depression?</title>
+      <link>https://www.nytimes.com/2026/08/20/well/mind/treatment-resistant-depression.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/well/mind/treatment-resistant-depression.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/well/mind/treatment-resistant-depression.html" rel="standout"></atom:link>
+      <description>If multiple antidepressants haven’t helped, there are other avenues to explore.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 10:39:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychedelic and Hallucinogenic Drugs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+    </item>
+    <item>
+      <title>Chinese Start-Up Lands Reusable Rocket for the First Time</title>
+      <link>https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html" rel="standout"></atom:link>
+      <description>The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.</description>
+      <dc:creator>Adeel Hassan</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 21:49:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LandSpace Tech Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China Aerospace</category>
+      <media:content height="1163" medium="image" url="https://static01.nyt.com/images/2026/08/19/world/asia/China_Space__9_66/China_Space__9_66-mediumSquareAt3X.jpg" width="1163"></media:content>
+      <media:credit>LandSpace/Xinhua, via Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Former Fauci Adviser Pleads Guilty to Trying to Conceal Covid-Related Records</title>
+      <link>https://www.nytimes.com/2026/08/19/science/david-morens-covid-fauci.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/science/david-morens-covid-fauci.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/science/david-morens-covid-fauci.html" rel="standout"></atom:link>
+      <description>Dr. David Morens, a former N.I.H. official, admitted to attempts to conceal emails that discussed the origins of the pandemic.</description>
+      <dc:creator>Benjamin Mueller</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 16:38:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Origins Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19sci-morens-wcmk/19sci-morens-wcmk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Annabelle Gordon/Reuters</media:credit>
+      <media:description>David Morens, a former National Institutes of Health official, after his arraignment in the U.S. District Court in Greenbelt, Md., in May.</media:description>
+    </item>
+    <item>
+      <title>Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning</title>
+      <link>https://www.nytimes.com/2026/08/19/science/moderna-merck-mrna-vaccine-melanoma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/science/moderna-merck-mrna-vaccine-melanoma.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/science/moderna-merck-mrna-vaccine-melanoma.html" rel="standout"></atom:link>
+      <description>Moderna and Merck say the experimental vaccine prevented the return and spread of the cancer in high-risk melanoma patients.</description>
+      <dc:creator>Carolyn Y. Johnson</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 19:38:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Melanomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck &amp; Company Inc</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/25/science/19SCI-MRNA-MELANOMA/19SCI-MRNA-MELANOMA-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Glanzman/Bloomberg</media:credit>
+      <media:description>Cancer vaccine research in the lab at the Moderna Inc. headquarters in Cambridge, Mass.</media:description>
+    </item>
+    <item>
+      <title>Trump Nominates Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner</title>
+      <link>https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html" rel="standout"></atom:link>
+      <description>Dr. Overton is a fierce opponent of abortion rights and a supporter of Health Secretary Robert F. Kennedy Jr.’s Make America Healthy Again agenda.</description>
+      <dc:creator>Christina Jewett</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 20:45:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Overton, Heidi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Makary, Marty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18DC-FDA-Commissioner-vmkt/18DC-FDA-Commissioner-vmkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>Dr. Heidi Overton, if confirmed by the Senate, would succeed Dr. Marty Makary, who resigned as commissioner in May.</media:description>
+    </item>
+    <item>
+      <title>Trump Administration Moves to Allow Logging in Pristine National Forests</title>
+      <link>https://www.nytimes.com/2026/08/18/climate/trump-ends-roadless-rule-forests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/climate/trump-ends-roadless-rule-forests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/climate/trump-ends-roadless-rule-forests.html" rel="standout"></atom:link>
+      <description>The move to repeal the ‘roadless rule’ would pave the way for road construction and logging in nearly 45 million acres of untouched back country.</description>
+      <dc:creator>Lisa Friedman and Maxine Joselow</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 07:45:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Logging Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tongass National Forest (Alaska)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/climate/18cli-roadlessrule/18cli-roadlessrule-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ron Niebrugge/Alamy</media:credit>
+      <media:description>A bear in the Tongass National Forest of southeast Alaska. Roadless areas make up about 30 percent of all national forest land and are home to more than half of imperiled wildlife, including grizzly bears, wolves, elk, salmon and wolverines.</media:description>
+    </item>
+    <item>
+      <title>Rafting Through the Grand Canyon on a Depleting Colorado River</title>
+      <link>https://www.nytimes.com/2026/08/18/travel/grand-canyon-colorado-river-rafting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/travel/grand-canyon-colorado-river-rafting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/travel/grand-canyon-colorado-river-rafting.html" rel="standout"></atom:link>
+      <description>As water levels on the Colorado River fall to historic lows, a rafting trip through the canyon feels even more precious.</description>
+      <dc:creator>Heather Hansman</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 16:27:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Canyon (Ariz)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rafts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
+      <category domain="">cityguidesad</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18trav-grand-canyon-twqb/18trav-grand-canyon-twqb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carl Tremblay/Shutterstock</media:credit>
+      <media:description>For rafters beginning their journey on the Colorado River through the Grand Canyon, Navajo Bridge is the last modern structure they see for the trip’s duration. </media:description>
+    </item>
+    <item>
+      <title>How NASA Engineers Are Keeping the Voyagers Alive</title>
+      <link>https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html" rel="standout"></atom:link>
+      <description>A reworking of the spacecraft’s power systems could extend the nearly 50-year-old Voyagers’ exploration of interstellar space into the early 2030s.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 14:29:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voyager Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Planets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jet Propulsion Laboratory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00sci-nasa-voyager-01-thvm/00sci-nasa-voyager-01-thvm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ariana Drehsler for The New York Times</media:credit>
+    </item>
+  </channel>
+</rss>
