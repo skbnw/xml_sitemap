@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-08-29T15:11:27+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AIK0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AT30Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AIJ0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28B0R0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AT20Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2900H0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AT10Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28AW00Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AP40Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB286NO0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2816Z0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2853A0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB210C70R20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AX90Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AUE0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB249L10U6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL289V40Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28AB10Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN28AGA0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL28ADX0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2770T0X20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM289830Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD26ALA0W6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB274L00X20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2663L0W6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC252JU0V20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2843L0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC00007_Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC285A70Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2887Z0Y6A820C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AIK0Y6A820C2000000/">
+    <title>NY円相場、下落　1ドル=159円90銭〜160円00銭　米利上げ観測、7月末以来の安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AIK0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T06:45:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AT30Y6A820C2000000/">
+    <title>日経平均先物、大取の夜間取引で下落　620円安の6万5830円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AT30Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T06:21:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AIJ0Y6A820C2000000/">
+    <title>NY債券、長期債続落　10年債利回り4.72%、FRB議長講演で米利上げ観測高まる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AIJ0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T06:14:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28B0R0Y6A820C2000000/">
+    <title>AI相場に疲れ、NVIDIA好決算でも勢い取り戻せず</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28B0R0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T05:58:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AT20Y6A820C2000000/">
+    <title>シカゴ日本株先物概況・28日　日経平均先物は450円安の6万5780円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AT20Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T05:54:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2900H0Z20C26A8000000/">
+    <title>NYダウ小幅反落、9ドル安　米早期利上げ観測が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2900H0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T05:49:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AT10Y6A820C2000000/">
+    <title>日本株ADR28日、ほぼ全面高　ソニーGや三菱UFJ高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AT10Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T05:26:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28AW00Y6A820C2000000/">
+    <title>米30年債なお不安定　ウォーシュFRB議長、市場の信認回復は途上</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28AW00Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T05:17:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AP40Y6A820C2000000/">
+    <title>NY商品、原油反落　ホルムズ海峡の航行回復期待で　金は大幅反落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AP40Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T05:11:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB286NO0Y6A820C2000000/">
+    <title>DIC株が高値圏、半導体向け樹脂けん引　値上げ浸透で最高益</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB286NO0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2816Z0Y6A820C2000000/">
+    <title>「成長と財政規律」強調の首相、債券市場は不安交じり　続く金利高</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2816Z0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T04:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2853A0Y6A820C2000000/">
+    <title>日経平均は上値重く、円相場占う雇用統計</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2853A0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T04:01:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB210C70R20C26A8000000/">
+    <title>アナリスト不在、ノーマーク銘柄にAI有望株　PER100倍超株</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB210C70R20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AX90Y6A820C2000000/">
+    <title>ドイツ株28日　続伸、最高値を2週ぶりに更新　仏株は反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AX90Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T03:04:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AUE0Y6A820C2000000/">
+    <title>ロンドン株28日　反発、原油先物の落ち着きが支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AUE0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T02:47:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB249L10U6A820C2000000/">
+    <title>グリーンスパン流にどう学ぶか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB249L10U6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL289V40Y6A820C2000000/">
+    <title>欧州国債概況28日　独10年債利回り上昇、仏30年金利は一時08年以来の高さ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL289V40Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T01:48:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28AB10Y6A820C2000000/">
+    <title>ロンドン外為28日　円、1ドル=160円台に下落　FRB議長講演で1カ月ぶり安値　ユーロも下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28AB10Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T01:01:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN28AGA0Y6A820C2000000/">
+    <title>円160円台に下落、日米協調介入後で初　FRB議長が利上げ前向き発言</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN28AGA0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T00:40:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL28ADX0Y6A820C2000000/">
+    <title>NYダウ続伸で始まる、一時200ドル超高　原油安が投資家心理の支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL28ADX0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T00:36:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2770T0X20C26A8000000/">
+    <title>BYDの26年1〜6月期、純利益21%減　売上高は海外が国内上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2770T0X20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T23:30:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM289830Y6A820C2000000/">
+    <title>中国メモリーCXMTの1〜6月、黒字1.8兆円に　AI需要で価格上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM289830Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T23:02:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD26ALA0W6A820C2000000/">
+    <title>決算で見えたNVIDIAの変容　米国債、トランプ氏は「軍で介入」？</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD26ALA0W6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB274L00X20C26A8000000/">
+    <title>日経・東証IRフェア、東京ビッグサイトで開催　来場者最高1.4万人</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB274L00X20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T19:52:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2663L0W6A820C2000000/">
+    <title>コーヒー豆3週間ぶり安値、ブラジル産の供給懸念が後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2663L0W6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T19:50:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC252JU0V20C26A8000000/">
+    <title>ストライク純利益上振れ　26年9月期57億円、大型M&amp;A案件増え</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC252JU0V20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T19:35:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2843L0Y6A820C2000000/">
+    <title>ギリシャ株17年ぶり高値　債務危機から「先進国市場」復帰</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2843L0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T19:34:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC00007_Y6A820C2000000/">
+    <title>▼自社株取得枠変更</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC00007_Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T19:12:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC285A70Y6A820C2000000/">
+    <title>三陽商会が一転最終赤字に　3〜8月、最大45億円の自社株買い実施</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC285A70Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T18:58:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2887Z0Y6A820C2000000/">
+    <title>シンガポール株28日、3日ぶりに反発　大引け間際に銀行株に買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2887Z0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-28T18:39:21+09:00</dc:date>
+  </item>
+</rdf:RDF>

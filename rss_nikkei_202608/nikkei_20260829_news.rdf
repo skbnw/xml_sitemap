@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-08-29T16:10:26+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD28AL40Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290CA0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2916B0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2901D0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC291320Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA240HP0U6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2914F0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM290J20Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290G00Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN290QM0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB290GB0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD242LQ0U6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290VR0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290LC0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM290O60Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2752Z0X20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM284UR0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290RU0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD124720S6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290G60Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFH04ALW0U6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC135CR0T10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA195B00Z10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB232HC0T20C26A5000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF289XL0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC290AW0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB290FC0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB290EK0Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2906B0Z20C26A8000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/">
+    <title>自衛隊情報基盤にIOWN導入　AI活用へ大容量通信、次期計画に明記</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T16:05:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD28AL40Y6A820C2000000/">
+    <title>鹿児島、海で発見の中高生2人死亡　不明1人の捜索続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD28AL40Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T15:59:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290CA0Z20C26A8000000/">
+    <title>トランプ氏、ベネズエラ石油の2割「支配」　暫定大統領「歴史的合意」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290CA0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T15:59:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2916B0Z20C26A8000000/">
+    <title>香妻陣一朗が単独首位守る　KBCオーガスタゴルフ第3日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2916B0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T15:58:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2901D0Z20C26A8000000/">
+    <title>ネパールの土石流、死者数630人超　「ヤマモト」姓家族も依然不明</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2901D0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T15:35:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC291320Z20C26A8000000/">
+    <title>全国高校軟式野球、中京が初の5連覇　茗渓学園に快勝7-0</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC291320Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T15:23:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA240HP0U6A820C2000000/">
+    <title>装備品高騰、防衛費増を直撃　23年度比4〜7割値上がり</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA240HP0U6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T14:56:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2914F0Z20C26A8000000/">
+    <title>WNBA、山本麻衣は3得点2アシスト　エースズ快勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2914F0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T14:10:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM290J20Z20C26A8000000/">
+    <title>中国軍最高幹部7人から2人に　張又俠氏ら失脚で、習近平氏に権限集中</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM290J20Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T13:41:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290G00Z20C26A8000000/">
+    <title>大谷翔平、31日先発の可能性　変化球交えブルペンで投球練習</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290G00Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T12:55:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN290QM0Z20C26A8000000/">
+    <title>OpenAI、スペースX傘下のCursorにAI提供終了　規約順守確信できず</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN290QM0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T12:52:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB290GB0Z20C26A8000000/">
+    <title>ペルー、首都に非常事態宣言　7月のフジモリ政権発足後初</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB290GB0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T12:48:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD242LQ0U6A820C2000000/">
+    <title>防災の日、東京都内で大規模交通規制　首都直下地震に備え訓練</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD242LQ0U6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T12:45:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290VR0Z20C26A8000000/">
+    <title>J1町田・DF中山雄太、セルビア1部へ　レッドスターと3年契約</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290VR0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T12:39:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290LC0Z20C26A8000000/">
+    <title>岡本和真27号ソロ　鈴木誠也3安打、村上宗隆は2安打</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290LC0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T12:28:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM290O60Z20C26A8000000/">
+    <title>北朝鮮、英国との外交関係を代理大使級に格下げ　対ロシア制裁で反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM290O60Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2752Z0X20C26A8000000/">
+    <title>中国車大手7社、1〜6月はいずれも減益・赤字　海外攻略競う</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2752Z0X20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:55:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM284UR0Y6A820C2000000/">
+    <title>BYD5期ぶり減益、在庫は過去最大規模　急速充電に再成長託す</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM284UR0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:55:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290RU0Z20C26A8000000/">
+    <title>内田ことこ、首位守る　ニトリ女子ゴルフ第2ラウンド</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290RU0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:54:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD124720S6A810C2000000/">
+    <title>熊本地震、学校外で子どもに遊び場　長引く避難生活のストレス緩和</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD124720S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:37:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290G60Z20C26A8000000/">
+    <title>山下美夢有、トップ浮上　米女子ゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290G60Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:34:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFH04ALW0U6A800C2000000/">
+    <title>「国内留学」という選択肢　都市から地方へ、移住も視野に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFH04ALW0U6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC135CR0T10C26A7000000/">
+    <title>メモリー高騰、サーバー不足招く　中小のマイクロソフトOS更新に支障</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC135CR0T10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA195B00Z10C26A8000000/">
+    <title>政府、民間企業へ海洋情報を一元化　洋上風力やドローンの活用にらみ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA195B00Z10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB232HC0T20C26A5000000/">
+    <title>トランプ流「威嚇」交渉に限界　対イラン、戦争終結ジレンマ論で分析</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB232HC0T20C26A5000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF289XL0Y6A820C2000000/">
+    <title>ノルウェー国王にホーコン8世即位、身内のスキャンダルくすぶる</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF289XL0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T10:51:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC290AW0Z20C26A8000000/">
+    <title>松山英樹、27位に後退　米男子ゴルフ最終戦第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC290AW0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T09:41:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB290FC0Z20C26A8000000/">
+    <title>中国共産党、江西省長を調査　レアアース絡みの汚職か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB290FC0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T09:39:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB290EK0Z20C26A8000000/">
+    <title>北朝鮮の新たなウラン濃縮施設、北西部寧辺に　IAEAが報告書</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB290EK0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T09:32:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2906B0Z20C26A8000000/">
+    <title>錦織圭、全米テニス本戦出場ならず　予選3回戦で坂本怜に敗れる</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2906B0Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-08-29T09:21:22+09:00</dc:date>
+  </item>
+</rdf:RDF>
