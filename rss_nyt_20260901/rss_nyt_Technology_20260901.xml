@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Tue, 01 Sep 2026 12:12:34 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 09:49:17 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>FTC and 22 States Sue Amazon Over Advertising Practices</title>
+      <link>https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html" rel="standout"></atom:link>
+      <description>Regulators say the e-commerce giant forced more than a million advertisers to pay more than they should have. The company denies the claims.</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 22:26:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ferguson, Andrew N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/31/multimedia/31biz-amazon-ftc-tjlc/31biz-amazon-ftc-tjlc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Alban/The New York Times</media:credit>
+      <media:description>The Federal Trade Commission and the states said Amazon misled brands and sellers into paying more for ads; the company is denying the accusations.</media:description>
+    </item>
+    <item>
+      <title>How Meta’s $17.1 Billion Social Media Settlement Came Together</title>
+      <link>https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html" rel="standout"></atom:link>
+      <description>State attorneys general spent months in negotiations. Then, as its legal losses mounted, the social media giant’s new top lawyer brought a huge settlement to the table.</description>
+      <dc:creator>Cecilia Kang and Eli Tan</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 11:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-meta-states-strategy--01-bkvc/27biz-meta-states-strategy--01-bkvc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Meta’s $17.1 billion agreement with states followed losses in court over claims that the social media is addictive and harmful to children.</media:description>
+    </item>
+    <item>
+      <title>Social Media and the Myth of the Big Tobacco Moment</title>
+      <link>https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html" rel="standout"></atom:link>
+      <description>Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.</description>
+      <dc:creator>David Streitfeld</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 18:52:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28biz-meta-tobacco--01-vqml/28biz-meta-tobacco--01-vqml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Meta will pay up to $17.1 billion over a decade and make changes to its social media properties to make them less compulsive for young people.</media:description>
+    </item>
+    <item>
+      <title>Prediction Markets and States Clashed, Setting Off a Furious Political Battle</title>
+      <link>https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html" rel="standout"></atom:link>
+      <description>A legal dispute over the future of Kalshi, Polymarket and others has drawn in the Trump administration, the president’s son and nearly every state attorney general.</description>
+      <dc:creator>David Yaffe-Bellany and Sharon LaFraniere</dc:creator>
+      <pubDate>Sun, 30 Aug 2026 01:52:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mansour, Tarek</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/30/business/00kalshi-states/00kalshi-states-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo Tom&amp;aacute;s</media:credit>
+    </item>
+    <item>
+      <title>John Ternus Replaces Tim Cook as Apple CEO</title>
+      <link>https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html" rel="standout"></atom:link>
+      <description>Big technology and management changes are greeting John Ternus, whose long-serving predecessor, Tim Cook, will stay on as executive chair.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 09:01:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Srouji, Johny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ternus, John</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-apple-ceo-1-ljmz/00biz-apple-ceo-1-ljmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <media:description>John Ternus, right, who became Apple’s chief executive on Tuesday, with Tim Cook, who held the job for 15 years, at the Sun Valley Conference in Idaho in July.</media:description>
+    </item>
+    <item>
+      <title>Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.</title>
+      <link>https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html" rel="standout"></atom:link>
+      <description>Their videos have proliferated on social media, but the payments are frequently hidden from viewers.</description>
+      <dc:creator>Ken Bensinger and Stuart A. Thompson</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 23:14:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+    </item>
+    <item>
+      <title>Prediction Markets Should Be Regulated as Gambling, Appeals Court Says</title>
+      <link>https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html" rel="standout"></atom:link>
+      <description>The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.</description>
+      <dc:creator>Lauren McCarthy</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 23:15:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appeals Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nelson, Ryan Douglas (1973- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28biz-prediction-appeals-czhp/28biz-prediction-appeals-czhp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Helgas for The New York Times</media:credit>
+      <media:description>Prediction markets, notably Kalshi, have exploded in popularity this year.</media:description>
+    </item>
+    <item>
+      <title>Why Countries Are Pushing Social Media Bans Despite Their Flaws</title>
+      <link>https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html" rel="standout"></atom:link>
+      <description>Proposals for curbing social media use among children have wide support, but critics say they are ineffective.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 13:46:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Screen Time (Device)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28xp-socialmedia-lkqm/28xp-socialmedia-lkqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeremy Piper/Reuters</media:credit>
+      <media:description>Teenagers in Australia on their phones. The country’s social media ban, which took effect in December, has so far failed to keep children off the platforms.</media:description>
+    </item>
+    <item>
+      <title>Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT</title>
+      <link>https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html" rel="standout"></atom:link>
+      <description>Meta negotiated an unusual provision in their landmark settlement: If TikTok and YouTube also agree to penalties and changes to their products, Meta will pay more.</description>
+      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Rowan Niemisto</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/podcasts/28hardfork-meta/28hardfork-meta-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Image: Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules</title>
+      <link>https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html" rel="standout"></atom:link>
+      <description>The government retaliated against the A.I. start-up “for constitutionally protected expressive activities,” a federal judge in California wrote.</description>
+      <dc:creator>Sheera Frenkel</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 02:28:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacklisting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lin, Rita F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-anthropic-lawsuit-mwbp/27biz-anthropic-lawsuit-mwbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Anthropic, led by Dario Amodei, was barred from government work after it insisted that its technology not be used in mass surveillance of Americans or for autonomous lethal weapons.</media:description>
+    </item>
+    <item>
+      <title>What Meta’s $17 Billion Settlement Means</title>
+      <link>https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html</guid>
+      <atom:link href="https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html" rel="standout"></atom:link>
+      <description>Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.</description>
+      <dc:creator>Cecilia Kang, Nikolay Nikolov, Paul Abowd, Alexandra Ostasiewicz and June Kim</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 16:06:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Screen Time (Device)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+    </item>
+    <item>
+      <title>OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing</title>
+      <link>https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html" rel="standout"></atom:link>
+      <description>In an open letter, OpenAI, Anthropic, Google and others said that a wave of A.I.-enabled cyberattacks was coming and that organizations and governments needed to prepare themselves.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 17:55:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27BIZ-OPENAI-gqtc/27BIZ-OPENAI-gqtc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Rose Layden/Reuters</media:credit>
+      <media:description>Sam Altman of OpenAI, which has joined more than 100 tech companies in publishing an open letter warning of a wave of cyberattacks driven by artificial intelligence.</media:description>
+    </item>
+    <item>
+      <title>Meta Projected It Could Spend $10 Billion on Anthropic’s A.I.</title>
+      <link>https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html" rel="standout"></atom:link>
+      <description>The social networking giant projected it could spend $10 billion annually on Anthropic’s tools, illustrating the friend-foe relationships underlying the A.I. race.</description>
+      <dc:creator>Eli Tan and Kalley Huang</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 14:04:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+    </item>
+    <item>
+      <title>“Anxious Generation” Author Jonathan Haidt on the Meta Settlement</title>
+      <link>https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html" rel="standout"></atom:link>
+      <description>In “The Anxious Generation,” he laid out the evils of social media for kids. The landmark Meta settlement seems to agree.</description>
+      <dc:creator>Emma Goldberg</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 15:49:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haidt, Jonathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness (Book)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27ST-META-HAIDT-gtlw/27ST-META-HAIDT-gtlw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lila Barth for The New York Times</media:credit>
+      <media:description>Jonathan Haidt’s 2024 book on the harms to children from social media was a best seller.</media:description>
+    </item>
+    <item>
+      <title>California Lawmakers Pass Plug-In Solar Bill</title>
+      <link>https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html" rel="standout"></atom:link>
+      <description>Legislatures in nearly a dozen states have voted to legalize use of the technology, which can help homeowners reduce their rising electricity costs.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 14:41:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy Efficiency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-plugin-solar-hcbj/27biz-plugin-solar-hcbj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Poppy Lynch for The New York Times</media:credit>
+      <media:description>A plug-in solar panel on the balcony of a home in Sunnyvale, Calif.</media:description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain</title>
+      <link>https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html" rel="standout"></atom:link>
+      <description>Meta, the social media giant, agreed to change the way children interact with its apps. That could be trouble if its competitors don’t abide by the same rules.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 20:48:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-meta-deal--qvjh/27biz-meta-deal--qvjh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Barclay/Getty Images</media:credit>
+      <media:description>To settle the suits, Meta agreed to drastically rein in children’s’ access to marquee products like Instagram and Facebook.</media:description>
+    </item>
+    <item>
+      <title>Some Scientists Have ‘Magic Hands’ in the Lab. This A.I. Is Learning Why.</title>
+      <link>https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html" rel="standout"></atom:link>
+      <description>Even the most adept researchers may not know exactly what they do to get successful results. An A.I. model is trying to figure it out by watching every move.</description>
+      <dc:creator>Carl Zimmer</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 15:53:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambridge (Mass)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/01/multimedia/00sci-magic-hands-stillpromo-klwm/00sci-magic-hands-stillpromo-klwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ann Hermes for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending</title>
+      <link>https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html" rel="standout"></atom:link>
+      <description>Quarterly revenue also more than doubled, to $96.22 billion, the company said, topping expectations on Wall Street.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 01:05:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26BIZ-NVIDIA-EARNINGS-fzhq/26NVIDIA-EARNINGS-fzhq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+      <media:description>Jensen Huang, Nvidia’s chief executive, made a big bet years ago on chips and software for artificial intelligence.</media:description>
+    </item>
+    <item>
+      <title>What’s Changing For Teens on Instagram and Facebook After Meta Settlement</title>
+      <link>https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html" rel="standout"></atom:link>
+      <description>Meta agreed to set more time limits and enhance protections in its platforms for young users, but was short on some specifics.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 18:22:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Screen Time (Device)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26meta-changes-glpq/26meta-changes-glpq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>William West/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Meta said that it would change how teenagers use Instagram and Facebook as part of a landmark settlement with 47 states.</media:description>
+    </item>
+    <item>
+      <title>What Does $17.1 Billion Mean for Meta?</title>
+      <link>https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html" rel="standout"></atom:link>
+      <description>The Silicon Valley company agreed to pay up to $17.1 billion in penalties as part of a landmark settlement with states over social media addiction claims.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 16:16:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26biz-meta-numbers-pfkz/26biz-meta-numbers-pfkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Meta’s entire stock value stands at $1.45 trillion. The $17.1 billion penalty is about 1 percent of that.</media:description>
+    </item>
+    <item>
+      <title>Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims</title>
+      <link>https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html" rel="standout"></atom:link>
+      <description>The social media giant settled with 47 states, the District of Columbia and U.S. territories, and agreed to make major changes to its products over claims its platforms endangered children.</description>
+      <dc:creator>Cecilia Kang and Eli Tan</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 22:49:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/00biz-meta-settlement-hfo-pfhj/00biz-meta-settlement-hfo-pfhj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Meta headquarters in California.</media:description>
+    </item>
+    <item>
+      <title>Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit</title>
+      <link>https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html" rel="standout"></atom:link>
+      <description>In an hourlong interview, he said his industry was downplaying the risks, which he believes include mass unemployment and bioterrorism.</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Thu, 27 Aug 2026 00:24:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26biz-gates-ai-01-jgcq/26biz-gates-ai-01-jgcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chona Kasinger for The New York Times</media:credit>
+      <media:description>Bill Gates is the latest in a string of tech luminaries to call out the risks of artificial intelligence.</media:description>
+    </item>
+    <item>
+      <title>Gold, Flights, Cryptocurrency: U.S. Vows to Go After More Than Iran’s Oil</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html" rel="standout"></atom:link>
+      <description>The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 12:46:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-sanctions-1-ftzv/25int-iran-sanctions-1-ftzv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vahid Salemi/Associated Press</media:credit>
+      <media:description>A gas station in Tehran on Tuesday. The United States imposed a monthslong blockade on Iran’s shipments of oil, the nation’s economic engine.</media:description>
+    </item>
+    <item>
+      <title>Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial</title>
+      <link>https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html" rel="standout"></atom:link>
+      <description>Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.</description>
+      <dc:creator>Emmy Martin and Cecilia Kang</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 22:38:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mosseri, Adam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-meta-trial-lbtf/25biz-meta-trial-lbtf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karl Mondon/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Adam Mosseri, the chief executive of Instagram, arriving at federal court in Oakland, Calif., on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>SpaceX to Spend $100 Billion on Spaceport in Louisiana</title>
+      <link>https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html" rel="standout"></atom:link>
+      <description>It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.</description>
+      <dc:creator>Ryan Mac</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 21:31:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-spacex-louisiana-sub-wfth/25biz-spacex-louisiana-sub-wfth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Edmund D. Fountain for The New York Times</media:credit>
+      <media:description>Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a spaceport in his state.</media:description>
+    </item>
+    <item>
+      <title>E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers</title>
+      <link>https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html" rel="standout"></atom:link>
+      <description>Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.</description>
+      <dc:creator>Maxine Joselow</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 16:45:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25cli-data-centers-qfvh/25cli-data-centers-qfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Paul Ratje for The New York Times</media:credit>
+      <media:description>New homes in a neighborhood on the edge of an enormous Meta A.I. data center under construction in northeast El Paso last month.</media:description>
+    </item>
+  </channel>
+</rss>
