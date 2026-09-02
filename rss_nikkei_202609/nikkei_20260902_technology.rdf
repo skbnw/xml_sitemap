@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-09-02T14:12:36+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC01BK40R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM287NB0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN01C780R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC018SK0R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC317O50R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG266K90W6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG1365D0T10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG015W90R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF285D10Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG104DJ0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG3121P0R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC311CP0R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC301100Q6A830C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC310V10R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD176F70X10C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC014S30R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC015O60R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC313TV0R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0106T0R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31AQG0R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN0109E0R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR31A990R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC26A450W6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA275950X20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD283K30Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1438I0U6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD311EI0R30C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN31AFT0R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN022KZ0S6A800C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD036AU0T00C26A6000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC01BK40R00C26A9000000/">
+    <title>AI面接のPeopleX、54億円調達　人事領域特化した大規模言語モデル</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC01BK40R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T13:49:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM287NB0Y6A820C2000000/">
+    <title>半導体に新技術、AIの「指数関数的」成長に対応　セミコン台湾開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM287NB0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T12:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN01C780R00C26A9000000/">
+    <title>アンソロピック、顧客データ保護強化　新型AIはコスパ改善</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN01C780R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T09:25:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC018SK0R00C26A9000000/">
+    <title>SBエナジー上場へ、AI収入ゼロでも時価8兆円　NVIDIAの信用支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC018SK0R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T06:09:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC317O50R30C26A8000000/">
+    <title>アルダグラム、現場管理にAI　モノタロウなどから20億円調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC317O50R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG266K90W6A820C2000000/">
+    <title>「行動するAI」が高めるサイバーリスク　企業にガバナンス迫る</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG266K90W6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG1365D0T10C26A8000000/">
+    <title>実験動物、引き取れますか？　新しい飼い主になった人々の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG1365D0T10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG015W90R00C26A9000000/">
+    <title>子供の就寝・手洗いを促すパンダ型ロボット　浙江大学発企業が開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG015W90R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF285D10Y6A820C2000000/">
+    <title>ES細胞が全能性から多能性に移行する仕組み解明　滋賀医科大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF285D10Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG104DJ0Q6A810C2000000/">
+    <title>NASAの先端宇宙望遠鏡、日本の中堅企業が支える　惑星探索の光学部品</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG104DJ0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG3121P0R30C26A8000000/">
+    <title>エルニーニョ、過去1000年で最も強く　米大学などサンゴから推定</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG3121P0R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC311CP0R30C26A8000000/">
+    <title>パーソル、新興テック向けファンド　人材獲得や技術も一体支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC311CP0R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC301100Q6A830C2000000/">
+    <title>AIホテル経営支援のテンパーセント4億円調達　2年後に40施設受託へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC301100Q6A830C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC310V10R30C26A8000000/">
+    <title>GVA TECHが離婚特化の弁護士探しサイト　初の消費者向けサービス</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC310V10R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD176F70X10C26A7000000/">
+    <title>ブレークスルー生むガラス張り工房　金沢美術工芸大学の挑戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD176F70X10C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-09-02T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC014S30R00C26A9000000/">
+    <title>TDK、非財務資本の説明会　ソフトウエア人材の育成を加速</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC014S30R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T19:02:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC015O60R00C26A9000000/">
+    <title>AI新興の燈とモーター製造のアスターが提携発表　人材採用でも連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC015O60R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T18:59:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC313TV0R30C26A8000000/">
+    <title>三菱UFJFGの亀澤会長「目指すはAIネーティブ」　AIリーダーズ会議</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC313TV0R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T17:30:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0106T0R00C26A9000000/">
+    <title>アンソロピック、NVIDIA支援の新興クラウドと5.6兆円契約</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0106T0R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T12:28:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31AQG0R30C26A8000000/">
+    <title>米FTCがAmazon提訴　通販サイトで「広告料金つり上げ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31AQG0R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T10:02:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN0109E0R00C26A9000000/">
+    <title>エヌビディア、台湾メディアテックに約5600億円投資 協業拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN0109E0R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T08:56:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR31A990R30C26A8000000/">
+    <title>EU、チャットGPTへの規制拡大　未成年保護など義務付け</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR31A990R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T06:37:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC26A450W6A820C2000000/">
+    <title>EV・衛星向け電池の開発期間短く　新興ベフ、4.5億円調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC26A450W6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA275950X20C26A8000000/">
+    <title>企業ドメイン14年ぶり拡充、.toyotaや.sonyなど先例　偽情報対策に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA275950X20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD283K30Y6A820C2000000/">
+    <title>AmazonとトライアルHDからみるリテールテックの未来</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD283K30Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1438I0U6A810C2000000/">
+    <title>新卒向けAI研修内容、「リスク」49%で最多　活用スキルより安全重視</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1438I0U6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD311EI0R30C26A7000000/">
+    <title>フリーランスから正社員へ、AI台頭で回帰の動き　企業も積極採用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD311EI0R30C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN31AFT0R30C26A8000000/">
+    <title>OpenAI、ChatGPT広告収入が年1600億円ペース　IPO備え収益拡大へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN31AFT0R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T04:03:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN022KZ0S6A800C2000000/">
+    <title>米アンソロピックから「恐怖の請求書」　中国AIが猛追でも崩れぬ強気</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN022KZ0S6A800C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD036AU0T00C26A6000000/">
+    <title>学習指導要領「授業でAI活用」明記へ　安易に使えば学力低下の懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD036AU0T00C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-09-01T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
