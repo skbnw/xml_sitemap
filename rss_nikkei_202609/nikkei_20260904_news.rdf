@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-09-04T14:10:24+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC042FT0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF040UE0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB041GK0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0366B0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL043K90U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC040UP0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL043LY0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0432K0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB043YK0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0354B0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM0251M0S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL041710U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM034LM0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC039660T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC035H10T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL043FU0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC035F00T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM042N50U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA040TS0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0437Q0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL041VP0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF043H80U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC0427C0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC039KD0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2735O0X20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA034V20T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL040BQ0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC039Z90T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD043390U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC0420V0U6A900C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC042FT0U6A900C2000000/">
+    <title>熊本県がプレミアム食事券　1万円で1万2500円分、5日から受け付け</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC042FT0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T14:06:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF040UE0U6A900C2000000/">
+    <title>大阪万博「ミャクミャク」像、大阪市内で展示　阪神なんば線の福駅前</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF040UE0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T14:05:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB041GK0U6A900C2000000/">
+    <title>亜鉛建値2万4000円下げ　三井金属</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB041GK0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T14:01:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0366B0T00C26A9000000/">
+    <title>ソフトバンク社員食堂に顔認証決済、NECが技術提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0366B0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:58:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL043K90U6A900C2000000/">
+    <title>明治HD株価が反落　実質消費支出減で利益確定売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL043K90U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:49:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC040UP0U6A900C2000000/">
+    <title>Adobe、CEOにチャクラヴァーシー氏　ナラヤン氏は会長に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC040UP0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:39:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL043LY0U6A900C2000000/">
+    <title>ニデック株価が午後急伸　報告書「品質不適切は844件」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL043LY0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:38:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0432K0U6A900C2000000/">
+    <title>小泉防衛相「自衛隊の外国人登用考えず」　笹川平和財団の提言巡り</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0432K0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:32:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB043YK0U6A900C2000000/">
+    <title>トランプ米政権、MAGA政策でゲーム公開　セガ模したロゴも</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB043YK0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:23:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0354B0T00C26A9000000/">
+    <title>ロッテ、乾燥季節向け「ホカロン」発売　水蒸気でしっとり</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0354B0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:23:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM0251M0S6A900C2000000/">
+    <title>太平洋島しょ国、豪NZ・中国の板挟み　6首脳がサミット欠席</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM0251M0S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:22:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL041710U6A900C2000000/">
+    <title>香港株前引け　反発、値ごろ感からの買い　美団など高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL041710U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:20:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM034LM0T00C26A9000000/">
+    <title>韓国の伝統焼酎、地方観光の目玉に　日本の酒蔵50カ所巡りV字回復</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM034LM0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:19:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC039660T00C26A9000000/">
+    <title>高松市の大西市長「次世代にまちづくり託す」　6選不出馬を正式表明</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC039660T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:18:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC035H10T00C26A9000000/">
+    <title>松山市の野志克仁市長、11月の次期市長選に不出馬表明　4期で退任</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC035H10T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:14:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL043FU0U6A900C2000000/">
+    <title>債券12時50分　長期金利、2.900%に一段と低下　インフレ懸念和らぎ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL043FU0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:11:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC035F00T00C26A9000000/">
+    <title>8月の車名別販売、ホンダ「N-BOX」が首位　「ムーヴ」は失速</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC035F00T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:07:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM042N50U6A900C2000000/">
+    <title>韓国、ホルムズ海峡への派兵検討　大統領府高官「多様な方法がある」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM042N50U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:02:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA040TS0U6A900C2000000/">
+    <title>家計消費のメリハリ鮮明　外食・宿泊はプラス、節約志向で食料は減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA040TS0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:02:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0437Q0U6A900C2000000/">
+    <title>東証後場寄り　日経平均は後場一段高　キオクシアに買い続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0437Q0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T13:00:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL041VP0U6A900C2000000/">
+    <title>上海株前引け　続伸、政策期待　アジア株高も支え</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL041VP0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:50:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF043H80U6A900C2000000/">
+    <title>千葉・市原市のイオンでガス漏れか　客ら全員避難、けが人なし</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF043H80U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:47:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC0427C0U6A900C2000000/">
+    <title>ジャングリア沖縄、月曜定休に　2027年から保守点検やトレーニングで</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC0427C0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:44:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC039KD0T00C26A9000000/">
+    <title>歯科受診で仕事の生産性改善率1.5倍　ライオンと日立が共同研究</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC039KD0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:43:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2735O0X20C26A8000000/">
+    <title>ニデック品質問題、不適切行為844件　法令違反疑いなど重大事案60件</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2735O0X20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:33:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA034V20T00C26A9000000/">
+    <title>民事裁判で証拠を収集しやすく　法務省が民訴法改正に向け諮問</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA034V20T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:32:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL040BQ0U6A900C2000000/">
+    <title>外為12時　円相場、大幅上昇　一時155円台前半　日米金利差縮小を意識</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL040BQ0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:29:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC039Z90T00C26A9000000/">
+    <title>マレリ、車載ディスプレー接続技術を開発　米マイクロチップと共同で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC039Z90T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:29:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD043390U6A900C2000000/">
+    <title>秋篠宮ご夫妻、8日にノルウェーへ　前国王葬儀に参列</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD043390U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:23:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC0420V0U6A900C2000000/">
+    <title>霞ケ関グループのFHG、大分・由布院に高級ホテル　27年4月開業</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC0420V0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T12:20:33+09:00</dc:date>
+  </item>
+</rdf:RDF>
