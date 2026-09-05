@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/business.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fbusiness.rdf">
+    <title>日経新聞 ビジネス</title>
+    <link>https://www.nikkei.com/news/category/business/</link>
+    <description>日経新聞のビジネスに関するフィードをお届けします。</description>
+    <dc:date>2026-09-05T14:10:19+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN050CI0V00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN029L00S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04BMY0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC046VQ0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC036EN0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC036760T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC034U90T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC3147N0R30C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC193UC0Z10C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG243M80U6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB121050S6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC040NI0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG26AFI0W6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC049A70U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC167UA0W6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC016JK0R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC243I00U6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD031RC0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC1017G0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC240GD0U6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN04B6Z0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF020X80S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF045TN0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA049LV0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0461B0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0212V0S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC032YC0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC045090U6A900C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/">
+    <title>中国AI、低料金競争止まらず　智譜はDeepSeekの7割安モデル</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN050CI0V00C26A9000000/">
+    <title>アンソロピックのIPO、10月後半以降か　ロイター報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN050CI0V00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T09:55:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN029L00S6A900C2000000/">
+    <title>アンソロピックに有望AI人材続々、安全思想で結束促す　巨大IPOへ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN029L00S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:46:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04BMY0U6A900C2000000/">
+    <title>米ディーゼル価格最高値　ロシアなど世界で精製能力が低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04BMY0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:20:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/">
+    <title>日本のデータセンター4倍へ、8年で10兆円投資　AI向けで米中に次ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC046VQ0U6A900C2000000/">
+    <title>8月31日〜9月4日　スタートアップ資金調達まとめ読み</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC046VQ0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC036EN0T00C26A9000000/">
+    <title>家庭の防災対策「している」52%　20代単身世帯で実施率が急伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC036EN0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC036760T00C26A9000000/">
+    <title>家庭の7割、子どものスマホ利用で親子げんか　動画やSNS見過ぎで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC036760T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC034U90T00C26A9000000/">
+    <title>ボタンが主役に転身　スマホケースや既製服に彩り、自分らしさを演出</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC034U90T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC3147N0R30C26A8000000/">
+    <title>鳥取の夏は白イカ、刺し身に上品な甘み　こうこうと日本海にいさり火</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC3147N0R30C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC193UC0Z10C26A8000000/">
+    <title>住友重機械の人事役員「未知の課題に取り組む挑戦心を重視」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC193UC0Z10C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG243M80U6A820C2000000/">
+    <title>B型肝炎新薬で患者の2割が「機能的治癒」　RNA分解、日本で承認</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG243M80U6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB121050S6A810C2000000/">
+    <title>過半数代表者の選出無効に衝撃　高松高裁判決、「労使協定」揺さぶる</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB121050S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC040NI0U6A900C2000000/">
+    <title>ホンダ、AI技術者を3倍の1000人に　最大月15万円上乗せ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC040NI0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG26AFI0W6A820C2000000/">
+    <title>樹海のドローン、空から命の見守り</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG26AFI0W6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC049A70U6A900C2000000/">
+    <title>食べログにスタジアムグルメ　Jリーグ全国60クラブと連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC049A70U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC167UA0W6A610C2000000/">
+    <title>仕事で役立つ集中術「細切れの積み重ねで1日が終わる」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC167UA0W6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC016JK0R00C26A9000000/">
+    <title>サッポロが狙う東南アの個人店、カールスバーグと合弁で海外販売2倍へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC016JK0R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC243I00U6A820C2000000/">
+    <title>note、企業の採用やメディアに活用広がる　生成AIが追い風</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC243I00U6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD031RC0T00C26A9000000/">
+    <title>トヨタ、「障害者スポーツ」支援拡大　アジア大会やラリー車で出走</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD031RC0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC1017G0Q6A810C2000000/">
+    <title>薬の副作用を「病気」と勘違い　高齢者、処方の悪循環が課題</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC1017G0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC240GD0U6A820C2000000/">
+    <title>新興SNS「setlog」2秒動画を共有、気楽さが人気　BeRealとすみ分け</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC240GD0U6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN04B6Z0U6A900C2000000/">
+    <title>カナダのルルレモン株20%安　主力のレギンス、はや流行遅れに</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN04B6Z0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-05T00:56:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF020X80S6A900C2000000/">
+    <title>ニデック品質問題、調査報告の要旨　目標達成の圧力「不健全な状態」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF020X80S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T22:05:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF045TN0U6A900C2000000/">
+    <title>関西電力送配電、11月から託送料金引き上げ　経産相が承認</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF045TN0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T20:35:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA049LV0U6A900C2000000/">
+    <title>インフルエンザ予防接種「前倒し可能」　厚労省が自治体に周知</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA049LV0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T20:28:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0461B0U6A900C2000000/">
+    <title>アジアLNGが3年9カ月ぶり高値　中東情勢、欧州ガス不足を懸念</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0461B0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T20:25:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0212V0S6A900C2000000/">
+    <title>ニデック岸田社長「顧客から検査費用の請求も」　品質問題で会見</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0212V0S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T20:14:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC032YC0T00C26A9000000/">
+    <title>横浜市、アジア都市と循環経済で連携拡大　企業の進出促進にも期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC032YC0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T19:38:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC045090U6A900C2000000/">
+    <title>エプソン販売、教育現場向け拡大コピー機　教材作成を効率化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC045090U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-04T19:38:01+09:00</dc:date>
+  </item>
+</rdf:RDF>
