@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Sat, 05 Sep 2026 11:01:09 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 09:03:10 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>Why the Hugging Face Hack Should Make You Worry More About A.I.</title>
+      <link>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html" rel="standout"></atom:link>
+      <description>The attack by an aggressive “collective” of OpenAI agents shows the danger of artificial intelligence systems that organize themselves.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 16:12:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">METR (Model Evaluation &amp; Threat Research) (Nonprofit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/05/business/00roose-hugging-face/00roose-hugging-face-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Zender</media:credit>
+    </item>
+    <item>
+      <title>How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face</title>
+      <link>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html" rel="standout"></atom:link>
+      <description>Researchers investigating how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure weren’t allowed to look at the incident’s full scope.</description>
+      <dc:creator>Dylan Freedman</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 15:15:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">METR (Model Evaluation &amp; Threat Research) (Nonprofit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/00biz-openai-investigation-01-ktwg/00biz-openai-investigation-01-ktwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+      <media:description>Hjalmar Wijk, METR chief scientist, left, and Ajeya Cotra, METR researcher, at their research center in Berkeley, Calif.</media:description>
+    </item>
+    <item>
+      <title>Nvidia Buys Hugging Face in $12.9 Billion Deal</title>
+      <link>https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html" rel="standout"></atom:link>
+      <description>The acquisition of the start-up is an indication of Nvidia’s growing role as Silicon Valley’s central banker and its emphasis on open-source technology.</description>
+      <dc:creator>Kalley Huang, Lauren Hirsch and Kate Conger</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 18:38:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/00biz-nvidia-huggingface-hfo-lhtb/00biz-nvidia-huggingface-hfo-lhtb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+      <media:description>Jensen Huang, Nvidia’s chief executive, has overseen the company as its quarterly profits have increased tenfold. The company is spending those resources on acquisitions, including of Hugging Face.</media:description>
+    </item>
+    <item>
+      <title>Which Investors Will Get Rich From Anthropic’s IPO?</title>
+      <link>https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html" rel="standout"></atom:link>
+      <description>When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.</description>
+      <dc:creator>Erin Griffith</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 21:23:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sequoia Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spark Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lightspeed Venture Partners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Menlo Ventures IX LP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Iconiq Capital LLC</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/business/00anthropic-vc/00anthropic-vc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Simon Bailly</media:credit>
+    </item>
+    <item>
+      <title>Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement</title>
+      <link>https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html" rel="standout"></atom:link>
+      <description>The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business.</description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 09:03:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royalties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Textbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Authors Guild</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of American Publishers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HarperCollins Publishers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/03/multimedia/03xp-publishers-settlement-qgpj/03xp-publishers-settlement-qgpj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>An Anthropic logo at an event in San Francisco in May. The tech giant will have to pay more than $1.5 billion in a settlement over using books to train its chatbots.</media:description>
+    </item>
+    <item>
+      <title>Kenyans Made a Living Writing College Essays. Then A.I. Arrived.</title>
+      <link>https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html" rel="standout"></atom:link>
+      <description>Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.</description>
+      <dc:creator>Adam Satariano and Paul Mozur</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 09:02:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freelancing, Self-Employment and Independent Contracting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Outsourcing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scale AI Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kang-Chun Cheng for The New York Times</media:credit>
+      <media:description>Teresios Bundi, who ran an essay-writing business catering to overseas students, said his experience with artificial intelligence was a warning for online gig workers. </media:description>
+    </item>
+    <item>
+      <title>The Generation That’s Never Had to Say ‘Hello?’</title>
+      <link>https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html" rel="standout"></atom:link>
+      <description>Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.</description>
+      <dc:creator>Alisha Haridasani Gupta</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 09:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+    </item>
+    <item>
+      <title>Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports</title>
+      <link>https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html" rel="standout"></atom:link>
+      <description>Filings made Friday in The New York Times’s closely watched lawsuit against OpenAI and Microsoft included a range of copyright law and cultural references.</description>
+      <dc:creator>Mike Isaac and Karen Weise</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 00:18:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stein, Sidney H</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/04/multimedia/04biz-openai-times-hpzj/04biz-openai-times-hpzj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Zack DeZon for The New York Times</media:credit>
+      <media:description>The New York Times claims in a lawsuit that OpenAI and Microsoft infringed on publishers’ copyrighted material by using their articles to train artificial intelligence.</media:description>
+    </item>
+    <item>
+      <title>F.B.I. Investigates Sale of Millions of Stolen Driver’s Licenses</title>
+      <link>https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html" rel="standout"></atom:link>
+      <description>The blog Krebs on Security reported on an identity theft service trying to sell scans of licenses and other documents belonging to people in Canada and the United States.</description>
+      <dc:creator>Christine Hauser</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 21:11:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Identity Theft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Krebs on Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Krebs, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drivers Licenses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/03/multimedia/03xp-breach-bgmq/03xp-breach-bgmq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>The F.B.I. is looking into the sale of stolen scanned identity documents.</media:description>
+    </item>
+    <item>
+      <title>Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI</title>
+      <link>https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html" rel="standout"></atom:link>
+      <description>The survivors contend that the company should have notified the police when it shut down the shooter’s disturbing ChatGPT account eight months before the February attack in British Columbia.</description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 17:19:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tumbler Ridge, British Columbia, Shootings (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Rootselaar, Jesse (d 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tumbler Ridge (British Columbia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/04/multimedia/04XP-TUMBLERRIDGE-vcfp/04XP-TUMBLERRIDGE-vcfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Paige Taylor White/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A memorial for the victims of a deadly mass shooting at a school in Tumbler Ridge, British Columbia, in February.</media:description>
+    </item>
+    <item>
+      <title>Corporate America Is Getting Hooked on Open-Source A.I.</title>
+      <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html" rel="standout"></atom:link>
+      <description>Companies like AT&amp;T are increasingly using cheap, freely available artificial intelligence models over expensive ones from Anthropic and OpenAI.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 14:55:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AT&amp;T Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/29/business/00OPEN-SOURCE-AI/00OPEN-SOURCE-AI-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Josie Norton</media:credit>
+    </item>
+    <item>
+      <title>Tesla’s Cybercab Is Being Investigated by Federal Regulators</title>
+      <link>https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html" rel="standout"></atom:link>
+      <description>The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 18:07:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxicabs and Taxicab Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Highway Traffic Safety Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/04/multimedia/04biz-cybercab-jglq/04biz-cybercab-jglq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kaylee Greenlee/Reuters</media:credit>
+      <media:description>A Tesla Cybercab in Austin, Texas, where the company has started offering paid rides in the driverless vehicles.</media:description>
+    </item>
+    <item>
+      <title>The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra</title>
+      <link>https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html" rel="standout"></atom:link>
+      <description>This is probably the most important thing to have happened in A.I. this year.</description>
+      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Davis Land, Vjeran Pavic, Chris Wood, Dan Powell, Elisheba Ittoop, Marion Lozano and Diane Wong</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/04/podcasts/04hardfork-huggingface-attack/04hardfork-huggingface-attack-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Image: Hugging Face</media:credit>
+    </item>
+    <item>
+      <title>Noise and Motion Monitors in Their Homes? These Tenants Say No.</title>
+      <link>https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html" rel="standout"></atom:link>
+      <description>The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.</description>
+      <dc:creator>Kashmir Hill</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 18:29:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public and Subsidized Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Noise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Concord (NH)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02biz-noise-monitoring-01-bjpv/02biz-noise-monitoring-01-bjpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Taylor Coester for The New York Times</media:credit>
+      <media:description>Tenants in public housing in Concord, N.H., were troubled to learn the wide array of data that new monitors in their homes collected, including decibel levels, Bluetooth signals and motion.</media:description>
+    </item>
+    <item>
+      <title>Justice Dept. Sides With OpenAI in New York Times Copyright Suit</title>
+      <link>https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html" rel="standout"></atom:link>
+      <description>The department argued in a court filing that OpenAI legally used articles by The New York Times to develop A.I., adding that national security depended on American tech dominance.</description>
+      <dc:creator>Karen Weise and Mike Isaac</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 18:48:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02biz-openai-justice-NYT-fwmc/02biz-openai-justice-NYT-fwmc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>The New York Times sued OpenAI and Microsoft in 2023 in a landmark copyright case.</media:description>
+    </item>
+    <item>
+      <title>Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91</title>
+      <link>https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html" rel="standout"></atom:link>
+      <description>He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock’s jazz band.</description>
+      <dc:creator>Alex Williams</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 17:29:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gleeson, Patrick (1934-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jazz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Musical Instruments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hancock, Herbie</category>
+    </item>
+    <item>
+      <title>Uber Lays Off 10% of Employees in Sweeping Reorganization</title>
+      <link>https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html" rel="standout"></atom:link>
+      <description>The layoffs affect about 3,300 workers, as Chief Executive Dara Khosrowshahi bets on a “leaner organization.”</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 17:47:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khosrowshahi, Dara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/UBER-1-jqgz/UBER-1-jqgz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joseph Seif for The New York Times</media:credit>
+      <media:description>Uber headquarters in San Francisco.</media:description>
+    </item>
+    <item>
+      <title>In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules</title>
+      <link>https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html" rel="standout"></atom:link>
+      <description>In a long-awaited decision, a federal judge said Google must change its ad tech business to address antitrust issues, but did not disclose the measures.</description>
+      <dc:creator>David McCabe and Tripp Mickle</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 20:50:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brinkema, Leonie M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/12/29/multimedia/00biz-google-hfo-phtj/00biz-google-hfo-phtj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lucia Vazquez for The New York Times</media:credit>
+      <media:description>The government had asked the court to require Google to sell off parts of its business.</media:description>
+    </item>
+    <item>
+      <title>Get to Know Your Phone’s Built-In Emergency Kit</title>
+      <link>https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html" rel="standout"></atom:link>
+      <description>In times of natural disasters and other dangers, special features tucked away on your iPhone or Android device could help make a difference.</description>
+      <dc:creator>J. D. Biersdorfer</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 09:03:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <media:content height="883" medium="image" url="https://static01.nyt.com/images/2026/09/02/technology/personaltech/02BIZ-TECHTIP-TOP/02BIZ-TECHTIP-mediumSquareAt3X.jpg" width="883"></media:content>
+      <media:credit>Apple</media:credit>
+      <media:description>Apple’s more recent iPhone models include the ability to communicate with emergency services by text chat over a satellite connection, as well as a demonstration mode.</media:description>
+    </item>
+    <item>
+      <title>Missouri Voters Appear to Recall City Councilman Over Data Center Support</title>
+      <link>https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html" rel="standout"></atom:link>
+      <description>Initial results showed that residents of Independence, Mo., voted overwhelmingly to recall an official who backed billions of dollars in tax breaks for a data center.</description>
+      <dc:creator>David McCabe and Lauren McCarthy</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 02:47:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Independence (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-recall-hfo-pwjl/00biz-ai-recall-hfo-pwjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Clayton Steward for The New York Times</media:credit>
+      <media:description>Organizers of the recall vote said the councilman, John Perkins, had failed to engage the public while the city negotiated with the developer of a data center project.</media:description>
+    </item>
+    <item>
+      <title>Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently</title>
+      <link>https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html" rel="standout"></atom:link>
+      <description>Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 00:40:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Geographical</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Ontario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MapQuest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/01/multimedia/01xp-lake-ontario-01-cmhb/01xp-lake-ontario-01-cmhb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Keito Newman/The Canadian Press, via Associated Press</media:credit>
+      <media:description>The companies making map apps are having to respond to President Trump’s order to change the lake’s name from Lake Ontario to Lake America.</media:description>
+    </item>
+    <item>
+      <title>John Ternus Replaces Tim Cook as Apple CEO</title>
+      <link>https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html" rel="standout"></atom:link>
+      <description>Big technology and management changes are greeting John Ternus, whose long-serving predecessor, Tim Cook, will stay on as executive chair.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Tue, 01 Sep 2026 09:01:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ternus, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Srouji, Johny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-apple-ceo-1-ljmz/00biz-apple-ceo-1-ljmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <media:description>John Ternus, right, who became Apple’s chief executive on Tuesday, with Tim Cook, who held the job for 15 years, at the Sun Valley Conference in Idaho in July.</media:description>
+    </item>
+    <item>
+      <title>FTC and 22 States Sue Amazon Over Advertising Practices</title>
+      <link>https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html" rel="standout"></atom:link>
+      <description>Regulators say the e-commerce giant forced more than a million advertisers to pay more than they should have. The company denies the claims.</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 22:26:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/31/multimedia/31biz-amazon-ftc-tjlc/31biz-amazon-ftc-tjlc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Alban/The New York Times</media:credit>
+      <media:description>The Federal Trade Commission and the states said Amazon misled brands and sellers into paying more for ads; the company is denying the accusations.</media:description>
+    </item>
+  </channel>
+</rss>
