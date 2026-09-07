@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-09-07T14:11:10+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC042GW0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0730Y0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC073A50X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC072F60X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC0418V0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0133O0R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC0737Z0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC072E50X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM072AH0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL073230X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0736C0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070D00X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM072DQ0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL072170X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL070SX0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD061JT0W6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD04APH0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC072TN0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF0711M0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL0724X0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC072JB0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0707Q0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC060930W6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD070A20X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB070PA0X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB062EPTW6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD0277J0S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA036II0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB020PH0S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL071IE0X00C26A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC042GW0U6A900C2000000/">
+    <title>山形花笠まつり、初の優秀団体表彰式　最優秀賞に山形大学サークル</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC042GW0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T14:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0730Y0X00C26A9000000/">
+    <title>日立、ノキアのドローンを国内販売　インフラ点検に活用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0730Y0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:57:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC073A50X00C26A9000000/">
+    <title>久光製薬、鎮痛消炎テープ剤「フェイタス」に4種の有効成分</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC073A50X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:51:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC072F60X00C26A9000000/">
+    <title>大分の久住蒸溜所、ハイボール専用ウイスキー18日に発売　価格3850円</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC072F60X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:51:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC0418V0U6A900C2000000/">
+    <title>宮崎駅前に地域の魅力発信拠点、県が開設　38蔵元の焼酎からAIが推薦</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC0418V0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:45:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0133O0R00C26A9000000/">
+    <title>徳島県、9月補正予算案199億円　蓄電池産業クラスター形成に基金</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0133O0R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC0737Z0X00C26A9000000/">
+    <title>しまむら、サミットから衣料品店21店舗を取得</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC0737Z0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:43:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC072E50X00C26A9000000/">
+    <title>パルコ「手紙体験店」を大阪に　アーティストVERDY氏とコラボ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC072E50X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:41:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM072AH0X00C26A9000000/">
+    <title>北朝鮮、2隻目の駆逐艦が就役　日本海管轄の軍部隊が運用へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM072AH0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:34:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL073230X00C26A9000000/">
+    <title>香港株前引け　反落　本土系金融株が下落に転じる　テック株も安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL073230X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:21:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0736C0X00C26A9000000/">
+    <title>アンダーパスで車2台水没、60代女性死亡　福島県いわき市</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0736C0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070D00X00C26A9000000/">
+    <title>東証後場寄り　日経平均は堅調　半導体関連に買い続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070D00X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T13:01:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM072DQ0X00C26A9000000/">
+    <title>日本とベトナム、地方間協力を模索　フォーラムに奈良など14府県参加</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM072DQ0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:59:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL072170X00C26A9000000/">
+    <title>債券12時50分　先物、小動き　需給イベントなく</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL072170X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:57:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL070SX0X00C26A9000000/">
+    <title>上海株前引け　続落、統計発表控え様子見　金融が下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL070SX0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:53:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD061JT0W6A900C2000000/">
+    <title>東京・大島町にもレベル5土砂災害特別警報、首都圏鉄道は運休や本数減</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD061JT0W6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:42:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD04APH0U6A900C2000000/">
+    <title>豊和工業、プロドローンに出資　迎撃用ドローンを開発・工場建設</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD04APH0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:41:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC072TN0X00C26A9000000/">
+    <title>松山英樹は26位で変わらず　男子ゴルフ世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC072TN0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:35:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF0711M0X00C26A9000000/">
+    <title>NISSHA、不適切会計のベトナム子会社を売却　5月の買収後に事案発覚</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF0711M0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:35:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL0724X0X00C26A9000000/">
+    <title>外為12時　円相場、小幅上昇　156円台前半　日銀利上げの思惑根強く</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL0724X0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:31:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC072JB0X00C26A9000000/">
+    <title>サッカーU20女子ワールドカップ、日本は白星発進　NZに競り勝つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC072JB0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:20:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0707Q0X00C26A9000000/">
+    <title>岐阜・本巣のケーキ店火災、死亡の男性1人は車内で発見</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0707Q0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:20:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC060930W6A900C2000000/">
+    <title>七呂建設、九州の住宅工事にクーラー100台　猛暑での工期遅れ防ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC060930W6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:14:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD070A20X00C26A9000000/">
+    <title>千葉市の国道でアンダーパス予防的規制　全国初、8月の豪雨で犠牲者</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD070A20X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:10:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB070PA0X00C26A9000000/">
+    <title>銅建値、2万円下げ　鉛は6000円下げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB070PA0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:05:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB062EPTW6A900C2000000/">
+    <title>日経平均午前1439円高　半導体買い､投資家は｢雇用統計よりマイクロン｣</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB062EPTW6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:01:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD0277J0S6A900C2000000/">
+    <title>抗菌薬効かない薬剤耐性菌、北海道で渡り鳥ふんから検出　摂南大など</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD0277J0S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA036II0T00C26A9000000/">
+    <title>健康管理アプリに国が認証制度　品質評価、企業健保が導入しやすく</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA036II0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB020PH0S6A900C2000000/">
+    <title>8月の投資信託、3カ月連続で2兆円超の資金流入</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB020PH0S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL071IE0X00C26A9000000/">
+    <title>商品11時30分　金が下げ幅拡大、NY相場の下落で　ゴムは反発</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL071IE0X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-07T11:53:09+09:00</dc:date>
+  </item>
+</rdf:RDF>
