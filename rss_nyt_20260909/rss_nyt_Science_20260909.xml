@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Science</title>
+    <link>https://www.nytimes.com/section/science</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 09 Sep 2026 12:00:16 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 10:36:28 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Science</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/science</link>
+    </image>
+    <item>
+      <title>OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’</title>
+      <link>https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html" rel="standout"></atom:link>
+      <description>The company’s announcement is the most dramatic sign yet that artificial intelligence is fundamentally transforming the field of higher mathematics.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 21:02:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clay Mathematics Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/08/science/08SCI-AI-MATH-PROOF-01/08SCI-AI-MATH-PROOF-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Philippe Plailly/Science Source</media:credit>
+      <media:description>Related to a set of equations about fluid mechanics, the “Navier–Stokes existence and smoothness problem” has long ranked among the great unsolved problems in mathematics.</media:description>
+    </item>
+    <item>
+      <title>What Is Navier-Stokes, the ‘Millennium’ Math Problem OpenAI Claims to Have Solved?</title>
+      <link>https://www.nytimes.com/2026/09/08/science/what-is-navier-stokes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/08/science/what-is-navier-stokes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/08/science/what-is-navier-stokes.html" rel="standout"></atom:link>
+      <description>OpenAI announced today that it had solved the problem, one of seven “Millennium Problems” seen as among the most important in higher mathematics.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 10:36:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clay Mathematics Institute</category>
+    </item>
+    <item>
+      <title>Top Mathematician Announces New Institute for A.I. Safety</title>
+      <link>https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html" rel="standout"></atom:link>
+      <description>Jacob Tsimerman, a recent recipient of the Fields Medal, believes that higher mathematics can help curb the dangers of runaway artificial intelligence.</description>
+      <dc:creator>Siobhan Roberts</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 12:10:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsimerman, Jacob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Toronto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cryptography, Codes and Ciphers</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/08/multimedia/08sci-math-ai-safety-tgmj/08sci-math-ai-safety-tgmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erin Blewett/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Canadian mathematician Jacob Tsimerman, who has announced the founding of the Mathematical A.I. Safety Institute (MAISI).</media:description>
+    </item>
+    <item>
+      <title>A Newer Kind of Gene Editing Promises to Edit ‘Nurture’ Over ‘Nature’</title>
+      <link>https://www.nytimes.com/2026/09/08/science/epigenetic-editing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/08/science/epigenetic-editing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/08/science/epigenetic-editing.html" rel="standout"></atom:link>
+      <description>Traditional gene editing rewrites DNA. But a new approach, called epigenome editing, aims to treat the molecular scars we collect throughout our lives.</description>
+      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 09:03:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hepatitis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Innovative Genomics Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Urnov, Fyodor (1968- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/03/science/00SCI-EPIGENOME-EDITING/00SCI-EPIGENOME-EDITING-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Matt Chase</media:credit>
+    </item>
+    <item>
+      <title>How Ancient Farmers Used Floral Designs to Track Goods</title>
+      <link>https://www.nytimes.com/2026/09/07/science/botanical-decorations-halafian-mesopotamia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/07/science/botanical-decorations-halafian-mesopotamia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/07/science/botanical-decorations-halafian-mesopotamia.html" rel="standout"></atom:link>
+      <description>A Mesopotamian culture’s decorated ceramics show some early roots of math, researchers argued.</description>
+      <dc:creator>Franz Lidz</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ceramics and Pottery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yosef Garfinkel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hebrew University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Journal of World Prehistory</category>
+    </item>
+    <item>
+      <title>Early Data Indicates an A.I.-Generated Drug Could Slow Aging</title>
+      <link>https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html" rel="standout"></atom:link>
+      <description>Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition. Its maker says the drug also seems to reduce the biological hallmarks of age.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 15:12:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Idiopathic Pulmonary Fibrosis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Insilico Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Biotechnology (Journal)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/07/multimedia/07SCI-AI-AGING-wtgl/07SCI-AI-AGING-wtgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Laurie Chen/Reuters</media:credit>
+      <media:description>Rentosertib, Insilico Medicine’s small-molecule drug candidate developed and designed using generative A.I. for treating chronic lung disease, at the company’s research and development facility in Shanghai.</media:description>
+    </item>
+    <item>
+      <title>The 92-Year-Old Mathematician and the Teenage Apprentice</title>
+      <link>https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html" rel="standout"></atom:link>
+      <description>Joan Birman thought her major discoveries were behind her. Then came an email from a young neighbor — a girl who knew little but wanted to learn.</description>
+      <dc:creator>Gregory Barber</dc:creator>
+      <pubDate>Sun, 06 Sep 2026 10:36:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Birman, Joan (1927- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bharathram, Vasudha</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riverside Drive (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/06/multimedia/06SCI-MATH-APPRENTICE-stillpromo-hcbg/06SCI-MATH-APPRENTICE-stillpromo-hcbg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Oliver Farshi for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists</title>
+      <link>https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html" rel="standout"></atom:link>
+      <description>As Dr. Anthony Fauci has faced public scrutiny from congressional Republicans, the D.O.J. has pursued a quieter and more expansive effort against a wider circle of researchers.</description>
+      <dc:creator>Benjamin Mueller and Glenn Thrush</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 09:00:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Origins Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bongino, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Allergy and Infectious Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morens, David M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daszak, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">EcoHealth Alliance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wuhan Institute of Virology (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/00sci-arrests-01-pvqt/00sci-arrests-01-pvqt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump and Dr. Anthony S. Fauci were shown models of the coronavirus during a tour of the National Institutes of Health in March 2020.</media:description>
+    </item>
+    <item>
+      <title>Is There Alien Debris on the Moon? Some Scientists Plan to Find Out.</title>
+      <link>https://www.nytimes.com/2026/09/05/science/space/is-there-alien-debris-on-the-moon-some-scientists-plan-to-find-out.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/05/science/space/is-there-alien-debris-on-the-moon-some-scientists-plan-to-find-out.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/05/science/space/is-there-alien-debris-on-the-moon-some-scientists-plan-to-find-out.html" rel="standout"></atom:link>
+      <description>Researchers want to explore the idea that microscopic particles shed by alien civilizations have accumulated on the lunar surface, making it an archive of extraterrestrial technology.</description>
+      <dc:creator>Becky Ferreira</dc:creator>
+      <pubDate>Sat, 05 Sep 2026 09:02:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SETI Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Journal of Astrobiology</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/01/multimedia/00SCI-MOONDUST-03-zqmp/00SCI-MOONDUST-03-zqmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>NASA</media:credit>
+      <media:description>Harrison H. Schmitt, an Apollo 17 astronaut, on his way to take samples on the lunar surface in 1972. Scientists propose sending a lunar mission to sift through about a cubic meter of soil to screen for materials.</media:description>
+    </item>
+    <item>
+      <title>California’s Ambitious Plan for Textile Waste</title>
+      <link>https://www.nytimes.com/2026/09/08/climate/californias-fast-fashion-textile-waste.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/08/climate/californias-fast-fashion-textile-waste.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/08/climate/californias-fast-fashion-textile-waste.html" rel="standout"></atom:link>
+      <description>A recycling law coming into force now could change fashion.</description>
+      <dc:creator>Rachel Cernansky</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 19:59:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recycling of Waste Materials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/04/multimedia/00cli-newsletter-textiles-01-vjtw/00cli-newsletter-textiles-01-vjtw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A recycling center in Stockholm. California is trying to build a network for textile waste from scratch.</media:description>
+    </item>
+    <item>
+      <title>U.S. to Loan $1.9 Billion to Restart a Shuttered Nuclear Plant in Iowa</title>
+      <link>https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html" rel="standout"></atom:link>
+      <description>No company in the United States has ever restarted a reactor that was seemingly closed for good, but there are now three major efforts underway to do so.</description>
+      <dc:creator>Brad Plumer</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 16:08:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NextEra Energy Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nuclear Regulatory Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/09/08/climate/08cli-nuclear-restart/08cli-nuclear-restart-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nick Rohlman/The Gazette, via Associated Press</media:credit>
+      <media:description>The Duane Arnold Energy Center near Palo, Iowa, in January 2025.</media:description>
+    </item>
+    <item>
+      <title>The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists</title>
+      <link>https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html" rel="standout"></atom:link>
+      <description>Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Tue, 08 Sep 2026 13:35:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novartis AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/04/science/04sci-novartis/04sci-novartis-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Juan Gaertner/Science Source</media:credit>
+      <media:description>An illustration of lipoprotein(a), a low-density lipoprotein. Every study short of a randomized clinical trial had indicated that the drug would lower Lp(a) and help protect people from heart disease.</media:description>
+    </item>
+    <item>
+      <title>Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats</title>
+      <link>https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html" rel="standout"></atom:link>
+      <description>Under a new partnership, the Defense Department would play a larger role in biodefense and pandemic preparedness. Democrats warned it could allow a Pentagon cash grab.</description>
+      <dc:creator>Catie Edmondson and Carolyn Y. Johnson</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 22:31:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Allergy and Infectious Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/09/04/multimedia/04dc-dod-nih-ghfj/04dc-dod-nih-ghfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>The agreement, a copy of which was obtained by The New York Times, is focused on chemical and biological defense research.</media:description>
+    </item>
+    <item>
+      <title>Hideki Shirakawa, Who Helped Turn a Lab Error Into a Nobel, Dies at 90</title>
+      <link>https://www.nytimes.com/2026/09/04/science/hideki-shirakawa-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/science/hideki-shirakawa-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/science/hideki-shirakawa-dead.html" rel="standout"></atom:link>
+      <description>The Japanese chemist played a key role in the discovery of electricity-conducting plastics, largely by accident.</description>
+      <dc:creator>Dylan Loeb McClain</dc:creator>
+      <pubDate>Mon, 07 Sep 2026 17:31:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shirakawa, Hideki</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">MacDiarmid, Alan G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Heeger, Alan J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="1469" medium="image" url="https://static01.nyt.com/images/2026/09/03/multimedia/03obit-shirakawa-01-vjtw/03obit-shirakawa-01-vjtw-mediumSquareAt3X.jpg" width="1469"></media:content>
+      <media:credit>Henrik Montgomery/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Hideki Shirakawa in Stockholm in 2000, when he shared the Nobel Prize. From a young age, he developed an ambition to work in the lab with plastics.</media:description>
+    </item>
+    <item>
+      <title>The World’s First Bugs Had Way More Legs</title>
+      <link>https://www.nytimes.com/2026/09/04/science/the-worlds-first-bugs-had-way-more-legs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/science/the-worlds-first-bugs-had-way-more-legs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/science/the-worlds-first-bugs-had-way-more-legs.html" rel="standout"></atom:link>
+      <description>Meet the earliest known insects. Shaking hands with them will take a while.</description>
+      <dc:creator>Kate Golembiewski</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 15:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Diego Natural History Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Plumbing the Shipwrecks of an Infamous Pirate Cove</title>
+      <link>https://www.nytimes.com/2026/09/04/science/archaeology-shipwrecks-pirates-kingsley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/science/archaeology-shipwrecks-pirates-kingsley.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/science/archaeology-shipwrecks-pirates-kingsley.html" rel="standout"></atom:link>
+      <description>For the marine archaeologist Sean Kingsley, the most honest history can be found on the seafloor.</description>
+      <dc:creator>Franz Lidz</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 12:43:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Piracy at Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahama Islands</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/03/multimedia/03SCI-CONVERSATION-KINGSLEY-06-mvlz/03SCI-CONVERSATION-KINGSLEY-06-mvlz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Shaw for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Brains of F1 Drivers Are Indeed Strange</title>
+      <link>https://www.nytimes.com/2026/09/04/sports/f1-brains-drivers-racing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/sports/f1-brains-drivers-racing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/04/sports/f1-brains-drivers-racing.html" rel="standout"></atom:link>
+      <description>They are moving too fast for the normal mind to keep up, but elite drivers have more densely packed brain cells where it counts and use their minds more efficiently.</description>
+      <dc:creator>Erik Vance</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 09:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Racing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Formula One</category>
+    </item>
+    <item>
+      <title>Psilocybin May Prevent Nerve Damage Caused by Chemotherapy, Study Finds</title>
+      <link>https://www.nytimes.com/2026/09/03/health/psilocybin-cancer-nerve-damage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/health/psilocybin-cancer-nerve-damage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/03/health/psilocybin-cancer-nerve-damage.html" rel="standout"></atom:link>
+      <description>The preliminary research was conducted in mice, but scientists were optimistic the results would apply to humans. Clinical trials begin this month.</description>
+      <dc:creator>Andrew Jacobs</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 21:46:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psilocybin Mushrooms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemotherapy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nerves and Nervous System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/09/08/multimedia/03SCI-PSILOCYBIN-tjfg/03SCI-PSILOCYBIN-tjfg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mason Trinca for The New York Times</media:credit>
+      <media:description>There are no effective treatments for neuropathy, which causes pain, tingling and numbness in the hands and feet, and can force patients to scale back or halt chemotherapy when the discomfort becomes too much.</media:description>
+    </item>
+    <item>
+      <title>Cleaner Air, Smarter Toddlers</title>
+      <link>https://www.nytimes.com/2026/09/03/climate/cleaner-air-smarter-toddlers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/climate/cleaner-air-smarter-toddlers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/03/climate/cleaner-air-smarter-toddlers.html" rel="standout"></atom:link>
+      <description>New research links climate policies to improved early-childhood development.</description>
+      <dc:creator>Claire Brown</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 18:11:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/03/multimedia/03cli-newsletter-cleanair-wtzh/03cli-newsletter-cleanair-wtzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Drew Angerer/Getty Images</media:credit>
+      <media:description>Researchers at Columbia University followed more than a thousand children between 1998 and 2020, testing their cognitive development.</media:description>
+    </item>
+    <item>
+      <title>Scientists Find More Than 1,000 DNA Variants Linked to Personality Traits</title>
+      <link>https://www.nytimes.com/2026/09/03/science/genes-personality-traits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/science/genes-personality-traits.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/03/science/genes-personality-traits.html" rel="standout"></atom:link>
+      <description>More than one million genomes helped identify DNA variants linked to extroversion, agreeableness, neuroticism and more. Researchers measured how those traits influenced how people lived.</description>
+      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 16:15:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/02/science/02SCI-PERSONALITY-GENES/02SCI-PERSONALITY-GENES-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Syred/Science Source</media:credit>
+    </item>
+    <item>
+      <title>What Did Jurassic Forests Sound Like? Like This.</title>
+      <link>https://www.nytimes.com/2026/09/03/science/what-did-jurassic-forests-sound-like-like-this.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/science/what-did-jurassic-forests-sound-like-like-this.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/03/science/what-did-jurassic-forests-sound-like-like-this.html" rel="standout"></atom:link>
+      <description>Scientists spent over a decade reconstructing the calls of nine species of ancient insects to create the first accurate Jurassic soundscape.</description>
+      <dc:creator>Annie Roth</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 16:11:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/08/science/02SCI-JURASSIC-SOUNDS/02SCI-JURASSIC-SOUNDS-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Richard Bizley/Science Source</media:credit>
+      <media:description>By studying the fossilized wings of ancient insects as well as the bioacoustics of their living relatives, researchers were able to use computer modeling and machine learning to replicate their sounds.</media:description>
+    </item>
+    <item>
+      <title>Patagonia Sues Trump Over Reduction of Bears Ears National Monument in Utah</title>
+      <link>https://www.nytimes.com/2026/09/02/climate/patagonia-bears-ears-lawsuit-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/climate/patagonia-bears-ears-lawsuit-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/climate/patagonia-bears-ears-lawsuit-trump.html" rel="standout"></atom:link>
+      <description>The outdoor apparel maker joined environmental and Native American groups in challenging President Trump’s reduction of Bears Ears National Monument.</description>
+      <dc:creator>Maxine Joselow</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 03:09:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patagonia Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bears Ears National Monument (Utah)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Staircase-Escalante National Monument (Utah)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/climate/02cli-patagonia-suit/02cli-patagonia-suit-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>George Frey/Getty Images</media:credit>
+      <media:description>Tourists at Muley Point, looking out on Monument Valley, in Bears Ears National Monument in Utah.</media:description>
+    </item>
+    <item>
+      <title>In Nepal and Tibet, Pollution on Glaciers Could Fuel More Flood Disasters</title>
+      <link>https://www.nytimes.com/2026/09/02/climate/pollution-soot-glaciers-melting-himalayas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/climate/pollution-soot-glaciers-melting-himalayas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/climate/pollution-soot-glaciers-melting-himalayas.html" rel="standout"></atom:link>
+      <description>Darkened by soot from vehicles and factories, the region’s glaciers are absorbing more heat and melting at dangerous rates.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 17:24:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepal-Tibet Floods (August 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02CLI-NEPAL-DIRTY-GLACIERS-01-jqgt/02CLI-NEPAL-DIRTY-GLACIERS-01-jqgt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Gulley for The New York Times</media:credit>
+      <media:description>A meltwater lake on the Ngozumpa Glacier in Nepal in 2025.</media:description>
+    </item>
+  </channel>
+</rss>
