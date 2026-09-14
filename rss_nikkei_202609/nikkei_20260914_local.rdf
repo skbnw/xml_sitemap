@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-09-14T16:12:39+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF144DV0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD1171K0R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC117WQ0R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2890O0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC140KZ0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF1429C0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0897C0Y6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC1413T0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF143C20U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC143510U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA142AJ0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC118AQ0R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC130JU0T10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF140IJ0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC141200U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA141080U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD1174J0R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC09ALY0Z00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD131770T10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC10BZE0Q6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD108RF0Q6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF047AV0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC0473I0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF146Z50U6A710C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC256690V20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOIH085OV0Y6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF1857D0Y6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB274D00X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD112RE0R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA112GT0R10C26A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF144DV0U6A910C2000000/">
+    <title>不動産開発のHatch 、大阪地裁が破産手続き決定　負債107億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF144DV0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T16:05:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD1171K0R10C26A9000000/">
+    <title>中部電力、林社長と勝野会長が辞任発表　浜岡原発データ不正で引責</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD1171K0R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T15:46:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC117WQ0R10C26A9000000/">
+    <title>長崎の沖新船舶工業、洋上風力発電の作業員輸送船を建造開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC117WQ0R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T15:40:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2890O0Y6A820C2000000/">
+    <title>大阪・吹田市、民間活力で公園再整備　グラウンド人工芝化やカフェ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2890O0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T15:35:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC140KZ0U6A910C2000000/">
+    <title>知事選敗北で「オール沖縄は終焉」　沖縄国際大の野添文彬教授</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC140KZ0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T15:00:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF1429C0U6A910C2000000/">
+    <title>NTT西日本、立命館と教育向け生成AI　学びの振り返りを支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF1429C0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T14:49:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0897C0Y6A900C2000000/">
+    <title>東北の新米5キロ3000円前後か　コスト高もJA概算金3~4割安</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0897C0Y6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T14:38:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC1413T0U6A910C2000000/">
+    <title>熊本県、地震被災企業に最大3億円支援　10月から申請受け付け</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC1413T0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T14:36:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF143C20U6A910C2000000/">
+    <title>裏千家・千玄室さん一周忌、大徳寺で法要</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF143C20U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T14:29:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC143510U6A910C2000000/">
+    <title>JA全農あおもり、26年産米の概算金引き下げ　まっしぐら1万3800円</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC143510U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T14:29:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA142AJ0U6A910C2000000/">
+    <title>官房長官、沖縄県の基地負担軽減策「政府の最重要課題の一つ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA142AJ0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T13:25:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC118AQ0R10C26A9000000/">
+    <title>山梨で10月に国際水素サミット、8カ国参加　社会実装の課題共有</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC118AQ0R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T13:11:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC130JU0T10C26A9000000/">
+    <title>「オール沖縄」再建の難路　玉城デニー氏落選、成せなかった新陳代謝</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC130JU0T10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T12:02:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF140IJ0U6A910C2000000/">
+    <title>大阪・天満天神繁昌亭、開場20周年で落語家お練り　桂文枝さんら参加</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF140IJ0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC141200U6A910C2000000/">
+    <title>沖縄知事選に当選、古謝氏｢徐々に実感｣　辺野古は担当課の名称変更も</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC141200U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T10:48:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA141080U6A910C2000000/">
+    <title>高市早苗首相「経済成長求める民意反映」　沖縄県知事選で古謝氏当選</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA141080U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD1174J0R10C26A9000000/">
+    <title>「経営陣の叱責が圧力」　浜岡原発データ不正、中部電力が報告書</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD1174J0R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T10:04:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC09ALY0Z00C26A9000000/">
+    <title>水害対策で東京海上も注目　用水路の水門、スマホで自動開閉可能に</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC09ALY0Z00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD131770T10C26A9000000/">
+    <title>千葉豪雨の浸水車両、リサイクル進む　カーシェア支援も需要継続</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD131770T10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T09:24:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC10BZE0Q6A910C2000000/">
+    <title>高知大発新興のコルタック、がん治療補助剤の治験開始　27年に結果判明</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC10BZE0Q6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD108RF0Q6A810C2000000/">
+    <title>「イカ墨汁と肝煮」濃厚な味わい二重奏　食あれば楽あり・小泉武夫</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD108RF0Q6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF047AV0U6A900C2000000/">
+    <title>和歌山市、屋台で中心街のにぎわい創出　夜の経済盛り上げる</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF047AV0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC0473I0U6A900C2000000/">
+    <title>長野・野沢温泉村、大規模開発を抑制　建築物の高さ制限15メートルに</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC0473I0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF146Z50U6A710C2000000/">
+    <title>NTN欧州事業、6期連続赤字から立て直し　30年3月期までに黒字化へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF146Z50U6A710C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC256690V20C26A8000000/">
+    <title>包装資材の福助工業、在庫管理にAI　山形のスタートアップと連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC256690V20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOIH085OV0Y6A900C2000000/">
+    <title>京都の冷泉家住宅で勧進能　ゆかりの「定家」「忠度」上演</title>
+    <link>https://www.nikkei.com/article/DGXZQOIH085OV0Y6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF1857D0Y6A810C2000000/">
+    <title>中小の競争力高める｢CFP｣　商品のCO2排出量算定､BtoB開拓のツール</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF1857D0Y6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB274D00X20C26A7000000/">
+    <title>インドネシア「日本で働く人60万人目標」　車に重点、語学教育強化へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB274D00X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD112RE0R10C26A9000000/">
+    <title>クボタの小型車両、デコボコ傾斜地を快走　モモやブドウの栽培手助け</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD112RE0R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA112GT0R10C26A9000000/">
+    <title>沖縄県知事に古謝氏、自衛隊の空港・港湾活用に弾み　中国抑止を念頭</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA112GT0R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-14T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
