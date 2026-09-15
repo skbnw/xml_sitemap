@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-09-15T14:10:25+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1537F0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0282B0S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1512W0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL152S00V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150DK0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL151M00V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL151KX0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1512A0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL151H30V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB150ICTV10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1025V0Q6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150CO0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL151J30V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL152850V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL151770V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL151B10V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1516P0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB08AFF0Y6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150BY0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0842P0Y6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB070L60X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150YJ0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150QQ0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB151010V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1512Q0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150O50V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150H40V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL145FE0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL150PX0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL151450V10C26A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1537F0V10C26A9000000/">
+    <title>カプコンの株価が続伸　「モンハンIPの再加速に期待」の声</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1537F0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T14:00:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0282B0S6A900C2000000/">
+    <title>長期金利3.025%、30年ぶり高さ続く　原油高・米金利上昇で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0282B0S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T13:57:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1512W0V10C26A9000000/">
+    <title>香港株前引け　反落、中国の内需不振を嫌気　銀行株安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1512W0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T13:16:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL152S00V10C26A9000000/">
+    <title>東証後場寄り　日経平均は上昇一服　韓国株が小幅安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL152S00V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T13:10:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150DK0V10C26A9000000/">
+    <title>債券12時50分　先物、下げ渋り　20年債入札は「無難」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150DK0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T13:09:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL151M00V10C26A9000000/">
+    <title>三越伊勢丹HDの株価反発　モルガンMUFG証券が判断最上位に上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL151M00V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T13:07:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL151KX0V10C26A9000000/">
+    <title>GO株価続伸　ウェイモと協業、27年自動運転タクシー商用化目指す</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL151KX0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T13:03:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1512A0V10C26A9000000/">
+    <title>上海株前引け　小幅続落、内需低迷を懸念　半導体は高い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1512A0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T12:49:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL151H30V10C26A9000000/">
+    <title>外為12時　円相場、下落し154円台後半　米金利上昇と実需のドル買いで</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL151H30V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T12:25:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB150ICTV10C26A9000000/">
+    <title>日経平均午前589円高、過度なAI減速論が小休止　出遅れ医薬株物色も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB150ICTV10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T12:01:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1025V0Q6A910C2000000/">
+    <title>毎月分配型投信の分配金受け取りリターン、首位は「ピクテ新興国」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1025V0Q6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150CO0V10C26A9000000/">
+    <title>東証前引け　日経平均は反発　ソフトバンクGけん引</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150CO0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:59:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL151J30V10C26A9000000/">
+    <title>商品11時30分　金が下げ幅縮小　NY相場に連動　原油は上げ幅拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL151J30V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:48:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL152850V10C26A9000000/">
+    <title>新興株前引け　グロース250が続伸　投資家心理の持ち直し映す</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL152850V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:47:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL151770V10C26A9000000/">
+    <title>トレンドマイクロ株価一時5%高　AI暴走懸念でサイバー防御に注目</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL151770V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:42:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL151B10V10C26A9000000/">
+    <title>日経平均前引け　反発　589円高の6万4082円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL151B10V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:35:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1516P0V10C26A9000000/">
+    <title>サムコの株価一時8.9%安　27年7月期最高益予想で材料出尽くし</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1516P0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:33:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB08AFF0Y6A900C2000000/">
+    <title>フィジカルAI時代に日本は輝けるか</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB08AFF0Y6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150BY0V10C26A9000000/">
+    <title>債券11時　長期金利、一時3.005%に上昇　幅広い年限に売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150BY0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:25:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0842P0Y6A900C2000000/">
+    <title>国家vsAI企業、マネー争奪　米金利に「逆クラウディングアウト」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0842P0Y6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB070L60X00C26A9000000/">
+    <title>主要企業CEOの報酬、35%増の2億円　業績連動分は6割に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB070L60X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150YJ0V10C26A9000000/">
+    <title>上海株寄り付き　続落、統計前に買い手控え　融資需要の低迷も重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150YJ0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:49:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150QQ0V10C26A9000000/">
+    <title>テラドローン、株価一時10.3%安　2~7月の赤字拡大を嫌気</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150QQ0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:49:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB151010V10C26A9000000/">
+    <title>SBエナジーの米国上場、日本で770億円募集　みずほ証券などが販売</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB151010V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:48:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1512Q0V10C26A9000000/">
+    <title>香港株寄り付き　小動き、中国統計発表前に様子見</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1512Q0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:40:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150O50V10C26A9000000/">
+    <title>レオパレス21株価がストップ高気配　光通信などがTOB</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150O50V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:40:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150H40V10C26A9000000/">
+    <title>キオクシアHD、株価反発　「ADR上場で100億ドル調達検討」報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150H40V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:36:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL145FE0U6A910C2000000/">
+    <title>外為10時　円相場、下げ幅拡大　一時154円69銭近辺　中値「ドル買い優勢」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL145FE0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:30:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL150PX0V10C26A9000000/">
+    <title>ソフトバンクG株価一時7.4%高　短期筋が買い、米半導体指数は急落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL150PX0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:27:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL151450V10C26A9000000/">
+    <title>人民元基準値、対米ドルで6.7670元　前日比で元高設定</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL151450V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-15T10:25:29+09:00</dc:date>
+  </item>
+</rdf:RDF>
