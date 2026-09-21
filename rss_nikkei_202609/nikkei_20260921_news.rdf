@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-09-21T16:11:00+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD200OY0Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR210JI0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA210KF0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD210I50R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1683X0W6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB210IW0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210HE0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2108H0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR28CJK0Y6A520C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC184TV0Y6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC242B80U6A320C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC091IB0Z00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA180VX0Y6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2104X0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2109D0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD149ES0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD110010R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2107B0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC210680R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2106A0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH2008D0Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2104T0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2103W0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOLC053Z60V00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR098I80Z00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN202DN0Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFK256KG0V21C20A2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR15BVJ0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR18BJ40Y6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC15ALL0V10C26A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD200OY0Q6A920C2000000/">
+    <title>台風25号、21日午後に関東最接近　伊豆諸島の大島町に土砂災害特別警報</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD200OY0Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T14:49:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR210JI0R20C26A9000000/">
+    <title>プーチン政権与党が大幅リード　ウクライナ侵略後初のロシア下院選</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR210JI0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T13:48:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA210KF0R20C26A9000000/">
+    <title>国民民主・玉木雄一郎代表、ウクライナを訪問　政府高官らと会談へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA210KF0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T13:25:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD210I50R20C26A9000000/">
+    <title>奥能登豪雨2年、亡き人しのび復興へ歩み　爪痕今も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD210I50R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T13:04:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1683X0W6A910C2000000/">
+    <title>茂木外相、G7外相会合や中東会合に出席へ　首相の滞在は1日強</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1683X0W6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T12:47:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB210IW0R20C26A9000000/">
+    <title>ドバイ原油・21日午前、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB210IW0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T12:28:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210HE0R20C26A9000000/">
+    <title>鎌田大地フル出場　海外サッカー、町田浩樹は1年1カ月ぶり先発</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210HE0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T12:23:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2108H0R20C26A9000000/">
+    <title>AIの事故・脅威情報、米中で相互に通知　米国が閣僚協議で提案</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2108H0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T12:02:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR28CJK0Y6A520C2000000/">
+    <title>経済困窮が縛る「アラブの盟主」　エジプト・シシ大統領</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR28CJK0Y6A520C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC184TV0Y6A910C2000000/">
+    <title>油ガス田とは　国営石油や欧米メジャーなどが権益争い</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC184TV0Y6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC242B80U6A320C2000000/">
+    <title>世界の油ガス田、25年の新規発見最低　供給源の多様化が急務に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC242B80U6A320C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC091IB0Z00C26A9000000/">
+    <title>独居高齢者900万人、パソナが見守り×家事代行でまるごと支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC091IB0Z00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA180VX0Y6A910C2000000/">
+    <title>野党「各党独自に活動を」52%「まとまるべきだ」38%　日経調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA180VX0Y6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2104X0R20C26A9000000/">
+    <title>鈴木誠也、25号ソロホームラン　レッドソックスがプレーオフ進出</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2104X0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T10:36:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2109D0R20C26A9000000/">
+    <title>佐々木朗希、救援で復帰へ　23日からのパドレス戦で</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2109D0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T10:18:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD149ES0U6A910C2000000/">
+    <title>鉄道保守工事、実物大の線路で学ぶ　愛知に巨大研修施設</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD149ES0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD110010R10C26A9000000/">
+    <title>米国が認めたホンダジェット、大企業に埋もれるイノベーターへの教訓</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD110010R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2107B0R20C26A9000000/">
+    <title>米男子ゴルフ、金谷拓実43位　優勝はブリッジマン</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2107B0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T09:35:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC210680R20C26A9000000/">
+    <title>ジャンプGP、中村優斗4位　女子の宮嶋林湖5位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC210680R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T09:11:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2106A0R20C26A9000000/">
+    <title>久保建英・佐藤龍之介、出番なし　スペイン1部</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2106A0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T09:10:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH2008D0Q6A920C2000000/">
+    <title>21日の有力馬　神戸新聞杯など競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH2008D0Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2104T0R20C26A9000000/">
+    <title>上田綺世、ゴールもリール敗戦　フランス1部</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2104T0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T08:40:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2103W0R20C26A9000000/">
+    <title>冨安健洋、ふくらはぎ痛め交代　イングランド・プレミアリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2103W0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T08:29:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOLC053Z60V00C26A8000000/">
+    <title>マンション購入、いま知るべき8つの分かれ道　専門記者が語る攻略</title>
+    <link>https://www.nikkei.com/article/DGXZQOLC053Z60V00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T06:57:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR098I80Z00C26A9000000/">
+    <title>ドイツ東部2州議会選、左派党と極右AfD躍進　メルツ与党は大きく後退</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR098I80Z00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T06:25:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN202DN0Q6A920C2000000/">
+    <title>トランプ氏、ICCへの制裁で「包括的な取引禁止」検討　WSJ報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN202DN0Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T06:06:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFK256KG0V21C20A2000000/">
+    <title>内閣支持率を追う　世論調査全データ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFK256KG0V21C20A2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T06:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR15BVJ0V10C26A9000000/">
+    <title>イエメンのフーシとは　イランが武器供給、紅海「掌握」でサウジに圧力</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR15BVJ0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR18BJ40Y6A910C2000000/">
+    <title>トルコ市場に流動性ショック　投信解約殺到、当局が異例介入</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR18BJ40Y6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC15ALL0V10C26A9000000/">
+    <title>キオクシア｢我々の仕事を知ってくれ！｣　同人誌制作で自社PR</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC15ALL0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
