@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-09-22T15:11:09+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF189KI0Y6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD220IV0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220YZ0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2000K0Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220WE0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220TC0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220R80S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220M60S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN15BB30V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220H50S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN212CR0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC220DN0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD212770R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA201PD0Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB15A7C0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA200O40Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2124F0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN220C20S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR062750W6A600C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2000I0Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB220FG0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB220EZ0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB220E40S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA212JX0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB220DO0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH211J00R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2124O0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN212DD0R20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR2206X0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1680W0W6A910C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF189KI0Y6A910C2000000/">
+    <title>エア・ウォーター、監査等委員会設置会社に　社外取締役の報酬枠2倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF189KI0Y6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T15:00:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD220IV0S6A920C2000000/">
+    <title>今夜のNEXT　フィジカルAI「最後は日本が勝つ」　最新機を生披露</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD220IV0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T15:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220YZ0S6A920C2000000/">
+    <title>佐々木朗希、負傷者リストから復帰　救援へ配置転換</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220YZ0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T14:55:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2000K0Q6A920C2000000/">
+    <title>G7外相共同声明、紅海海峡へのフーシ攻撃非難　イランに支援停止要求</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2000K0Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T14:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220WE0S6A920C2000000/">
+    <title>野球日本代表、田口壮氏がヘッドコーチ就任</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220WE0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T14:29:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220TC0S6A920C2000000/">
+    <title>なでしこジャパン、長谷川唯・長野風花ら23人選出　10月欧州遠征</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220TC0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T13:53:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220R80S6A920C2000000/">
+    <title>広島・新井貴浩監督が続投へ　オーナー明言、来季5年目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220R80S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T13:24:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220M60S6A920C2000000/">
+    <title>サッカー日本代表、冨安健洋が不参加　リーグ戦で負傷</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220M60S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T13:17:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN15BB30V10C26A9000000/">
+    <title>習近平氏、幻の11年ぶり国連演説　「対等」演出こだわった2泊3日訪米</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN15BB30V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T13:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220H50S6A920C2000000/">
+    <title>岡本和真、1安打も好機で併殺打　ブルージェイズは逆転負け</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220H50S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T12:39:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN212CR0R20C26A9000000/">
+    <title>Googleが「AIパソコン」､スマホと連携強化　海外先行で14万円台から</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN212CR0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T12:33:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC220DN0S6A920C2000000/">
+    <title>山下美夢有、5位で変わらず　女子ゴルフ世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC220DN0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T12:25:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD212770R20C26A9000000/">
+    <title>台風25号、千葉と神奈川で4人死亡　6人行方不明</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD212770R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T12:16:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA201PD0Q6A920C2000000/">
+    <title>高市首相、トランプ氏と23日未明会談へ　米中前に日本の立場説明</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA201PD0Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T12:06:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB15A7C0V10C26A9000000/">
+    <title>国内株式型投信の資金流入額　実績あるアクティブ型が健闘</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB15A7C0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA200O40Q6A920C2000000/">
+    <title>高市首相がニューヨークに到着　国連演説・トランプ米大統領と会談へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA200O40Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T11:59:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2124F0R20C26A9000000/">
+    <title>AI覇権、譲れぬ米中首脳　軍拡リスクと技術・ルール巡るつばぜり合い</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2124F0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T11:46:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN220C20S6A920C2000000/">
+    <title>SBエナジー上場の日程・価格開示せず　目論見書を修正、「延期」報道も</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN220C20S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T11:00:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR062750W6A600C2000000/">
+    <title>｢餌食にならぬ｣　UAE大統領、脱ホルムズ海峡で成長持続狙う</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR062750W6A600C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2000I0Q6A920C2000000/">
+    <title>茂木外相、ネパール外相へ洪水の支援表明　パキスタン外相とも会談</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2000I0Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB220FG0S6A920C2000000/">
+    <title>北朝鮮、20日に新型兵器試射　日本射程の極超音速弾か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB220FG0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T10:46:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB220EZ0S6A920C2000000/">
+    <title>米政権、中東再建へ1.5兆円規模の基金提案　米紙報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB220EZ0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T10:36:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB220E40S6A920C2000000/">
+    <title>ニューヨーク周辺の空港、通信障害で一時混乱　光回線を誤って切断</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB220E40S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T10:21:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA212JX0R20C26A9000000/">
+    <title>日米外相が意見交換　ICC所長制裁で「日本の立場を伝達」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA212JX0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T10:18:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB220DO0S6A920C2000000/">
+    <title>英、サウジ航空機に空中給油支援へ　フーシ派対立激化で</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB220DO0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T10:13:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH211J00R20C26A9000000/">
+    <title>22日の有力馬　JRAアニバーサリーSなど競馬予想</title>
+    <link>https://www.nikkei.com/article/DGXZQODH211J00R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T10:04:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2124O0R20C26A9000000/">
+    <title>米銀株に陰り　経営陣が業績減速に予防線、AI不安や金利上昇に警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2124O0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T09:07:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN212DD0R20C26A9000000/">
+    <title>トランプ氏「素晴らしいNY市長になって」　マムダニ氏と3回目の会談</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN212DD0R20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T09:04:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR2206X0S6A920C2000000/">
+    <title>27年のG20サミット、英マンチェスターで開催　バーナム首相の地元</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR2206X0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T08:08:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1680W0W6A910C2000000/">
+    <title>日米韓外相、次世代原発の第三国導入へ声明　北朝鮮の非核化も確認</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1680W0W6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T08:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
