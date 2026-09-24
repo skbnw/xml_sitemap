@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/economy.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Feconomy.rdf">
+    <title>日経新聞 政治・経済</title>
+    <link>https://www.nikkei.com/news/category/economy/</link>
+    <description>日経新聞の政治・経済に関するフィードをお届けします。</description>
+    <dc:date>2026-09-24T14:10:43+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA047DD0U6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2838D0Y6A820C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA028SK0S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB217KU0R20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN232R60T20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR232GV0T20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR222BN0S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD172X20X10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA076C00X00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA153QK0V10C26A6000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA191CM0Z10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA290A20Z20C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA02BER0S6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA107QK0Q6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB0123E0R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1157N0R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB156XO0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD154L90V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM200QG0Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA036VV0T00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1578H0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA200930Q6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK152070V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA097150Z00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1226R0S6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1686O0W6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD073GL0X00C26A8000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB118J50R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD086N60Y6A900C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD160I50W6A810C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA047DD0U6A900C2000000/">
+    <title>次世代の量子計算機「誤り耐性型」実用化へ　経産省、ソフトも支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA047DD0U6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-24T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2838D0Y6A820C2000000/">
+    <title>パートの給与変動、社会保険料への反映にズレ　経済団体が是正要望</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2838D0Y6A820C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA028SK0S6A900C2000000/">
+    <title>廃プラ入札で「高品質」枠、28年度新設へ　車向け再生材など需要拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA028SK0S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB217KU0R20C26A8000000/">
+    <title>直言居士の大酒飲み　日銀国際局長・河西慎</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB217KU0R20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN232R60T20C26A9000000/">
+    <title>9月の米製造業景況感、4年4カ月ぶり高水準　価格指数も上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN232R60T20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-24T00:52:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR232GV0T20C26A9000000/">
+    <title>ユーロ圏景況感、3年半ぶり高水準　AI・防衛投資が追い風</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR232GV0T20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-24T00:30:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR222BN0S6A920C2000000/">
+    <title>2027年のG20インフレ率3.6%に引き上げ　OECD予測、資源高を反映</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR222BN0S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-23T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD172X20X10C26A9000000/">
+    <title>前年の所得情報は古すぎる　所得連動給付、必要なのはリアルタイム把握</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD172X20X10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA076C00X00C26A9000000/">
+    <title>国が作ったコメ価格の目安指標、初年度は「実り」乏しく　実態から乖離</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA076C00X00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T19:27:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA153QK0V10C26A6000000/">
+    <title>市販解禁の緊急避妊薬、取扱店数に地域差　医療機関との連携ネックに</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA153QK0V10C26A6000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T17:51:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA191CM0Z10C26A9000000/">
+    <title>独身者の苦悩　偏る残業や転勤、税・社会保障も「家族ありき」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA191CM0Z10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA290A20Z20C26A8000000/">
+    <title>感染症対策訓練、地域差浮き彫り　国が要領・ひな型示し底上げ図る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA290A20Z20C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-22T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA02BER0S6A900C2000000/">
+    <title>ワクチン国内生産維持、厚労省が法改正検討　平時の感染症薬収入も保証</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA02BER0S6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T18:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA107QK0Q6A910C2000000/">
+    <title>入国時の税関「荷物持ったまま」検査　ゲート式を27年度に導入検討</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA107QK0Q6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T17:33:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB0123E0R00C26A9000000/">
+    <title>金融庁、地銀の大口融資規制を緩和　AIや再エネへの資金供給拡大へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB0123E0R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T17:26:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1157N0R10C26A9000000/">
+    <title>GPIF運用好調、「年金増」アピールの厚労省　背景に政治への警戒</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1157N0R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB156XO0V10C26A9000000/">
+    <title>利上げ加速で始まる銀行選別　信金の嘆き「天井まで耐えられるのか」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB156XO0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD154L90V10C26A9000000/">
+    <title>「世界で広がる魚食、輸入単価高騰」　ウミオス社長が語る水産物と景気</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD154L90V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-21T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM200QG0Q6A920C2000000/">
+    <title>日ASEAN経済相会合、EPA改定へ共同研究で合意　供給網を強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM200QG0Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-20T21:15:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA036VV0T00C26A9000000/">
+    <title>築古物件リノベーションに優遇融資　賃貸流通促す新制度、国交省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA036VV0T00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-20T17:01:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1578H0V10C26A9000000/">
+    <title>高齢者人口2年ぶり増の3624万人、働く人は最多943万人　総務省推計</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1578H0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-20T17:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA200930Q6A920C2000000/">
+    <title>藤井比早之総務相、副首都「複数都市を検討」　大阪ありき否定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA200930Q6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-20T11:12:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK152070V10C26A9000000/">
+    <title>米国の「ガイアツ」にどう向き合うか　国益ふまえ政策熟考を</title>
+    <link>https://www.nikkei.com/article/DGXZQODK152070V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-20T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA097150Z00C26A9000000/">
+    <title>言い訳に使われた規制委　廃液処理でさらに遅れる再処理工場の完成</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA097150Z00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1226R0S6A910C2000000/">
+    <title>「望まぬ利上げ加速」招いた高市財政　市場混乱で沈黙、危うい同床異夢</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1226R0S6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-20T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1686O0W6A910C2000000/">
+    <title>消費税減税、レッドブル1%でもリポDは10%　「食品」かどうかで差</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1686O0W6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD073GL0X00C26A8000000/">
+    <title>誤情報が氾濫、世界の感染症対策滞る　「日本は漫画と防災で貢献を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD073GL0X00C26A8000000/</link>
+    <description></description>
+    <dc:date>2026-09-19T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB118J50R10C26A9000000/">
+    <title>日銀利上げ、20〜30代は年2万円超の負担増　住宅ローンかさむ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB118J50R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-19T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD086N60Y6A900C2000000/">
+    <title>離島の輸血、危機的状況　備蓄所撤退や規制でギリギリの救命</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD086N60Y6A900C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-19T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD160I50W6A810C2000000/">
+    <title>今日も生きていた　「がんで余命1年」から8年、闘病経験を未来につなぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD160I50W6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-19T02:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
