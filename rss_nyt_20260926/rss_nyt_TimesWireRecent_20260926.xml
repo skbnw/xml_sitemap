@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Most Recent Headlines</title>
+    <link>https://www.nytimes.com/timeswire</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/recent.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Sat, 26 Sep 2026 11:55:27 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 11:51:35 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Most Recent Headlines</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/timeswire</link>
+    </image>
+    <item>
+      <title>The W.N.B.A. Should Take Care of Its Own</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/wnba-playoffs-culture-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/wnba-playoffs-culture-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/wnba-playoffs-culture-war.html" rel="standout"></atom:link>
+      <description>The league has an invaluable opportunity right now; it can be a reflection of the world as it could be, not merely as it is.</description>
+      <dc:creator>Roxane Gay</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 11:02:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clark, Caitlin (2002- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cunningham, Sophie (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Engelbert, Catherine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chicago Sky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indiana Fever</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Collegiate Athletic Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phoenix Mercury</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kanter, Enes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ogwumike, Nnemkadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reese, Angel (2002- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leavitt, Karoline</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/26gay-lfcm/26gay-lfcm-thumbStandard.jpg" width="75">
+        <media:credit>Elle Perez for The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Has A.I. Become Too Big to Fail? Or Is It Something Worse?</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html" rel="standout"></atom:link>
+      <description>It’s as though 2008 never even happened.</description>
+      <dc:creator>Bethany McLean</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 11:50:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subprime Mortgage Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/opinion/26mclean-image/26mclean-image-thumbStandard.png" width="75">
+        <media:credit>Illustration by Olivia James/The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>The W.N.B.A. Is More Than a Culture War</title>
+      <link>https://www.nytimes.com/video/opinion/100000011173829/the-wnba-is-more-than-a-culture-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/opinion/100000011173829/the-wnba-is-more-than-a-culture-war.html</guid>
+      <atom:link href="https://www.nytimes.com/video/opinion/100000011173829/the-wnba-is-more-than-a-culture-war.html" rel="standout"></atom:link>
+      <description>Racism and transphobia are distorting the conversation around the W.N.B.A. The contributing Opinion writer Roxane Gay argues that the league must continue its tradition of standing up for social issues. And, of course, keep the focus on basketball.</description>
+      <pubDate>Sat, 26 Sep 2026 11:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cunningham, Sophie (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gay, Roxane</category>
+    </item>
+    <item>
+      <title>The Four TV Shows That Heralded America’s Fall</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/best-tv-shows-sopranos-breaking-bad-wire-mad-men.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/best-tv-shows-sopranos-breaking-bad-wire-mad-men.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/best-tv-shows-sopranos-breaking-bad-wire-mad-men.html" rel="standout"></atom:link>
+      <description>Four TV shows, now acknowledged as the medium’s high point, each cannily predicted the ways in which America would start to crack apart.</description>
+      <dc:creator>Stephen Marche</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 11:51:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mad Men (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Sopranos (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Wire (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Breaking Bad (TV Program)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/opinion/26marche-image/26marche-image-thumbStandard-v2.jpg" width="75">
+        <media:credit>Photo illustration by Rebecca Chew/The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘The MAGA Flag Is in Tatters’</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/midterm-elections-midwest-political-realignment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/midterm-elections-midwest-political-realignment.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/midterm-elections-midwest-political-realignment.html" rel="standout"></atom:link>
+      <description>This week in politics: Midwest realignment and what’s next for conservatives.</description>
+      <dc:creator>Robert Siegel, E.J. Dionne Jr., Timothy P. Carney and Derek Arthur</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 11:32:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evangelical Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suburbs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Transition (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Enterprise Institute for Public Policy Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beshear, Andrew G (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Sherrod</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harkin, Tom</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/opinion/26opinions-roundtable-horizontal-image/26opinions-roundtable-horizontal-image-thumbStandard-v2.png" width="75">
+        <media:credit>The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>The U.N. Is Terrible. We Need the U.N.</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/un-united-nations-failure.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/un-united-nations-failure.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/un-united-nations-failure.html" rel="standout"></atom:link>
+      <description>Trump’s attack on global institutions leaves us helpless before a growing array of challenges.</description>
+      <dc:creator>Nicholas Kristof</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 11:05:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clooney, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murad, Nadia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Why Do Clinical Trials for Cancer Drugs Take So Long?</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/clinical-trials-cancer-drugs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/clinical-trials-cancer-drugs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/clinical-trials-cancer-drugs.html" rel="standout"></atom:link>
+      <description>Readers respond to a guest essay about the costs and delays in getting experimental treatments to patients.</description>
+      <pubDate>Sat, 26 Sep 2026 11:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Hold My Hand, Warm My Heart</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/holding-hands-love.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/holding-hands-love.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/holding-hands-love.html" rel="standout"></atom:link>
+      <description>Two of the things that count most in life are love and usefulness. Holding hands offers both.</description>
+      <dc:creator>Roger Rosenblatt</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 11:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greeting Gestures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cage, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cher (1946- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+    </item>
+    <item>
+      <title>The W.N.B.A. Is More Than a Culture War</title>
+      <link>https://www.nytimes.com/video/opinion/100000011165185/the-wnba-is-more-than-a-culture-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/opinion/100000011165185/the-wnba-is-more-than-a-culture-war.html</guid>
+      <atom:link href="https://www.nytimes.com/video/opinion/100000011165185/the-wnba-is-more-than-a-culture-war.html" rel="standout"></atom:link>
+      <description>Racism and transphobia are distorting the conversation around the W.N.B.A. The contributing Opinion writer Roxane Gay argues that the league must continue its tradition of standing up for social issues. And, of course, keep the focus on basketball.</description>
+      <pubDate>Sat, 26 Sep 2026 11:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+    </item>
+    <item>
+      <title>Will the Midterms Bring a Political Realignment?</title>
+      <link>https://www.nytimes.com/video/opinion/100000011172467/will-the-midterms-bring-a-political-realignment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/opinion/100000011172467/will-the-midterms-bring-a-political-realignment.html</guid>
+      <atom:link href="https://www.nytimes.com/video/opinion/100000011172467/will-the-midterms-bring-a-political-realignment.html" rel="standout"></atom:link>
+      <description>This week in politics: Midwest realignment and what’s next for conservatives.</description>
+      <pubDate>Sat, 26 Sep 2026 10:55:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/opinion/26opinions-roundtable-horizontal-image/26opinions-roundtable-horizontal-image-thumbStandard-v2.png" width="75">
+        <media:credit>The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>My Sister-in-Law Makes Family Vacations a Nightmare. Can We Stop Inviting Her?</title>
+      <link>https://www.nytimes.com/2026/09/26/magazine/family-vacation-nightmare-ethics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/magazine/family-vacation-nightmare-ethics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/magazine/family-vacation-nightmare-ethics.html" rel="standout"></atom:link>
+      <description>She wants to be liked and included, but her behavior is often confrontational and defensive.</description>
+      <dc:creator>Kwame Anthony Appiah</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 10:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
+    </item>
+    <item>
+      <title>Special Edition: Our Interview With Mark Carney</title>
+      <link>https://www.nytimes.com/2026/09/26/world/canada/carney-interview-canada-us-trump-trade.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/world/canada/carney-interview-canada-us-trump-trade.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/world/canada/carney-interview-canada-us-trump-trade.html" rel="standout"></atom:link>
+      <description>Ten New York Times journalists and editors interviewed the Canadian prime minister for an hour at The Times office in New York on Wednesday. Here’s what we learned.</description>
+      <dc:creator>Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 10:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-canada-letter-flzv/29int-canada-letter-flzv-thumbStandard.jpg" width="75">
+        <media:credit>Daniel Berehulak/The New York Times</media:credit>
+        <media:description>A portrait session at The New York Times with Canadian Prime Minister Mark Carney on Wednesday.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>NYT Connections Answers for September 27, 2026</title>
+      <link>https://www.nytimes.com/2026/09/26/crosswords/connections-companion-1204.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/crosswords/connections-companion-1204.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/crosswords/connections-companion-1204.html" rel="standout"></atom:link>
+      <description>Scroll down for hints and conversation about the puzzle for Sunday, Sept. 27, 2026.</description>
+      <dc:creator>New York Times Games</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 10:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Connections (Game)</category>
+    </item>
+    <item>
+      <title>Today’s Wordle Hints for September 27, 2026</title>
+      <link>https://www.nytimes.com/2026/09/26/crosswords/wordle-review-1926.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/crosswords/wordle-review-1926.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/crosswords/wordle-review-1926.html" rel="standout"></atom:link>
+      <description>Scroll down for hints and conversation about the puzzle for Sunday, Sept. 27, 2026.</description>
+      <dc:creator>New York Times Games</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 10:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wordle (Puzzle)</category>
+    </item>
+    <item>
+      <title>NYT Strands Hints for September 27, 2026</title>
+      <link>https://www.nytimes.com/2026/09/26/crosswords/strands-sidekick-938.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/crosswords/strands-sidekick-938.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/crosswords/strands-sidekick-938.html" rel="standout"></atom:link>
+      <description>Scroll down for hints and conversation about the puzzle for Sunday, Sept. 27, 2026.</description>
+      <dc:creator>New York Times Games</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 10:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Strands (Game)</category>
+    </item>
+    <item>
+      <title>Live Updates: Powerful Nor’easter Bears Down on East Coast</title>
+      <link>https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston" rel="standout"></atom:link>
+      <description>Rain, flooding and damaging winds are in the forecast for much of the coastal Northeast, including New York, Long Island and Boston.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 11:29:03 +0000</pubDate>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/25/multimedia/26-noreaster-promo-start/25met-noreaster-jargon-01-mcbh-thumbStandard.jpg" width="75">
+        <media:credit>Agence France-Presse, via NOAA</media:credit>
+        <media:description>Satellite imagery shows the nor’easter formation over the Northeast coast on Friday.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Free Rein</title>
+      <link>https://www.nytimes.com/2026/09/26/briefing/free-rein.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/briefing/free-rein.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/briefing/free-rein.html" rel="standout"></atom:link>
+      <description>Fall weekends bring an imperative to get things done, but we need not over-engineer our days to get the most out of them.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 10:27:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+    </item>
+    <item>
+      <title>Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.</title>
+      <link>https://www.nytimes.com/2026/09/26/magazine/sylvester-stallone-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/magazine/sylvester-stallone-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/magazine/sylvester-stallone-interview.html" rel="standout"></atom:link>
+      <description>The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself.</description>
+      <dc:creator>Lulu Garcia-Navarro</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:15:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academy Awards (Oscars)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwarzenegger, Arnold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stallone, Sylvester</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Rocky (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Rambo (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">First Blood (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">MEMOIRS (BOOK)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Body Building</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steroids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Cop Land (Movie)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/10/04/magazine/04mag-interview-stallone-05/04mag-interview-stallone-05-thumbStandard.jpg" width="75">
+        <media:credit>Philip Montgomery for The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Milwaukee Museum Returns Pots by Enslaved Artist David Drake to Family</title>
+      <link>https://www.nytimes.com/2026/09/26/arts/design/milwaukee-museum-returns-pots-by-enslaved-artist-david-drake-to-family.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/arts/design/milwaukee-museum-returns-pots-by-enslaved-artist-david-drake-to-family.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/arts/design/milwaukee-museum-returns-pots-by-enslaved-artist-david-drake-to-family.html" rel="standout"></atom:link>
+      <description>The museum restituted two of Drake’s stoneware jars to his heirs, but has found a way to keep both on display. It joins a growing number of institutions that are returning his work to his heirs.</description>
+      <dc:creator>Jori Finkel</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:03:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ceramics and Pottery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Drake, David (Dave the Potter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Theaster</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sajet, Kim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
+    </item>
+    <item>
+      <title>A 7-Day Standoff That Said So Much About Trump and the Media</title>
+      <link>https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html" rel="standout"></atom:link>
+      <description>An abrupt decree, a network boycott, a legal intervention and an uneasy détente: This was no typical battle between a president and his press corps.</description>
+      <dc:creator>Michael M. Grynbaum</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:03:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MS NOW</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politico, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/25/multimedia/25biz-trump-media-vbjf/25biz-trump-media-vbjf-thumbStandard.jpg" width="75">
+        <media:credit>Doug Mills/The New York Times</media:credit>
+        <media:description>The press pool, without network TV cameras, gathered for a White House welcoming ceremony for President Xi Jinping of China and his wife on Thursday.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Rahm Emanuel Makes His 2026 Play</title>
+      <link>https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html" rel="standout"></atom:link>
+      <description>The longtime Democratic insider has emerged as a behind-the-scenes force in his party’s push to win back Congress. After that, he’ll think about 2028.</description>
+      <dc:creator>Shane Goldmacher</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:02:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Rahm</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26pol-rahm-emanuel-midterms-ftqj/26pol-rahm-emanuel-midterms-ftqj-thumbStandard.jpg" width="75">
+        <media:credit>Lexi Parra/The New York Times</media:credit>
+        <media:description>Rahm Emanuel, the former Chicago mayor and chief of staff to President Barack Obama, has been recruiting Democratic House candidates and helping to guide their campaigns.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Arthur Hancock III, Derby Breeder With a Flair for Bluegrass, Dies at 83</title>
+      <link>https://www.nytimes.com/2026/09/26/sports/arthur-hancock-horse-racing-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/sports/arthur-hancock-horse-racing-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/sports/arthur-hancock-horse-racing-dead.html" rel="standout"></atom:link>
+      <description>He raised more than one Kentucky Derby champion and wrote music recorded by the likes of Willie Nelson. He also spoke out against abuses in horse racing.</description>
+      <dc:creator>Joe Drape</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hancock, Arthur B. III (1943-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horse Racing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kentucky Derby</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doping (Sports)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Museum of Racing and Hall of Fame</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breeding of Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Claiborne Farm</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (Ky)</category>
+    </item>
+    <item>
+      <title>High Gas and Rising Mortgage Rates Trouble Trump as Midterms Near</title>
+      <link>https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html" rel="standout"></atom:link>
+      <description>As the president extolled the strength of the economy on the global stage, Americans continued to feel the sting of rising prices stemming from the war in Iran.</description>
+      <dc:creator>Tony Romm</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26dc-trumpecon-01-hcvk/26dc-trumpecon-01-hcvk-thumbStandard.jpg" width="75">
+        <media:credit>Wayan Barre for The New York Times</media:credit>
+        <media:description>The average 30-year, fixed-rate mortgage rate rose to over 7 percent this week.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Sylvester Stallone on His Fight to Play Rocky</title>
+      <link>https://www.nytimes.com/video/podcasts/100000011167471/sylvester-stallone-on-his-fight-to-play-rocky.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/podcasts/100000011167471/sylvester-stallone-on-his-fight-to-play-rocky.html</guid>
+      <atom:link href="https://www.nytimes.com/video/podcasts/100000011167471/sylvester-stallone-on-his-fight-to-play-rocky.html" rel="standout"></atom:link>
+      <description>Why did a young Sylvester Stallone insist on playing the lead role in “Rocky”? He talked about his mindset on “The Interview.”</description>
+      <pubDate>Sat, 26 Sep 2026 09:01:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stallone, Sylvester</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Rocky (Movie)</category>
+    </item>
+    <item>
+      <title>‘It Was Insane’: Sylvester Stallone on His Abusive Father</title>
+      <link>https://www.nytimes.com/video/podcasts/100000011166200/it-was-insane-sylvester-stallone-on-his-abusive-father.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/podcasts/100000011166200/it-was-insane-sylvester-stallone-on-his-abusive-father.html</guid>
+      <atom:link href="https://www.nytimes.com/video/podcasts/100000011166200/it-was-insane-sylvester-stallone-on-his-abusive-father.html" rel="standout"></atom:link>
+      <description>“There were some times I’ll never forget.” On “The Interview,” Sylvester Stallone talked about life with his violent father.</description>
+      <pubDate>Sat, 26 Sep 2026 09:01:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="">Masculinity</category>
+    </item>
+    <item>
+      <title>‘It Really Hurt Me’: Sylvester Stallone on His Mother Not Attending the Oscars</title>
+      <link>https://www.nytimes.com/video/podcasts/100000011166197/it-really-hurt-me-sylvester-stallone-on-his-mother-not-attending-the-oscars.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/podcasts/100000011166197/it-really-hurt-me-sylvester-stallone-on-his-mother-not-attending-the-oscars.html</guid>
+      <atom:link href="https://www.nytimes.com/video/podcasts/100000011166197/it-really-hurt-me-sylvester-stallone-on-his-mother-not-attending-the-oscars.html" rel="standout"></atom:link>
+      <description>In 1977, Sylvester Stallone was nominated for two Academy Awards for “Rocky,” but his mother chose not to attend the ceremony. He talked about that experience on “The Interview.”</description>
+      <pubDate>Sat, 26 Sep 2026 09:01:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academy Awards (Oscars)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stallone, Sylvester</category>
+    </item>
+    <item>
+      <title>Sylvester Stallone on Arnold Schwarzenegger: ‘We Almost Came to Blows’</title>
+      <link>https://www.nytimes.com/video/podcasts/100000011166186/sylvester-stallone-on-arnold-schwarzenegger-we-almost-came-to-blows.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/podcasts/100000011166186/sylvester-stallone-on-arnold-schwarzenegger-we-almost-came-to-blows.html</guid>
+      <atom:link href="https://www.nytimes.com/video/podcasts/100000011166186/sylvester-stallone-on-arnold-schwarzenegger-we-almost-came-to-blows.html" rel="standout"></atom:link>
+      <description>“He was a thorn in my side.” Sylvester Stallone talked about his former nemesis Arnold Schwarzenegger on “The Interview.”</description>
+      <pubDate>Sat, 26 Sep 2026 09:01:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwarzenegger, Arnold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stallone, Sylvester</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title>Lola Petticrew Has Taken on the Troubles, Twice</title>
+      <link>https://www.nytimes.com/2026/09/26/arts/television/lola-petticrew-furious-say-nothing-trespasses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/arts/television/lola-petticrew-furious-say-nothing-trespasses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/arts/television/lola-petticrew-furious-say-nothing-trespasses.html" rel="standout"></atom:link>
+      <description>Before playing a mesmerizing serial killer in “Furious,” the Belfast performer starred in two series set during the bloody conflict in Northern Ireland.</description>
+      <dc:creator>Mike Hale</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Furious (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Say Nothing (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Trespasses (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petticrew, Lola</category>
+    </item>
+    <item>
+      <title>Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.</title>
+      <link>https://www.nytimes.com/video/podcasts/100000011166181/sylvester-stallone-hid-his-struggles-for-decades-now-hes-coming-clean.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/podcasts/100000011166181/sylvester-stallone-hid-his-struggles-for-decades-now-hes-coming-clean.html</guid>
+      <atom:link href="https://www.nytimes.com/video/podcasts/100000011166181/sylvester-stallone-hid-his-struggles-for-decades-now-hes-coming-clean.html" rel="standout"></atom:link>
+      <description>Now 80, the actor and filmmaker is ready to examine his own life, his work and the impact it has had on our culture.</description>
+      <pubDate>Sat, 26 Sep 2026 09:01:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stallone, Sylvester</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Rocky (Movie)</category>
+    </item>
+    <item>
+      <title>Taylor Swift’s ‘Patient Zero’ and 9 More Songs to Hear</title>
+      <link>https://www.nytimes.com/2026/09/26/arts/music/patient-zero-taylor-swift-madonna-playlist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/arts/music/patient-zero-taylor-swift-madonna-playlist.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/arts/music/patient-zero-taylor-swift-madonna-playlist.html" rel="standout"></atom:link>
+      <description>Taylor Swift offers sympathetic advice, Madonna and Charli XCX reminisce, U2 blasts garage-rock and more.</description>
+      <dc:creator>Jon Pareles</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ezra Collective (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">U2 (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bridgers, Phoebe (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charli XCX</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crow, Sheryl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giddens, Rhiannon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Madonna</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oladokun, Joy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">A.G. Sully</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26cul-songs-vchw/26cul-songs-vchw-thumbStandard.jpg" width="75">
+        <media:credit>Kena Betancur / AFP, via Getty Images</media:credit>
+        <media:description>Taylor Swift’s “The Life of a Showgirl: The Encore” includes “Patient Zero” and three more new songs.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>How Do I Find the Right Continuing Care Facility for Me?</title>
+      <link>https://www.nytimes.com/2026/09/26/realestate/how-do-i-find-the-right-continuing-care-facility-for-me.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/realestate/how-do-i-find-the-right-continuing-care-facility-for-me.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/realestate/how-do-i-find-the-right-continuing-care-facility-for-me.html" rel="standout"></atom:link>
+      <description>Paying more upfront can shift more of the risk of your future health care costs to the community, said a lawyer who practices elder law.</description>
+      <dc:creator>Jill Terreri Ramos</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/27/realestate/26re-ask-senior-housing/26re-ask-senior-housing-thumbStandard.jpg" width="75">
+        <media:credit>Nadia Pillon</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>California Needs Water. El Niño Might Bring Too Much.</title>
+      <link>https://www.nytimes.com/2026/09/26/climate/el-nino-california-water-drought.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/climate/el-nino-california-water-drought.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/climate/el-nino-california-water-drought.html" rel="standout"></atom:link>
+      <description>The drought-stricken state has improved its ability to collect and store rainwater. But many gallons may still rush into the Pacific.</description>
+      <dc:creator>Scott Dance</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservoirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/25/climate/CLI-ELNINO-WATER/CLI-ELNINO-WATER-thumbStandard.jpg" width="75">
+        <media:credit>Getty Images</media:credit>
+        <media:description>Gov. Gavin Newsom of California has declared a state of emergency to mobilize disaster resources before El Niño peaks. </media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>What’s This ‘S.N.L’ Star’s Next Move Beyond Trump? A New Comedy Special.</title>
+      <link>https://www.nytimes.com/2026/09/26/arts/television/snl-james-austin-johnson-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/arts/television/snl-james-austin-johnson-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/arts/television/snl-james-austin-johnson-trump.html" rel="standout"></atom:link>
+      <description>Johnson found fame playing President Trump on “S.N.L.” He hopes a new comedy special shows he has more to offer than just impersonations.</description>
+      <dc:creator>Dave Itzkoff and Mark Sommerfeld</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, James Austin (1989- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Saturday Night Live (TV Program)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04cul-james-austin-johnson-promo/04cul-james-austin-johnson-promo-thumbStandard.jpg" width="75">
+        <media:credit>Mark Sommerfeld for The New York Times</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Intentional Communities Sprout in the Wake of the Housing Crisis</title>
+      <link>https://www.nytimes.com/2026/09/26/headway/housing-community-veterans-homelessness.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/headway/housing-community-veterans-homelessness.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/headway/housing-community-veterans-homelessness.html" rel="standout"></atom:link>
+      <description>New developments around the United States are experimenting with different ways people can live together.</description>
+      <dc:creator>Lucy Tompkins</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-phil</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/17/multimedia/00hy-sidebar-gkmv/00hy-sidebar-gkmv-thumbStandard.jpg" width="75">
+        <media:credit>Eli Durst for The New York Times</media:credit>
+        <media:description>Community First! Village in Austin, Texas. It aims to be a model of permanent affordable housing for people who are chronically homeless.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>VoteVets Spends Millions to Elect Democrats, Shaping Midterms</title>
+      <link>https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html" rel="standout"></atom:link>
+      <description>The organization, founded in 2006 to back Democratic veterans opposing the Iraq war, is pouring huge sums into this year’s elections amid intense voter antipathy for another conflict in the Middle East.</description>
+      <dc:creator>Annie Karni</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">VoteVets Political Action Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Soltz, Jon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-votevets--01-ctkq/24dc-votevets--01-ctkq-thumbStandard.jpg" width="75">
+        <media:credit>KC McGinnis for The New York Times</media:credit>
+        <media:description>Josh Turek, a Democratic candidate for Senate, received $9.7 million on digital and television advertising from VoteVets.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Book Review: ‘Mestra,’ by Madeline Miller</title>
+      <link>https://www.nytimes.com/2026/09/26/books/review/mestra-madeline-miller.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/books/review/mestra-madeline-miller.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/books/review/mestra-madeline-miller.html" rel="standout"></atom:link>
+      <description>In “Mestra,” Madeline Miller follows the daughter of the king of Thessaly on her endless, self-destructive quest to satisfy her insatiable father.</description>
+      <dc:creator>Jennifer Harlan</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Myths and Mythical Creatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Madeline (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ovid (43 BC-AD 17/18)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mestra (Book)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/29/books/29TBR-Miller-review/29TBR-Miller-review-thumbStandard.jpg" width="75">
+        <media:credit>Nina Izycka</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Bobby Pulido, a Texan Singer, Puts Republicans on Defense</title>
+      <link>https://www.nytimes.com/2026/09/26/us/politics/bobby-pulido-texas-house-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/us/politics/bobby-pulido-texas-house-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/us/politics/bobby-pulido-texas-house-race.html" rel="standout"></atom:link>
+      <description>Bobby Pulido, a Tejano musician running as a Democrat for the House, has left his Republican opponent struggling to match his star power in a district that President Trump won easily in 2024.</description>
+      <dc:creator>Bayliss Wagner</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pulido, Bobby</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Cruz, Monica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande Valley (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Latin Music</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26pol-pulido-01-vmhw/26pol-pulido-01-vmhw-thumbStandard.jpg" width="75">
+        <media:credit>Gabriel V. Cárdenas for The New York Times</media:credit>
+        <media:description>Bobby Pulido is running for a House seat anchored in the Rio Grande Valley of Texas. President Trump won the district by 18 percentage points in 2024, but it is now seen as competitive. </media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>A Shrinking Work Force Is Changing the C.D.C.</title>
+      <link>https://www.nytimes.com/video/us/100000011151011/a-shrinking-work-force-is-changing-the-cdc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/100000011151011/a-shrinking-work-force-is-changing-the-cdc.html</guid>
+      <atom:link href="https://www.nytimes.com/video/us/100000011151011/a-shrinking-work-force-is-changing-the-cdc.html" rel="standout"></atom:link>
+      <description>The Centers for Disease Control and Prevention has lost close to 30 percent of its staff in the past year, with big turnover in top leadership and entire teams effectively shut down. Our health reporter Apoorva Mandavilli explains how these changes have affected the work of the department.</description>
+      <dc:creator>Apoorva Mandavilli, Alexandra Ostasiewicz, Rafaela Balster, Arfa Momin, Edward Vega and James Surdam</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+    </item>
+    <item>
+      <title>‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission</title>
+      <link>https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html" rel="standout"></atom:link>
+      <description>The agency has lost its independence and nearly a third of its staff, as Health Secretary Robert F. Kennedy Jr. and associates have tightened control.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/00dc-cdc-02-wtpc/00dc-cdc-02-wtpc-thumbStandard.jpg" width="75">
+        <media:credit>Elijah Nouvelage/Getty Images</media:credit>
+        <media:description>A protest outside the Centers for Disease Control and Prevention last year after employees were laid off. Beyond staff reductions, the agency also faces a leadership vacuum.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>This Screw Is Needed for Missiles and Planes. Buying One Can Take Years.</title>
+      <link>https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html" rel="standout"></atom:link>
+      <description>As the Trump administration scrambles to increase the production of munitions, these special screws are expensive and hard to source.</description>
+      <dc:creator>Farah Stockman and Nic Antaya</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lockheed Martin Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Northrop Grumman Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bay City (Mich)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saginaw (Mich)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/21/multimedia/21biz-Ball-Screws-2-blmh/21biz-Ball-Screws-2-blmh-thumbStandard.jpg" width="75">
+        <media:description>A ball screw prototype designed by Saginaw Precision, based Michigan. Only a handful of American companies are capable of making these screws for the U.S. military. </media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Why Some Couples Are Hiring Concierges Just for Their Guests</title>
+      <link>https://www.nytimes.com/2026/09/26/style/wedding-concierges-for-guests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/style/wedding-concierges-for-guests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/style/wedding-concierges-for-guests.html" rel="standout"></atom:link>
+      <description>Couples who want their guests to feel taken care of throughout their celebrations are hiring concierges to book travel arrangements, organize excursions and even handle last-minute requests.</description>
+      <dc:creator>Shivani Vora</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:01:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+    </item>
+    <item>
+      <title>In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life</title>
+      <link>https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html" rel="standout"></atom:link>
+      <description>A scrappy science project led to a significant discovery: two new species of a rare organism that could elucidate a fundamental transition in the history of life on our planet.</description>
+      <dc:creator>Carolyn Y. Johnson</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Science Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+    </item>
+    <item>
+      <title>Book Review: ‘Dodge City,’ by Patrick deWitt</title>
+      <link>https://www.nytimes.com/2026/09/26/books/review/dodge-city-patrick-dewitt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/books/review/dodge-city-patrick-dewitt.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/books/review/dodge-city-patrick-dewitt.html" rel="standout"></atom:link>
+      <description>“Dodge City,” by Patrick deWitt, follows a young man on a road trip to Canada to avoid conscription in Vietnam.</description>
+      <dc:creator>Andrew Martin</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeWitt, Patrick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dodge City (Book)</category>
+    </item>
+    <item>
+      <title>Pearl Jam’s Bass Player Is a Style Innovator</title>
+      <link>https://www.nytimes.com/2026/09/26/style/pearl-jam-jeff-ament-grunge-fashion-1990s.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/style/pearl-jam-jeff-ament-grunge-fashion-1990s.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/style/pearl-jam-jeff-ament-grunge-fashion-1990s.html" rel="standout"></atom:link>
+      <description>Fun hats. Layers. A blend of punk and jock fashions. A new book reveals Jeff Ament’s influence on a ’90s look that swept the nation.</description>
+      <dc:creator>Steven Kurutz</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Nineties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pearl Jam (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ament, Jeff</category>
+    </item>
+    <item>
+      <title>Sizzling New Romance Books</title>
+      <link>https://www.nytimes.com/2026/09/26/books/review/new-romance-books.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/books/review/new-romance-books.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/books/review/new-romance-books.html" rel="standout"></atom:link>
+      <description>Our columnist on three books worth your time.</description>
+      <dc:creator>Olivia Waite</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">genre-books-romance</category>
+    </item>
+    <item>
+      <title>People Are Putting Their Phones Down for IRL Interactive Games</title>
+      <link>https://www.nytimes.com/2026/09/26/style/immersive-interactive-games-chicago-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/style/immersive-interactive-games-chicago-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/style/immersive-interactive-games-chicago-new-york.html" rel="standout"></atom:link>
+      <description>Games have come a long way from being played on tables, computer screens and phones. Now, we can go inside them.</description>
+      <dc:creator>Danielle Braff</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+    </item>
+    <item>
+      <title>The Homeless Community in Portland That Became Self-Governed</title>
+      <link>https://www.nytimes.com/2026/09/26/headway/portland-diginity-village-homeless-community.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/headway/portland-diginity-village-homeless-community.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/headway/portland-diginity-village-homeless-community.html" rel="standout"></atom:link>
+      <description>Portland’s Dignity Village has been a place for people without housing for more than 25 years.</description>
+      <dc:creator>Brian Barth and Ricardo Nagaoka</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-phil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/09/multimedia/00hw-dignity-village-01-mkfh/00hw-dignity-village-01-mkfh-thumbStandard.jpg" width="75">
+        <media:description>A Dignity Village council meeting.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Jake Shears Loves a Scary Book. And Video Game. And Musical.</title>
+      <link>https://www.nytimes.com/2026/09/26/theater/jake-shears-scissor-sisters-rocky-horror-broadway.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/theater/jake-shears-scissor-sisters-rocky-horror-broadway.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/theater/jake-shears-scissor-sisters-rocky-horror-broadway.html" rel="standout"></atom:link>
+      <description>The Scissor Sisters frontman is now playing Frank-N-Furter in “The Rocky Horror Show.” It suits his taste for horror and spookiness.</description>
+      <dc:creator>Elisabeth Vincentelli</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scissor Sisters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shears, Jake</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Rocky Horror Show (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/04/arts/04Myten-Shears/04Myten-Shears-thumbStandard.jpg" width="75">
+        <media:credit>Eamonn M. Mccormack/Getty Images</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>Memoirs From Michael Douglas, Sylvester Stallone and Other Tough Guys</title>
+      <link>https://www.nytimes.com/2026/09/26/books/review/actor-memoirs-michael-douglas-sylvester-stallone.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/books/review/actor-memoirs-michael-douglas-sylvester-stallone.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/books/review/actor-memoirs-michael-douglas-sylvester-stallone.html" rel="standout"></atom:link>
+      <description>Michael Douglas and Sylvester Stallone are among the tough (and tough-ish) guys getting personal in memoirs this fall.</description>
+      <dc:creator>Tim Teeman and Hannah Robinson</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Douglas, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lundgren, Dolph</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">MacLachlan, Kyle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manganiello, Joe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stallone, Sylvester</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Quan, Ke Huy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/27/arts/27cul-actor-memoirs-cover/27cul-actor-memoirs-cover-thumbStandard.png" width="75"></media:content>
+    </item>
+    <item>
+      <title>In Backyard Ultramarathons, the Race Goes On Until Everyone Gives Up</title>
+      <link>https://www.nytimes.com/2026/09/26/well/backyard-ultramarathon-prairie-on-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/well/backyard-ultramarathon-prairie-on-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/well/backyard-ultramarathon-prairie-on-fire.html" rel="standout"></atom:link>
+      <description>Runners complete the same lap every hour for as long as they can — sometimes for days. The brutal format has become surprisingly popular.</description>
+      <dc:creator>Chris Cohen and Lee Klafczynski</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultramarathon Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
+      <media:content height="75" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26WELL-BACKYARD-ULTRAS-vwck/26WELL-BACKYARD-ULTRAS-vwck-thumbStandard.jpg" width="75"></media:content>
+    </item>
+  </channel>
+</rss>
