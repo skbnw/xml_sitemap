@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/local.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Flocal.rdf">
+    <title>日経新聞 地域</title>
+    <link>https://www.nikkei.com/news/category/local/</link>
+    <description>日経新聞の地域に関するフィードをお届けします。</description>
+    <dc:date>2026-09-26T15:12:33+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2617U0W6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG152N60V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC15AJD0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF108GY0Q6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC162Q50W6A610C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC230FK0T20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC251RV0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF258MI0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF259FK0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF221H10S6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC25A0X0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF257Q20V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD253N80V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC2584B0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC254MY0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC257US0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC257UQ0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC185HN0Y6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC232QH0T20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC256W30V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2484D0U6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC257W40V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC2580T0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC257Y20V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2568D0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC255ID0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC242KN0U6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC2569L0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC258BX0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC258280V20C26A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2617U0W6A920C2000000/">
+    <title>名古屋テレビ塔で火災　けが人なし、機械室焼損</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2617U0W6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-26T14:51:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG152N60V10C26A9000000/">
+    <title>サンゴの白化は対馬や静岡でも　24年海洋熱波、琉球大など影響調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG152N60V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-26T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC15AJD0V10C26A9000000/">
+    <title>ES廃止のロート製薬、CHROが語る「若手が支える会社」　会長もあだ名</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC15AJD0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF108GY0Q6A910C2000000/">
+    <title>滋賀・彦根発祥の近江ちゃんぽん、和風だしで野菜たっぷり</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF108GY0Q6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC162Q50W6A610C2000000/">
+    <title>AI・ロボと共生、「人間は特別」おごり捨てよ　石黒浩・大阪大学教授</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC162Q50W6A610C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-26T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC230FK0T20C26A9000000/">
+    <title>北海道の水産加工これで稼ぐ　ニシンやドスイカ、代打でもおいしく</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC230FK0T20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-26T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC251RV0V20C26A9000000/">
+    <title>日本原燃、再処理工場の26年度完成「厳しい」　年内に新工程提示へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC251RV0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T21:52:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF258MI0V20C26A9000000/">
+    <title>外来種コガネヒアリ、神戸で国内初確認　刺されるとアレルギー症状も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF258MI0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T21:09:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF259FK0V20C26A9000000/">
+    <title>滋賀の中畑・古里遺跡、弥生期最大級の門柱跡発見　集落祭祀の象徴か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF259FK0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T21:00:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF221H10S6A920C2000000/">
+    <title>大阪市議会、USJへの土地貸付協議を検討　 市「パーク拡張用に最適」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF221H10S6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T20:35:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC25A0X0V20C26A9000000/">
+    <title>JR九州、3日間乗り放題パス　熊本地震の復興支援で26日発売</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC25A0X0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T20:07:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF257Q20V20C26A9000000/">
+    <title>関西経済同友会、過去の提言を電子化して公開　成果の分析容易に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF257Q20V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD253N80V20C26A9000000/">
+    <title>愛知・日間賀島で「ふぐづくし」　名鉄の旅行商品、島の誘客に一役</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD253N80V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:41:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC2584B0V20C26A9000000/">
+    <title>ダイイチの26年9月期、税引き益8割減に下方修正　新店不振で減損</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC2584B0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:37:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC254MY0V20C26A9000000/">
+    <title>北海道・厚岸の小師馬商、民事再生手続き開始　負債29億円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC254MY0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:34:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC257US0V20C26A9000000/">
+    <title>JA全農長野、26年産米概算金4割下げ　コシヒカリ1万6730円</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC257US0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC257UQ0V20C26A9000000/">
+    <title>軽井沢町長、庁舎建て替え「町民のほとんど同意」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC257UQ0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC185HN0Y6A910C2000000/">
+    <title>新潟大学、リコージャパンなどと連携　災害・救急医療を迅速化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC185HN0Y6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC232QH0T20C26A9000000/">
+    <title>宇都宮の横倉本店、ノンアルコールカクテル開発　市内のバーで提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC232QH0T20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC256W30V20C26A9000000/">
+    <title>北海道電力、純利益330億円に上方修正　27年3月期</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC256W30V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:27:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2484D0U6A920C2000000/">
+    <title>青森ねぶた名人・竹浪比呂央さん原画展　最優秀制作者賞受賞の11枚</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2484D0U6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC257W40V20C26A9000000/">
+    <title>家電メーカーのカドー、札証プロ向け市場に上場</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC257W40V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:19:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC2580T0V20C26A9000000/">
+    <title>北海道大学150周年記念イベント、札幌市で26〜27日開催</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC2580T0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:18:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC257Y20V20C26A9000000/">
+    <title>福岡県の服部知事、3カ月間「無給」へ　高額な海外視察など問題受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC257Y20V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:16:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2568D0V20C26A9000000/">
+    <title>東京都庁のリチウムイオン電池回収、1万個突破　9月末まで</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2568D0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:10:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC255ID0V20C26A9000000/">
+    <title>玉城デニー沖縄県知事「SNSのおぞましさ対処を」　最後の定例会見</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC255ID0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:09:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC242KN0U6A920C2000000/">
+    <title>メディカル一光、京都の調剤薬局買収　営業基盤を強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC242KN0U6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:06:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC2569L0V20C26A9000000/">
+    <title>横浜市の山中竹春前市長、市民団体から出馬要請「重く受け止め判断」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC2569L0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:02:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC258BX0V20C26A9000000/">
+    <title>横浜市議会、山中竹春前市長の退職金不支給へ　条例可決</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC258BX0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:01:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC258280V20C26A9000000/">
+    <title>仙台銀行、子名義の口座開設で出生体重相当額を入金　育児支援に協賛</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC258280V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-25T19:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
