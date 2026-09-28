@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-09-28T15:11:39+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL283OC0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB2845E0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC281850Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL282T10Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL282AETY6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL283DD0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL280B10Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2843D0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC283M90Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD247UL0U6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2807P0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC253SA0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL282UB0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB282N20Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC270XX0X20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD282750Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD282FH0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC281W40Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC251HY0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF153BG0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL282YG0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF282CU0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC282KR0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL282XR0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB255MP0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL282JK0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD249WE0U6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL282RM0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC282QL0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM281U30Y6A920C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL283OC0Y6A920C2000000/">
+    <title>パーク24株価、午後場下げ拡大　660万件の個人情報が漏洩と発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL283OC0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:56:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB2845E0Y6A920C2000000/">
+    <title>ネタニヤフ氏、秘密裏にUAE訪問か　ムハンマド大統領と会談と報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB2845E0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:49:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC281850Y6A920C2000000/">
+    <title>エリクソン、「6G」技術を研究　村田製作所・住友電工と連携協定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC281850Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:46:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL282T10Y6A920C2000000/">
+    <title>任天堂の株価続落　UBS証券「売り」判断、スイッチ2の利益に慎重</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL282T10Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:43:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL282AETY6A920C2000000/">
+    <title>ささやかれる日米連続10月利上げ　国内勢は懐疑的 ｢まずは為替介入｣</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL282AETY6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:29:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL283DD0Y6A920C2000000/">
+    <title>東証14時　日経平均は小動き　新規材料に欠け方向感乏しい</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL283DD0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:17:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL280B10Y6A920C2000000/">
+    <title>外為14時　円相場、小動き　157円台後半　原油高が重荷</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL280B10Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:16:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2843D0Y6A920C2000000/">
+    <title>立憲民主党・水岡俊一代表、民主改革と再結集に意欲　「衆参両方で」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2843D0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:06:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC283M90Y6A920C2000000/">
+    <title>大正製薬、「リアップスカルプシャンプー」刷新　保湿成分を20種配合</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC283M90Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:00:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD247UL0U6A920C2000000/">
+    <title>熊本地震、被災医療機関が閉院や休診　拠点病院も再開のめど立たず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD247UL0U6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2807P0Y6A920C2000000/">
+    <title>台風25号の記録的大雨1週間、14人死亡1人不明　停電なお4000世帯</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2807P0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T14:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC253SA0V20C26A9000000/">
+    <title>KDDI、日本郵便とドローン事業で連携　全国の郵便局に発着拠点</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC253SA0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:53:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL282UB0Y6A920C2000000/">
+    <title>オリエンタルランド株価反落　特別優待権利付き最終日、利益確定売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL282UB0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:49:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB282N20Y6A920C2000000/">
+    <title>東レの株価、一時2%高　岡三証券が目標株価引き上げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB282N20Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:42:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC270XX0X20C26A9000000/">
+    <title>JR九州、小倉駅に切符ロール紙の「くまモン」登場　熊本復興を支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC270XX0X20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:40:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD282750Y6A920C2000000/">
+    <title>熊本地震2カ月、避難所なお1500人超　職員ら犠牲者に黙とう</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD282750Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:30:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD282FH0Y6A920C2000000/">
+    <title>生命維持治療終了の手順明記、4学会が新指針　患者の意思尊重原則</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD282FH0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:25:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC281W40Y6A920C2000000/">
+    <title>ソニーグループ、27年のCES出展見送り　関連会社含めて不参加に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC281W40Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC251HY0V20C26A9000000/">
+    <title>武蔵野銀行、普通預金金利0.5%に引き上げ　11月2日から</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC251HY0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF153BG0V10C26A9000000/">
+    <title>ニデック、数千億円の巨額減損計上　会計不正やEV関連損失で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF153BG0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:17:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL282YG0Y6A920C2000000/">
+    <title>香港株前引け　反発、米株高や値ごろ感の買いが支え　半導体は下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL282YG0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:16:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF282CU0Y6A920C2000000/">
+    <title>京都銀行、7年ぶりにテレビCMの新作　「おみくじ」編など10月から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF282CU0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:09:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC282KR0Y6A920C2000000/">
+    <title>CAの4割、「直近1年でカスハラ経験」　航空連合調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC282KR0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:08:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL282XR0Y6A920C2000000/">
+    <title>債券12時50分　先物、安値圏で推移　日銀オペ「弱め」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL282XR0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:08:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB255MP0V20C26A9000000/">
+    <title>東京23区の単身向けマンション家賃、最高値を更新　8月0.2%高</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB255MP0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T13:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL282JK0Y6A920C2000000/">
+    <title>東証後場寄り　日経平均は下げ拡大　韓国株や米株先物が軟調</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL282JK0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T12:56:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD249WE0U6A920C2000000/">
+    <title>入札妨害、アイン子会社元社長らの逆転無罪を破棄　最高裁判決</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD249WE0U6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T12:55:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL282RM0Y6A920C2000000/">
+    <title>上海株前引け　続落、AI関連に売り　半導体が安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL282RM0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T12:50:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC282QL0Y6A920C2000000/">
+    <title>女子競歩・梅野倖子が3位に繰り上がり　アジア大会、1着失格で</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC282QL0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T12:45:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM281U30Y6A920C2000000/">
+    <title>香港キャセイ、中東便の運休を27年1月まで再延長　年内再開を断念</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM281U30Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-28T12:44:57+09:00</dc:date>
+  </item>
+</rdf:RDF>
