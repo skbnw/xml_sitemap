@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-09-29T16:11:48+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2964H0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC271PT0X20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2958H0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2929Z0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF291EC0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD256Q90V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC294D50Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB296DO0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL294QT0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC294V20Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL294ND0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2952P0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD292N80Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC284B70Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC291C60Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC242Y00U6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB285270Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA280O80Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL295JO0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2942Y0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2932N0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM283K00Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL292D30Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL294O40Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC295B70Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD289TU0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD291XE0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD2925U0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB2943V0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC291650Z20C26A9000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2964H0Z20C26A9000000/">
+    <title>カナデビア、日鉄エンジとの統合協議を終了　「諸条件で合意できず」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2964H0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T16:05:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC271PT0X20C26A9000000/">
+    <title>米物流施設大手プロロジス、1000億円規模投じ賃貸型の自動倉庫開発</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC271PT0X20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T16:04:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2958H0Z20C26A9000000/">
+    <title>東北銀行、40億円規模の増資へ　SBIや地元企業から第三者割り当てで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2958H0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T16:04:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2929Z0Z20C26A9000000/">
+    <title>政府、シリア16団体への制裁解除　残りは59個人・15団体に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2929Z0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF291EC0Z20C26A9000000/">
+    <title>日本触媒、核酸医薬品で広島大発の創薬ベンチャーと技術連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF291EC0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD256Q90V20C26A9000000/">
+    <title>「湘南美容クリニック」グループ元幹部、背任疑いで逮捕</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD256Q90V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:58:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC294D50Z20C26A9000000/">
+    <title>TDL、「ヴァネロペ」「ベイマックス」が初登場のショー　30日から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC294D50Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:58:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB296DO0Z20C26A9000000/">
+    <title>ドバイ原油・29日午後、下落</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB296DO0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:56:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL294QT0Z20C26A9000000/">
+    <title>JPX日経400大引け　続落　623ポイント安の3万6185</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL294QT0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:56:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC294V20Z20C26A9000000/">
+    <title>別府市の新湯治施設、31年度開業　事業予定者に日鉄興和や九州電力</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC294V20Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:53:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL294ND0Z20C26A9000000/">
+    <title>東証大引け　日経平均は続落　米株安や配当落ちなど重荷、一時1100円安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL294ND0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:53:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2952P0Z20C26A9000000/">
+    <title>韓国株29日　続落、米株安が重荷　サムスンは上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2952P0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:52:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD292N80Z20C26A9000000/">
+    <title>民間平均給与487万円、2年連続で最高更新　賞与は74.9万円で微増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD292N80Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:45:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC284B70Y6A920C2000000/">
+    <title>三菱商事や英シェル、カナダでLNG生産倍増　脱・中東依存へ2兆円投資</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC284B70Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC291C60Z20C26A9000000/">
+    <title>マツダ、8月の世界販売は横ばい　主力の米国の落ち込みを日欧で補う</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC291C60Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC242Y00U6A920C2000000/">
+    <title>ANA「SFC特典」、年決済300万円未満は混雑時に国内線ラウンジ使えず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC242Y00U6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:44:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB285270Y6A920C2000000/">
+    <title>石油化学クラサスがスピンオフ上場　終値240円、一時ストップ高も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB285270Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:44:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA280O80Y6A920C2000000/">
+    <title>25年の総人口、東京以外の全道府県で減少　外国人は39.8%増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA280O80Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:43:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL295JO0Z20C26A9000000/">
+    <title>欧州国債早朝　ドイツ長期金利、上昇　3.6%台前半</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL295JO0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:41:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2942Y0Z20C26A9000000/">
+    <title>新興株29日　グロース250が続落　クラサスは初値上回る</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2942Y0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:41:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2932N0Z20C26A9000000/">
+    <title>8月の国内生産、ホンダ・ダイハツが大幅減　熊本地震で工場停止</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2932N0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:40:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM283K00Y6A920C2000000/">
+    <title>オーストラリア中銀、4.6%に利上げ　15年ぶり水準に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM283K00Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:40:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL292D30Z20C26A9000000/">
+    <title>債券15時　長期金利、3.085%で横ばい　米金利上昇も中期債買いが波及</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL292D30Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:39:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL294O40Z20C26A9000000/">
+    <title>日経平均大引け　続落　396円安の6万5481円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL294O40Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:36:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC295B70Z20C26A9000000/">
+    <title>DeNA、藤浪晋太郎・小園健太ら戦力外　育成含め10選手に通告</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC295B70Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:36:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD289TU0Y6A920C2000000/">
+    <title>取適法違反で不二製作所に勧告　手形払いが「支払い遅延」認定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD289TU0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:32:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD291XE0Z20C26A9000000/">
+    <title>名古屋の高級ホテル「TIAD」、ミシュランキーを獲得　3年連続で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD291XE0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:32:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD2925U0Z20C26A9000000/">
+    <title>「がブリチキン。」立ち飲みの新業態　唐揚げで大阪開拓</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD2925U0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:31:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB2943V0Z20C26A9000000/">
+    <title>米国、カナダ産酒類などを禁輸　貿易摩擦が激化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB2943V0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:30:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC291650Z20C26A9000000/">
+    <title>秋田県、クマ出没警報を10月から注意報に切り替え　警戒は呼びかけ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC291650Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-29T15:30:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
