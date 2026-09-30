@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/ynnews/economics.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fynnews%2Feconomics.rdf">
+    <title>47NEWS 全国 経済</title>
+    <link>https://www.47news.jp/news/economics</link>
+    <description>47NEWS 全国の経済に関するフィードをお届けします。</description>
+    <dc:date>2026-10-01T06:10:42+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/15017774.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017828.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15018063.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15018064.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017989.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017988.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017954.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017841.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017804.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017793.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15012101.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017658.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017651.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017641.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017611.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017524.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017520.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017408.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017384.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017337.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017651.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15016886.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15004450.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017408.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15017641.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/nayami_sodan"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/university-future"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_06"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/15017774.html">
+    <title>為替相場　　　1日（日本時間　6時）</title>
+    <link>https://www.47news.jp/15017774.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017828.html">
+    <title>FRB本部改修工事に事件性なし　トランプ氏、前議長に辞任要求</title>
+    <link>https://www.47news.jp/15017828.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15018063.html">
+    <title>NY株続落、443ドル安　米長期金利高止まりが重荷</title>
+    <link>https://www.47news.jp/15018063.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15018064.html">
+    <title>NY株式　　30日終値　　　　</title>
+    <link>https://www.47news.jp/15018064.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017989.html">
+    <title>【速報】NY株3日続落、443ドル安</title>
+    <link>https://www.47news.jp/15017989.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017988.html">
+    <title>NY原油反発、終値90ドル台　交渉停滞、供給に不透明感</title>
+    <link>https://www.47news.jp/15017988.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017954.html">
+    <title>【速報】トランプ氏、FRB前議長の理事辞任要求</title>
+    <link>https://www.47news.jp/15017954.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017841.html">
+    <title>電動シェーバー、そり心地と肌負担軽減追求　摩擦抑制、軽量、温めも【経済トレンド／気になる商品】</title>
+    <link>https://www.47news.jp/15017841.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017804.html">
+    <title>BMW、管理職20％削減へ　AIを活用し経営合理化</title>
+    <link>https://www.47news.jp/15017804.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017793.html">
+    <title>【速報】FRB本部改修に違法行為なしと監察機関</title>
+    <link>https://www.47news.jp/15017793.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15012101.html">
+    <title>為替相場　　　1日（日本時間　2時）</title>
+    <link>https://www.47news.jp/15012101.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017658.html">
+    <title>酒税改正でビール値下げ開始　1日から、イオンはPBで</title>
+    <link>https://www.47news.jp/15017658.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017651.html">
+    <title>ふるさと納税、返礼ルール厳格化　「違反疑い」防止へ総務省</title>
+    <link>https://www.47news.jp/15017651.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017641.html">
+    <title>米連邦取引委、AI大手を調査　消費者への危険性確認</title>
+    <link>https://www.47news.jp/15017641.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017611.html">
+    <title>【速報】米連邦取引委員会がAI大手調査と報道</title>
+    <link>https://www.47news.jp/15017611.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017524.html">
+    <title>NY株、小動きで始まる</title>
+    <link>https://www.47news.jp/15017524.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017520.html">
+    <title>【速報】NY株、小動きで始まる</title>
+    <link>https://www.47news.jp/15017520.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017408.html">
+    <title>NY円、156円台後半</title>
+    <link>https://www.47news.jp/15017408.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017384.html">
+    <title>米8月物価3.4％上昇　伸びは前月から横ばい</title>
+    <link>https://www.47news.jp/15017384.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017337.html">
+    <title>【速報】NY円、156円74～84銭</title>
+    <link>https://www.47news.jp/15017337.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017651.html">
+    <title>ふるさと納税、返礼ルール厳格化　「違反疑い」防止へ総務省</title>
+    <link>https://www.47news.jp/15017651.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15016886.html">
+    <title>西武渋谷が閉店、営業58年　客「寂しい」と名残惜しむ</title>
+    <link>https://www.47news.jp/15016886.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15004450.html">
+    <title>「106万円の壁」撤廃　10月1日、厚生年金の収入要件</title>
+    <link>https://www.47news.jp/15004450.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017408.html">
+    <title>NY円、156円台後半</title>
+    <link>https://www.47news.jp/15017408.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15017641.html">
+    <title>米連邦取引委、AI大手を調査　消費者への危険性確認</title>
+    <link>https://www.47news.jp/15017641.html</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_06">
+    <title>幅広い分野の革新的で優れたサービスを募集　第6回日本サービス大賞エントリー受付開始</title>
+    <link>https://www.47news.jp/special/serviceaward_06</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/nayami_sodan">
+    <title>もしも自分や身近な人が悩みを抱えたら？知っておきたい、「相談」の大切さ</title>
+    <link>https://www.47news.jp/special/nayami_sodan</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/university-future">
+    <title>大学特集〜大学教育の未来を探る〜</title>
+    <link>https://www.47news.jp/special/university-future</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_06">
+    <title>幅広い分野の革新的で優れたサービスを募集　第6回日本サービス大賞エントリー受付開始</title>
+    <link>https://www.47news.jp/special/serviceaward_06</link>
+    <description></description>
+    <dc:date>2026-10-01T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
