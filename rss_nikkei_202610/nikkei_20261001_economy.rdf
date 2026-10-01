@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/economy.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Feconomy.rdf">
+    <title>日経新聞 政治・経済</title>
+    <link>https://www.nikkei.com/news/category/economy/</link>
+    <description>日経新聞の政治・経済に関するフィードをお届けします。</description>
+    <dc:date>2026-10-01T15:12:29+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB013CS0R01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA30B760Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB30BNB0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA295WU0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB308YK0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB299ZG0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA277HG0X20C26A7000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA254KN0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA302C70Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA301LU0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA30AK40Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA299BV0Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA303HO0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC300Z30Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA241WS0U6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC306RY0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA257LJ0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA308RK0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA3054M0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA280FO0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB3038T0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA288WW0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA303290Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA304860Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA302SD0Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA304L90Q6A930C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA29AW40Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA29BU90Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA09B170Z00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA169Y90W6A910C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB013CS0R01C26A0000000/">
+    <title>日証協、非上場株の仲介2社を協会員登録　金融庁の特例制度で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB013CS0R01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-01T14:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA30B760Q6A930C2000000/">
+    <title>フラット35の10月金利、3.830%　現行制度で過去最高に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA30B760Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-01T13:18:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB30BNB0Q6A930C2000000/">
+    <title>日銀、物価上振れの兆候なら「利上げペース速める」　9月会合主な意見</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB30BNB0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-01T11:31:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA295WU0Z20C26A9000000/">
+    <title>高齢者医療、自己負担1〜2割の年齢上げ選択肢　厚労省が議論開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA295WU0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-10-01T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB308YK0Q6A930C2000000/">
+    <title>9月日銀短観、利上げ継続も設備投資に堅調さ　26年度計画は7.6%増</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB308YK0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-01T10:34:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB299ZG0Z20C26A9000000/">
+    <title>大企業製造業の景況感、6四半期連続改善　日銀9月短観</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB299ZG0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-10-01T08:52:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA277HG0X20C26A7000000/">
+    <title>高市戦略17分野、フードテック9.7兆円投資　植物工場や陸上養殖</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA277HG0X20C26A7000000/</link>
+    <description></description>
+    <dc:date>2026-10-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA254KN0V20C26A9000000/">
+    <title>カスハラ対策10月から企業の義務　過剰要求向けマニュアルなど各社動く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA254KN0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-10-01T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA302C70Q6A930C2000000/">
+    <title>鉄鋼の迂回輸出、中国念頭に日米欧で対抗　流通情報の枠組み合意</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA302C70Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T22:19:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA301LU0Q6A930C2000000/">
+    <title>為替介入実施せず、9月28日までの1カ月間　財務省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA301LU0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T21:11:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA30AK40Q6A930C2000000/">
+    <title>長期金利の上昇「米テック企業の社債発行も注視」　財制審</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA30AK40Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T21:02:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA299BV0Z20C26A9000000/">
+    <title>30年ぶり｢金利3%｣の予算編成　諮問会議提言に変化、市場信認を重視</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA299BV0Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T19:59:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA303HO0Q6A930C2000000/">
+    <title>統廃合検討のクールジャパン機構、コンテンツ支援を追加検証へ　経産省</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA303HO0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T19:27:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC300Z30Q6A930C2000000/">
+    <title>茨城・常陸大宮市長、核ごみ文献調査の受け入れ容認　国内5カ所目</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC300Z30Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T19:20:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA241WS0U6A920C2000000/">
+    <title>OTC類似薬の追加負担、厚労省が対象1042品目公表　27年3月開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA241WS0U6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T19:15:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC306RY0Q6A930C2000000/">
+    <title>世界経済、金利上昇や中東情勢がリスクに　札幌で景気討論会</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC306RY0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T19:11:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA257LJ0V20C26A9000000/">
+    <title>高齢者の再雇用、給料カット理由説明必要に　同一労働・賃金指針改正</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA257LJ0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T18:44:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA308RK0Q6A930C2000000/">
+    <title>経産相「最終処分の議論深める」　常陸大宮市が核ごみ調査受け入れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA308RK0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T18:38:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA3054M0Q6A930C2000000/">
+    <title>井林国交相、住宅高騰に「実効策打つ」　投機取引「制約されるべき」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA3054M0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T17:41:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA280FO0Y6A920C2000000/">
+    <title>障害福祉サービス、就労支援に伴う給付抑制を検討　27年度報酬改定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA280FO0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T17:20:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB3038T0Q6A930C2000000/">
+    <title>オンチェーン金融、官民協議会が初会合　株･国債の即時決済へ工程表</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB3038T0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T16:56:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA288WW0Y6A920C2000000/">
+    <title>介護職員の賃上げ、生産性向上なら上乗せ検討　27年度報酬改定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA288WW0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T16:55:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA303290Q6A930C2000000/">
+    <title>藤井総務相、海底ケーブル「極めて重要」　他国に頼らぬ防護策を確保</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA303290Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T15:41:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA304860Q6A930C2000000/">
+    <title>8月原油輸入13%増、3カ月連続増加　代替調達進み中東依存6割に低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA304860Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T15:31:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA302SD0Q6A930C2000000/">
+    <title>感染症対策の医薬品、安定供給へ長期支援　厚労省が法整備へ議論</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA302SD0Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T15:10:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA304L90Q6A930C2000000/">
+    <title>高市首相、市場動向に機動的対応　所信表明演説の原案</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA304L90Q6A930C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T14:59:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA29AW40Z20C26A9000000/">
+    <title>2027年度の介護報酬改定、訪問型サービスでAI活用促す　厚労省案</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA29AW40Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T10:50:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA29BU90Z20C26A9000000/">
+    <title>8月の鉱工業生産指数1.7%低下、2カ月連続の下落　自動車振るわず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA29BU90Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T10:07:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA09B170Z00C26A9000000/">
+    <title>輸血歴ある人も献血可能に、2027年度にも　厚労省が規制緩和を検討</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA09B170Z00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA169Y90W6A910C2000000/">
+    <title>「年収の壁」で働き控えのパート、なお400万人超　人手不足の一因に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA169Y90W6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-09-30T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
