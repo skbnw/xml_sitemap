@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2026-10-11T16:11:11+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZMSK3IUG01_R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110QN0R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110NL0R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110H30R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110G50R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110F60R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOLC041MH0U6A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110F30R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1109A0R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC110540R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH1147N0R10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH051XX0V01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH074T90X01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH101LH0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC102MJ0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC102K70Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKCBSKR10Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC102KD0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC102K50Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC101LO0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH102EC0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH1028L0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH101QD0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH100M20Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH101IW0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH101TM0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH101FU0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH101Z60Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH100KJ0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH100MU0Q6A011C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZMSK3IUG01_R11C26A0000000/">
+    <title>スタンレー・レディース・ホンダゴルフ最終成績</title>
+    <link>https://www.nikkei.com/article/DGXZMSK3IUG01_R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T15:49:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110QN0R11C26A0000000/">
+    <title>射撃W杯、野畑美咲・花川直樹組が優勝　混合エアライフル</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110QN0R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T14:29:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110NL0R11C26A0000000/">
+    <title>スケボー・パーク、15歳の長谷川瑞穂がV　世界選手権</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110NL0R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T14:07:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110H30R11C26A0000000/">
+    <title>村上宗隆は4三振　ホワイトソックス、21年ぶり優勝決定Sならず</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110H30R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T12:15:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110G50R11C26A0000000/">
+    <title>ロッテ・西岡剛コーチ、1年で退団　本人申し入れ「球団に感謝」</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110G50R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T12:06:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110F60R11C26A0000000/">
+    <title>大谷翔平、マシンで打撃練習　異例の近距離で剛腕対策</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110F60R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T12:04:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOLC041MH0U6A001C2000000/">
+    <title>ゆうちゃみ｢走るのマジ無理｣が｢楽しい｣に　走り始めて変わった心と体</title>
+    <link>https://www.nikkei.com/article/DGXZQOLC041MH0U6A001C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T12:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110F30R11C26A0000000/">
+    <title>八村塁がチーム最多14得点、河村勇輝は10得点　NBAオープン戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110F30R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T11:46:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1109A0R11C26A0000000/">
+    <title>C・ロナルド、代表戦は暫定出場停止　離脱巡り懲戒手続き開始</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1109A0R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T10:22:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC110540R11C26A0000000/">
+    <title>鈴木彩艶がフル出場、前田大然は終盤まで　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC110540R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T08:46:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH1147N0R10C26A9000000/">
+    <title>稼ぐ学生アスリート、米国で台頭　「肖像権」解禁でプロ・アマ曖昧に</title>
+    <link>https://www.nikkei.com/article/DGXZQODH1147N0R10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH051XX0V01C26A0000000/">
+    <title>駅伝シーズン到来　早稲田大学の旧「三羽がらす」が託す情熱（鏑木毅）</title>
+    <link>https://www.nikkei.com/article/DGXZQODH051XX0V01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH074T90X01C26A0000000/">
+    <title>佐藤輝明さん　プロ野球セ・リーグで三冠王に輝いた阪神内野手</title>
+    <link>https://www.nikkei.com/article/DGXZQODH074T90X01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-11T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH101LH0Q6A011C2000000/">
+    <title>柔道・新井道大、微妙な判定での銀に「自分が弱かった」　世界選手権</title>
+    <link>https://www.nikkei.com/article/DGXZQODH101LH0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T23:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC102MJ0Q6A011C2000000/">
+    <title>田中碧は後半途中までプレー　イングランド・プレミアリーグ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC102MJ0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T22:52:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC102K70Q6A011C2000000/">
+    <title>世界柔道、新井万央が準々決勝で反則負け　素根輝は初戦敗退</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC102K70Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T22:27:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKCBSKR10Q6A011C2000000/">
+    <title>バスケBプレミア、広島が開幕6連勝　群馬は今季初黒星</title>
+    <link>https://www.nikkei.com/article/DGXZQOKCBSKR10Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T22:27:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC102KD0Q6A011C2000000/">
+    <title>張本美和・早田ひな組は準V、佐藤瞳が決勝進出　卓球中国スマッシュ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC102KD0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T22:24:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC102K50Q6A011C2000000/">
+    <title>J2、大宮が開幕10戦負けなし　大分は横浜FCに競り勝つ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC102K50Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T22:17:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC101LO0Q6A011C2000000/">
+    <title>町田が3戦ぶり白星、FC東京は浦和に快勝　10日のJ1結果と戦評</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC101LO0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T21:40:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH102EC0Q6A011C2000000/">
+    <title>SAGA久光が白星発進　バレーSVリーグ女子、バンコクで開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQODH102EC0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T21:25:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH1028L0Q6A011C2000000/">
+    <title>17歳今泉悠成が100平で優勝、大橋信3位　競泳日本短水路選手権</title>
+    <link>https://www.nikkei.com/article/DGXZQODH1028L0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T21:20:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH101QD0Q6A011C2000000/">
+    <title>FC東京、尻上がりに4連続完封勝ち　長倉幹樹ら後半3ゴール</title>
+    <link>https://www.nikkei.com/article/DGXZQODH101QD0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T21:13:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH100M20Q6A011C2000000/">
+    <title>桑木志帆、パットで苦戦も4打差6位　スタンレー女子第2R</title>
+    <link>https://www.nikkei.com/article/DGXZQODH100M20Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T21:06:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH101IW0Q6A011C2000000/">
+    <title>46歳の鉄人アダム・スコット、日本初Vへ1打差　ベイカレント</title>
+    <link>https://www.nikkei.com/article/DGXZQODH101IW0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T21:03:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH101TM0Q6A011C2000000/">
+    <title>日本ハム・細野晴希が中継ぎでサヨナラ被弾　「先発と雰囲気違った」</title>
+    <link>https://www.nikkei.com/article/DGXZQODH101TM0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T20:52:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH101FU0Q6A011C2000000/">
+    <title>巨人、マルティネスが痛恨の被弾　打線はバント攻勢実らず1点遠く</title>
+    <link>https://www.nikkei.com/article/DGXZQODH101FU0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T20:43:56+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH101Z60Q6A011C2000000/">
+    <title>西武カナリオが延長十回サヨナラ本塁打　救援陣の奮闘に報いる</title>
+    <link>https://www.nikkei.com/article/DGXZQODH101Z60Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T20:38:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH100KJ0Q6A011C2000000/">
+    <title>岩井明愛が首位浮上　スタンレー女子ホンダゴルフ第2R</title>
+    <link>https://www.nikkei.com/article/DGXZQODH100KJ0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T20:21:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH100MU0Q6A011C2000000/">
+    <title>ブリッジマンら首位、松山英樹は29位　ベイカレントCゴルフ第3R</title>
+    <link>https://www.nikkei.com/article/DGXZQODH100MU0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-10T20:19:39+09:00</dc:date>
+  </item>
+</rdf:RDF>
