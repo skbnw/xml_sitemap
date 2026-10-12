@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-10-12T17:11:02+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA120YQ0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1204Z0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM09C1U0Z01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGS094O20Z01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM120UH0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM110R40R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN120NY0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC120OJ0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC120OI0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC120KS0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH120NI0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD120OL0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM120J80S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA0189R0R00C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB120JU0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM120GF0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR09BVF0Z01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD078ZA0X01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR091FH0Z01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN080470Y6A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1209L0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC120970S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD0168V0R01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB112040R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1204G0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1206Y0S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM020S00S6A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH110A90R11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB120530S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1125A0R11C26A0000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA120YQ0S6A011C2000000/">
+    <title>民主改革の会・階幹事長「農相辞任を」　道路予算削減言及で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA120YQ0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T17:01:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1204Z0S6A011C2000000/">
+    <title>鎌田大地がプレミア初ゴール、後藤啓介も得点　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1204Z0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T16:41:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM09C1U0Z01C26A0000000/">
+    <title>マレーシアがミャンマー人送還、親軍政権に接近　国連は懸念表明</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM09C1U0Z01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T16:38:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGS094O20Z01C26A0000000/">
+    <title>パキスタン、サムライ債発行を検討　財務相「資金調達を多様化」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGS094O20Z01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T16:30:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM120UH0S6A011C2000000/">
+    <title>ホンダ、9月中国新車販売53%減　新エネ車シフトに苦戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM120UH0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T16:10:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM110R40R11C26A0000000/">
+    <title>香港と中国本土、出入境手続きに新ゲート導入　双方の審査を1カ所で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM110R40R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T15:37:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN120NY0S6A011C2000000/">
+    <title>Amazon、米デカートAIを1.1兆円で買収協議　WSJ報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN120NY0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T15:12:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC120OJ0S6A011C2000000/">
+    <title>松山英樹、1つ上げて25位　男子ゴルフ世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC120OJ0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T14:12:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC120OI0S6A011C2000000/">
+    <title>大坂なおみ18位に後退　女子テニス世界ランキング</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC120OI0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T14:10:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC120KS0S6A011C2000000/">
+    <title>大谷翔平1安打、チーム黒星　ナ・リーグ優勝決定シリーズ開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC120KS0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T14:10:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH120NI0S6A011C2000000/">
+    <title>早大、16年ぶり3度目V　出雲全日本大学選抜駅伝</title>
+    <link>https://www.nikkei.com/article/DGXZQODH120NI0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T14:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD120OL0S6A011C2000000/">
+    <title>台風犠牲者悼み防災誓う　宮城県丸森町で遺族ら</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD120OL0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T13:59:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM120J80S6A011C2000000/">
+    <title>中国軍、複数海域で相次ぎ実弾射撃　台湾国防部長が非難</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM120J80S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T13:34:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA0189R0R00C26A9000000/">
+    <title>北朝鮮が弾道ミサイル2発を発射　防衛省、EEZ外に落下と推定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA0189R0R00C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T13:23:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB120JU0S6A011C2000000/">
+    <title>米地裁、選挙運動風の広告差し止め命令　トランプ政権に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB120JU0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T13:22:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM120GF0S6A011C2000000/">
+    <title>中国、パラグアイとベリーズの閣僚に制裁　台湾との外交支持を問題視</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM120GF0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T12:48:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR09BVF0Z01C26A0000000/">
+    <title>世界の9月気温、過去2番目の高さ　産業革命前から1.5度超え2カ月連続</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR09BVF0Z01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD078ZA0X01C26A0000000/">
+    <title>トヨタ、助手席位置に載せられる車いす開発　福祉車両ミニバンも改良</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD078ZA0X01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR091FH0Z01C26A0000000/">
+    <title>フランス今や「欧州の病人」　金利はPIIGS超え、政治不安で国債売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR091FH0Z01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN080470Y6A001C2000000/">
+    <title>米公立校で1万冊超が禁書に、「進撃の巨人」も対象　保守運動に拍車</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN080470Y6A001C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1209L0S6A011C2000000/">
+    <title>山本由伸「集中して投げたい」　昨年と同じ優勝決定シリーズ第2戦へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1209L0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T10:20:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC120970S6A011C2000000/">
+    <title>杉浦悠太・石川遼、米ツアー出場権逃す　下部ツアー20位内に入らず</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC120970S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T10:20:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD0168V0R01C26A0000000/">
+    <title>東邦ガス、シャインマスカットを新事業の軸に　農業参入支えた技術連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD0168V0R01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB112040R11C26A0000000/">
+    <title>ネパールで土石流、5人が行方不明　被災地域住民に避難呼びかけ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB112040R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T09:40:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1204G0S6A011C2000000/">
+    <title>フーシが再びサウジ空港攻撃、1人死亡　イラン「緊張緩和支援の用意」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1204G0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T09:37:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1206Y0S6A011C2000000/">
+    <title>バーナム英首相「EU離脱にロシア介入」　2016年の国民投票巡り</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1206Y0S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T09:20:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM020S00S6A001C2000000/">
+    <title>韓国ハイト真露、キリン「一番搾り」を生産　日本ビール人気受け</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM020S00S6A001C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH110A90R11C26A0000000/">
+    <title>スワンSなど競馬予想　12日の有力馬</title>
+    <link>https://www.nikkei.com/article/DGXZQODH110A90R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T08:58:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB120530S6A011C2000000/">
+    <title>イラン高官、米国が要求受理まで「海峡封鎖」　凍結資産の解除など条件</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB120530S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T08:42:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1125A0R11C26A0000000/">
+    <title>トランプ氏、ロシアとウクライナの「エネルギー停戦」合意を主張</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1125A0R11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-12T06:43:41+09:00</dc:date>
+  </item>
+</rdf:RDF>
