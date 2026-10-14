@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 14 Oct 2026 12:27:31 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 11:00:05 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office</title>
+      <link>https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html" rel="standout"></atom:link>
+      <description>OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 01:33:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aaron Wojack for The New York Times</media:credit>
+      <media:description>The San Francisco offices of OpenAI, where a recording device was discovered during a sweep of a conference room, the company said. </media:description>
+    </item>
+    <item>
+      <title>Apple Introduces HomeView, a $299 Tablet for the Home</title>
+      <link>https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html" rel="standout"></atom:link>
+      <description>Apple unveiled the device as it continues its foray into artificial intelligence and tries to prove it can still innovate.</description>
+      <dc:creator>Kalley Huang and Emmy Martin</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 17:23:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Automation and Smart Homes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Appliances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tablet Computers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ternus, John</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13BIZ-APPLE-SUB-01-gbmj/13BIZ-APPLE-SUB-01-gbmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Apple unveils its new “Apple HomeView” and a suite of “HomeCollection” smart home devices during an event in New York City on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Is Universal Basic Income the Answer to A.I.-Fueled Job Losses?</title>
+      <link>https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html" rel="standout"></atom:link>
+      <description>For more than a year, The New York Times followed recipients of universal basic income programs, which Elon Musk and other tech leaders have promoted as a solution to A.I.-fueled job losses.</description>
+      <dc:creator>Eli Tan and Rachel Bujalski</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 17:40:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Universal Basic Income (UBI)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Welfare (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Compass Family Services (Nonprofit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">KaMesha Staples</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nicholas Marquez</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mikole Weeks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Cruz (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vallejo (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Meta Unveils New Series of Advanced A.I. Models</title>
+      <link>https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html" rel="standout"></atom:link>
+      <description>The new models, Muse Wonder and Muse Wonder Full, are meant to compete with cutting-edge A.I. models from rivals like Anthropic and OpenAI.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 17:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Alexandr (Technology Executive)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/12/multimedia/12biz-meta-ai-1-lbgw/12biz-meta-ai-1-lbgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
+      <media:description>Mark Zuckerberg, Meta’s chief executive, revamped his company’s A.I. division last year after setbacks in developing the technology. </media:description>
+    </item>
+    <item>
+      <title>Rogue A.I. Agents from China Chatted with American Researchers</title>
+      <link>https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html" rel="standout"></atom:link>
+      <description>Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.</description>
+      <dc:creator>Dylan Freedman</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 11:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tencent Holdings Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-agents-chat-tencent-zwgj/14biz-agents-chat-tencent-zwgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Qilai Shen for The New York Times</media:credit>
+      <media:description>Tencent is one of the biggest tech companies in China.</media:description>
+    </item>
+    <item>
+      <title>22 People Got Together For a Dinner Party. So Did Their A.I. Agents.</title>
+      <link>https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html" rel="standout"></atom:link>
+      <description>As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another.</description>
+      <dc:creator>Erin Griffith</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 09:01:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moltbook</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CellCog</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flybridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dorothy Chang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nitish Garg</category>
+    </item>
+    <item>
+      <title>NASA’s Perseverance Rover Sets a Mars Driving Record</title>
+      <link>https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html" rel="standout"></atom:link>
+      <description>Advances in self-driving technology have made it easier to traverse distant worlds.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 19:26:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Perseverance (Mars Rover)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars (Planet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/00sci-mars-rover-stillpromo-gjqz/00sci-mars-rover-stillpromo-gjqz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>JPL-Caltech/NASA, via Reuters</media:credit>
+    </item>
+    <item>
+      <title>The Times’s New Space Editor Has Her Eye on the Cosmos</title>
+      <link>https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html" rel="standout"></atom:link>
+      <description>On the Science desk, Victoria Jaggard spends her days pondering the universe’s most pressing mysteries.</description>
+      <dc:creator>Sarah Bahr</dc:creator>
+      <pubDate>Sun, 11 Oct 2026 18:14:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars Phoenix Lander (Spacecraft)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jaggard, Victoria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+    </item>
+    <item>
+      <title>Three Mark Zuckerbergs, Three Surprisingly Different Men</title>
+      <link>https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html" rel="standout"></atom:link>
+      <description>Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.</description>
+      <dc:creator>Alissa Wilkinson</dc:creator>
+      <pubDate>Sun, 11 Oct 2026 09:01:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenberg, Jesse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strong, Jeremy (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Social Network (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Social Reckoning (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/11/arts/11cul-zuckerberg-film/11cul-zuckerberg-film-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Columbia Pictures; Andrew Caballero-Reynolds/Agence France-Presse — Getty Images; Columbia Pictures</media:credit>
+      <media:description>From top, Jesse Eisenberg, Mark Zuckerberg and Jeremy Strong.</media:description>
+    </item>
+    <item>
+      <title>Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage</title>
+      <link>https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html" rel="standout"></atom:link>
+      <description>Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.</description>
+      <dc:creator>David McCabe, Michael M. Grynbaum, Benjamin Mullin, Lauren Hirsch and Glenn Thrush</dc:creator>
+      <pubDate>Sun, 11 Oct 2026 02:40:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ABC News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NBC News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/10biz-media-investigation-gpjh/10biz-media-investigation-gpjh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Andrew Leyden for The New York Times</media:credit>
+      <media:description>The White House briefing room last month.</media:description>
+    </item>
+    <item>
+      <title>Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website</title>
+      <link>https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html" rel="standout"></atom:link>
+      <description>The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.</description>
+      <dc:creator>Kate Conger, Mike Isaac, Julian E. Barnes and David E. Sanger</dc:creator>
+      <pubDate>Sat, 10 Oct 2026 18:01:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09biz-anthropic-zptw/09biz-anthropic-zptw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Caroline Gutman for The New York Times</media:credit>
+      <media:description>Broad Street in Philadelphia near the Police Department’s headquarters, with City Hall in the distance.</media:description>
+    </item>
+    <item>
+      <title>Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi</title>
+      <link>https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html" rel="standout"></atom:link>
+      <description>Mr. Musk, whose company SpaceX owns Starlink, has attacked the top executive of Delta Air Lines for not selecting the internet provider.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 12:58:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frequent Flier Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit Cards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Loyalty Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delta Air Lines Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ryanair Holdings PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bastian, Edward H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09biz-airplane-wifi-jbqv/09biz-airplane-wifi-jbqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>Elon Musk’s satellite service has been the provider of choice for many major airlines looking to upgrade to faster internet.</media:description>
+    </item>
+    <item>
+      <title>Anthropic’s Quest to Give A.I. Morals</title>
+      <link>https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html" rel="standout"></atom:link>
+      <description>“For Anthropic, it was part research and part evangelism.”</description>
+      <dc:creator>Max Read, Whitney Jones, Vjeran Pavic, Alyssa Moxley, Dan Powell, Chris Wood, Diane Wong and Marion Lozano</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 11:01:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/podcasts/09hardfork-claude-conscious/09hardfork-claude-conscious-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Images: Getty Images, Anthropic</media:credit>
+    </item>
+    <item>
+      <title>Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent</title>
+      <link>https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html" rel="standout"></atom:link>
+      <description>Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:03:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Alexandr (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Friedman, Nat (1977- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/META-MUSE-1-bwvl/META-MUSE-1-bwvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
+      <media:description>Mark Zuckerberg, Meta’s chief executive, with various iterations of the Muse avatar. </media:description>
+    </item>
+    <item>
+      <title>In Alex Gibney’s ‘Musk’, the Answer to the Trillionaire’s Power Is Unsatisfying.</title>
+      <link>https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html" rel="standout"></atom:link>
+      <description>Alex Gibney’s nearly four-hour documentary is deeply researched. But because the mogul has long been in the spotlight, little is new.</description>
+      <dc:creator>Alissa Wilkinson</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:03:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Musk (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gibney, Alex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+    </item>
+    <item>
+      <title>What to Know About the Facebook Whistle-Blowing Case Depicted in ‘The Social Reckoning’</title>
+      <link>https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html" rel="standout"></atom:link>
+      <description>Aaron Sorkin’s sort-of sequel to the 2010 “Social Network” dramatizes a whistle-blowing case at Facebook. Here’s what to know.</description>
+      <dc:creator>Sarah Bahr</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:01:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Social Reckoning (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sorkin, Aaron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Madison, Mikey (1999- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strong, Jeremy (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">White, Jeremy Allen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/09cul-reckoning-explainer-01-zjvh/09cul-reckoning-explainer-01-zjvh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Leah Gallo/Sony Pictures</media:credit>
+      <media:description>Jeremy Strong as Mark Zuckerberg in a scene from “The Social Reckoning.”</media:description>
+    </item>
+    <item>
+      <title>Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care</title>
+      <link>https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html" rel="standout"></atom:link>
+      <description>Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 22:48:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beth Israel Deaconess Medical Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lancet, The (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/09/09/multimedia/08SCI-MEDICAL-CHATBOT/00SCI-OPENAI-DATA-flbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kaoly Gutierrez for The New York Times</media:credit>
+      <media:description>After scheduling a visit with the hospital’s urgent care facility, the patients discussed their ailments with a Google chatbot before meeting with their doctors.</media:description>
+    </item>
+    <item>
+      <title>Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code</title>
+      <link>https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html" rel="standout"></atom:link>
+      <description>The woman who helped put astronauts on the moon was a software engineer when the field was not prestigious or lucrative.</description>
+      <dc:creator>Carolyn Y. Johnson and Kenneth Chang</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 14:11:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamilton, Margaret (1902-85)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/08sci-hamilton-appraisal-still-promo-print9/08sci-hamilton-appraisal-still-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Smithsonian National Air and Space Museum, via Agence France-Presse &amp;mdash; Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.</title>
+      <link>https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html" rel="standout"></atom:link>
+      <description>A tech start-up’s stunt in San Francisco tested the boundaries of combat sport safety and regulations.</description>
+      <dc:creator>Adeel Hassan</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 14:40:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boxing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mixed Martial Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+    </item>
+    <item>
+      <title>Why A.I. Agents Are Going Rogue</title>
+      <link>https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html</guid>
+      <atom:link href="https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html" rel="standout"></atom:link>
+      <description>Our journalists Sheera Frenkel and Dylan Freedman break down what A.I. agents are, how they differ from chatbots and why A.I. companies are worried about them now.</description>
+      <dc:creator>Sheera Frenkel, Dylan Freedman, Coleman Lowndes, James Surdam and Estelle Caswell</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 10:23:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+    </item>
+    <item>
+      <title>A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months</title>
+      <link>https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html" rel="standout"></atom:link>
+      <description>Prosecutors say Michael Smith flooded music-streaming platforms with bots that repeatedly streamed his A.I.-generated music, earning him as much as $8 million.</description>
+      <dc:creator>Derrick Bryson Taylor</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 02:05:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royalties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Michael A (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cornelius (NC)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/09/multimedia/07cul-streaming-fraud-hpcg/07cul-streaming-fraud-hpcg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bennett Raglin/Getty Images</media:credit>
+      <media:description>The case against Michael Smith, 54, was the Justice Department’s first involving fraud through A.I.-assisted music streaming. Mr. Smith used as many as 10,000 bot accounts to stream his music, the department said.</media:description>
+    </item>
+  </channel>
+</rss>
