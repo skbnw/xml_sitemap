@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Most Popular</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Thu, 15 Oct 2026 12:14:59 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 09:03:16 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Most Popular</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>America Is in Decline, and Trump Is Leading the Fall</title>
+      <link>https://www.nytimes.com/2026/10/14/opinion/usa-decline-trump-global-powers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/opinion/usa-decline-trump-global-powers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/opinion/usa-decline-trump-global-powers.html" rel="standout"></atom:link>
+      <description>The old world order is fraying. Who gets to shape the next one?</description>
+      <dc:creator>Lydia Polgreen, Rahmane Idrissa, Kaiser Kuo and Derek Arthur</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 17:10:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High-Speed Rail Projects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Populism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Economic Forum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bashir, Omar Hassan Al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maslow, Abraham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brussels (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sahel (Africa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/opinion/14opinions-middle-powers-art/14opinions-middle-powers-art-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A Trump Backlash Endangers Susan Collins in the Maine Senate Race</title>
+      <link>https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html" rel="standout"></atom:link>
+      <description>The race in Maine, which could decide Senate control, is testing whether there is still room for Ms. Collins’s brand of moderation during a sharply polarizing presidency.</description>
+      <dc:creator>Tim Balk</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 12:26:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Troy D (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14pol-maine-collins-01-bmjf/14pol-maine-collins-01-bmjf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Senator Susan Collins of Maine has cultivated a reputation as an independent-minded Republican who delivers for her state. As she seeks re-election, she faces a growing set of political challenges.</media:description>
+    </item>
+    <item>
+      <title>Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs</title>
+      <link>https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html" rel="standout"></atom:link>
+      <description>President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.</description>
+      <dc:creator>Aruni Soni</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 21:25:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refineries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Novak, Alexander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/2026-oct-biz-promos-russia-diesel/2026-oct-biz-promos-russia-diesel-mediumSquareAt3X-v5.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row</title>
+      <link>https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html" rel="standout"></atom:link>
+      <description>Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.</description>
+      <dc:creator>Constant Méheut and Carlotta Gall</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 13:11:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13int-ukraine-intelligence-01-jfzh/13int-ukraine-intelligence-01-jfzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <media:description>A resident collecting belongings from an apartment building that was struck in Kharkiv, Ukraine, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Rising Costs Push Necessities Out of Reach for Nearly Half of Americans</title>
+      <link>https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html" rel="standout"></atom:link>
+      <description>Inflation has made basic goods hard to afford and attitudes toward inequality have changed, studies from the Pew Research Center showed.</description>
+      <dc:creator>Sydney Ember</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 14:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pew Research Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/business/14biz-inflation-blog-pew/14biz-inflation-blog-pew-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Scott Olson/Getty Images</media:credit>
+      <media:description>Many Americans are intensely anxious about their ability to afford daily life.</media:description>
+    </item>
+    <item>
+      <title>4,200 Miles From Graceland, This Town Is Crazy About Elvis</title>
+      <link>https://www.nytimes.com/2026/10/13/arts/porthcawl-elvis-festival-wales.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/arts/porthcawl-elvis-festival-wales.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/13/arts/porthcawl-elvis-festival-wales.html" rel="standout"></atom:link>
+      <description>Each September, tribute acts and fans flock to the seaside town of Porthcawl, Wales, to celebrate Elvis’s life and music, and to party.</description>
+      <dc:creator>Clementine Schneidermann and Chloe W. Shakin</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 15:23:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Presley, Elvis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Porthcawl (Wales)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Costumes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/arts/00cul-Elvis-festival-photos-promo/00cul-Elvis-festival-photos-promo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Clementine Schneidermann for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Bleached Coral Rebounded After Touching Healthy Coral, Study Finds</title>
+      <link>https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html" rel="standout"></atom:link>
+      <description>After sick corals were placed in direct contact with healthy ones of the same genetic make-up, they recovered at “incredible” speed, scientists found.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 18:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Die-Offs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coral</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+    </item>
+    <item>
+      <title>Democrats Shouldn’t Wait Two More Years</title>
+      <link>https://www.nytimes.com/2026/10/14/opinion/midterms-democrats-trump-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/opinion/midterms-democrats-trump-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/opinion/midterms-democrats-trump-congress.html" rel="standout"></atom:link>
+      <description>The Trump era is ending. It’s time for Democrats to decide what happens next.</description>
+      <dc:creator>David Wallace-Wells</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 20:14:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Hakeem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/opinion/14wallace-wells-newsletter/14wallace-wells-newsletter-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by The New York Times</media:credit>
+    </item>
+    <item>
+      <title>‘Digger,’ Tom Cruise’s Big Flop, Is a Secret Masterpiece</title>
+      <link>https://www.nytimes.com/2026/10/14/opinion/digger-tom-cruise-movie-climate-flop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/opinion/digger-tom-cruise-movie-climate-flop.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/opinion/digger-tom-cruise-movie-climate-flop.html" rel="standout"></atom:link>
+      <description>The film has been panned by critics and shunned by audiences, but its message about the climate crisis is one we need to hear.</description>
+      <dc:creator>Jayson Greene</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 17:48:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Digger (2026) (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruise, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Inarritu, Alejandro G</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/opinion/14greene-image/14greene-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by Sam Whitney/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump Adds Another Giveaway to His Midterm Pitch: Pardons.</title>
+      <link>https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html" rel="standout"></atom:link>
+      <description>The president has stepped up his offers of financial rewards to voters with just weeks until the midterms. On Tuesday at a rally in Alaska, he announced pardons.</description>
+      <dc:creator>Tyler Pager</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 04:23:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wasilla (Alaska)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13dc-trump-lwtp/13dc-trump-lwtp-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump handed two people pardons during his rally on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?</title>
+      <link>https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html" rel="standout"></atom:link>
+      <description>Katie Zacharia told The New York Times that the confusion over her legal credentials was the result of one big misunderstanding.</description>
+      <dc:creator>Shawn McCreesh</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 08:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accreditation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California State Bar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pepperdine University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zacharia, Katie</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15vid-Zacharia-lawyer-cover/15vid-Zacharia-lawyer--fgkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary</title>
+      <link>https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html" rel="standout"></atom:link>
+      <description>Ms. Zacharia spent eight minutes reading from a script, called on only three reporters and made an awkward slip-up.</description>
+      <dc:creator>Shawn McCreesh</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 23:49:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zacharia, Katie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guilfoyle, Kimberly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leavitt, Karoline</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13dc-press-secretary-ckgw/13dc-press-secretary-ckgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Katie Zacharia, the new press secretary, said that she had wanted to work for President Trump “for a very long time.”</media:description>
+    </item>
+    <item>
+      <title>Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections</title>
+      <link>https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html" rel="standout"></atom:link>
+      <description>September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 20:22:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Price Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/2026-10-14-cpi-promo-index/2026-10-14-cpi-promo-index-mediumSquareAt3X-v3.png" width="1000"></media:content>
+    </item>
+    <item>
+      <title>Social Security COLA for 2027 Will Be 3.6%</title>
+      <link>https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html" rel="standout"></atom:link>
+      <description>The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January.</description>
+      <dc:creator>Mark Miller</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 14:31:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AARP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Employee Benefit Research Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Social Security Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-ss-cola-qlfw/14biz-ss-cola-qlfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>A Social Security Administration office in Jamaica, Queens. </media:description>
+    </item>
+    <item>
+      <title>If Democrats Win the Senate, They Cannot Mess Around</title>
+      <link>https://www.nytimes.com/2026/10/14/opinion/democrats-midterms-trump-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/opinion/democrats-midterms-trump-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/14/opinion/democrats-midterms-trump-congress.html" rel="standout"></atom:link>
+      <description>The party will need to make the most of whatever majority it has.</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 19:54:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/14/multimedia/14bouie-kjqz/14bouie-kjqz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Ribar for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>City Council Speaker and Mamdani Agree on Horse-Drawn Carriage Ban</title>
+      <link>https://www.nytimes.com/2026/10/13/nyregion/horse-carriages-ban-central-park.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/nyregion/horse-carriages-ban-central-park.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/13/nyregion/horse-carriages-ban-central-park.html" rel="standout"></atom:link>
+      <description>Under legislation backed by City Council Speaker Julie Menin and Mayor Zohran Mamdani, the use of horse-drawn carriages in Central Park would end by June 2028.</description>
+      <dc:creator>Jeffery C. Mays</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 23:58:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Yorkers for Clean, Livable and Safe Streets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transport Workers Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Menin, Julie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mahajan, Romanch (d 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/13/multimedia/13met-horses-council-chpf/13met-horses-council-chpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+      <media:description>The controversy over horse-drawn carriages has raged for many years.</media:description>
+    </item>
+    <item>
+      <title>The New Yorker Cartoonist P.C. Vey Has Died</title>
+      <link>https://www.nytimes.com/2026/10/13/business/media/peter-christopher-pc-vey-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/business/media/peter-christopher-pc-vey-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/13/business/media/peter-christopher-pc-vey-dead.html" rel="standout"></atom:link>
+      <description>His work for The New Yorker savaged the absurdities of everyday life. He has died at 70.</description>
+      <dc:creator>Michael S. Rosenwald</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 20:20:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vey, PC (1955-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cartoons and Cartoonists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Magazines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Yorker</category>
+    </item>
+    <item>
+      <title>A Trump Loyalist, a Turkish Investor and a Battle for Wealth and Influence</title>
+      <link>https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html" rel="standout"></atom:link>
+      <description>A Turkish businessman once allied with the Maduro regime has tied the knot with President Trump’s former personal lawyer, Alina Habba, at the same time he is seeking to retain a big contract in Venezuela.</description>
+      <dc:creator>Anatoly Kurmanaev and Tyler Pager</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 17:42:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grenell, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Habba, Alina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saab, Alex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/10/multimedia/00dc-venezuela-delcy-mbfh/00dc-venezuela-delcy-mbfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Todd Heisler/The New York Times</media:credit>
+      <media:description>Delcy Rodríguez, the interim president of Venezuela, at the Miraflores Palace in May.</media:description>
+    </item>
+    <item>
+      <title>Wildfires Are Unfightable Now</title>
+      <link>https://www.nytimes.com/2026/10/12/opinion/wildfires-firefighters-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/12/opinion/wildfires-firefighters-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/12/opinion/wildfires-firefighters-climate-change.html" rel="standout"></atom:link>
+      <description>This year’s fast moving, virtually irrepressible wildfire events are not the seasonal burns of decades past.</description>
+      <dc:creator>John Vaillant</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 22:10:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+    </item>
+  </channel>
+</rss>
