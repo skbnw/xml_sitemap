@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/ynnews/politics.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fynnews%2Fpolitics.rdf">
+    <title>47NEWS 全国 政治</title>
+    <link>https://www.47news.jp/news/politics</link>
+    <description>47NEWS 全国の政治に関するフィードをお届けします。</description>
+    <dc:date>2026-10-17T10:11:38+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/15094445.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094351.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094355.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094782.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094204.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094198.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094121.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094031.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094032.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093962.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093940.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093933.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094169.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093834.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093837.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093782.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15092090.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093663.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093537.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093511.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15091727.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15089652.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15092090.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15093663.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15094198.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/nayami_sodan"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/university-future"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_06"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/15094445.html">
+    <title>草加市長選 あす投開票　市議選も</title>
+    <link>https://www.47news.jp/15094445.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094351.html">
+    <title>高市首相、靖国神社に真榊奉納　秋季例大祭、閣僚の対応焦点</title>
+    <link>https://www.47news.jp/15094351.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094355.html">
+    <title>福島県議補選が告示　3選挙区、10月25日投開票</title>
+    <link>https://www.47news.jp/15094355.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094782.html">
+    <title>我孫子市長選挙、会社社長の黒葛原英樹さんが出馬表明「まちを変えるラストチャンス」</title>
+    <link>https://www.47news.jp/15094782.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094204.html">
+    <title>【速報】高市首相、靖国神社の秋季例大祭で供物奉納</title>
+    <link>https://www.47news.jp/15094204.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094198.html">
+    <title>福岡県議会、百条委設置を決定　金銭授受疑惑、未明に異例の展開</title>
+    <link>https://www.47news.jp/15094198.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094121.html">
+    <title>新人２候補第一声　県議補選福島市選挙区　支持拡大へ舌戦入り</title>
+    <link>https://www.47news.jp/15094121.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094031.html">
+    <title>新人候補支持訴え　県議補選郡山市選挙区　舌戦がスタート　渡部龍治候補　５８　県政に声を届ける</title>
+    <link>https://www.47news.jp/15094031.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094032.html">
+    <title>新人候補支持訴え　県議補選郡山市選挙区　舌戦がスタート</title>
+    <link>https://www.47news.jp/15094032.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093962.html">
+    <title>電子投票の利便性体験　導入検討の南会津町　知事選　期日前投票所にコーナー</title>
+    <link>https://www.47news.jp/15093962.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093940.html">
+    <title>新人２候補第一声　県議補選いわき市選挙区　支持拡大へ舌戦入り</title>
+    <link>https://www.47news.jp/15093940.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093933.html">
+    <title>新人２候補第一声　県議補選いわき市選挙区　支持拡大へ舌戦入り</title>
+    <link>https://www.47news.jp/15093933.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094169.html">
+    <title>交流人口増へ、切り札はやはり「馬」　関連施設整備へ財政面との折り合い欠かせず</title>
+    <link>https://www.47news.jp/15094169.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093834.html">
+    <title>神奈川・逗子市長選に菊池俊一市議が出馬へ　立候補表明は２人目「安心なまちを」</title>
+    <link>https://www.47news.jp/15093834.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093837.html">
+    <title>横浜市長選、１８日投開票　７人出馬で異例の混戦、市政どう立て直す</title>
+    <link>https://www.47news.jp/15093837.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093782.html">
+    <title>新聞協会賞受賞者コメント　連載「あの熱狂の中で」などＳＮＳ選挙を検証する一連の報道　神戸新聞社編集局報道部　高田康夫　社会の対立見つめ直す＜新聞大会２０２６＞</title>
+    <link>https://www.47news.jp/15093782.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15092090.html">
+    <title>百条委の設置案、継続審査に　福岡県議会、金銭疑惑</title>
+    <link>https://www.47news.jp/15092090.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093663.html">
+    <title>【緊急連載】簗氏発言、栃木県内の自民にも打撃　統一地方選への飛び火危惧、3区内勢力図に変化か　簗農相辞任㊦</title>
+    <link>https://www.47news.jp/15093663.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093537.html">
+    <title>簗前農相、衆院選で「支払いをするように」とメール送信　報酬払い投票依頼させたか　関係者が証言《無料公開》</title>
+    <link>https://www.47news.jp/15093537.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093511.html">
+    <title>高市流人事に「間違い」と苦言　自民・西田参院議員</title>
+    <link>https://www.47news.jp/15093511.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15091727.html">
+    <title>養子解禁、女性身分保持　皇族確保へ24日から新制度</title>
+    <link>https://www.47news.jp/15091727.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15089652.html">
+    <title>沖縄知事、米オスプレイ配備容認　「撤回は非現実的」、立場を転換</title>
+    <link>https://www.47news.jp/15089652.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15092090.html">
+    <title>百条委の設置案、継続審査に　福岡県議会、金銭疑惑</title>
+    <link>https://www.47news.jp/15092090.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15093663.html">
+    <title>【緊急連載】簗氏発言、栃木県内の自民にも打撃　統一地方選への飛び火危惧、3区内勢力図に変化か　簗農相辞任㊦</title>
+    <link>https://www.47news.jp/15093663.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15094198.html">
+    <title>福岡県議会、百条委設置を決定　金銭授受疑惑、未明に異例の展開</title>
+    <link>https://www.47news.jp/15094198.html</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_06">
+    <title>幅広い分野の革新的で優れたサービスを募集　第6回日本サービス大賞エントリー受付開始</title>
+    <link>https://www.47news.jp/special/serviceaward_06</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/nayami_sodan">
+    <title>もしも自分や身近な人が悩みを抱えたら？知っておきたい、「相談」の大切さ</title>
+    <link>https://www.47news.jp/special/nayami_sodan</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/university-future">
+    <title>大学特集〜大学教育の未来を探る〜</title>
+    <link>https://www.47news.jp/special/university-future</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_06">
+    <title>幅広い分野の革新的で優れたサービスを募集　第6回日本サービス大賞エントリー受付開始</title>
+    <link>https://www.47news.jp/special/serviceaward_06</link>
+    <description></description>
+    <dc:date>2026-10-17T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
