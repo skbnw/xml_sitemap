@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-10-18T15:12:38+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC180RE0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC180PI0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC180P70Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB180NR0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB180JS0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD180JI0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB153LF0V11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA180DR0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD101QT0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA1524M0V11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN14C8K0U6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR159QD0V11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB162820W6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFK101HG0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1801I0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB180600Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1808O0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1806P0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1805F0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1800P0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC2888S0Y6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1806R0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR180290Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH1672E0W6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1804T0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB180110Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB180130Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1800R0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC15B610V11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR28AZ90Y6A920C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC180RE0Y6A011C2000000/">
+    <title>今福和志・蝦名愛梨が優勝　オープンウオーター日本選手権5キロ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC180RE0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T14:52:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC180PI0Y6A011C2000000/">
+    <title>東京レガシーハーフマラソン、溜池一太が5位　日本勢トップ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC180PI0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T13:44:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC180P70Y6A011C2000000/">
+    <title>レイズが快勝、2勝2敗に　ア・リーグ優勝決定シリーズ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC180P70Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T13:42:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB180NR0Y6A011C2000000/">
+    <title>ロシア制裁法停止は60日間か　ルビオ米国務長官「影響検討」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB180NR0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T13:30:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB180JS0Y6A011C2000000/">
+    <title>ウクライナ軍のスターリンク通信制限、ルビオ米国務長官が関与否定</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB180JS0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T13:26:55+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD180JI0Y6A011C2000000/">
+    <title>東京都福生市、路上で男性刺され死亡　男が逃走</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD180JI0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T13:15:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB153LF0V11C26A0000000/">
+    <title>みずほ、勘定系システム「MINORI」の大規模更新終了　1年がかりで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB153LF0V11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T12:15:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA180DR0Y6A011C2000000/">
+    <title>自民・萩生田幹事長代行、電気・ガス代補助の再開「年末に向け検討」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA180DR0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T12:14:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD101QT0Q6A011C2000000/">
+    <title>暴走ニデック、何が永守氏を駆り立てたか　「京都式経営」称賛の死角</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD101QT0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA1524M0V11C26A0000000/">
+    <title>外務省、SMSで海外渡航者に危険情報　「プッシュ型」で注意喚起</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA1524M0V11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T11:06:18+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN14C8K0U6A011C2000000/">
+    <title>ブラジル大統領選挙、政権交代の可能性は　識者に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN14C8K0U6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR159QD0V11C26A0000000/">
+    <title>仏大統領選へ半年　極右追う急進左派、与党系3氏分裂で浮かぶ「両極」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR159QD0V11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB162820W6A011C2000000/">
+    <title>よもやの「ブラックマンデー」回避の剣が峰</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB162820W6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFK101HG0Q6A011C2000000/">
+    <title>狂騒AIに歴史の警鐘　膨張する投資、逆回転のリスク</title>
+    <link>https://www.nikkei.com/article/DGXZQOFK101HG0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1801I0Y6A011C2000000/">
+    <title>ロシアの衛星が米衛星に異常接近、ウクライナ支援妨害か　米報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1801I0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T10:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB180600Y6A011C2000000/">
+    <title>全米で「反トランプ」デモ　中間選挙の期日前投票促す</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB180600Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T10:40:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1808O0Y6A011C2000000/">
+    <title>インドで群衆事故18人死亡　祭典会場の出入り口付近に人が殺到</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1808O0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T10:37:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1806P0Y6A011C2000000/">
+    <title>愛媛県西条市の副市長、太鼓台の下敷きになり死亡　祭りに担ぎ手で参加</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1806P0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T10:00:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1805F0Y6A011C2000000/">
+    <title>ボクシング亀田和毅の世界戦中止　試合当日、相手の体調不良で</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1805F0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T09:36:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1800P0Y6A011C2000000/">
+    <title>フランスで55万人が大規模デモ　教育改善や物価高対策を求め放火・略奪</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1800P0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T09:24:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC2888S0Y6A920C2000000/">
+    <title>福岡の麺屋澄々、幻の地鶏「天草大王」ラーメン　かぼす胡椒で味変</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC2888S0Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T09:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1806R0Y6A011C2000000/">
+    <title>前田大然がプレミア初ゴール　鈴木彩艶は無失点、佐野海舟フル出場</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1806R0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T08:59:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR180290Y6A011C2000000/">
+    <title>エジプト大統領、サウジアラビア防衛意向「要請あればあらゆる措置」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR180290Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T08:55:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH1672E0W6A011C2000000/">
+    <title>秋華賞など競馬予想　18日の有力馬</title>
+    <link>https://www.nikkei.com/article/DGXZQODH1672E0W6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T08:44:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1804T0Y6A011C2000000/">
+    <title>「AI」の文言、トランプ政権の意向受け使わず　IMF会合の議長声明</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1804T0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T08:00:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB180110Y6A011C2000000/">
+    <title>ゼレンスキー氏、トランプ氏に不信感　対ロシア制裁解除進むと悲観</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB180110Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T06:20:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB180130Y6A011C2000000/">
+    <title>ユダヤ人入植者、欧州外交官らを襲撃　ヨルダン川西岸で暴徒化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB180130Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T05:59:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1800R0Y6A011C2000000/">
+    <title>インド、ゴキブリ党の創設者を再び拘束・釈放　治安乱さぬこと条件に</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1800R0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T05:47:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC15B610V11C26A0000000/">
+    <title>香港、ペットフレンドリー路線に試練　犬が人を襲う事故相次ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC15B610V11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR28AZ90Y6A920C2000000/">
+    <title>スロバキア東部、ウクライナ物流の新拠点に　ポーランド経由を補完</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR28AZ90Y6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-18T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
