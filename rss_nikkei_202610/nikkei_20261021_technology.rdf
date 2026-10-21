@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-10-21T14:11:04+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2118P0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN200050Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM211XZ0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN20BPF0Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM210WC0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG161Y30W6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN2106F0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG0787U0X01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG207390Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC244SN0U6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC154FP0V10C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC181T70Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC243K10U6A920C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA20AN50Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM20AK80Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC199V70Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG158LL0V11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA203PP0Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA201SJ0Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC204020Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2458P0U6A720C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA193ZL0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG1931D0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2010Q0Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG085610Y6A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG197GT0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG145XK0U6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD171O30X11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC160IJ0W6A011C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2118P0R21C26A0000000/">
+    <title>iPS細胞心筋シート移植の女性「深い呼吸可能に」　大阪、近く退院</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2118P0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T13:12:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN200050Q6A021C2000000/">
+    <title>スペースXとテスラ、「マスク帝国」へ統合協議　AI軸に宇宙とEV融合</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN200050Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T11:55:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM211XZ0R21C26A0000000/">
+    <title>豪ネクストDC株が44%急落　住民反対で電力接続遅延、　収益下振れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM211XZ0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T11:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN20BPF0Q6A021C2000000/">
+    <title>スペースX、上場初の黒字7000億円　AI事業は設備レンタルで売上高9倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN20BPF0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T10:35:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM210WC0R21C26A0000000/">
+    <title>中国、米政府機関のDeepSeek排除批判　「首脳間の共通認識顧みず」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM210WC0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T10:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG161Y30W6A011C2000000/">
+    <title>AIが選ぶおすすめ商品、直前の閲覧履歴に偏る仕組み解明　北大</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG161Y30W6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T09:13:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN2106F0R21C26A0000000/">
+    <title>スペースXとテスラ統合協議　イーロン・マスク氏が委員会設置を表明</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN2106F0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T07:20:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG0787U0X01C26A0000000/">
+    <title>「火に焼かれない」サラマンダー、実は毒の粘液が蛍光に光る</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG0787U0X01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG207390Q6A021C2000000/">
+    <title>中国、2028年末までに次世代の火星全域地質図を作成へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG207390Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC244SN0U6A920C2000000/">
+    <title>Tinderアジア責任者「婚活から自己表現へ」　リアルの出会い提供</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC244SN0U6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC154FP0V10C26A9000000/">
+    <title>「来週から週休3日」AI活用迫る劇薬　ゲーム開発人員30分の1に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC154FP0V10C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC181T70Y6A011C2000000/">
+    <title>帳票管理のカミナシ、物流・食品工場のAI活用支援　22億円調達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC181T70Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC243K10U6A920C2000000/">
+    <title>社会人集う東京都立産業技術大学院大　修了後も仲間と課題解決探る</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC243K10U6A920C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA20AN50Q6A021C2000000/">
+    <title>最先端AIのセキュリティー、G7デジタル相会合で議論　議長声明公表へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA20AN50Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-21T00:22:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM20AK80Q6A021C2000000/">
+    <title>バイトダンスなど3社、NVIDIAからGPU製品5兆円超　ロイター報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM20AK80Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T22:05:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/">
+    <title>H3ロケット成功率80%から巻き返しへ　海外需要取り込みで技術維持</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC199V70Z11C26A0000000/">
+    <title>不正アクセス、中国系AI「ARTEX」で日本標的に　金融など業種絞り攻撃</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC199V70Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T19:02:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG158LL0V11C26A0000000/">
+    <title>ノーベル賞・硤合憲三氏、日本の研究力底上げへ「人増えるのが一番」</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG158LL0V11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA203PP0Q6A021C2000000/">
+    <title>AI・デジタル改革会議、東大・松尾豊教授や経済同友会・山口氏ら起用</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA203PP0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T16:50:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA201SJ0Q6A021C2000000/">
+    <title>医療や建設、AI導入へ政府がルール整備　責任明示・被害救済など</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA201SJ0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC204020Q6A021C2000000/">
+    <title>接客チャットのウェブナルがAI電話参入　通販や金融業界ターゲット</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC204020Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T15:06:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2458P0U6A720C2000000/">
+    <title>NTT、光電融合の量産確立へ生産ライン　NEDOが160億円支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2458P0U6A720C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T12:59:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA193ZL0Z11C26A0000000/">
+    <title>防衛装備庁の安保技術助成制度、応募が過去最多560件　11大学初採択</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA193ZL0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T12:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG1931D0Z11C26A0000000/">
+    <title>H3ロケット打ち上げ、三菱重工に移管へ　製造から一括でコスト管理</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG1931D0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T11:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2010Q0Q6A021C2000000/">
+    <title>高市早苗首相、火星往復技術に期待　「試料持ち帰り成功を」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2010Q0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG085610Y6A001C2000000/">
+    <title>H3ロケット打ち上げ成功　火星衛星探査機「MMX」搭載、試料採取へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG085610Y6A001C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T05:53:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG197GT0Z11C26A0000000/">
+    <title>日本で未報告の寄生虫、中学生が発見　茨城県のアメリカナマズから</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG197GT0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG145XK0U6A011C2000000/">
+    <title>がん細胞を死滅させる新材料、理研が開発　細胞中の一酸化炭素に反応</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG145XK0U6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD171O30X11C26A0000000/">
+    <title>進化するスマートグラス、使って分かった可能性と課題</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD171O30X11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC160IJ0W6A011C2000000/">
+    <title>米ゼットスケーラーCEO「AIの制限、安全につながらず」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC160IJ0W6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-20T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
