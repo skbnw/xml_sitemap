@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-10-22T16:12:08+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA215QN0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2255X0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD216KS0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF09BWI0Z01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL226SN0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB226560S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD226FN0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB2014U0Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA225ZD0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA2259N0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA224D00S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC217Y40R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFC222VA0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC225TW0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL224QT0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL226I80S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB20ANG0Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD197930Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD219LZ0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM215WY0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL224NM0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL226AJ0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL226AL0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL225650S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR21BXH0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA221PC0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL220O0TS6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD223C50S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB21C7L0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM217RW0R21C26A0000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA215QN0R21C26A0000000/">
+    <title>委託広がる通信インフラ、サイバー防御に死角　総務省が検討会初会合</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA215QN0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:10:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2255X0S6A021C2000000/">
+    <title>東証大引け　日経平均が大幅反落　3カ月ぶり安値　AI半導体に売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2255X0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:08:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD216KS0R21C26A0000000/">
+    <title>神奈川県警、古い免許証を不正流用　警備部門が30年以上顔写真収集か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD216KS0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:07:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF09BWI0Z01C26A0000000/">
+    <title>パナインダ社長、売上高5000億円目標「1〜2年前倒し」　30年度から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF09BWI0Z01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:06:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL226SN0S6A021C2000000/">
+    <title>株価指数先物・オプション大引け　先物は大幅反落　コール売られる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL226SN0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:04:05+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB226560S6A021C2000000/">
+    <title>ドバイ原油・22日午後、上昇</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB226560S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:03:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD226FN0S6A021C2000000/">
+    <title>河川敷で高齢男性倒れ死亡、21日氾濫発生の秋田・子吉川付近</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD226FN0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:01:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB2014U0Q6A021C2000000/">
+    <title>三井住友FG、富裕層向け新ブランド始動　銀行販売の投信・債券数4倍</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB2014U0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:00:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA225ZD0S6A021C2000000/">
+    <title>自民・松山政司参院会長、旧姓使用拡大の法案「党内議論が不十分」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA225ZD0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA2259N0S6A021C2000000/">
+    <title>高市早苗首相、横浜新市長と面会　園芸博成功への連携確認</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA2259N0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA224D00S6A021C2000000/">
+    <title>自民党・麻生太郎副総裁「日本が明るくなった」　高市政権1年を評価</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA224D00S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T16:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC217Y40R21C26A0000000/">
+    <title>ふくおかFG、アジアの首長を長崎に案内　MICE後の周遊促す</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC217Y40R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:59:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFC222VA0S6A021C2000000/">
+    <title>北海道の自治体・企業、PHP欠陥で対応追われる　ウェブサイト停止も</title>
+    <link>https://www.nikkei.com/article/DGXZQOFC222VA0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:57:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC225TW0S6A021C2000000/">
+    <title>第一三共ヘルスケアが公式ECサイト　市販薬販売や健康情報を発信</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC225TW0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:51:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL224QT0S6A021C2000000/">
+    <title>韓国株22日　大幅反落、半導体株に利益確定売り拡大　6カ月半ぶり安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL224QT0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:49:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL226I80S6A021C2000000/">
+    <title>新興株22日　グロース250が反落　投資家心理が悪化</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL226I80S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:47:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB20ANG0Q6A021C2000000/">
+    <title>日銀10月会合、連続利上げ見送りへ　2%物価目標に事実上到達</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB20ANG0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:47:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD197930Z11C26A0000000/">
+    <title>完全デジタルの教科書、小5以上の英語・実技系のみ解禁　紙と併用基本に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD197930Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:46:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD219LZ0R21C26A0000000/">
+    <title>東大院汚職、元教授に有罪判決　東京地裁判決</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD219LZ0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM215WY0R21C26A0000000/">
+    <title>マイクロン台湾、報酬巡り綱引き　桃園で労組幹部スト・台中は労使合意</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM215WY0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL224NM0S6A021C2000000/">
+    <title>債券15時　長期金利、2.885%に上昇　原油高が相場の重荷に</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL224NM0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:44:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL226AJ0S6A021C2000000/">
+    <title>欧州国債早朝　ドイツ長期金利、上昇　3.4%台前半</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL226AJ0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:41:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL226AL0S6A021C2000000/">
+    <title>欧州外為早朝　ユーロ、対ドルで上昇　1.12ドル台半ば</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL226AL0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:38:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL225650S6A021C2000000/">
+    <title>日経平均大引け　大幅反落　1713円安の6万2907円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL225650S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:37:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR21BXH0R21C26A0000000/">
+    <title>中東経済、コロナ禍以来のマイナス成長　IMFが26年見通し</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR21BXH0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:37:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA221PC0S6A021C2000000/">
+    <title>PHP欠陥、政府は分析急ぐ　官房長官「重要インフラに注意喚起」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA221PC0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:35:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL220O0TS6A021C2000000/">
+    <title>日経平均終値1713円安　「AIツルハシ銘柄」売り招いたメタの財務不安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL220O0TS6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:35:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD223C50S6A021C2000000/">
+    <title>角田欣一氏が死去　元トーヨーサッシ（現LIXIL）副社長</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD223C50S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:31:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB21C7L0R21C26A0000000/">
+    <title>第一生命が金投資、インフレ対策で分散運用拡大　相場に押し上げ効果</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB21C7L0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM217RW0R21C26A0000000/">
+    <title>フィリピンでEV展示会、中韓に日本勢が対抗　初のトラックショーも</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM217RW0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:30:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
