@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-10-23T15:12:05+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2311M0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC232UA0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC087OU0Y6A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2274C0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC22AFZ0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN210320R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM230GO0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN227GB0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN22CC50S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG21B270R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG079KS0X01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG198UR0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR128MB0S6A810C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC227AE0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC195XU0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG144G90U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD200TT0Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC050C80V01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR2266T0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC224IM0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC221KR0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD19ADB0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF2560W0V20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA212MG0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM215WY0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC195DA0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN220XR0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC220J30S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM201WU0Q6A021C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2311M0T21C26A0000000/">
+    <title>台湾、台風接近で株式市場休場　TSMCは24日の運動会中止</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2311M0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T15:09:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC232UA0T21C26A0000000/">
+    <title>不正アクセス被害アルカディア、社長「深くおわび」　補償方針は未定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC232UA0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T15:01:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC087OU0Y6A001C2000000/">
+    <title>三菱マテ、光通信向け温度センサー　AI普及で6倍に増産</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC087OU0Y6A001C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T14:18:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2274C0S6A021C2000000/">
+    <title>福島県で国内最大級の恐竜の足跡化石発掘　ジュラ紀地層から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2274C0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T13:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC22AFZ0S6A021C2000000/">
+    <title>メタのAIエージェント「Muse」、日本で開始　メルカリなどと連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC22AFZ0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T10:18:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN210320R21C26A0000000/">
+    <title>米選挙、1.8兆円の中傷合戦　ゆがんだ「言論の自由」が壊す民主主義</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN210320R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM230GO0T21C26A0000000/">
+    <title>SKハイニックス、米子会社ソリダイムの上場検討中断　半導体株安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM230GO0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T08:55:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/">
+    <title>PHP欠陥でサイト止めた日本、止めなかった米国　脆弱性は8月に発見</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T07:12:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN227GB0S6A021C2000000/">
+    <title>マスク氏、テキサスの民主党新星を攻撃　1兆ドル長者VS草の根調達の達人</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN227GB0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T07:05:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN22CC50S6A021C2000000/">
+    <title>アンソロピック、上場で問われる「トラスト」統治　目論見書公開へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN22CC50S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:33:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG21B270R21C26A0000000/">
+    <title>激震の米国科学　科学者の4分の3が海外移住を検討、獲得に走る欧州</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG21B270R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG079KS0X01C26A0000000/">
+    <title>絶滅の危機にあるメコン川の巨大魚、救出急増　漁師に報告アプリ普及</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG079KS0X01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG198UR0Z11C26A0000000/">
+    <title>4万〜3万年前の海面水位は100メートル低く、福井県立大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG198UR0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR128MB0S6A810C2000000/">
+    <title>フィンランド、世界初の核ごみ処分場が稼働へ　日本は「周回遅れ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR128MB0S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC227AE0S6A021C2000000/">
+    <title>PHP脆弱性「休眠サイトに悪用リスク」　識者に聞く</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC227AE0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC195XU0Z11C26A0000000/">
+    <title>米NotionのCEO「背景情報含むデータ、事業会社が持つべきだ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC195XU0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG144G90U6A910C2000000/">
+    <title>脳腫瘍へ薬運ぶ「ナノマシン」　名古屋大とNANO MRNAが治験</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG144G90U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD200TT0Q6A021C2000000/">
+    <title>中国テック企業、日本開拓になお照準　関係悪化も「政経分離」に期待</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD200TT0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC050C80V01C26A0000000/">
+    <title>明治「ザバス」、AI動画広告で制作費3分の1　人物は実写で炎上回避</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC050C80V01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR2266T0S6A021C2000000/">
+    <title>NVIDIAのCEO、新興クラウド信用不安「構造的問題ではない」と火消し</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR2266T0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T02:29:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC224IM0S6A021C2000000/">
+    <title>PHP欠陥｢AIなら数分で標的に｣　サイバー攻撃検知、休眠サイトもリスク</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC224IM0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T00:29:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC221KR0S6A021C2000000/">
+    <title>PHPとは　広く普及するサイト開発用言語、脆弱性は10点中9.2点の危険度</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC221KR0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T00:16:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD19ADB0Z11C26A0000000/">
+    <title>AIエージェントに｢社員証｣　MicrosoftやWorkday、権限絞り暴走防ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD19ADB0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T23:57:01+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF2560W0V20C26A9000000/">
+    <title>住友ゴム、工場機器の故障分析AI　製造業向けに27年にも外販</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF2560W0V20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA212MG0R21C26A0000000/">
+    <title>政府「AI前提」で規制改革　事故リスク念頭、救済ルール年内策定へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA212MG0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T19:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM215WY0R21C26A0000000/">
+    <title>マイクロン台湾、報酬巡り綱引き　桃園で労組幹部スト・台中は労使合意</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM215WY0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC195DA0Z11C26A0000000/">
+    <title>博報堂DYHD、AIコンサル「FDE」を展開　200人体制で導入支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC195DA0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T15:23:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN220XR0S6A021C2000000/">
+    <title>メタ、AI「ミューズ」無料モデルに賭け　23兆円投資の成否を左右</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN220XR0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T12:27:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC220J30S6A021C2000000/">
+    <title>PHP欠陥、銀行や通信でもサービス停止広がる　みずほ銀など一部再開</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC220J30S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T12:04:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM201WU0Q6A021C2000000/">
+    <title>台湾IT19社、9月45.9%増収　AIサーバー後発ペガトロンが急伸</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM201WU0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-22T07:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
