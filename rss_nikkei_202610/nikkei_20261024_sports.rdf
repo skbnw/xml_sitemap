@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/sports.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fsports.rdf">
+    <title>日経新聞 スポーツ</title>
+    <link>https://www.nikkei.com/news/category/sports/</link>
+    <description>日経新聞のスポーツに関するフィードをお届けします。</description>
+    <dc:date>2026-10-24T15:11:33+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC241GQ0U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC241H90U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2418X0U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC2412K0U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240U30U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240M20U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240H70U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240CY0U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240DJ0U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240CK0U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC240B40U6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH230RX0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOLC076J60X01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH192KY0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH180CA0Y6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD238G90T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH233XL0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKCBSKR10T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC23BIB0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC23BJE0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH239E60T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH23AX70T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC23AF20T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH239VS0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH236UM0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH239JJ0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH214VN0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH235GM0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH235IZ0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH238UH0T21C26A0000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC241GQ0U6A021C2000000/">
+    <title>米大リーグ、新労使協定で主張譲らず　コミッショナーと選手会</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC241GQ0U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T15:07:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC241H90U6A021C2000000/">
+    <title>八村塁、16得点6リバウンド　クリッパーズ初黒星</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC241H90U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T14:59:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2418X0U6A021C2000000/">
+    <title>オリックス曽谷龍平が左肘手術　WBC代表、25歳投手</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2418X0U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T13:58:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC2412K0U6A021C2000000/">
+    <title>ブルワーズ、レイズに競り勝ち先勝　ワールドシリーズ開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC2412K0U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T12:56:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240U30U6A021C2000000/">
+    <title>ドジャースオーナー・ウォルター氏、WNBAチームも売却検討</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240U30U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T12:39:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240M20U6A021C2000000/">
+    <title>巨人・松井秀喜監督へ「自分らしくあればいい」　トーリ氏がエール</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240M20U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T10:31:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240H70U6A021C2000000/">
+    <title>平田憲聖、首位に浮上　米男子ゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240H70U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T09:56:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240CY0U6A021C2000000/">
+    <title>フィギュア青木祐奈がSP首位、中井亜美は3位　仏大会開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240CY0U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T09:15:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240DJ0U6A021C2000000/">
+    <title>町野修斗が今季2点目、前田大然は途中出場　海外サッカー</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240DJ0U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T09:13:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240CK0U6A021C2000000/">
+    <title>世界体操、27歳・杉原愛子5位　岸里奈は15位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240CK0U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T09:10:30+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC240B40U6A021C2000000/">
+    <title>卓球、松島輝空・張本美和組が優勝　アジア選手権</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC240B40U6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T08:48:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH230RX0T21C26A0000000/">
+    <title>アルテミスSなど競馬予想　24日の有力馬</title>
+    <link>https://www.nikkei.com/article/DGXZQODH230RX0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T08:45:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOLC076J60X01C26A0000000/">
+    <title>DJ野口みずき、音楽で「自分が最強」金メダル　マラソン中は自己陶酔</title>
+    <link>https://www.nikkei.com/article/DGXZQOLC076J60X01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH192KY0Z11C26A0000000/">
+    <title>箱根駅伝予選会、俺たちの歓喜　東洋大1位通過・法政大17秒差の雪辱</title>
+    <link>https://www.nikkei.com/article/DGXZQODH192KY0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH180CA0Y6A011C2000000/">
+    <title>凱旋門賞またも惨敗、でも応援一色　推し活にかすれる競馬の厳しさ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH180CA0Y6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD238G90T21C26A0000000/">
+    <title>忍耐・献身・柔和の松井秀喜新監督　自主性尊び本物のプロ育てる</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD238G90T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH233XL0T21C26A0000000/">
+    <title>24日のスポーツ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH233XL0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKCBSKR10T21C26A0000000/">
+    <title>バスケBプレミア、東京SRが大阪下し8勝目</title>
+    <link>https://www.nikkei.com/article/DGXZQOKCBSKR10T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T23:14:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC23BIB0T21C26A0000000/">
+    <title>フィギュア中井亜美、音楽かけ3回転半を着氷　仏大会24日開幕</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC23BIB0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T22:47:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC23BJE0T21C26A0000000/">
+    <title>バレーSVリーグ女子、大阪MとSAGA久光が開幕3連勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC23BJE0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T22:46:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH239E60T21C26A0000000/">
+    <title>小田凱人2連覇でロス出場権　愛知・名古屋アジアパラ</title>
+    <link>https://www.nikkei.com/article/DGXZQODH239E60T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T21:49:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH23AX70T21C26A0000000/">
+    <title>競歩・池田向希の処分取り消し　4年間資格停止、直ちに復帰可能</title>
+    <link>https://www.nikkei.com/article/DGXZQODH23AX70T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T21:05:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC23AF20T21C26A0000000/">
+    <title>関西学生野球、関学大が4季ぶり18度目優勝</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC23AF20T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T20:44:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH239VS0T21C26A0000000/">
+    <title>女子500で吉田雪乃が3連覇　スピードスケート全日本距離別</title>
+    <link>https://www.nikkei.com/article/DGXZQODH239VS0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T20:09:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH236UM0T21C26A0000000/">
+    <title>ゴルフ佐久間朱莉、大会連覇へ2位浮上　マスターズGCレディース</title>
+    <link>https://www.nikkei.com/article/DGXZQODH236UM0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T19:38:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH239JJ0T21C26A0000000/">
+    <title>世界体操、橋本大輝が個人総合4連覇　冷静に「自分の演技」貫く</title>
+    <link>https://www.nikkei.com/article/DGXZQODH239JJ0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T19:32:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH214VN0R21C26A0000000/">
+    <title>日本シリーズ24日開幕　ソフトバンク上沢、DeNA石田裕で口火切る</title>
+    <link>https://www.nikkei.com/article/DGXZQODH214VN0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T19:14:41+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH235GM0T21C26A0000000/">
+    <title>巨人、松井秀喜監督就任を発表　「ふるさとに戻ってきた」背番号90</title>
+    <link>https://www.nikkei.com/article/DGXZQODH235GM0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T18:34:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH235IZ0T21C26A0000000/">
+    <title>藤本佳則が単独トップに　フォーティネットゴルフ第2R</title>
+    <link>https://www.nikkei.com/article/DGXZQODH235IZ0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T18:25:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH238UH0T21C26A0000000/">
+    <title>巨人・松井秀喜新監督「新たな黄金時代へスタートしたい」　一問一答</title>
+    <link>https://www.nikkei.com/article/DGXZQODH238UH0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T18:19:48+09:00</dc:date>
+  </item>
+</rdf:RDF>

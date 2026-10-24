@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/technology.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Ftechnology.rdf">
+    <title>日経新聞 テクノロジー</title>
+    <link>https://www.nikkei.com/news/category/technology/</link>
+    <description>日経新聞のテクノロジーに関するフィードをお届けします。</description>
+    <dc:date>2026-10-24T15:12:10+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG221ZL0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB121560S6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG21BDK0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD1318E0T11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG147EP0U6A910C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC135KU0T11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG202QT0Q6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC23AKE0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB22B980S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB231OQ0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM222GK0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCD198Q70Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC236PD0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC230XP0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM230GO0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM2311M0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC232UA0T21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC087OU0Y6A001C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD2274C0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC22AFZ0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN210320R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN227GB0S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN22CC50S6A021C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG21B270R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG079KS0X01C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOSG198UR0Z11C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR128MB0S6A810C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/">
+    <title>中国系AIのARTEX、悪質改造が横行　公開停止後もサイバー攻撃に悪用か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T11:49:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG221ZL0S6A021C2000000/">
+    <title>外国語上達の早さの違い、聴覚の精度が左右　英大や東北大学など解明</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG221ZL0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB121560S6A011C2000000/">
+    <title>東京海上が国内初フィジカルAI保険　ロボット修理費補償、大市場に先手</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB121560S6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG21BDK0R21C26A0000000/">
+    <title>生命はどのように生まれたのか　太古の地球の再現実験で迫る</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG21BDK0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/">
+    <title>PHP脆弱性、利用サイトの半分が修正困難　バージョン古くサポート終了</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD1318E0T11C26A0000000/">
+    <title>大腸がんに実は「原因菌」、日本人患者の半数に関与　駆除で予防なるか</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD1318E0T11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG147EP0U6A910C2000000/">
+    <title>長引くかゆみ、「じんましん」治療が進化　慢性患者向け飲み薬も</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG147EP0U6A910C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC135KU0T11C26A0000000/">
+    <title>AI時代こそP&amp;Gマーケティングを学ぶ　背景にある3つの変化</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC135KU0T11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG202QT0Q6A021C2000000/">
+    <title>難治性の子宮体がんに放射性医薬、マウスで効果確認　QSTなど</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG202QT0Q6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-24T01:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC23AKE0T21C26A0000000/">
+    <title>サカナAI、AIエージェント基盤を発表　判断根拠や実行速度も記録</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC23AKE0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T20:48:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB22B980S6A021C2000000/">
+    <title>ファナック12年ぶり最高益、27年3月期純利益37%増　受注好調で</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB22B980S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T19:59:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB231OQ0T21C26A0000000/">
+    <title>世界AI株安メタが拍車、信用不安の波が大手に　マネー逃避で金利は低下</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB231OQ0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T19:05:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM222GK0S6A021C2000000/">
+    <title>経団連、韓国のCPTPP加盟に期待　ソウルで日韓財界会議</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM222GK0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T18:40:51+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCD198Q70Z11C26A0000000/">
+    <title>イチから分かるコアウィーブ・ショック　AIブームに黄信号？</title>
+    <link>https://www.nikkei.com/article/DGXZQOCD198Q70Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T18:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC236PD0T21C26A0000000/">
+    <title>日販、小売り以外との新規取引に社内審査委　AI企業への販売背景か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC236PD0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T17:19:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC230XP0T21C26A0000000/">
+    <title>アルカディアへの不正アクセス、「人間業ではない」　17時間気づけず</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC230XP0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T16:16:47+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM230GO0T21C26A0000000/">
+    <title>SKハイニックス、米子会社ソリダイムの上場検討中断　半導体株安で</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM230GO0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T15:32:52+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM2311M0T21C26A0000000/">
+    <title>台湾、台風接近で株式市場休場　TSMCは24日の運動会中止</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM2311M0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T15:09:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC232UA0T21C26A0000000/">
+    <title>不正アクセス被害アルカディア、社長「深くおわび」　補償方針は未定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC232UA0T21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T15:01:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC087OU0Y6A001C2000000/">
+    <title>三菱マテ、光通信向け温度センサー　AI普及で6倍に増産</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC087OU0Y6A001C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T14:18:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD2274C0S6A021C2000000/">
+    <title>福島県で国内最大級の恐竜の足跡化石発掘　ジュラ紀地層から</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD2274C0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T13:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC22AFZ0S6A021C2000000/">
+    <title>メタのAIエージェント「Muse」、日本で開始　メルカリなどと連携</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC22AFZ0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T10:18:54+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN210320R21C26A0000000/">
+    <title>米選挙、1.8兆円の中傷合戦　ゆがんだ「言論の自由」が壊す民主主義</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN210320R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T10:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/">
+    <title>PHP欠陥でサイト止めた日本、止めなかった米国　脆弱性は8月に発見</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T07:12:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN227GB0S6A021C2000000/">
+    <title>マスク氏、テキサスの民主党新星を攻撃　1兆ドル長者VS草の根調達の達人</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN227GB0S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T07:05:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN22CC50S6A021C2000000/">
+    <title>アンソロピック、上場で問われる「トラスト」統治　目論見書公開へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN22CC50S6A021C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:33:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG21B270R21C26A0000000/">
+    <title>激震の米国科学　科学者の4分の3が海外移住を検討、獲得に走る欧州</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG21B270R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG079KS0X01C26A0000000/">
+    <title>絶滅の危機にあるメコン川の巨大魚、救出急増　漁師に報告アプリ普及</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG079KS0X01C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOSG198UR0Z11C26A0000000/">
+    <title>4万〜3万年前の海面水位は100メートル低く、福井県立大学など</title>
+    <link>https://www.nikkei.com/article/DGXZQOSG198UR0Z11C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR128MB0S6A810C2000000/">
+    <title>フィンランド、世界初の核ごみ処分場が稼働へ　日本は「周回遅れ」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR128MB0S6A810C2000000/</link>
+    <description></description>
+    <dc:date>2026-10-23T05:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
