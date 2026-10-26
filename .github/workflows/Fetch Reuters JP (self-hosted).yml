@@ -1,0 +1,56 @@
+name: Fetch Reuters Japan sitemaps (self-hosted CDP)
+
+# ローカル Chrome（OpenClaw 等 CDP 18800）経由で sitemap を取得する。
+# ランナー登録例: Settings → Actions → Runners → New self-hosted (labels: self-hosted, Windows)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 7 * * *"
+
+jobs:
+  fetch-reuters-jp-sitemaps-cdp:
+    runs-on: [self-hosted, Windows]
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Playwright (connect only)
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements-reuters-fetch.txt
+          python -m playwright install chromium
+
+      - name: Fetch via Chrome CDP
+        env:
+          CHROME_CDP_URL: ${{ secrets.REUTERS_CHROME_CDP_URL }}
+        shell: pwsh
+        run: |
+          if (-not $env:CHROME_CDP_URL) { $env:CHROME_CDP_URL = 'http://127.0.0.1:18800' }
+          $date = (Get-Date).ToUniversalTime().ToString('yyyyMMdd')
+          python scripts/fetch_reutersjp_sitemaps.py --date $date
+          Get-ChildItem "rss_reutersjp_$date"
+
+      - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
+        shell: pwsh
+        run: |
+          $date = (Get-Date).ToUniversalTime().ToString('yyyyMMdd')
+          $out = "rss_reutersjp_$date"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add $out
+          if (-not (git diff --cached --quiet)) {
+            git commit -m "Add Reuters Japan sitemaps and news sitemaps for $date (CDP)"
+            git pull --rebase origin main
+            git push
+          } else {
+            Write-Error "No changes to commit"
+            exit 1
+          }
