@@ -1,0 +1,71 @@
+name: Fetch NHK RSS Feed
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 * * * *'  
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1  # Shallow clone to reduce fetch time
+
+      - name: Fetch NHK RSS feeds
+        run: |
+          current_week=$(date +'%Y%m_%W') # 1-51
+          current_time=$(date +'%Y%m%d_%H%M')
+          folder_name="xml-NHK_${current_week}"
+          mkdir -p $folder_name
+          
+          # 取得先のURLを新しい設定に更新
+          # 主要ニュース
+          curl -o "${folder_name}/nhk_main_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat0.xml
+          sleep 3
+          # 社会
+          curl -o "${folder_name}/nhk_domestic_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat1.xml
+          sleep 3
+          # 文化・エンタメ
+          curl -o "${folder_name}/nhk_bunka_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat2.xml
+          sleep 3
+          # 科学・医療
+          curl -o "${folder_name}/nhk_science_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat3.xml
+          sleep 3
+          # 政治
+          curl -o "${folder_name}/nhk_politics_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat4.xml
+          sleep 3
+          # 経済
+          curl -o "${folder_name}/nhk_economics_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat5.xml
+          sleep 3
+          # 国際
+          curl -o "${folder_name}/nhk_world_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat6.xml
+          sleep 3
+          # スポーツ
+          curl -o "${folder_name}/nhk_sports_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat7.xml
+
+      - name: Set Git Config
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+        working-directory: ${{ github.workspace }}
+        
+      - name: Commit and push XML files
+        run: |
+          git add -- xml-NHK_*
+          git diff --staged --quiet || git commit -m "Update - $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
+          git push
+        working-directory: ${{ github.workspace }}
+
+      - name: Trigger Project_NewsDB Update
+        if: success()
+        continue-on-error: true
+        run: |
+          curl -X POST https://api.github.com/repos/skbnw/Project_NewsDB/dispatches \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.SYNC_PAT }}" \
+          -d '{"event_type": "trigger-newsdb-update"}'

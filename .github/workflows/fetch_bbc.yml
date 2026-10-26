@@ -1,0 +1,88 @@
+name: Fetch BBC RSS Feeds
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *'  # Run at 00:00, 08:00, and 16:00 UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    steps:
+      # リポジトリをチェックアウト
+      - name: Check out repo
+        uses: actions/checkout@v2
+
+      # RSSフィードを取得
+      - name: Fetch BBC RSS feeds
+        run: |
+          current_month=$(date +'%Y%m')       # 現在の年月 (YYYYMM)
+          current_week=$(date +'%U')          # 現在の週番号 (WW)
+          current_time=$(date +'%Y%m%d_%H%M') # 現在のタイムスタンプ (YYYYMMDD_HHMM)
+          folder_name="xml-BBC_${current_month}_${current_week}"
+          mkdir -p $folder_name
+
+          # 各RSSフィードを取得
+          feeds=(
+            "TopStories=http://feeds.bbci.co.uk/news/rss.xml"
+            "World=http://feeds.bbci.co.uk/news/world/rss.xml"
+            "UK=http://feeds.bbci.co.uk/news/uk/rss.xml"
+            "Business=http://feeds.bbci.co.uk/news/business/rss.xml"
+            "Politics=http://feeds.bbci.co.uk/news/politics/rss.xml"
+            "Health=http://feeds.bbci.co.uk/news/health/rss.xml"
+            "EducationAndFamily=http://feeds.bbci.co.uk/news/education/rss.xml"
+            "ScienceAndEnvironment=http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+            "Technology=http://feeds.bbci.co.uk/news/technology/rss.xml"
+            "EntertainmentAndArts=http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+            "Africa=http://feeds.bbci.co.uk/news/world/africa/rss.xml"
+            "Asia=http://feeds.bbci.co.uk/news/world/asia/rss.xml"
+            "Europe=http://feeds.bbci.co.uk/news/world/europe/rss.xml"
+            "LatinAmerica=http://feeds.bbci.co.uk/news/world/latin_america/rss.xml"
+            "MiddleEast=http://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
+            "USAndCanada=http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
+            "England=http://feeds.bbci.co.uk/news/england/rss.xml"
+            "NorthernIreland=http://feeds.bbci.co.uk/news/northern_ireland/rss.xml"
+            "Scotland=http://feeds.bbci.co.uk/news/scotland/rss.xml"
+            "Wales=http://feeds.bbci.co.uk/news/wales/rss.xml"
+          )
+
+          for feed in "${feeds[@]}"; do
+            name="${feed%%=*}"
+            url="${feed##*=}"
+
+            # ファイル名と一時ファイル
+            temp_file="${folder_name}/bbc_${name}_${current_time}_temp.xml"
+            output_file="${folder_name}/bbc_${name}_${current_time}.xml"
+
+            # curl の実行（User-Agentを追加）
+            curl -fsSL -A "Mozilla/5.0 (compatible; GitHubActions/1.0)" -o "$temp_file" "$url" || echo "Failed to fetch $name"
+
+            # ファイルに内容がある場合のみ保存
+            if [ -s "$temp_file" ]; then
+              mv "$temp_file" "$output_file"
+            else
+              echo "Empty response for $name. Skipping..."
+              rm -f "$temp_file"
+            fi
+
+            sleep 3
+          done
+
+      # Gitの設定と認証
+      - name: Set Git Config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        working-directory: ${{ github.workspace }}
+
+      # 変更をコミットしてプッシュ
+      - name: Commit and push XML files
+        run: |
+          git add -- xml-BBC_*
+          git commit -m "Update BBC Feeds - $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push origin main
+        working-directory: ${{ github.workspace }}

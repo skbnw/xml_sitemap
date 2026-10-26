@@ -1,0 +1,30 @@
+name: 01 Upload
+
+permissions:
+  contents: write
+
+on:
+  # schedule は移設完了まで無効。旧リポジトリのスケジュールを止めてから戻す。
+  #   - cron: '0 0 * * 0'  # 毎週日曜日の午前0時（UTC）
+  workflow_dispatch:  # 手動トリガーを許可
+
+jobs:
+  upload-to-s3:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up AWS CLI
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Upload Directories to S3
+        run: |
+          FOLDER_PREFIX=$(date -d "yesterday" +%Y_%m%d)
+          for dir in $(ls -d $FOLDER_PREFIX*/); do
+            aws s3 cp $dir s3://${{ secrets.AWS_S3_BUCKET_NAME }}/$dir --recursive
+          done

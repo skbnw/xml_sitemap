@@ -1,0 +1,41 @@
+name: 02 Upload Remove
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  # schedule は移設完了まで無効。旧リポジトリのスケジュールを止めてから戻す。
+  #   - cron: '00 19 * * *'  # 毎日UTCの19:00（日本時間の午前4時）
+
+jobs:
+  process-directories:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up AWS CLI
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Upload Directories to S3
+        run: |
+          FOLDER_PREFIX=$(date -d "8 days ago" +%Y_%m%d)
+          if [ -d "$FOLDER_PREFIX" ]; then
+            aws s3 cp $FOLDER_PREFIX s3://${{ secrets.AWS_S3_BUCKET_NAME }}/$FOLDER_PREFIX --recursive
+          fi
+
+      - name: Remove Uploaded Directories from GitHub
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          FOLDER_PREFIX=$(date -d "8 days ago" +%Y_%m%d)
+          if [ -d "$FOLDER_PREFIX" ]; then
+            git rm -r $FOLDER_PREFIX
+            git commit -m "Remove uploaded directories: $FOLDER_PREFIX"
+            git push
+          fi

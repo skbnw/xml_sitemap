@@ -1,0 +1,35 @@
+name: AWS S3 Upload xml Files
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  # schedule は移設完了まで無効。旧リポジトリのスケジュールを止めてから戻す。
+  #   - cron: '0 */1 * * *' # 1時間おきに実行
+    
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      AWS_REGION: "ap-northeast-1"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      # ロンドン時間で現在の日付からyyyymmを動的に設定
+      - name: Extract yyyymm from Current Date in GMT
+        run: echo "yyyymm=$(date +'%Y%m' --utc)" >> $GITHUB_ENV
+
+      # 週の番号を取得
+      - name: Extract week number from Current Date
+        run: echo "week_number=$(date +'%U' --utc)" >> $GITHUB_ENV
+
+      # AWS S3への新しいファイルのアップロード
+      - name: Upload New Files to AWS S3
+        run: |
+          aws s3 sync --storage-class ONEZONE_IA --exact-timestamps --size-only ./xml-files_${{ env.yyyymm }}_${{ env.week_number }} s3://xml-topix-all/${{ env.yyyymm }}

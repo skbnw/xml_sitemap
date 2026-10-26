@@ -1,0 +1,84 @@
+name: 00_Schedule-All
+
+permissions:
+  contents: write
+
+on:
+  # schedule は移設完了まで無効。旧リポジトリのスケジュールを止めてから戻す。
+  #   - cron: '30 16 * * *'  # 日本時間の午前1時30分
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Target date (YYYY-MM-DD)'
+        required: false
+        default: ''
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        group: [g01, g02, g03, g04, g05, g06, g07, g08, g09, g10, g11, g12, g13, g14, g15, g16]
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r ./py/requirements.txt
+
+      - name: Execute scraper ${{ matrix.group }}
+        run: |
+          python py/file-${{ matrix.group }}.py ${{ github.event.inputs.target_date }}
+
+      - name: Upload results as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-results-${{ matrix.group }}
+          path: |
+            202*/*.csv
+          if-no-files-found: ignore
+
+  commit-results:
+    needs: scrape
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: scraper-results-*
+          merge-multiple: true
+
+      - name: Set Git Config
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Commit and push changes (with retry)
+        run: |
+          git add -- [0-9]*
+          if ! git diff --cached --quiet; then
+            git commit -m "Update collected data [Parallel] ${{ github.event.inputs.target_date }}"
+            for i in {1..5}; do
+              echo "Push attempt $i..."
+              git pull origin main --rebase
+              if git push origin main; then
+                echo "Push successful!"
+                exit 0
+              fi
+              echo "Push failed, retrying in 5 seconds..."
+              sleep 5
+            done
+            echo "Failed to push after 5 attempts."
+            exit 1
+          else
+            echo "No changes to commit"
+          fi

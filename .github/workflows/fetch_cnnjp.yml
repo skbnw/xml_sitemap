@@ -1,0 +1,47 @@
+name: Fetch CNNJP RSS Feed
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *'  # Run at 00:00, 08:00, and 16:00 UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    steps:
+      # リポジトリをチェックアウト
+      - name: Check out repo
+        uses: actions/checkout@v2
+
+      # RSSフィードを取得
+      - name: Fetch CNNJP RSS feeds
+        run: |
+          current_month=$(date +'%Y%m')       # 現在の年月 (YYYYMM)
+          current_week=$(date +'%U')          # 現在の週番号 (ISO週番号ではない)
+          current_time=$(date +'%Y%m%d_%H%M') # 現在のタイムスタンプ (YYYYMMDD_HHMM)
+          folder_name="xml-CNNJP_${current_month}_${current_week}"
+          
+          # フォルダ名修正 (YYYYMM_WW に変更)
+          folder_name="xml-CNNJP_${current_month}_${current_week}"
+
+          mkdir -p $folder_name
+          curl -o "${folder_name}/cnn_${current_time}.xml" http://feeds.cnn.co.jp/rss/cnn/cnn.rdf
+
+      # Gitの設定と認証
+      - name: Set Git Config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        working-directory: ${{ github.workspace }}
+        
+      # 変更をコミットしてプッシュ
+      - name: Commit and push XML files
+        run: |
+          git add -- xml-CNNJP_*
+          git commit -m "Update - $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push origin main
+        working-directory: ${{ github.workspace }}

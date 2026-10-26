@@ -1,0 +1,52 @@
+name: Fetch asahi rss
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '10 * * * *'  # At every minute past hour 3
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+
+      - name: Fetch asahi rss
+        run: |
+          current_month=$(date +'%Y%m')
+          current_week=$(date +'%Y%m_%W') # 1-51
+          day_offset=$(( 7 - current_day_of_week ))
+          current_time=$(date +'%Y%m%d_%H%M')
+          folder_name="asahi_rss_${current_week}"
+          mkdir -p $folder_name
+          sleep 3
+          curl -o "${folder_name}/asahi_headlines_${current_time}.xml" https://www.asahi.com/rss/asahi/newsheadlines.rdf
+          sleep 3
+          curl -o "${folder_name}/asahi_national_${current_time}.xml" https://www.asahi.com/rss/asahi/national.rdf
+          sleep 3
+          curl -o "${folder_name}/asahi_politics_${current_time}.xml" https://www.asahi.com/rss/asahi/politics.rdf
+          sleep 3
+          curl -o "${folder_name}/asahi_sports_${current_time}.xml" https://www.asahi.com/rss/asahi/sports.rdf
+          sleep 3
+          curl -o "${folder_name}/asahi_business_${current_time}.xml" https://www.asahi.com/rss/asahi/business.rdf
+          sleep 3
+          curl -o "${folder_name}/asahi_international_${current_time}.xml" https://www.asahi.com/rss/asahi/international.rdf
+          sleep 3
+          curl -o "${folder_name}/asahi_culture_${current_time}.xml" https://www.asahi.com/rss/asahi/culture.rdf
+
+      - name: Set Git Config
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+        working-directory: ${{ github.workspace }}
+
+      - name: Commit and push XML files
+        run: |
+          git pull --rebase
+          git add -- asahi_rss_*
+          git commit -m "Update XML files"
+          git push origin HEAD:main
+        working-directory: ${{ github.workspace }}

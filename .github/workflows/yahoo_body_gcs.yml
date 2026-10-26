@@ -1,0 +1,117 @@
+# Yahoo CSV → JSON → GCS (並列パス)
+# Primary: 00_Schedule-All 成功直後（workflow_run）
+# 手動: workflow_dispatch
+# 注意: g01–g16 は disabled。スクレイプは 00_Schedule-All のみ。
+# Discord: 成功時に対象日・アップロード件数・CSV数・スキップ/エラーを通知
+name: Upload Yahoo JSON to GCS
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Scrape date folder (YYYY-MM-DD or YYYY-MMDD). Empty = every date folder in the repo'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Dry run (no GCS writes)'
+        required: false
+        type: boolean
+        default: false
+      skip_existing:
+        description: 'Skip objects that already exist'
+        required: false
+        type: boolean
+        default: false
+  workflow_run:
+    workflows:
+      - 00_Schedule-All
+    types:
+      - completed
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    if: >
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # 収集ワークフローが push した日付フォルダを読む。event SHA だと push 前のコミットになる。
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r py/requirements-gcs.txt
+
+      - name: Authenticate to Google Cloud (WIF)
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ vars.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ vars.GCP_SERVICE_ACCOUNT }}
+
+      - name: Convert CSV and upload JSON to GCS
+        id: upload
+        env:
+          INPUT_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.date || '' }}
+          INPUT_DRY: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || false }}
+          INPUT_SKIP: ${{ github.event_name == 'workflow_dispatch' && inputs.skip_existing || false }}
+        run: |
+          set -euo pipefail
+          ARGS=(--repo-root .)
+          if [ -n "${INPUT_DATE}" ]; then
+            ARGS+=(--date "${INPUT_DATE}")
+          fi
+          if [ "${INPUT_DRY}" = "true" ]; then
+            ARGS+=(--dry-run)
+          fi
+          # workflow_run はリポジトリに残っている日付フォルダをすべて対象にする。
+          # すでに GCS にある記事はスキップし、欠測日の再アップロードだけ進める。
+          if [ "${INPUT_SKIP}" = "true" ] || [ "${GITHUB_EVENT_NAME}" = "workflow_run" ]; then
+            ARGS+=(--skip-existing)
+          fi
+          echo "Running: python py/csv_to_gcs_yahoo_json.py ${ARGS[*]}"
+          python py/csv_to_gcs_yahoo_json.py "${ARGS[@]}"
+
+      - name: Notify Discord on success
+        if: ${{ success() && github.event_name == 'workflow_run' }}
+        continue-on-error: true
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DATE_FOLDER: ${{ steps.upload.outputs.date_folder }}
+          FILES: ${{ steps.upload.outputs.files }}
+          ROWS: ${{ steps.upload.outputs.rows }}
+          UPLOADED: ${{ steps.upload.outputs.uploaded }}
+          SKIPPED: ${{ steps.upload.outputs.skipped }}
+          ERRORS: ${{ steps.upload.outputs.errors }}
+        run: |
+          if [ -z "${DISCORD_WEBHOOK_URL}" ]; then
+            echo "DISCORD_WEBHOOK_URL is not configured; skipping notification."
+            exit 0
+          fi
+
+          RUN_URL="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          MESSAGE="$(printf '%s\n' \
+            "✅ Upload Yahoo JSON to GCS #${GITHUB_RUN_NUMBER} 完了（00_Schedule-All 成功後）" \
+            "対象日: ${DATE_FOLDER:-不明}" \
+            "アップロード: ${UPLOADED:-?} 件" \
+            "CSV: ${FILES:-?} ファイル / 行: ${ROWS:-?}" \
+            "スキップ: ${SKIPPED:-?} / エラー: ${ERRORS:-?}" \
+            "${RUN_URL}")"
+          jq -n --arg content "${MESSAGE}" '{content: $content}' \
+            | curl --fail-with-body --retry 3 \
+                -H "Content-Type: application/json" \
+                --data-binary @- \
+                "${DISCORD_WEBHOOK_URL}"

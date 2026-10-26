@@ -1,0 +1,45 @@
+name: html-pickupALL
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 1 */2 * *"  # 2日ごとに01時に実行
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install Python dependencies
+        run: |
+          pip install notebook requests bs4 pandas
+          
+      - name: Create directory for artifacts
+        run: |
+          month=$(date +'%Y%m')
+          mkdir -p "html-pickup_${month}"
+
+      - name: Run scraper
+        run: python topics_scraper_all_Ver.5.1.py
+
+      - name: Commit and push CSV files
+        run: |
+          month=$(date +'%Y%m')
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git fetch origin
+          git pull origin main
+          git add html-pickup_${month}/
+          git commit -m "Update csv files - $(date +'%Y-%m-%d')"
+          git push origin main
