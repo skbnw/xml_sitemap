@@ -1,5 +1,6 @@
 # Reuters JP sitemap: CDP 取得 → xml_sitemap へ commit/push
 # 用法: Chrome CDP (既定 18800) 起動後に実行
+# v1.1 (2026-10-26): pull 前に未コミット変更を stash（workflow ローカル差分で rebase 失敗しない）
 # v1.0 (2026-10-26)
 
 $ErrorActionPreference = "Stop"
@@ -39,6 +40,30 @@ if (git diff --cached --quiet) {
 }
 
 git commit -m "Add Reuters Japan sitemaps and news sitemaps for $date (CDP local)"
+
+$stashName = "reuters-fetch-push-autostash"
+$didStash = $false
+$porcelain = git status --porcelain 2>$null
+if ($porcelain) {
+    git stash push -u -m $stashName | Out-Null
+    if ($LASTEXITCODE -eq 0) { $didStash = $true }
+}
+
 git pull --rebase origin main
+if ($LASTEXITCODE -ne 0) {
+    if ($didStash) { git stash pop 2>$null | Out-Null }
+    exit $LASTEXITCODE
+}
+
 git push origin main
-Write-Host "=== push 完了 ===" -ForegroundColor Green
+$pushRc = $LASTEXITCODE
+
+if ($didStash) {
+    git stash pop 2>$null | Out-Null
+    if ($LASTEXITCODE -ne 0) {
+        Write-Warning "stash pop で競合の可能性。git stash list で確認してください。"
+    }
+}
+
+if ($pushRc -ne 0) { exit $pushRc }
+Write-Host "=== push done ===" -ForegroundColor Green
