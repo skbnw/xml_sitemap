@@ -1,10 +1,14 @@
 # ジェトロ ビジネス短信
-# Version: 1.0
+# Version: 1.1
 # Last Update: 2026-10-26
 #
 # https://www.jetro.go.jp/rss2/biznews.xml は直近およそ20件しか持たない。
-# 4時間ごとにスナップショットを残し、rss_jetro_YYYYMMDD へ保存する。
+# 4時間ごとにRSS、記事JSON、政治経済日程JSONを rss_jetro_YYYYMMDD へ保存する。
 # ローカルへは daily_collection.bat が移す。
+#
+# 変更履歴:
+# - v1.1 (2026-10-26): 記事本文と世界の政治経済日程をJSONで保存。
+# - v1.0 (2026-10-26): RSSスナップショットのみ。
 
 name: Fetch JETRO Biznews
 
@@ -30,23 +34,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch JETRO biznews RSS
-        run: |
-          set -eu
-          TODAY=$(date -u +"%Y%m%d")
-          HOUR=$(date -u +"%H")
-          OUT_DIR="rss_jetro_${TODAY}"
-          OUT_FILE="${OUT_DIR}/jetro_biznews_${TODAY}_${HOUR}.xml"
-          mkdir -p "${OUT_DIR}"
-          curl -fsSL --retry 3 --retry-delay 5 --max-time 60 \
-            -A "Mozilla/5.0" \
-            "https://www.jetro.go.jp/rss2/biznews.xml" \
-            -o "${OUT_FILE}"
-          if ! grep -q "<item>" "${OUT_FILE}"; then
-            echo "No RSS items in ${OUT_FILE}"
-            exit 1
-          fi
-          echo "Saved ${OUT_FILE}"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch JETRO articles and diary
+        run: python py/fetch_jetro.py
 
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
@@ -60,7 +57,7 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Add JETRO biznews RSS for ${TODAY}"
+          git commit -m "Add JETRO biznews JSON for ${TODAY}"
           for i in 1 2 3 4 5; do
             echo "Push attempt ${i}..."
             if git pull --rebase origin main && git push origin main; then
