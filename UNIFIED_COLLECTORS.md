@@ -11,6 +11,12 @@
 取得したファイルは、今までと同じフォルダ名でリポジトリ直下に置きます。
 Project_NewsDB は `xml_sitemap` を見てローカルへ移します。
 
+## 削除したリポジトリ
+
+取得処理をこちらへ移したあと、次のリポジトリは削除した。
+
+`xml_a` `xml_nk` `xml_BBC` `xml_cnnjp` `y_actions` `y_comment` `y_rank` `y_rss_all` `y_rss_ctgry`
+
 ## まだ y_body に残しているもの
 
 Yahoo 記事 HTML の定期取得と GCS アップロードです。
