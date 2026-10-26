@@ -2,9 +2,7 @@ name: Fetch Reuters Japan sitemaps
 
 on:
   workflow_dispatch:
-  schedule:
-    # 米東部時間 2:00AM ≒ 7:00 UTC
-    - cron: "0 7 * * *"
+  # ubuntu 上は DataDome で 401 のため定期実行しない（CDP: self-hosted または scripts/run_reuters_fetch_and_push.ps1）
 
 jobs:
   fetch-reuters-jp-sitemaps:
