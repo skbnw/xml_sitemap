@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-26T20:38:57+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-26T20:38:57+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV3QNKVBVUCVL01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV1SSFVBVUCVL01PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV0VWFVBVUCVL04QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBT2W2ZVBTUCVL03NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBQ1H7PVBQPTIL00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBM21Y1VBMPTIL017M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBS30VQVBSPTIL001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBM1W64VBMPTIL014M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBR04M1VBRUCVL045M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBR216TVBRUCVL04PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBR3CPLVBRUCVL006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBR1SHGVBRUCVL002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBS2DB0VBSPQIP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBS1PXLVBSUTFL00YM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVBV3QNKVBVUCVL01JM.html?ref=rss">
+ <title>東京国際映画祭が開幕、中島健人さんら登壇「最高の映画の旅に」</title>
+ <link>https://www.asahi.com/articles/ASVBV3QNKVBVUCVL01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T20:38:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV1SSFVBVUCVL01PM.html?ref=rss">
+ <title>「女性は将棋に不向き」はナンセンス　脳科学者が語る偏見の「脅威」</title>
+ <link>https://www.asahi.com/articles/ASVBV1SSFVBVUCVL01PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV0VWFVBVUCVL04QM.html?ref=rss">
+ <title>西山朋佳女流四冠、挫折乗り越えて女性初の棋士に　新時代の幕開け</title>
+ <link>https://www.asahi.com/articles/ASVBV0VWFVBVUCVL04QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T12:36:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBT2W2ZVBTUCVL03NM.html?ref=rss">
+ <title>女性初の将棋棋士が誕生へ　西山朋佳女流四冠「強い方と戦いたい」</title>
+ <link>https://www.asahi.com/articles/ASVBT2W2ZVBTUCVL03NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T10:32:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBQ1H7PVBQPTIL00LM.html?ref=rss">
+ <title>在日朝鮮学生の50回記念画集が刊行　ルーツや葛藤向き合った作品も</title>
+ <link>https://www.asahi.com/articles/ASVBQ1H7PVBQPTIL00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBM21Y1VBMPTIL017M.html?ref=rss">
+ <title>「違法の巣窟」とみなされたYouTube　活用の道探った新興勢力</title>
+ <link>https://www.asahi.com/articles/ASVBM21Y1VBMPTIL017M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T07:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBS30VQVBSPTIL001M.html?ref=rss">
+ <title>【そもそも解説】音楽の著作権管理、JASRACが独占できた理由は</title>
+ <link>https://www.asahi.com/articles/ASVBS30VQVBSPTIL001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T07:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBM1W64VBMPTIL014M.html?ref=rss">
+ <title>坂本龍一が問うたJASRACの独占体制　半世紀続いた牙城は崩れた</title>
+ <link>https://www.asahi.com/articles/ASVBM1W64VBMPTIL014M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBR04M1VBRUCVL045M.html?ref=rss">
+ <title>ジャードゥーガル、逃げ若…　歴史マンガ戦国時代、なぜ今？背景は？</title>
+ <link>https://www.asahi.com/articles/ASVBR04M1VBRUCVL045M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-26T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBR216TVBRUCVL04PM.html?ref=rss">
+ <title>「豊臣兄弟！」家康役・松下洸平が語る　家康のかわいさ、憎めなさ</title>
+ <link>https://www.asahi.com/articles/ASVBR216TVBRUCVL04PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-25T20:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBR3CPLVBRUCVL006M.html?ref=rss">
+ <title>世界的な気候変動　パリコレでも目立つ「薄くて軽い服」の提案</title>
+ <link>https://www.asahi.com/articles/ASVBR3CPLVBRUCVL006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-25T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBR1SHGVBRUCVL002M.html?ref=rss">
+ <title>パリコレ中に高校生デモ　ラグジュアリーと日常の「距離」に記者は</title>
+ <link>https://www.asahi.com/articles/ASVBR1SHGVBRUCVL002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-25T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBS2DB0VBSPQIP001M.html?ref=rss">
+ <title>復興半ば、能登半島の漆芸と陶芸　焼失から再建の京都・仁和寺で展示</title>
+ <link>https://www.asahi.com/articles/ASVBS2DB0VBSPQIP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-25T09:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBS1PXLVBSUTFL00YM.html?ref=rss">
+ <title>秋空に響く「ヤーヤドー」弘前ねぷた、江戸から続く墨田区との深き縁</title>
+ <link>https://www.asahi.com/articles/ASVBS1PXLVBSUTFL00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-10-25T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
