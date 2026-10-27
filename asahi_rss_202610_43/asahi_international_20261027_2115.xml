@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>国際 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「国際ニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-28T06:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-28T06:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV161ZVBVUHBI02RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV11HZVBVUHBI02PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW2TFMVBWUHBI02CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW6VM3VBWUHBI002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW6GVSVBWUHBI015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW4DZKVBWSFVU21GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW3QXYVBWUHBI012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW31N2VBWUHBI02BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW2RL1VBWKBGQ09QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV4PXHVBVUHBI009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV4H78VBVUHBI01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW0RTYVBWUHBI02FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBR3H8RVBRUHBI00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBT3V1BVBTUHBI012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBR5R6BVBRUHBI003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV1JRRVBVUHBI01QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV7VM5VBVUHBI004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV4RKSVBVUHBI02HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBR7RXQVBRUHBI00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV4VWPVBVUHBI01YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV43CYVBVUHBI00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV4R50VBVUTFK01WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9B0VB8V9BDIFI00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV3RC4VBVUHBI00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV3215VBVUHBI008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV2JSJVBVUHBI00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV1SP2VBVUHBI009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBT2H4PVBTUHBI01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBT15BDVBTUHBI014M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV1FCQVBVUHBI02DM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVBV161ZVBVUHBI02RM.html?ref=rss">
+ <title>オランウータン、森林火災で被害に　生息地インドネシアで96頭保護</title>
+ <link>https://www.asahi.com/articles/ASVBV161ZVBVUHBI02RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-28T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV11HZVBVUHBI02PM.html?ref=rss">
+ <title>森林火災が止まらぬインドネシア　「危険」レベルの煙害、周辺国にも</title>
+ <link>https://www.asahi.com/articles/ASVBV11HZVBVUHBI02PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-28T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW2TFMVBWUHBI02CM.html?ref=rss">
+ <title>「最も多くドアをたたいた人が勝つ」選挙　AI時代に1万軒回る価値</title>
+ <link>https://www.asahi.com/articles/ASVBW2TFMVBWUHBI02CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-28T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW6VM3VBWUHBI002M.html?ref=rss">
+ <title>イスラエル総選挙、与野党とも過半数届かない見通し　焦点は連立交渉</title>
+ <link>https://www.asahi.com/articles/ASVBW6VM3VBWUHBI002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-28T05:51:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW6GVSVBWUHBI015M.html?ref=rss">
+ <title>エムバペ選手、中国から一時締め出し　画像きっかけ、影響広がり謝罪</title>
+ <link>https://www.asahi.com/articles/ASVBW6GVSVBWUHBI015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-28T05:43:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW4DZKVBWSFVU21GM.html?ref=rss">
+ <title>フィンランド、ノルウェーの両首脳、プーチン氏と「実直な」電話協議</title>
+ <link>https://www.asahi.com/articles/ASVBW4DZKVBWSFVU21GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T22:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW3QXYVBWUHBI012M.html?ref=rss">
+ <title>習近平氏が福田康夫元首相の遺族に弔電　「正しい歴史観を堅持した」</title>
+ <link>https://www.asahi.com/articles/ASVBW3QXYVBWUHBI012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T20:26:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW31N2VBWUHBI02BM.html?ref=rss">
+ <title>ロシアとウクライナ、局地的な停戦開始　物資輸送や住民避難なるか</title>
+ <link>https://www.asahi.com/articles/ASVBW31N2VBWUHBI02BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T18:56:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW2RL1VBWKBGQ09QM.html?ref=rss">
+ <title>トランプ氏「ノルウェーは最悪だ」　ノーベル賞逃し、選挙集会で攻撃</title>
+ <link>https://www.asahi.com/articles/ASVBW2RL1VBWKBGQ09QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV4PXHVBVUHBI009M.html?ref=rss">
+ <title>名門コーネル大で集団性暴行、加害者の訴追なし　米社会に広がる波紋</title>
+ <link>https://www.asahi.com/articles/ASVBV4PXHVBVUHBI009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV4H78VBVUHBI01SM.html?ref=rss">
+ <title>変化か、変わらぬ現実か　パレスチナ人が見つめるイスラエル総選挙</title>
+ <link>https://www.asahi.com/articles/ASVBV4H78VBVUHBI01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW0RTYVBWUHBI02FM.html?ref=rss">
+ <title>ロシアが「人身取引」で29カ国の外国人を動員　国連独立委が認定</title>
+ <link>https://www.asahi.com/articles/ASVBW0RTYVBWUHBI02FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T11:45:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBR3H8RVBRUHBI00CM.html?ref=rss">
+ <title>「トランプ氏は専制的な人物、『麻薬運搬船』攻撃は違法」元米当局者</title>
+ <link>https://www.asahi.com/articles/ASVBR3H8RVBRUHBI00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBT3V1BVBTUHBI012M.html?ref=rss">
+ <title>韓国の若者に広がる読書ブーム　テキストヒップが映す癒やしと語らい</title>
+ <link>https://www.asahi.com/articles/ASVBT3V1BVBTUHBI012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBR5R6BVBRUHBI003M.html?ref=rss">
+ <title>かすむ米兵21人の死、不満はガソリン高騰へ　「戦争しない」はずが</title>
+ <link>https://www.asahi.com/articles/ASVBR5R6BVBRUHBI003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T09:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV1JRRVBVUHBI01QM.html?ref=rss">
+ <title>初の米中ロ首脳会談？高市首相・習氏の会談は？11月APECの注目</title>
+ <link>https://www.asahi.com/articles/ASVBV1JRRVBVUHBI01QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV7VM5VBVUHBI004M.html?ref=rss">
+ <title>イランとサウジなど防衛協定3カ国が会合　外交的解決を模索か</title>
+ <link>https://www.asahi.com/articles/ASVBV7VM5VBVUHBI004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T08:57:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV4RKSVBVUHBI02HM.html?ref=rss">
+ <title>ドラマ「VIVANT」の演出、中国メディアが批判「敵意を扇動」</title>
+ <link>https://www.asahi.com/articles/ASVBV4RKSVBVUHBI02HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T08:25:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBR7RXQVBRUHBI00PM.html?ref=rss">
+ <title>政権支え、歯止めは効かず　アメリカ議会は中間選挙で変わるのか</title>
+ <link>https://www.asahi.com/articles/ASVBR7RXQVBRUHBI00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV4VWPVBVUHBI01YM.html?ref=rss">
+ <title>イスラエルがパレスチナ自治区で「絶滅行為」　国連調査委が報告書</title>
+ <link>https://www.asahi.com/articles/ASVBV4VWPVBVUHBI01YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV43CYVBVUHBI00HM.html?ref=rss">
+ <title>民主の下院奪還が有力視、共和は資金力で対抗　米中間選挙まで1週間</title>
+ <link>https://www.asahi.com/articles/ASVBV43CYVBVUHBI00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-27T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV4R50VBVUTFK01WM.html?ref=rss">
+ <title>拘束の北海道新聞記者、日本大使館員が領事面会　健康状態に問題なし</title>
+ <link>https://www.asahi.com/articles/ASVBV4R50VBVUTFK01WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T23:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9B0VB8V9BDIFI00QM.html?ref=rss">
+ <title>11月3日実施、アメリカ中間選挙とは　主なシナリオや仕組みを解説</title>
+ <link>https://www.asahi.com/articles/ASV9B0VB8V9BDIFI00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T23:05:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV3RC4VBVUHBI00ZM.html?ref=rss">
+ <title>中南米の親米化を止めたブラジル・ルラ氏の勝利　足元の分断なお深く</title>
+ <link>https://www.asahi.com/articles/ASVBV3RC4VBVUHBI00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T21:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV3215VBVUHBI008M.html?ref=rss">
+ <title>フランス財政への懸念強まる　長期金利は5%超、政治不安との悪循環</title>
+ <link>https://www.asahi.com/articles/ASVBV3215VBVUHBI008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T18:59:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV2JSJVBVUHBI00JM.html?ref=rss">
+ <title>韓国、北朝鮮が国連安保理に書簡　軍事境界線めぐり応酬　続く緊張</title>
+ <link>https://www.asahi.com/articles/ASVBV2JSJVBVUHBI00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T18:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV1SP2VBVUHBI009M.html?ref=rss">
+ <title>「日本との対話、北朝鮮外務省は金正恩氏に勧めない」元39号室幹部</title>
+ <link>https://www.asahi.com/articles/ASVBV1SP2VBVUHBI009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBT2H4PVBTUHBI01LM.html?ref=rss">
+ <title>中国、なぜ再び「反腐敗」？　5中全会に臨む習近平指導部の狙いは</title>
+ <link>https://www.asahi.com/articles/ASVBT2H4PVBTUHBI01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T15:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBT15BDVBTUHBI014M.html?ref=rss">
+ <title>【そもそも解説】中国で始まった「5中全会」って?　注目点を解説</title>
+ <link>https://www.asahi.com/articles/ASVBT15BDVBTUHBI014M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV1FCQVBVUHBI02DM.html?ref=rss">
+ <title>中国共産党「5中全会」が開幕　習氏の4期目向け、党内引き締めへ</title>
+ <link>https://www.asahi.com/articles/ASVBV1FCQVBVUHBI02DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>国際</dc:subject>
+ <dc:date>2026-10-26T13:41:53+09:00</dc:date>
+</item>
+</rdf:RDF>
