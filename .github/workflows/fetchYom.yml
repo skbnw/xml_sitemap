@@ -1,8 +1,10 @@
 # 読売ニュースサイトマップ
-# Version: 1.1
+# Version: 1.2
 # Last Update: 2026-10-27
 #
 # 変更履歴:
+# - v1.2 (2026-10-27): 定期実行を止めた。GitHub Actions は 429 のままなので、
+#   読売は daily_collection.bat の手元取得に移した。手動実行だけ残す。
 # - v1.1 (2026-10-27): wget の連続アクセスが 429 になり、再試行も失敗して終了コード 8 になっていた。
 #   ブラウザ相当のヘッダ、間隔、再試行を入れ、最新サイトマップが取れないときだけ失敗にする。
 # - v1.0: sitemap-news-latest と past-1 から past-7 を wget で取得。
@@ -10,8 +12,6 @@
 name: Fetch YOM
 
 on:
-  schedule:
-    - cron: '0 1 * * *'  # 毎日午前1時に実行
   workflow_dispatch:
 
 permissions:
