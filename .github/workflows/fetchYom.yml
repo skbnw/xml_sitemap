@@ -1,3 +1,12 @@
+# 読売ニュースサイトマップ
+# Version: 1.1
+# Last Update: 2026-10-27
+#
+# 変更履歴:
+# - v1.1 (2026-10-27): wget の連続アクセスが 429 になり、再試行も失敗して終了コード 8 になっていた。
+#   ブラウザ相当のヘッダ、間隔、再試行を入れ、最新サイトマップが取れないときだけ失敗にする。
+# - v1.0: sitemap-news-latest と past-1 から past-7 を wget で取得。
+
 name: Fetch YOM
 
 on:
@@ -5,44 +14,82 @@ on:
     - cron: '0 1 * * *'  # 毎日午前1時に実行
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   fetch-and-push:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
-        ref: main  # mainブランチを使用
+        ref: main
 
     - name: Fetch and Save XML Files
       run: |
-        mkdir -p sitemap_yomi_$(date +\%Y\%m)
-        urls=("https://www.yomiuri.co.jp/sitemap-news-latest.xml"
-              "https://www.yomiuri.co.jp/sitemap-news-past-1.xml"
-              "https://www.yomiuri.co.jp/sitemap-news-past-2.xml"
-              "https://www.yomiuri.co.jp/sitemap-news-past-3.xml"
-              "https://www.yomiuri.co.jp/sitemap-news-past-4.xml"
-              "https://www.yomiuri.co.jp/sitemap-news-past-5.xml"
-              "https://www.yomiuri.co.jp/sitemap-news-past-6.xml"
-              "https://www.yomiuri.co.jp/sitemap-news-past-7.xml")
-        for url in "${urls[@]}"
-        do
-          suffix=$(basename $url .xml)  # '.xml' 拡張子を取り除く
-          if wget $url -O "sitemap_yomi_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m%d)_$suffix.xml"; then
-            echo "Downloaded $url"
-          else
-            echo "Failed to download $url"
-            wget $url -O "sitemap_yomi_$(date +\%Y\%m)/xml-yomi_$(date +\%Y\%m%d)_$suffix.xml"  # エラー時にもう一度試行
+        set -u
+        month=$(date -u +%Y%m)
+        day=$(date -u +%Y%m%d)
+        out_dir="sitemap_yomi_${month}"
+        mkdir -p "${out_dir}"
+        urls=(
+          "https://www.yomiuri.co.jp/sitemap-news-latest.xml"
+          "https://www.yomiuri.co.jp/sitemap-news-past-1.xml"
+          "https://www.yomiuri.co.jp/sitemap-news-past-2.xml"
+          "https://www.yomiuri.co.jp/sitemap-news-past-3.xml"
+          "https://www.yomiuri.co.jp/sitemap-news-past-4.xml"
+          "https://www.yomiuri.co.jp/sitemap-news-past-5.xml"
+          "https://www.yomiuri.co.jp/sitemap-news-past-6.xml"
+          "https://www.yomiuri.co.jp/sitemap-news-past-7.xml"
+        )
+        saved=0
+        for url in "${urls[@]}"; do
+          suffix=$(basename "${url}" .xml)
+          out_file="${out_dir}/xml-yomi_${day}_${suffix}.xml"
+          ok=0
+          for attempt in 1 2 3; do
+            if curl -fsSL --retry 2 --retry-delay 5 \
+              -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+              -e "https://www.yomiuri.co.jp/" \
+              "${url}" -o "${out_file}" && grep -q "<loc>" "${out_file}"; then
+              echo "Downloaded ${url}"
+              saved=$((saved + 1))
+              ok=1
+              break
+            fi
+            echo "Retry ${attempt} for ${url}"
+            rm -f "${out_file}"
+            sleep $((attempt * 15))
+          done
+          if [ "${ok}" -eq 0 ]; then
+            echo "Failed ${url}"
           fi
+          sleep 8
         done
+        echo "Saved ${saved} sitemaps"
+        if [ ! -s "${out_dir}/xml-yomi_${day}_sitemap-news-latest.xml" ]; then
+          echo "Latest Yomiuri sitemap was not saved."
+          exit 1
+        fi
 
     - name: Commit and Push files to main
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add sitemap_yomi_$(date +\%Y\%m)/*
-        git commit -m "Add XML files for $(date +\%Y\%m%d)"
-        # リモートの最新状態を取得してリベース
-        git pull --rebase origin main
-        git push origin main
+        month=$(date -u +%Y%m)
+        day=$(date -u +%Y%m%d)
+        git add "sitemap_yomi_${month}"
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+          exit 0
+        fi
+        git commit -m "Add XML files for ${day}"
+        for i in 1 2 3 4 5; do
+          if git pull --rebase origin main && git push origin main; then
+            exit 0
+          fi
+          sleep 5
+        done
+        exit 1

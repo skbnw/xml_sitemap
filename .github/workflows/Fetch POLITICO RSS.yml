@@ -1,3 +1,12 @@
+# POLITICO RSS
+# Version: 1.1
+# Last Update: 2026-10-27
+#
+# 変更履歴:
+# - v1.1 (2026-10-27): MorningEnergy と MorningShift は 404 のため対象外。
+#   1本が失敗しても残りのフィードは保存し、1本も取れないときだけ失敗にする。
+# - v1.0: 22本を取得。1本の 404 でジョブ全体が終了コード 22 になっていた。
+
 name: Fetch POLITICO RSS
 
 on:
@@ -28,41 +37,52 @@ jobs:
           # ---- POLITICO RSS フィード一覧 ----
           declare -A FEEDS=(
             # Story Categories
-            ["Congress"]="http://rss.politico.com/congress.xml"
-            ["HealthCare"]="http://rss.politico.com/healthcare.xml"
-            ["Defense"]="http://rss.politico.com/defense.xml"
-            ["Economy"]="http://rss.politico.com/economy.xml"
-            ["EnergyEnvironment"]="http://rss.politico.com/energy.xml"
+            ["Congress"]="https://rss.politico.com/congress.xml"
+            ["HealthCare"]="https://rss.politico.com/healthcare.xml"
+            ["Defense"]="https://rss.politico.com/defense.xml"
+            ["Economy"]="https://rss.politico.com/economy.xml"
+            ["EnergyEnvironment"]="https://rss.politico.com/energy.xml"
             ["Politics"]="https://rss.politico.com/politics-news.xml"
 
-            # Newsletters
-            ["Playbook"]="http://rss.politico.com/playbook.xml"
-            ["MorningTech"]="http://rss.politico.com/morningtech.xml"
-            ["MorningMoney"]="http://rss.politico.com/morningmoney.xml"
-            ["PoliticoPulse"]="http://rss.politico.com/politicopulse.xml"
-            ["Huddle"]="http://rss.politico.com/huddle.xml"
-            ["MorningEnergy"]="http://rss.politico.com/morningenergy.xml"
-            ["MorningDefense"]="http://rss.politico.com/morningdefense.xml"
-            ["PoliticoInfluence"]="http://rss.politico.com/politicoinfluence.xml"
-            ["MorningScore"]="http://rss.politico.com/morningscore.xml"
-            ["MorningTransportation"]="http://rss.politico.com/morningtransportation.xml"
-            ["MorningEducation"]="http://rss.politico.com/morningeducation.xml"
-            ["MorningTax"]="http://rss.politico.com/morningtax.xml"
-            ["MorningAgriculture"]="http://rss.politico.com/morningagriculture.xml"
-            ["MorningCybersecurity"]="http://rss.politico.com/morningcybersecurity.xml"
-            ["MorningShift"]="http://rss.politico.com/morningshift.xml"
-            ["MorningTrade"]="http://rss.politico.com/morningtrade.xml"
+            # Newsletters。morningenergy と morningshift は 2026-10-27 時点で 404。
+            ["Playbook"]="https://rss.politico.com/playbook.xml"
+            ["MorningTech"]="https://rss.politico.com/morningtech.xml"
+            ["MorningMoney"]="https://rss.politico.com/morningmoney.xml"
+            ["PoliticoPulse"]="https://rss.politico.com/politicopulse.xml"
+            ["Huddle"]="https://rss.politico.com/huddle.xml"
+            ["MorningDefense"]="https://rss.politico.com/morningdefense.xml"
+            ["PoliticoInfluence"]="https://rss.politico.com/politicoinfluence.xml"
+            ["MorningScore"]="https://rss.politico.com/morningscore.xml"
+            ["MorningTransportation"]="https://rss.politico.com/morningtransportation.xml"
+            ["MorningEducation"]="https://rss.politico.com/morningeducation.xml"
+            ["MorningTax"]="https://rss.politico.com/morningtax.xml"
+            ["MorningAgriculture"]="https://rss.politico.com/morningagriculture.xml"
+            ["MorningCybersecurity"]="https://rss.politico.com/morningcybersecurity.xml"
+            ["MorningTrade"]="https://rss.politico.com/morningtrade.xml"
           )
 
           echo "Fetching ${#FEEDS[@]} POLITICO RSS feeds..."
+          saved=0
 
           for name in "${!FEEDS[@]}"; do
             url="${FEEDS[$name]}"
             out_file="${OUT_DIR}/rss_politico_${name}_${TODAY}.xml"
 
             echo "  - ${name}: ${url}"
-            curl -fsSL "${url}" -o "${out_file}"
+            if curl -fsSL --retry 3 --retry-delay 2 -A "Mozilla/5.0" "${url}" -o "${out_file}" \
+              && grep -q "<item>" "${out_file}"; then
+              saved=$((saved + 1))
+            else
+              echo "  skipped ${name}"
+              rm -f "${out_file}"
+            fi
           done
+
+          echo "Saved ${saved} feeds"
+          if [ "${saved}" -eq 0 ]; then
+            echo "No POLITICO feeds were saved."
+            exit 1
+          fi
 
           echo "Files created under: ${OUT_DIR}"
           ls -R "${OUT_DIR}"
