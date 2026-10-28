@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>社会 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般社会ニュース、事件・事故、災害・交通情報、裁判、環境など」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-28T23:57:21+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-28T23:57:21+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX4JHHVBXPTIL013M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX4515VBXUJHB00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3VNSVBXUTIL025M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3H1GVBXTLTB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3JMPVBXUTPB01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3SD7VBXUNHB00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3QBYVBXTIPE00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3G5WVBXUCVL00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3H70VBXOIPE018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3HFQVBXULFA02XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX33HVVBXULOB00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX34FYVBXPLZB010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX343TVBXUTFL017M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX34BJVBXPTIL00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX31FQVBXOXIE023M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3109VBXULFA025M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2TF6VBXPITB00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2W2ZVBXUTIL01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBM24QMVBMUTIL003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2RB5VBXUTIL00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2DTNVBXUTIL018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2FPNVBXUTIL00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2DZ0VBXPTIL00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX21PGVBXTIPE008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2DRZVBXUDCB00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX24XMVBXIIPE00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX25CCVBXPTIL009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX1VZBVBXTIPE014M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX1D0WVBXTIPE006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX12TZVBXTIPE012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX1BZNVBXPTIL007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW653FVBWUTIL030M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW7TH3VBWPLZB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX0SP3VBXULOB009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX0QMGVBXTIPE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX0SWBVBXUTIL004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV1HRWVBVUPQJ00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW4Q0YVBWUTIL022M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW4HZVVBWUTIL01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX0JBPVBXOXIE01BM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVBX4JHHVBXPTIL013M.html?ref=rss">
+ <title>「眠気でブレーキかけ遅れ」JRが停車駅を通過、自動装置も作動せず</title>
+ <link>https://www.asahi.com/articles/ASVBX4JHHVBXPTIL013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T23:57:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX4515VBXUJHB00NM.html?ref=rss">
+ <title>住宅が火災、2人が心肺停止に　住人2人と連絡取れず　茨城・古河市</title>
+ <link>https://www.asahi.com/articles/ASVBX4515VBXUJHB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3VNSVBXUTIL025M.html?ref=rss">
+ <title>東大教授のSNS投稿「配慮不足」　日本教育学会が見解、限定で公開</title>
+ <link>https://www.asahi.com/articles/ASVBX3VNSVBXUTIL025M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T21:55:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3H1GVBXTLTB005M.html?ref=rss">
+ <title>検察が誤認、懲役23→22年に求刑訂正　少年被告の保育士殺害事件</title>
+ <link>https://www.asahi.com/articles/ASVBX3H1GVBXTLTB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T21:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3JMPVBXUTPB01BM.html?ref=rss">
+ <title>国道封鎖し米軍がロケット砲訓練、3度目は米本国から陸軍部隊</title>
+ <link>https://www.asahi.com/articles/ASVBX3JMPVBXUTPB01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3SD7VBXUNHB00NM.html?ref=rss">
+ <title>料理研究家リュウジさん監修のラーメンにカビ、回収　製造会社おわび</title>
+ <link>https://www.asahi.com/articles/ASVBX3SD7VBXUNHB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T20:45:58+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3QBYVBXTIPE00VM.html?ref=rss">
+ <title>蔵内前議長推進のワンヘルス、政治的経緯は検証せず　福岡県の行革審</title>
+ <link>https://www.asahi.com/articles/ASVBX3QBYVBXTIPE00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T20:25:46+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3G5WVBXUCVL00NM.html?ref=rss">
+ <title>天皇の医療施設か　平安宮内裏跡で「安福殿」とみられる遺構を初確認</title>
+ <link>https://www.asahi.com/articles/ASVBX3G5WVBXUCVL00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T20:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3H70VBXOIPE018M.html?ref=rss">
+ <title>名張毒ブドウ酒事件再審請求　名古屋高裁が　「破壊鑑定」を決定</title>
+ <link>https://www.asahi.com/articles/ASVBX3H70VBXOIPE018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T20:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3HFQVBXULFA02XM.html?ref=rss">
+ <title>スカイチケット、新たに顧客情報流出 口座番号など3万件超</title>
+ <link>https://www.asahi.com/articles/ASVBX3HFQVBXULFA02XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T20:10:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX33HVVBXULOB00WM.html?ref=rss">
+ <title>神奈川県警の不適正な交通取り締まり　元巡査部長に懲役1年を求刑</title>
+ <link>https://www.asahi.com/articles/ASVBX33HVVBXULOB00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX34FYVBXPLZB010M.html?ref=rss">
+ <title>京都市が上告　公園廃止「違法」判決に不服　中学校の全員給食延期へ</title>
+ <link>https://www.asahi.com/articles/ASVBX34FYVBXPLZB010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX343TVBXUTFL017M.html?ref=rss">
+ <title>「ワーホリ」事業者に業務停止命令、無料相談で契約勧誘　消費者庁</title>
+ <link>https://www.asahi.com/articles/ASVBX343TVBXUTFL017M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX34BJVBXPTIL00XM.html?ref=rss">
+ <title>大阪・箕面学園高校の教員男性、生徒10人以上に性的画像の送信要求</title>
+ <link>https://www.asahi.com/articles/ASVBX34BJVBXPTIL00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX31FQVBXOXIE023M.html?ref=rss">
+ <title>新世界を照らす紫の光　2代目通天閣、「古希」祝いライトアップ</title>
+ <link>https://www.asahi.com/articles/ASVBX31FQVBXOXIE023M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T18:40:08+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3109VBXULFA025M.html?ref=rss">
+ <title>JALとANAの委託先に不正アクセス　個人情報閲覧の形跡</title>
+ <link>https://www.asahi.com/articles/ASVBX3109VBXULFA025M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2TF6VBXPITB00CM.html?ref=rss">
+ <title>12歳男児に「親に30万円用意させろ」と脅す　海自隊員を懲戒免職</title>
+ <link>https://www.asahi.com/articles/ASVBX2TF6VBXPITB00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T18:16:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2W2ZVBXUTIL01RM.html?ref=rss">
+ <title>バカラ賭博で有罪確定の簡裁判事「罷免は当然」と認める　弾劾裁判で</title>
+ <link>https://www.asahi.com/articles/ASVBX2W2ZVBXUTIL01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T18:15:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBM24QMVBMUTIL003M.html?ref=rss">
+ <title>改正皇室典範の施行前に「皇室保護」の動き、専門家は唐突さ懸念</title>
+ <link>https://www.asahi.com/articles/ASVBM24QMVBMUTIL003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T17:28:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2RB5VBXUTIL00WM.html?ref=rss">
+ <title>大みそかの池袋でポケモンカード2690万円分強盗か　男4人を逮捕</title>
+ <link>https://www.asahi.com/articles/ASVBX2RB5VBXUTIL00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T17:26:18+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2DTNVBXUTIL018M.html?ref=rss">
+ <title>国境越えた詐欺、一層の連携強化へ　警察庁とカンボジア警察が会談</title>
+ <link>https://www.asahi.com/articles/ASVBX2DTNVBXUTIL018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T17:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2FPNVBXUTIL00FM.html?ref=rss">
+ <title>同居女性を殺害の疑い、バー経営者再逮捕　東京から宮城に運び遺棄か</title>
+ <link>https://www.asahi.com/articles/ASVBX2FPNVBXUTIL00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2DZ0VBXPTIL00SM.html?ref=rss">
+ <title>関西学院大の新学長に橋本秀樹氏　来年4月から任期4年</title>
+ <link>https://www.asahi.com/articles/ASVBX2DZ0VBXPTIL00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T16:37:51+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX21PGVBXTIPE008M.html?ref=rss">
+ <title>卓球の個人レッスンで中学生にわいせつ容疑　指導者逮捕、否認　福岡</title>
+ <link>https://www.asahi.com/articles/ASVBX21PGVBXTIPE008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T16:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2DRZVBXUDCB00MM.html?ref=rss">
+ <title>呼吸器具引き抜き寝たきりの妻殺害か、老人ホームで　75歳の夫逮捕</title>
+ <link>https://www.asahi.com/articles/ASVBX2DRZVBXUDCB00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T16:25:13+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX24XMVBXIIPE00DM.html?ref=rss">
+ <title>毛ガニ密漁容疑で男3人を逮捕　別事件の捜査中に毛ガニを持ち現れる</title>
+ <link>https://www.asahi.com/articles/ASVBX24XMVBXIIPE00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T16:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX25CCVBXPTIL009M.html?ref=rss">
+ <title>高校生がタイでインドホシガメ購入か、無許可輸入未遂容疑で3人逮捕</title>
+ <link>https://www.asahi.com/articles/ASVBX25CCVBXPTIL009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T16:10:58+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX1VZBVBXTIPE014M.html?ref=rss">
+ <title>工藤会・野村悟被告らに二審も賠償命令　恐喝の「使用者責任」認める</title>
+ <link>https://www.asahi.com/articles/ASVBX1VZBVBXTIPE014M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T16:05:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX1D0WVBXTIPE006M.html?ref=rss">
+ <title>泥酔していた女性に性的暴行容疑　大学生2人逮捕、1人は否認　福岡</title>
+ <link>https://www.asahi.com/articles/ASVBX1D0WVBXTIPE006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX12TZVBXTIPE012M.html?ref=rss">
+ <title>元武道塾長、二審は懲役23年の判決　教え子8人に性的暴行繰り返す</title>
+ <link>https://www.asahi.com/articles/ASVBX12TZVBXTIPE012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX1BZNVBXPTIL007M.html?ref=rss">
+ <title>大阪市消防局の消防士長、覚醒剤使用や譲り渡しなどの罪で逮捕・起訴</title>
+ <link>https://www.asahi.com/articles/ASVBX1BZNVBXPTIL007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T13:07:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW653FVBWUTIL030M.html?ref=rss">
+ <title>「永住権取れる」7千万円報酬か　中国人を支援、虚偽申請容疑で逮捕</title>
+ <link>https://www.asahi.com/articles/ASVBW653FVBWUTIL030M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T12:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW7TH3VBWPLZB007M.html?ref=rss">
+ <title>どうなる京都市の給食　センター建設「待った」　今は310円選択制</title>
+ <link>https://www.asahi.com/articles/ASVBW7TH3VBWPLZB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX0SP3VBXULOB009M.html?ref=rss">
+ <title>東名高速でトラックなど4台絡む事故、1人死亡　渋滞最後尾に追突か</title>
+ <link>https://www.asahi.com/articles/ASVBX0SP3VBXULOB009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX0QMGVBXTIPE001M.html?ref=rss">
+ <title>タブレット端末が発熱して煙、児童1人がやけど　北九州市の小学校</title>
+ <link>https://www.asahi.com/articles/ASVBX0QMGVBXTIPE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T11:55:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX0SWBVBXUTIL004M.html?ref=rss">
+ <title>GMO攻撃者の「脅迫サイト」が見られない状態　ドメイン停止で</title>
+ <link>https://www.asahi.com/articles/ASVBX0SWBVBXUTIL004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T11:48:38+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV1HRWVBVUPQJ00RM.html?ref=rss">
+ <title>何げない相づち、無意識の偏見･･･日常の中のヘイトとは　三者三論</title>
+ <link>https://www.asahi.com/articles/ASVBV1HRWVBVUPQJ00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW4Q0YVBWUTIL022M.html?ref=rss">
+ <title>目立ち始めた単独事故、請求は月に数十件　保険の「売り」が狙われた</title>
+ <link>https://www.asahi.com/articles/ASVBW4Q0YVBWUTIL022M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T11:17:20+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW4HZVVBWUTIL01BM.html?ref=rss">
+ <title>SNSで「副業」うたう→保険金詐欺を指南か　詐欺容疑で男3人逮捕</title>
+ <link>https://www.asahi.com/articles/ASVBW4HZVVBWUTIL01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T11:16:22+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX0JBPVBXOXIE01BM.html?ref=rss">
+ <title>都構想の特別区名　淀川・北・中央・天王寺　前回と同じ維新案が決定</title>
+ <link>https://www.asahi.com/articles/ASVBX0JBPVBXOXIE01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-10-28T11:13:00+09:00</dc:date>
+</item>
+</rdf:RDF>
