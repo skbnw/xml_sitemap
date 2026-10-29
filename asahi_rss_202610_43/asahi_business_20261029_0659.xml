@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「ビジネスニュース、経済、産業、金融、財政、為替、株価など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-29T15:48:43+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-29T15:48:43+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY02N1VBYULFA007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY1RGDVBYULFA033M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2HL3VBXUTIL009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY21XWVBYULFA01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY1R18VBYULFA00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY1PDHVBYULFA00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX4V1TVBXULFA01ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY14FNVBYULFA00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW2VRQVBWUUHB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY0FBCVBYUHBI00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBP0RMMVBPULFA00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV23CHVBVUTIL00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV21HBVBVULFA00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBP5450VBPULFA026M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3HYRVBXUTFK01YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX42PGVBXULFA01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2RW0VBXULFA00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX61RYVBXUHBI027M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3HZ2VBXULFA01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3JHQVBXPLFA005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3HFQVBXULFA02XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3GD2VBXULFA00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX1662VBXPLFA00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3F1PVBXULFA022M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX32SBVBXULFA00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX32WLVBXULFA01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3109VBXULFA025M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2V4QVBXULFA00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2RKSVBXULFA01PM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVBY02N1VBYULFA007M.html?ref=rss">
+ <title>ANAがエア・ドゥとソラシドを傘下に　運賃どうなる？識者に聞いた</title>
+ <link>https://www.asahi.com/articles/ASVBY02N1VBYULFA007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T15:48:43+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY1RGDVBYULFA033M.html?ref=rss">
+ <title>ANA、エア・ドゥとソラシドの親会社を完全子会社化で基本合意</title>
+ <link>https://www.asahi.com/articles/ASVBY1RGDVBYULFA033M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T15:39:13+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2HL3VBXUTIL009M.html?ref=rss">
+ <title>下請け代金を不当減額、調理器具メーカーに勧告　子会社も過去に違反</title>
+ <link>https://www.asahi.com/articles/ASVBX2HL3VBXUTIL009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY21XWVBYULFA01KM.html?ref=rss">
+ <title>フィギュア製作のグッドスマイルカンパニー、顧客クレカ情報が流出か</title>
+ <link>https://www.asahi.com/articles/ASVBY21XWVBYULFA01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T15:19:35+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY1R18VBYULFA00KM.html?ref=rss">
+ <title>不正アクセスで個人情報漏洩、今年度すでに2億6千万人　政府まとめ</title>
+ <link>https://www.asahi.com/articles/ASVBY1R18VBYULFA00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T14:50:01+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY1PDHVBYULFA00TM.html?ref=rss">
+ <title>GMO、攻撃者特定の「有力情報」入手　ホワイトハッカーが独自調査</title>
+ <link>https://www.asahi.com/articles/ASVBY1PDHVBYULFA00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T14:32:42+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX4V1TVBXULFA01ZM.html?ref=rss">
+ <title>トヨタ世界販売が2年ぶり前年割れ　26年度上半期、中国の苦戦響く</title>
+ <link>https://www.asahi.com/articles/ASVBX4V1TVBXULFA01ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T13:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY14FNVBYULFA00CM.html?ref=rss">
+ <title>新型パジェロ、619万円から　予約7割超は最上級の約800万円</title>
+ <link>https://www.asahi.com/articles/ASVBY14FNVBYULFA00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T13:06:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW2VRQVBWUUHB005M.html?ref=rss">
+ <title>シャープ栃木工場の跡地にデータセンター進出へ　雇用や活性化に期待</title>
+ <link>https://www.asahi.com/articles/ASVBW2VRQVBWUUHB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY0FBCVBYUHBI00MM.html?ref=rss">
+ <title>FRB、金利据え置き　中間選挙を意識？　12月の利上げ観測強まる</title>
+ <link>https://www.asahi.com/articles/ASVBY0FBCVBYUHBI00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T11:17:30+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBP0RMMVBPULFA00SM.html?ref=rss">
+ <title>45万→0→40万→12万→36万円　後見「補助」報酬　変転の謎</title>
+ <link>https://www.asahi.com/articles/ASVBP0RMMVBPULFA00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV23CHVBVUTIL00SM.html?ref=rss">
+ <title>ナフサ高騰で「崖っぷち」　アメリカ中間選挙、社長「不安は大きい」</title>
+ <link>https://www.asahi.com/articles/ASVBV23CHVBVUTIL00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV21HBVBVULFA00ZM.html?ref=rss">
+ <title>スマホの値段は平均8万円超え　AIブームが招いた「異次元」の高騰</title>
+ <link>https://www.asahi.com/articles/ASVBV21HBVBVULFA00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBP5450VBPULFA026M.html?ref=rss">
+ <title>本や雑誌、大阪も発売日が「首都圏から1日遅れ」に　出版取次が提案</title>
+ <link>https://www.asahi.com/articles/ASVBP5450VBPULFA026M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3HYRVBXUTFK01YM.html?ref=rss">
+ <title>次期戦闘機開発にドイツが「協力」　日本は警戒、「計画見直し必至」</title>
+ <link>https://www.asahi.com/articles/ASVBX3HYRVBXUTFK01YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX42PGVBXULFA01KM.html?ref=rss">
+ <title>GMO不正アクセスの脅迫サイト　総務省が通信会社に強制遮断を要請</title>
+ <link>https://www.asahi.com/articles/ASVBX42PGVBXULFA01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2RW0VBXULFA00JM.html?ref=rss">
+ <title>自家用車でも「AI自動運転」　日産やトヨタ、27年度以降に本格化</title>
+ <link>https://www.asahi.com/articles/ASVBX2RW0VBXULFA00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T04:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX61RYVBXUHBI027M.html?ref=rss">
+ <title>FRBが政策金利を据え置き、2会合ぶり　2人が利上げ主張し反対</title>
+ <link>https://www.asahi.com/articles/ASVBX61RYVBXUHBI027M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-29T03:13:56+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3HZ2VBXULFA01XM.html?ref=rss">
+ <title>消費減税で客足減る？　外食業界の不安に政府「支援策は今後具体化」</title>
+ <link>https://www.asahi.com/articles/ASVBX3HZ2VBXULFA01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T20:24:48+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3JHQVBXPLFA005M.html?ref=rss">
+ <title>ニデック、なぜ監査法人の「お墨付き」が得られない？　時期見通せず</title>
+ <link>https://www.asahi.com/articles/ASVBX3JHQVBXPLFA005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T20:22:47+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss">
+ <title>【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧</title>
+ <link>https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T20:22:31+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3HFQVBXULFA02XM.html?ref=rss">
+ <title>スカイチケット、新たに顧客情報流出 口座番号など3万件超</title>
+ <link>https://www.asahi.com/articles/ASVBX3HFQVBXULFA02XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T20:10:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3GD2VBXULFA00BM.html?ref=rss">
+ <title>日立、2年連続最高益の見通し　27年3月期　AI需要追い風</title>
+ <link>https://www.asahi.com/articles/ASVBX3GD2VBXULFA00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T19:48:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX1662VBXPLFA00RM.html?ref=rss">
+ <title>ニデック、有報への「監査意見」再び間に合わず　上場維持は不透明に</title>
+ <link>https://www.asahi.com/articles/ASVBX1662VBXPLFA00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T19:43:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3F1PVBXULFA022M.html?ref=rss">
+ <title>ニデック、審査プロセスの3シナリオ　年をまたぐかで大きな「差」</title>
+ <link>https://www.asahi.com/articles/ASVBX3F1PVBXULFA022M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T19:31:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX32SBVBXULFA00GM.html?ref=rss">
+ <title>北海道に風力発電拠点を設置へ　独シーメンスエナジー、経産省と覚書</title>
+ <link>https://www.asahi.com/articles/ASVBX32SBVBXULFA00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX32WLVBXULFA01SM.html?ref=rss">
+ <title>プルデンシャル、自粛期間中にまた金銭不祥事　営業社員を懲戒解雇</title>
+ <link>https://www.asahi.com/articles/ASVBX32WLVBXULFA01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T18:34:59+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3109VBXULFA025M.html?ref=rss">
+ <title>JALとANAの委託先に不正アクセス　個人情報閲覧の形跡</title>
+ <link>https://www.asahi.com/articles/ASVBX3109VBXULFA025M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T18:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2V4QVBXULFA00YM.html?ref=rss">
+ <title>NEC、中間決算で純利益が6割増　IT・防衛好調で通期を上方修正</title>
+ <link>https://www.asahi.com/articles/ASVBX2V4QVBXULFA00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T17:57:45+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2RKSVBXULFA01PM.html?ref=rss">
+ <title>JR東海、売上高が過去最高「訪日客、ビジネスも好調」　中間決算</title>
+ <link>https://www.asahi.com/articles/ASVBX2RKSVBXULFA01PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-10-28T17:28:14+09:00</dc:date>
+</item>
+</rdf:RDF>
