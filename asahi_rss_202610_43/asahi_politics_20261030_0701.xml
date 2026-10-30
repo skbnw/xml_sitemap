@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-10-30T15:45:29+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-10-30T15:45:29+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBZ1QD0VBZUTFK003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3RSZVBYUTIL008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBW1PFYVBWUTIL001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBZ0HYMVBZULFA00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBZ04PTVBZULFA02VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3SMZVBYONFB006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3RW6VBYUTFK00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3JMFVBYULFA02FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3PL3VBYUTFK00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3HYMVBYULFA009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3F83VBYUTFK00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3CX1VBYUTIL01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY34C0VBYUTFK00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY3245VBYUTFK015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY02RRVBYOXIE049M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY0FG2VBYUTFK022M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX4271VBXUTFK020M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBV2J1LVBVULLI002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX3HYRVBXUTFK01YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX20KFVBXUTFK011M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVBZ1QD0VBZUTFK003M.html?ref=rss">
+ <title>高市首相、核禁条約への対応は慎重な考え　広島・長崎市長との面会で</title>
+ <link>https://www.asahi.com/articles/ASVBZ1QD0VBZUTFK003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-30T15:45:29+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3RSZVBYUTIL008M.html?ref=rss">
+ <title>「イケイケ」で売り込む日本の武器輸出　足元の自衛隊からは不満も</title>
+ <link>https://www.asahi.com/articles/ASVBY3RSZVBYUTIL008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-30T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBW1PFYVBWUTIL001M.html?ref=rss">
+ <title>【そもそも解説】日本の武器輸出、どう変わった？　戦争で使われる？</title>
+ <link>https://www.asahi.com/articles/ASVBW1PFYVBWUTIL001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-30T14:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBZ0HYMVBZULFA00ZM.html?ref=rss">
+ <title>深夜までの国会答弁づくりをAIが支援　霞が関の働き方改革ねらい</title>
+ <link>https://www.asahi.com/articles/ASVBZ0HYMVBZULFA00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-30T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBZ04PTVBZULFA02VM.html?ref=rss">
+ <title>低所得者向けに年5千円　片山財務相、支援金の先行導入分で参考値</title>
+ <link>https://www.asahi.com/articles/ASVBZ04PTVBZULFA02VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-30T09:55:22+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3SMZVBYONFB006M.html?ref=rss">
+ <title>伊賀市長発言をパワハラと認定　市議会百条委、議長に報告書を提出</title>
+ <link>https://www.asahi.com/articles/ASVBY3SMZVBYONFB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-30T08:34:58+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3RW6VBYUTFK00LM.html?ref=rss">
+ <title>参政・神谷氏「統一選がメルクマール」　福岡市長選には「自前候補」</title>
+ <link>https://www.asahi.com/articles/ASVBY3RW6VBYUTFK00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T20:50:49+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3JMFVBYULFA02FM.html?ref=rss">
+ <title>病気で意思表示困難な首長の退職、副知事らが判断可能に　総務省方針</title>
+ <link>https://www.asahi.com/articles/ASVBY3JMFVBYULFA02FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3PL3VBYUTFK00RM.html?ref=rss">
+ <title>衆院31減、自維国が「法成立」の合意文書　11月中旬の法案化方針</title>
+ <link>https://www.asahi.com/articles/ASVBY3PL3VBYUTFK00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3HYMVBYULFA009M.html?ref=rss">
+ <title>高市首相、ガソリン補助金の縮小を表明　12月から5円ずつ引き上げ</title>
+ <link>https://www.asahi.com/articles/ASVBY3HYMVBYULFA009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T20:03:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3F83VBYUTFK00KM.html?ref=rss">
+ <title>小泉防衛相、防衛力強化も「専守防衛は変わらず」　フィリピンで訴え</title>
+ <link>https://www.asahi.com/articles/ASVBY3F83VBYUTFK00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T19:39:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3CX1VBYUTIL01MM.html?ref=rss">
+ <title>特急や貨物の基幹路線　持続可能な鉄道を議論　国の有識者委が初会合</title>
+ <link>https://www.asahi.com/articles/ASVBY3CX1VBYUTIL01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY34C0VBYUTFK00JM.html?ref=rss">
+ <title>和やかムード演出した日韓防衛相　靖国参拝後の初会談、両国の思惑は</title>
+ <link>https://www.asahi.com/articles/ASVBY34C0VBYUTFK00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T19:24:05+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY3245VBYUTFK015M.html?ref=rss">
+ <title>高市首相、モンゴルの大規模火災「深刻に受け止め」　モンゴル首相に</title>
+ <link>https://www.asahi.com/articles/ASVBY3245VBYUTFK015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T18:28:50+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY02RRVBYOXIE049M.html?ref=rss">
+ <title>愛媛知事選、5選めざす現職と新顔2人が立候補　11月15日投開票</title>
+ <link>https://www.asahi.com/articles/ASVBY02RRVBYOXIE049M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T12:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY0FG2VBYUTFK022M.html?ref=rss">
+ <title>自維国の幹事長、衆院定数31減で正式合意　「今国会で成立を期す」</title>
+ <link>https://www.asahi.com/articles/ASVBY0FG2VBYUTFK022M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX4271VBXUTFK020M.html?ref=rss">
+ <title>小泉防衛相・ヘグセス国防長官　対中念頭、防衛強化で足並みそろえる</title>
+ <link>https://www.asahi.com/articles/ASVBX4271VBXUTFK020M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBV2J1LVBVULLI002M.html?ref=rss">
+ <title>首相への好感度、下がった人は「政治とカネ」に不満　朝日・阪大調査</title>
+ <link>https://www.asahi.com/articles/ASVBV2J1LVBVULLI002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX3HYRVBXUTFK01YM.html?ref=rss">
+ <title>次期戦闘機開発にドイツが「協力」　日本は警戒、「計画見直し必至」</title>
+ <link>https://www.asahi.com/articles/ASVBX3HYRVBXUTFK01YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-29T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX20KFVBXUTFK011M.html?ref=rss">
+ <title>衆院定数31減、自民・維新・国民が賛成　法案成立の可能性高まる</title>
+ <link>https://www.asahi.com/articles/ASVBX20KFVBXUTFK011M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-28T21:20:00+09:00</dc:date>
+</item>
+</rdf:RDF>
