@@ -61,7 +61,7 @@ $pushRc = $LASTEXITCODE
 if ($didStash) {
     git stash pop 2>$null | Out-Null
     if ($LASTEXITCODE -ne 0) {
-        Write-Warning "stash pop で競合の可能性。git stash list で確認してください。"
+        Write-Warning "stash pop conflict possible; run git stash list"
     }
 }
 

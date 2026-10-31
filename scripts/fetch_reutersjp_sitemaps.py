@@ -3,6 +3,10 @@
 """
 fetch_reutersjp_sitemaps.py — Reuters JP sitemap 取得（GitHub Actions / ローカル）
 
+v1.2 (2026-10-31)
+  - ウォームアップ: www.reuters.com/world/japan/
+  - page.evaluate(fetch) で outboundfeeds XML 取得
+  - index 失敗時は jp/news-sitemap 直 URL にフォールバック
 v1.1 (2026-10-26)
   - Reuters 新形式: news-sitemap-index → www.reuters.com/.../jp/news-sitemap/ をたどる
 v1.0 (2026-10-26)
@@ -22,12 +26,15 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 NEWS_INDEX = (
-    "https://jp.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml"
+    "https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml"
 )
 SITEMAP_INDEX = (
-    "https://jp.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml"
+    "https://www.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml"
 )
-HOME = "https://jp.reuters.com/"
+JP_NEWS_SITEMAP = (
+    "https://www.reuters.com/arc/outboundfeeds/jp/news-sitemap/?outputType=xml"
+)
+HOME = "https://www.reuters.com/world/japan/"
 
 CHROME_ARGS = [
     "--no-sandbox",
@@ -70,8 +77,30 @@ def from_param(url: str) -> str:
     return "0"
 
 
+async def fetch_bytes_via_evaluate(page, url: str) -> bytes:
+    result = await page.evaluate(
+        """async (url) => {
+            const res = await fetch(url, { credentials: "include" });
+            const text = await res.text();
+            return { status: res.status, text };
+        }""",
+        url,
+    )
+    status = int(result.get("status") or 0)
+    body = (result.get("text") or "").encode("utf-8", errors="replace")
+    if status >= 400:
+        raise RuntimeError(f"HTTP {status} for {url}")
+    if not is_xml(body):
+        raise RuntimeError(f"non-XML for {url}")
+    return body
+
+
 async def fetch_bytes(page, url: str) -> bytes:
-    """ページ遷移で XML を取得（fetch より DataDome 通過率が高い）。"""
+    """evaluate(fetch) 優先、失敗時はページ遷移。"""
+    try:
+        return await fetch_bytes_via_evaluate(page, url)
+    except Exception as exc:
+        print(f"  evaluate fetch failed ({exc}); trying goto", flush=True)
     resp = await page.goto(url, wait_until="domcontentloaded", timeout=90_000)
     status = resp.status if resp else 0
     body = (await resp.body()) if resp else b""
@@ -133,25 +162,36 @@ async def run(out_dir: Path, today: str) -> int:
             print(f"  warn sitemap-index: {exc}", flush=True)
 
         print(f"=== news-sitemap-index: {NEWS_INDEX} ===", flush=True)
-        index_raw = await fetch_bytes(page, NEWS_INDEX)
-        if not is_xml(index_raw):
-            preview = index_raw[:200].decode("utf-8", errors="replace")
-            print(f"[ERROR] news-sitemap-index is not XML: {preview!r}", flush=True)
-            if not cdp_url:
-                await browser.close()
-            return 1
+        child_urls: list[str] = []
+        try:
+            index_raw = await fetch_bytes(page, NEWS_INDEX)
+            if is_xml(index_raw):
+                index_path = out_dir / f"reutersjp_news_sitemap_index_{today}.xml"
+                index_path.write_bytes(index_raw)
+                saved += 1
+                root = ET.fromstring(index_raw)
+                for u in loc_urls(root):
+                    if "news-sitemap" not in u:
+                        continue
+                    if "jp.reuters.com" in u or "/jp/news-sitemap" in u:
+                        child_urls.append(u)
+            else:
+                print("  warn: news-sitemap-index response not XML", flush=True)
+        except Exception as exc:
+            print(f"  warn news-sitemap-index: {exc}", flush=True)
 
-        index_path = out_dir / f"reutersjp_news_sitemap_index_{today}.xml"
-        index_path.write_bytes(index_raw)
-        saved += 1
-
-        root = ET.fromstring(index_raw)
-        child_urls = []
-        for u in loc_urls(root):
-            if "news-sitemap" not in u:
-                continue
-            if "jp.reuters.com" in u or "/jp/news-sitemap" in u:
-                child_urls.append(u)
+        if not child_urls:
+            print(f"  fallback child: {JP_NEWS_SITEMAP}", flush=True)
+            child_urls = [JP_NEWS_SITEMAP]
+            fallback_index = (
+                '<?xml version="1.0" encoding="UTF-8"?>'
+                '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+                f"<sitemap><loc>{JP_NEWS_SITEMAP}</loc></sitemap>"
+                "</sitemapindex>"
+            ).encode("utf-8")
+            index_path = out_dir / f"reutersjp_news_sitemap_index_{today}.xml"
+            index_path.write_bytes(fallback_index)
+            saved += 1
         url_list_path = out_dir / f"reutersjp_news_sitemap_urls_{today}.txt"
         url_list_path.write_text("\n".join(child_urls) + ("\n" if child_urls else ""), encoding="utf-8")
         print(f"  child sitemaps: {len(child_urls)}", flush=True)
