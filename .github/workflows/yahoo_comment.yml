@@ -1,3 +1,12 @@
+# Yahoo!ニュース コメントランキング
+# Version: 1.1
+# Last Update: 2026-10-31
+#
+# 変更履歴:
+# - v1.1 (2026-10-31): Python 3.8 が Actions から消え、毎時の setup が即失敗していた。
+#   checkout v4、setup-python v5、Python 3.11 にする。
+# - v1.0: 毎時 comment.py を実行して CSV を push。
+
 name: comment check
 
 permissions:
@@ -12,10 +21,10 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.8'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install pandas requests beautifulsoup4 pytz boto3

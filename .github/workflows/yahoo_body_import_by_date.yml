@@ -1,3 +1,11 @@
+# Yahoo 記事HTMLの日付指定取り込み
+# Version: 1.1
+# Last Update: 2026-10-31
+#
+# 変更履歴:
+# - v1.1 (2026-10-31): Python 3.8 は Actions で見つからない。Python 3.11 にする。
+# - v1.0: 手動実行で py/import by date.py を動かす。
+
 name: 99_import by date
 
 permissions:
@@ -13,13 +21,13 @@ jobs:
     steps:
       # リポジトリをチェックアウト
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Python環境をセットアップ
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.8'
+          python-version: '3.11'
 
       # 必要なPythonライブラリをインストール
       - name: Install dependencies
