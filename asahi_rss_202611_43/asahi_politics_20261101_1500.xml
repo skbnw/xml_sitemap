@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-01T23:45:14+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-01T23:45:14+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC12DRVVC1ULOB00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB03J6HVB0OXIE033M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC14GMHVC1OXIE013M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC10FR6VC1TIPE00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB010KPVB0TIPE01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB0111QVB0TIPE018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY2TS7VBYOXIE04HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBZ36M2VBZTIPE00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBZ2F27VBZUTIL01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBZ2HF8VBZUTIL01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB02QR0VB0OXIE00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX2H4BVBXUTIL02WM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVC12DRVVC1ULOB00FM.html?ref=rss">
+ <title>現職の佐藤光氏が3選を果たす　神奈川・茅ケ崎市長選</title>
+ <link>https://www.asahi.com/articles/ASVC12DRVVC1ULOB00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T23:45:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB03J6HVB0OXIE033M.html?ref=rss">
+ <title>東京都議補選千代田、小池知事が擁立主導　参政は神谷氏が異例の態勢</title>
+ <link>https://www.asahi.com/articles/ASVB03J6HVB0OXIE033M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T22:44:34+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC14GMHVC1OXIE013M.html?ref=rss">
+ <title>都議補選千代田区、前区議の林則行氏が当選確実　自民公認は得られず</title>
+ <link>https://www.asahi.com/articles/ASVC14GMHVC1OXIE013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T22:41:28+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC10FR6VC1TIPE00CM.html?ref=rss">
+ <title>熊本市長選が告示、現新5人が立候補　新庁舎計画など争点に舌戦</title>
+ <link>https://www.asahi.com/articles/ASVC10FR6VC1TIPE00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T17:33:11+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB010KPVB0TIPE01MM.html?ref=rss">
+ <title>福岡市長選告示、新顔13人が立候補届け出　政令指定市で過去最多に</title>
+ <link>https://www.asahi.com/articles/ASVB010KPVB0TIPE01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB0111QVB0TIPE018M.html?ref=rss">
+ <title>福岡市長選に過去最多の13人立候補　ポスター枠増設、再選挙も視野</title>
+ <link>https://www.asahi.com/articles/ASVB0111QVB0TIPE018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T10:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY2TS7VBYOXIE04HM.html?ref=rss">
+ <title>東京トリプル首長選8日告示　新宿・品川・小金井、いずれも選挙戦へ</title>
+ <link>https://www.asahi.com/articles/ASVBY2TS7VBYOXIE04HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html?ref=rss">
+ <title>【ライブ予告】福岡市長選と新宿・品川両区長選、15日夜に開票速報</title>
+ <link>https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBZ36M2VBZTIPE00TM.html?ref=rss">
+ <title>高島・福岡市長、駆け抜けた16年　瞬発・発信力、時には勇み足も</title>
+ <link>https://www.asahi.com/articles/ASVBZ36M2VBZTIPE00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBZ2F27VBZUTIL01XM.html?ref=rss">
+ <title>石破氏肝いりの防災庁に「高市カラー」　防災技術予算が460倍に</title>
+ <link>https://www.asahi.com/articles/ASVBZ2F27VBZUTIL01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBZ2HF8VBZUTIL01KM.html?ref=rss">
+ <title>石破氏が説く防災庁の必要性「じゃあ今はうまくいってるんですか」</title>
+ <link>https://www.asahi.com/articles/ASVBZ2HF8VBZUTIL01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-01T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB02QR0VB0OXIE00TM.html?ref=rss">
+ <title>都構想「反対」だけでは古い？　自民大阪府連、連立組む維新と対決へ</title>
+ <link>https://www.asahi.com/articles/ASVB02QR0VB0OXIE00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-31T17:57:19+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX2H4BVBXUTIL02WM.html?ref=rss">
+ <title>3.11の「超法規対応」、防災庁があったら　宮城知事の期待と注文</title>
+ <link>https://www.asahi.com/articles/ASVBX2H4BVBXUTIL02WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-10-31T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
