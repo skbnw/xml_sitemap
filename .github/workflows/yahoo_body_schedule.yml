@@ -1,3 +1,4 @@
+# 2026-11-08: ubuntu-latest が Ubuntu 26.04 になり Python 3.9 が入らないため、runs-on を ubuntu-24.04 に固定
 name: 00_Schedule-All
 
 permissions:
@@ -15,7 +16,7 @@ on:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
@@ -46,7 +47,7 @@ jobs:
 
   commit-results:
     needs: scrape
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

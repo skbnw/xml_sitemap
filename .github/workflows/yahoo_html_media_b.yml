@@ -1,3 +1,4 @@
+# 2026-11-08: ubuntu-latest が Ubuntu 26.04 になり Python 3.9 が入らないため、runs-on を ubuntu-24.04 に固定
 name: html-mediaALL_b
 
 permissions:
@@ -10,7 +11,7 @@ on:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
