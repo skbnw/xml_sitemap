@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 08 Nov 2026 13:55:08 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 18:52:51 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>Microsoft’s Buyout Offer Sets Its Workforce on Edge</title>
+      <link>https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html" rel="standout"></atom:link>
+      <description>As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 12:23:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/business/06biz-microsoft-employees-SUB/06biz-microsoft-employees-SUB-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tara Anand</media:credit>
+    </item>
+    <item>
+      <title>House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing</title>
+      <link>https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html" rel="standout"></atom:link>
+      <description>The New York Times reported last week that Mr. Huang had a close relationship with an executive that U.S. officials determined was funneling information to Chinese intelligence.</description>
+      <dc:creator>Tripp Mickle</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 01:10:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Foreign Affairs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mast, Brian J (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moolenaar, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crawford, Rick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05biz-jensen-congress-gwjh/05biz-jensen-congress-gwjh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+      <media:description>A request for Jensen Huang, Nvidia’s chief executive, to speak represented a shift for Republican congressional leaders, who have largely taken a hands-off approach to the tech industry.</media:description>
+    </item>
+    <item>
+      <title>What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.</title>
+      <link>https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html" rel="standout"></atom:link>
+      <description>Some call him a doomer. Others see him as a responsible technologist. Here’s how Dario Amodei’s thinking on artificial intelligence was shaped.</description>
+      <dc:creator>Ryan Mac, Kalley Huang, Cade Metz and Georgia Gee</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 17:09:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Altruism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="">Effective Altruism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Daniela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kurzweil, Ray</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yudkowsky, Eliezer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karnofsky, Holden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Olah, Christopher</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brockman, Greg</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rationalists (Philosophical Movement)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baidu Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GiveWell</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stanford University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Ūla Šveikauskaitė</media:credit>
+    </item>
+    <item>
+      <title>Why the Tech Right Lost Big This Week</title>
+      <link>https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html" rel="standout"></atom:link>
+      <description>“This felt like a decidedly anti-tech election.”</description>
+      <dc:creator>Max Read, Erin Griffith, Whitney Jones, Sawyer Roque, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Diane Wong</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 18:26:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/podcasts/06hardfork-tech-midterms-video/06hardfork-tech-midterms-video-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Images: Eric Lee/The New York Times, Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls</title>
+      <link>https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html" rel="standout"></atom:link>
+      <description>Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.</description>
+      <dc:creator>David Streitfeld</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 18:52:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whistle-Blowers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wigand, Jeffrey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Watergate Affair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Six</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Informers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BROWN &amp; WILLIAMSON</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Office of Special Counsel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coxon, Jacob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Felt, W Mark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haugen, Frances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holmes, Elizabeth (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/WHISTELBLOWER-02-wphl/WHISTELBLOWER-02-wphl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Taylor Ballek for The New York Times</media:credit>
+      <media:description>Jeffrey Wigand at home in Mount Pleasant, Mich.</media:description>
+    </item>
+    <item>
+      <title>Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release</title>
+      <link>https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html" rel="standout"></atom:link>
+      <description>A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.</description>
+      <dc:creator>Lauren McCarthy and Stuart A. Thompson</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 02:55:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insider Trading</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times/Siena College Poll</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vanderbilt University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/2026-11-04-insider-trading-index/2026-11-04-insider-trading-index-mediumSquareAt3X.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers</title>
+      <link>https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html" rel="standout"></atom:link>
+      <description>Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 20:45:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duffy, Sean P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic City (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rochester (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06xp-floppy-qlvb/06xp-floppy-qlvb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Makela for The New York Times</media:credit>
+      <media:description>The floppy disk, once a heralded computer storage technology, will be phased out at the Federal Aviation Administration.</media:description>
+    </item>
+    <item>
+      <title>Tired of Slow TikToks? This Content Creator Gives You the Ending</title>
+      <link>https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html" rel="standout"></atom:link>
+      <description>Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 10:00:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Google, Meta and TikTok Sue California Over Ban on Features for Kids</title>
+      <link>https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html" rel="standout"></atom:link>
+      <description>Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 22:10:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/business/05biz-addiction-lawsuit/05biz-addiction-lawsuit-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Matt Cardy/Getty Images</media:credit>
+      <media:description>A new California law says features like personalized recommendations can be “psychologically exploitative” for minors and cause them to check social media compulsively.</media:description>
+    </item>
+    <item>
+      <title>OpenAI Pledges to Give Locals More Say in Data Center Projects</title>
+      <link>https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html" rel="standout"></atom:link>
+      <description>The artificial intelligence company pledged to be more collaborative with the communities where it is building its data centers.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 01:54:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05biz-openai-change-hpbl/05biz-openai-change-hpbl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Scott Ball for The New York Times</media:credit>
+      <media:description>OpenAI’s Stargate data center project in Abilene, Texas, is one of the largest under construction in the country.</media:description>
+    </item>
+    <item>
+      <title>Parents Sue Google Over A.I. Safety Risks on School Chromebooks</title>
+      <link>https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html" rel="standout"></atom:link>
+      <description>A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.</description>
+      <dc:creator>Natasha Singer</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 19:27:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="">chatbot</category>
+      <category domain="">Gemini</category>
+      <category domain="">AI Mode</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
+      <category domain="">Chromebook</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Charlotte (NC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kelsey McClellan for The New York Times</media:credit>
+      <media:description>The new lawsuit argues that Google’s “sprawling digital ecosystem” of school laptops and apps has helped the tech giant push its A.I. into classrooms.</media:description>
+    </item>
+    <item>
+      <title>Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep</title>
+      <link>https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html" rel="standout"></atom:link>
+      <description>Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.</description>
+      <dc:creator>Eli Tan, Theodore Schleifer and Erin Griffith</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 00:33:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fairshake (Political Action Committee)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andreessen, Marc L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brin, Sergey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hoffman, Reid Garrett</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/05biz-tech-billionaires-gwfm/05biz-tech-billionaires-gwfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump met with leaders of the artificial intelligence industry at the White House in September.</media:description>
+    </item>
+    <item>
+      <title>Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times</title>
+      <link>https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html" rel="standout"></atom:link>
+      <description>E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.</description>
+      <dc:creator>Brian X. Chen</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 16:44:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Books and Readers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amazon Kindle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04biz-techfix-1-02-jlmg/04biz-techfix-1-02-jlmg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.</title>
+      <link>https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html" rel="standout"></atom:link>
+      <description>After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology.</description>
+      <dc:creator>Cecilia Kang and Sophia June</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 19:53:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ai-bluewave-sign-jgwf/04biz-ai-bluewave-sign-jgwf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jon Cherry/Getty Images</media:credit>
+      <media:description>A sign supporting the banning of data centers is posted outside a home in New Albany, Ohio.</media:description>
+    </item>
+    <item>
+      <title>Sherrod Brown’s Win in Ohio Is a Rare Loss for Crypto Under Trump</title>
+      <link>https://www.nytimes.com/2026/11/04/technology/sherrod-brown-ohio-crypto-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/technology/sherrod-brown-ohio-crypto-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/04/technology/sherrod-brown-ohio-crypto-trump.html" rel="standout"></atom:link>
+      <description>Fairshake, the major industry super PAC, spent $46 million on ads against the Democrat, Sherrod Brown, who won.</description>
+      <dc:creator>David McCabe and Theodore Schleifer</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 18:12:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Sherrod</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Husted, Jon A (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ohio-crypto-fbph/04biz-ohio-crypto-fbph-mediumSquareAt3X.jpg" width="1334"></media:content>
+      <media:credit>Maddie McGarvey for The New York Times</media:credit>
+      <media:description>Sherrod Brown at the Democratic watch party in Columbus, Ohio, on Tuesday after winning back his Senate seat.</media:description>
+    </item>
+    <item>
+      <title>Voting Problems Cause a Surge in Misleading Fraud Claims Online</title>
+      <link>https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html" rel="standout"></atom:link>
+      <description>Mentions of “cheat,” “steal,” “rig” and similar terms spiked on X this morning as voting began.</description>
+      <dc:creator>Stuart A. Thompson</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 19:54:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Broward County (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Westchester County (NY)</category>
+    </item>
+    <item>
+      <title>OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections</title>
+      <link>https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html" rel="standout"></atom:link>
+      <description>OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.</description>
+      <dc:creator>Steven Lee Myers</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 23:39:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Heather Diehl for The New York Times</media:credit>
+      <media:description>OpenAI employees work inside the company’s Election Operations Center in San Francisco.</media:description>
+    </item>
+    <item>
+      <title>Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months</title>
+      <link>https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html" rel="standout"></atom:link>
+      <description>A report from the cryptocurrency exchange described a monthslong campaign involving fake job interviews that exploited an engineer’s work computer and an internal A.I. tool.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 18:09:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Binance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impostors (Criminal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/business/03biz-binance-sub/03biz-binance-sub-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabby Jones/Bloomberg</media:credit>
+      <media:description>The hackers used a computer and an internal A.I. tool to take control of the machines of two engineers on Binance’s wallet team.</media:description>
+    </item>
+    <item>
+      <title>Apple’s Profit Grows 12% Despite Component Price Worries</title>
+      <link>https://www.nytimes.com/2026/11/02/technology/apple-earnings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/technology/apple-earnings.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/02/technology/apple-earnings.html" rel="standout"></atom:link>
+      <description>The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 23:41:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/APPLE-EARNINGS-1-fjml/APPLE-EARNINGS-1-fjml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Fouts for The New York Times</media:credit>
+      <media:description>Apple’s new touch-screen MacBook Pro at a product launch in Los Angeles last week.</media:description>
+    </item>
+    <item>
+      <title>Are Freezers Being Hacked? Europe and the U.S. Military Investigate.</title>
+      <link>https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html" rel="standout"></atom:link>
+      <description>A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.</description>
+      <dc:creator>Ali Watkins</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 08:45:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refrigerators</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fred Tanneau/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Shelves were empty at a grocery store in Névez, France, last month after hundreds of supermarket refrigeration systems in the country were targeted.</media:description>
+    </item>
+    <item>
+      <title>Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger</title>
+      <link>https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html" rel="standout"></atom:link>
+      <description>Marvell and Lumentum said they were combining, in a major bet on a technology, known as optical networking, that is increasingly being used in A.I. data centers.</description>
+      <dc:creator>Don Clark</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 18:48:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laser (Light Amplification by Stimulated Emission of Radiation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvell Technology Group Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murphy, Matthew J (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lumentum Holdings Inc.</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/02/multimedia/02biz-marvell-zmhv/02biz-marvell-zmhv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eduardo Munoz/Reuters</media:credit>
+      <media:description>Matt Murphy, chairman and chief executive of Marvell Technology, at the company’s investor day in New York last month.</media:description>
+    </item>
+    <item>
+      <title>Inside Anthropic’s Hunt for A.I. Computing Power</title>
+      <link>https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html" rel="standout"></atom:link>
+      <description>The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.</description>
+      <dc:creator>Sri Muppidi and Kalley Huang</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 18:01:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/business/00anthropic-compute/00anthropic-compute-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by Mark Harris; Photographs by Thea Traff for The New York Times, AJ Mast for The New York Times, Manuel Orbegozo for The New York Times, Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Deportees Turn to TikTok to Document Life Starting Over</title>
+      <link>https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html" rel="standout"></atom:link>
+      <description>On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 14:53:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Laos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1028" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/00xp-deportees-Catherine-promo/00xp-deportees-Catherine-mediumSquareAt3X.jpg" width="1027"></media:content>
+      <media:credit>Heather Michelle Photography</media:credit>
+      <media:description>Catherine Coe with her family in Tuscaloosa, Ala., before Mr. Benitez was deported in September of 2025.</media:description>
+    </item>
+  </channel>
+</rss>
