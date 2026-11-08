@@ -1,3 +1,12 @@
+# Fetch BBC RSS Feeds
+# Version: 1.1
+# Last Update: 2026-11-08
+#
+# 変更履歴:
+# - v1.1 (2026-11-08): 他の収集と push が重なると main が拒否される。
+#   コミット後に pull --rebase して最大5回 push する。
+# - v1.0: 8時間ごとに BBC RSS を取得して push。
+
 name: Fetch BBC RSS Feeds
 
 permissions:
@@ -83,6 +92,21 @@ jobs:
       - name: Commit and push XML files
         run: |
           git add -- xml-BBC_*
-          git commit -m "Update BBC Feeds - $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
-          git push origin main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update BBC Feeds - $(date +'%Y-%m-%d %H:%M')"
+          for i in 1 2 3 4 5; do
+            echo "Push attempt $i..."
+            git pull --rebase origin main
+            if git push origin main; then
+              echo "Push successful"
+              exit 0
+            fi
+            echo "Push failed, retrying in 5 seconds..."
+            sleep 5
+          done
+          echo "Failed to push after 5 attempts."
+          exit 1
         working-directory: ${{ github.workspace }}
