@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「ビジネスニュース、経済、産業、金融、財政、為替、株価など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-09T12:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-09T12:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC90RF6VC9ULFA005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC90TN6VC9ULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC63FWKVC6ULFA03CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC82VHJVC8ULFA009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC33Q41VC3OIPE008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC63SD1VC6ULFA007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC52V82VC5ULFA009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC51CHBVC5ULFA02YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC47QZJVC4ULFA01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC71W0KVC7ULZU001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC40SDKVC4PLFA00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC4216ZVC4PLFA003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC40TXLVC4PLFA002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC41FZ4VC4PLFA00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBX10ZGVBXULLI00MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC44QQTVC4ULFA015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC24DWDVC2OIPE003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC245KGVC2OIPE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC344J7VC3OIPE00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC64GTNVC6UHBI00PM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVC90RF6VC9ULFA005M.html?ref=rss">
+ <title>日経平均、一時2000円上昇　前週末の大幅安から反発</title>
+ <link>https://www.asahi.com/articles/ASVC90RF6VC9ULFA005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC90TN6VC9ULFA004M.html?ref=rss">
+ <title>三井化学、半導体材料大手JSRを買収へ　約1.4兆円でJICから</title>
+ <link>https://www.asahi.com/articles/ASVC90TN6VC9ULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T11:52:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC63FWKVC6ULFA03CM.html?ref=rss">
+ <title>タイヤが将来足りなくなる？　ブリヂストンが注目する「期待」の植物</title>
+ <link>https://www.asahi.com/articles/ASVC63FWKVC6ULFA03CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC82VHJVC8ULFA009M.html?ref=rss">
+ <title>「まるで接近禁止命令だ」嘆く社員　プルデンシャル「いばらの再生」</title>
+ <link>https://www.asahi.com/articles/ASVC82VHJVC8ULFA009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC33Q41VC3OIPE008M.html?ref=rss">
+ <title>実家の空き家、「誰も買わないのでは?」　思いがけず売れた決め手は</title>
+ <link>https://www.asahi.com/articles/ASVC33Q41VC3OIPE008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC63SD1VC6ULFA007M.html?ref=rss">
+ <title>7月30日の為替介入、過去最大7.9兆円　財務省が発表</title>
+ <link>https://www.asahi.com/articles/ASVC63SD1VC6ULFA007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T09:02:04+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC52V82VC5ULFA009M.html?ref=rss">
+ <title>自動運転AI、日本勢の採用拡大に意欲　英ウェイブの技術系幹部</title>
+ <link>https://www.asahi.com/articles/ASVC52V82VC5ULFA009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC51CHBVC5ULFA02YM.html?ref=rss">
+ <title>コンビニが変えた「コーヒー習慣」　セブンは100億杯、手軽さ強み</title>
+ <link>https://www.asahi.com/articles/ASVC51CHBVC5ULFA02YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC47QZJVC4ULFA01HM.html?ref=rss">
+ <title>EV充電補助金、都が不正申請認定　105億円交付の国はOK？なぜ</title>
+ <link>https://www.asahi.com/articles/ASVC47QZJVC4ULFA01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-09T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC71W0KVC7ULZU001M.html?ref=rss">
+ <title>攻撃者なき漏洩？ サイト閲覧時の個人情報や行動、知らぬ間に外部へ</title>
+ <link>https://www.asahi.com/articles/ASVC71W0KVC7ULZU001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T13:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC40SDKVC4PLFA00TM.html?ref=rss">
+ <title>蛍光灯の製造禁止、27年末に迫る　LED化率6割超も、更新に課題</title>
+ <link>https://www.asahi.com/articles/ASVC40SDKVC4PLFA00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC4216ZVC4PLFA003M.html?ref=rss">
+ <title>【そもそも解説】蛍光灯はなぜ製造禁止に？　いつまで使っていいの？</title>
+ <link>https://www.asahi.com/articles/ASVC4216ZVC4PLFA003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC40TXLVC4PLFA002M.html?ref=rss">
+ <title>蛍光灯が照らした戦後の「一室一灯」生活　パナ最後の工場も終幕迫る</title>
+ <link>https://www.asahi.com/articles/ASVC40TXLVC4PLFA002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC41FZ4VC4PLFA00BM.html?ref=rss">
+ <title>自宅の蛍光灯はどうすれば？　迫る製造禁止、ランプ交換で発火事故も</title>
+ <link>https://www.asahi.com/articles/ASVC41FZ4VC4PLFA00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T07:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBX10ZGVBXULLI00MM.html?ref=rss">
+ <title>都心の2億円マンション「後妻に相続させる」遺言に実子が「待った」</title>
+ <link>https://www.asahi.com/articles/ASVBX10ZGVBXULLI00MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC44QQTVC4ULFA015M.html?ref=rss">
+ <title>中古品買い取り店、なぜ増えた？　強引な取引や価格を巡りトラブルも</title>
+ <link>https://www.asahi.com/articles/ASVC44QQTVC4ULFA015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC24DWDVC2OIPE003M.html?ref=rss">
+ <title>国宝天守を望む人気の城下町、悩みは「空き家」　始まった新たな対策</title>
+ <link>https://www.asahi.com/articles/ASVC24DWDVC2OIPE003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T06:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC245KGVC2OIPE001M.html?ref=rss">
+ <title>隣の空き家、解体してくれたら…市独自の「あっせん」制度、効果は</title>
+ <link>https://www.asahi.com/articles/ASVC245KGVC2OIPE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC344J7VC3OIPE00GM.html?ref=rss">
+ <title>【そもそも解説】空き家管理の頻度、経費は　全国900万戸超の実態</title>
+ <link>https://www.asahi.com/articles/ASVC344J7VC3OIPE00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-08T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC64GTNVC6UHBI00PM.html?ref=rss">
+ <title>宿泊客は皿洗い、ゴミ出しはしなくていい　Airbnbがルール変更</title>
+ <link>https://www.asahi.com/articles/ASVC64GTNVC6UHBI00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-07T18:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
