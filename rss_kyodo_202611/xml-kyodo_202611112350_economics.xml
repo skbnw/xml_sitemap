@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/ynnews/economics.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fynnews%2Feconomics.rdf">
+    <title>47NEWS 全国 経済</title>
+    <link>https://www.47news.jp/news/economics</link>
+    <description>47NEWS 全国の経済に関するフィードをお届けします。</description>
+    <dc:date>2026-11-12T08:13:44+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.47news.jp/15217112.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217666.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217626.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217593.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217500.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217456.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217438.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217377.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217371.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217152.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15212126.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217053.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15217052.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15216972.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15213858.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15216966.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15216719.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15215322.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15216600.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15216599.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15215887.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15215300.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15210591.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15212126.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/15216972.html"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/env_fukushima"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/nayami_sodan"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/university-future"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_06"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/e-fran_05"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/kenes_03"/>
+        <rdf:li rdf:resource="https://www.47news.jp/special/serviceaward_06"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.47news.jp/15217112.html">
+    <title>為替相場　　12日（日本時間　8時）</title>
+    <link>https://www.47news.jp/15217112.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217666.html">
+    <title>【速報】エヌビディアがCEO解任準備と報道</title>
+    <link>https://www.47news.jp/15217666.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217626.html">
+    <title>【速報】エヌビディアCEO、女性幹部とも不倫か</title>
+    <link>https://www.47news.jp/15217626.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217593.html">
+    <title>NY株反発、254ドル高　AI相場楽観強まり買い</title>
+    <link>https://www.47news.jp/15217593.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217500.html">
+    <title>ブラジル、メタに罰金2億円命令　大統領選で「偏向」疑惑</title>
+    <link>https://www.47news.jp/15217500.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217456.html">
+    <title>NY株式　　11日終値　　　　</title>
+    <link>https://www.47news.jp/15217456.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217438.html">
+    <title>【速報】NY株反発、254ドル高</title>
+    <link>https://www.47news.jp/15217438.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217377.html">
+    <title>NY原油反発、終値86ドル台　米イラン交渉の期待感後退</title>
+    <link>https://www.47news.jp/15217377.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217371.html">
+    <title>お歳暮商戦スタート　群馬･高崎高島屋で決起集会　扱い2000点、定番商品やアジアのグルメも</title>
+    <link>https://www.47news.jp/15217371.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217152.html">
+    <title>手荒れ、手の乾燥の季節にハンドクリーム　ジェルや無香料、オーガニック【経済トレンド／気になる商品】</title>
+    <link>https://www.47news.jp/15217152.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15212126.html">
+    <title>為替相場　　12日（日本時間　2時）</title>
+    <link>https://www.47news.jp/15212126.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217053.html">
+    <title>NY株、小動きで始まる</title>
+    <link>https://www.47news.jp/15217053.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15217052.html">
+    <title>【速報】NY株、小動きで始まる</title>
+    <link>https://www.47news.jp/15217052.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15216972.html">
+    <title>円下落、159円台後半　一時2カ月ぶり安値</title>
+    <link>https://www.47news.jp/15216972.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15213858.html">
+    <title>ドコモ高速通信でまた障害　復旧に8時間、先週に続き</title>
+    <link>https://www.47news.jp/15213858.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15216966.html">
+    <title>【速報】円下落、一時159円台半ば</title>
+    <link>https://www.47news.jp/15216966.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15216719.html">
+    <title>【速報】ドコモ、通信障害が解消</title>
+    <link>https://www.47news.jp/15216719.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15215322.html">
+    <title>日産、2年連続で中間決算赤字　397億円、中国で苦戦</title>
+    <link>https://www.47news.jp/15215322.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15216600.html">
+    <title>EU、サブスク有料確認を義務化　消費者保護へデジタル法案を発表</title>
+    <link>https://www.47news.jp/15216600.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15216599.html">
+    <title>【速報】円下落、一時159円台</title>
+    <link>https://www.47news.jp/15216599.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15215887.html">
+    <title>政府、高性能AI暴走に罰則検討　悪質事業者に対抗手段へ法改正</title>
+    <link>https://www.47news.jp/15215887.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15215300.html">
+    <title>生体認証の証券口座で被害　乗っ取りに注意呼びかけ</title>
+    <link>https://www.47news.jp/15215300.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15210591.html">
+    <title>【独自】万博のEVバス補助金、返還半分　国や府・市が58億円交付</title>
+    <link>https://www.47news.jp/15210591.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15212126.html">
+    <title>為替相場　　12日（日本時間　2時）</title>
+    <link>https://www.47news.jp/15212126.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/15216972.html">
+    <title>円下落、159円台後半　一時2カ月ぶり安値</title>
+    <link>https://www.47news.jp/15216972.html</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_06">
+    <title>幅広い分野の革新的で優れたサービスを募集　第6回日本サービス大賞エントリー受付開始</title>
+    <link>https://www.47news.jp/special/serviceaward_06</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/env_fukushima">
+    <title>人の営みがよみがえり、願いは「当たり前」に戻ること　復興支える中間貯蔵施設のいま、2045年への約束</title>
+    <link>https://www.47news.jp/special/env_fukushima</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/nayami_sodan">
+    <title>もしも自分や身近な人が悩みを抱えたら？知っておきたい、「相談」の大切さ</title>
+    <link>https://www.47news.jp/special/nayami_sodan</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/university-future">
+    <title>大学特集〜大学教育の未来を探る〜</title>
+    <link>https://www.47news.jp/special/university-future</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_06">
+    <title>創業5年で売り上げ50億円達成の背景に「自責」の精神　渡辺喜久男会長と塚本拓夢オーナーが「おたからや」の成功を語る</title>
+    <link>https://www.47news.jp/special/e-fran_06</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/e-fran_05">
+    <title>「おたからや」に学ぶ、FC経営成功の秘訣　大畑典道オーナーと渡辺喜久男会長が本音で語る</title>
+    <link>https://www.47news.jp/special/e-fran_05</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/kenes_03">
+    <title>幅広い知識と技術で、顧客の省エネを支え続ける　最前線で奮闘するKenesの社員たち</title>
+    <link>https://www.47news.jp/special/kenes_03</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.47news.jp/special/serviceaward_06">
+    <title>幅広い分野の革新的で優れたサービスを募集　第6回日本サービス大賞エントリー受付開始</title>
+    <link>https://www.47news.jp/special/serviceaward_06</link>
+    <description></description>
+    <dc:date>2026-11-12T00:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
