@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-11T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-11T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC1VS5VCCBNQI007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB2VW0VCBUCVL02PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB2H8BVCBUCVL00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB26L2VCBULOB00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC92CP9VC9UCVL01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB0VN6VCBPLBJ001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC92QT2VC9UCVL030M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC942C9VC9UCVL04MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC92J95VC9UCVL01HM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCC1VS5VCCBNQI007M.html?ref=rss">
+ <title>ポリティカルパン、石原さとみが語る「大泥棒」の生きる強さと寂しさ</title>
+ <link>https://www.asahi.com/articles/ASVCC1VS5VCCBNQI007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-11T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB2VW0VCBUCVL02PM.html?ref=rss">
+ <title>日本民間放送連盟賞、テレビのグランプリに関西テレビ「銀河の一票」</title>
+ <link>https://www.asahi.com/articles/ASVCB2VW0VCBUCVL02PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T19:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB2H8BVCBUCVL00KM.html?ref=rss">
+ <title>在京民放ラジオ5社、放送設備の共同利用を検討　実現すれば国内初</title>
+ <link>https://www.asahi.com/articles/ASVCB2H8BVCBUCVL00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T19:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB26L2VCBULOB00RM.html?ref=rss">
+ <title>ワンピース日本人形にポケモン羽子板　久月が鎌倉に海外客向け新店舗</title>
+ <link>https://www.asahi.com/articles/ASVCB26L2VCBULOB00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T17:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC92CP9VC9UCVL01MM.html?ref=rss">
+ <title>日本が最大の市場　ベルルッティCEOが語る顧客との「愛の物語」</title>
+ <link>https://www.asahi.com/articles/ASVC92CP9VC9UCVL01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB0VN6VCBPLBJ001M.html?ref=rss">
+ <title>ペロブスカイト太陽電池の宮坂力氏ら3人に京都賞授与、賞金各1億円</title>
+ <link>https://www.asahi.com/articles/ASVCB0VN6VCBPLBJ001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC92QT2VC9UCVL030M.html?ref=rss">
+ <title>世界最高峰の時計賞で日本勢が快挙　GSと大塚ローテックが部門賞</title>
+ <link>https://www.asahi.com/articles/ASVC92QT2VC9UCVL030M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC942C9VC9UCVL04MM.html?ref=rss">
+ <title>レコ大審査期間中に広告営業　審査委員を出した運営会社、事実認める</title>
+ <link>https://www.asahi.com/articles/ASVC942C9VC9UCVL04MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T22:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC92J95VC9UCVL01HM.html?ref=rss">
+ <title>宝塚歌劇団の次期月組トップコンビ決定　風間柚乃さん、瑠璃花夏さん</title>
+ <link>https://www.asahi.com/articles/ASVC92J95VC9UCVL01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T19:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
