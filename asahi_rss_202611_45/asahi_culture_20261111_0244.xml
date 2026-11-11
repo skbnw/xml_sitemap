@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-10T19:15:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-10T19:15:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB2VW0VCBUCVL02PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB2H8BVCBUCVL00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB26L2VCBULOB00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC92CP9VC9UCVL01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB0VN6VCBPLBJ001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC92QT2VC9UCVL030M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC942C9VC9UCVL04MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC92J95VC9UCVL01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC91J8BVC9PIHB00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASV9Y234ZV9YDIFI00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC91CKDVC9UCVL01WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC90GD5VC9UCVL01LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC61VGRVC6UCVL02NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC84H0SVC8UCVL02GM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCB2VW0VCBUCVL02PM.html?ref=rss">
+ <title>日本民間放送連盟賞、テレビのグランプリに関西テレビ「銀河の一票」</title>
+ <link>https://www.asahi.com/articles/ASVCB2VW0VCBUCVL02PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T19:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB2H8BVCBUCVL00KM.html?ref=rss">
+ <title>在京民放ラジオ5社、放送設備の共同利用を検討　実現すれば国内初</title>
+ <link>https://www.asahi.com/articles/ASVCB2H8BVCBUCVL00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T19:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB26L2VCBULOB00RM.html?ref=rss">
+ <title>ワンピース日本人形にポケモン羽子板　久月が鎌倉に海外客向け新店舗</title>
+ <link>https://www.asahi.com/articles/ASVCB26L2VCBULOB00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T17:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC92CP9VC9UCVL01MM.html?ref=rss">
+ <title>日本が最大の市場　ベルルッティCEOが語る顧客との「愛の物語」</title>
+ <link>https://www.asahi.com/articles/ASVC92CP9VC9UCVL01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB0VN6VCBPLBJ001M.html?ref=rss">
+ <title>ペロブスカイト太陽電池の宮坂力氏ら3人に京都賞授与、賞金各1億円</title>
+ <link>https://www.asahi.com/articles/ASVCB0VN6VCBPLBJ001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC92QT2VC9UCVL030M.html?ref=rss">
+ <title>世界最高峰の時計賞で日本勢が快挙　GSと大塚ローテックが部門賞</title>
+ <link>https://www.asahi.com/articles/ASVC92QT2VC9UCVL030M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-10T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC942C9VC9UCVL04MM.html?ref=rss">
+ <title>レコ大審査期間中に広告営業　審査委員を出した運営会社、事実認める</title>
+ <link>https://www.asahi.com/articles/ASVC942C9VC9UCVL04MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T22:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC92J95VC9UCVL01HM.html?ref=rss">
+ <title>宝塚歌劇団の次期月組トップコンビ決定　風間柚乃さん、瑠璃花夏さん</title>
+ <link>https://www.asahi.com/articles/ASVC92J95VC9UCVL01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC91J8BVC9PIHB00CM.html?ref=rss">
+ <title>花火三大競技会で小松が10号玉「三冠王」　北日本が創造「3連覇」</title>
+ <link>https://www.asahi.com/articles/ASVC91J8BVC9PIHB00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T16:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASV9Y234ZV9YDIFI00BM.html?ref=rss">
+ <title>カルーセル麻紀さんの半生を、本人の声で　デジタル版に新コンテンツ</title>
+ <link>https://www.asahi.com/articles/ASV9Y234ZV9YDIFI00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC91CKDVC9UCVL01WM.html?ref=rss">
+ <title>河野有理さん、難波優輝さんら7人が受賞　第48回サントリー学芸賞</title>
+ <link>https://www.asahi.com/articles/ASVC91CKDVC9UCVL01WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC90GD5VC9UCVL01LM.html?ref=rss">
+ <title>「VIVANT」2期最終回、世帯視聴率21.8%　番組最高を記録</title>
+ <link>https://www.asahi.com/articles/ASVC90GD5VC9UCVL01LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC61VGRVC6UCVL02NM.html?ref=rss">
+ <title>寂聴さん没後5年、今なお続く「法話」　参拝者「上を向いて生きる」</title>
+ <link>https://www.asahi.com/articles/ASVC61VGRVC6UCVL02NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-09T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC84H0SVC8UCVL02GM.html?ref=rss">
+ <title>「VIVANT」映画化、12月公開へ　ドラマ最終回でTBSが発表</title>
+ <link>https://www.asahi.com/articles/ASVC84H0SVC8UCVL02GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-08T22:50:00+09:00</dc:date>
+</item>
+</rdf:RDF>
