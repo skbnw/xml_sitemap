@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「ビジネスニュース、経済、産業、金融、財政、為替、株価など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-11T22:54:33+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-11T22:54:33+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC108NVCCULFA00TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC43M3VCCULFA01WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC3SY7VCCULZU00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC3JDGVCCOXIE02WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC3H1LVCCULFA00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC36MLVCCULFA009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC2V8BVCCPLFA003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC0NVKVCCUTIL01TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC2QTKVCCPIHB00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC2S2VVCCULFA00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC2PZHVCCUTFK00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC126PVCCULFA00ZM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC059NVCCPLFA00GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC0Q3DVCCUTIL01VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC0DX7VCCUDCB00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB35D8VCBULFA01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB257TVCBULFA019M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC50H01VC5ULFA01XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC342NRVC3OIPE00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB7W8CVCBUHBI001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB3JY5VCBUJHB00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB2SWQVCBULFA00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB3S0KVCBULFA02GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB23WXVCBULFA016M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB33XSVCBULFA00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB3CLKVCBOXIE00PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB34BSVCBULFA00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB0G5ZVCBUTIL01YM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCC108NVCCULFA00TM.html?ref=rss">
+ <title>ドコモ、5Gサービスの通信障害が復旧　機器へのアクセス集中が原因</title>
+ <link>https://www.asahi.com/articles/ASVCC108NVCCULFA00TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T22:54:33+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC43M3VCCULFA01WM.html?ref=rss">
+ <title>ゴルフスクール「ステップゴルフ」で不正アクセス　顔写真など漏洩か</title>
+ <link>https://www.asahi.com/articles/ASVCC43M3VCCULFA01WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T21:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC3SY7VCCULZU00CM.html?ref=rss">
+ <title>EU、ダークパターン禁止やインフルエンサーの「広告｣表示義務化へ</title>
+ <link>https://www.asahi.com/articles/ASVCC3SY7VCCULZU00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T21:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC3JDGVCCOXIE02WM.html?ref=rss">
+ <title>交付税見直しで「地方に2兆円」　東京都、「税の偏在」めぐり新提案</title>
+ <link>https://www.asahi.com/articles/ASVCC3JDGVCCOXIE02WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T20:44:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html?ref=rss">
+ <title>アマゾンが予想外の打診、公取委が頼ったドイツ　攻防2年の舞台裏</title>
+ <link>https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T20:25:58+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC3H1LVCCULFA00FM.html?ref=rss">
+ <title>自動車5社が黒字に、9月中間決算　北米HV好調・円安も追い風</title>
+ <link>https://www.asahi.com/articles/ASVCC3H1LVCCULFA00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T20:06:05+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC36MLVCCULFA009M.html?ref=rss">
+ <title>障害者雇用ビジネス、厚労省が登録制へ　不適切事例は取り消しも</title>
+ <link>https://www.asahi.com/articles/ASVCC36MLVCCULFA009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T19:25:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC2V8BVCCPLFA003M.html?ref=rss">
+ <title>大和ハウス工業、売上高6兆円突破へ　業績予想を上方修正</title>
+ <link>https://www.asahi.com/articles/ASVCC2V8BVCCPLFA003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T18:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC0NVKVCCUTIL01TM.html?ref=rss">
+ <title>アマゾン、サイトの仕組み変更へ　出品値下げ強要疑いで公取委が調査</title>
+ <link>https://www.asahi.com/articles/ASVCC0NVKVCCUTIL01TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T18:03:29+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC2QTKVCCPIHB00JM.html?ref=rss">
+ <title>豚まん発祥「老祥記」本店が改装オープン　神戸・南京町で111年</title>
+ <link>https://www.asahi.com/articles/ASVCC2QTKVCCPIHB00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC2S2VVCCULFA00SM.html?ref=rss">
+ <title>クロマグロ国際会議、増枠分めぐり日韓で対立　合意できず協議継続へ</title>
+ <link>https://www.asahi.com/articles/ASVCC2S2VVCCULFA00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T17:55:54+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC2PZHVCCUTFK00KM.html?ref=rss">
+ <title>石破氏らの退席、自民の乱れ突く野党　消費減税法案、参院で審議入り</title>
+ <link>https://www.asahi.com/articles/ASVCC2PZHVCCUTFK00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T17:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC126PVCCULFA00ZM.html?ref=rss">
+ <title>日産、2年連続の純損失　9月中間決算　円安などで赤字幅は縮小</title>
+ <link>https://www.asahi.com/articles/ASVCC126PVCCULFA00ZM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T17:29:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC059NVCCPLFA00GM.html?ref=rss">
+ <title>サカイ引越センター、純利益1割増　エアコン2027年問題も追い風</title>
+ <link>https://www.asahi.com/articles/ASVCC059NVCCPLFA00GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T15:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC0Q3DVCCUTIL01VM.html?ref=rss">
+ <title>アマゾン通販サイトこう変わる　逆に「低価格競争で質低下」の懸念も</title>
+ <link>https://www.asahi.com/articles/ASVCC0Q3DVCCUTIL01VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC0DX7VCCUDCB00YM.html?ref=rss">
+ <title>東京ディズニーリゾートが「クリスマス」期間に　12月25日まで</title>
+ <link>https://www.asahi.com/articles/ASVCC0DX7VCCUDCB00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T12:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB35D8VCBULFA01NM.html?ref=rss">
+ <title>高水準賃上げ、どこまで広がる　27年春闘、労使の基本スタンスは？</title>
+ <link>https://www.asahi.com/articles/ASVCB35D8VCBULFA01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB257TVCBULFA019M.html?ref=rss">
+ <title>親が民間の介護施設に入所「子は費用を過小認識も」損保会社が調査</title>
+ <link>https://www.asahi.com/articles/ASVCB257TVCBULFA019M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T11:11:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC50H01VC5ULFA01XM.html?ref=rss">
+ <title>物価上昇、とっくに2%超では?　日銀はなぜ今さら「到達」を判断?</title>
+ <link>https://www.asahi.com/articles/ASVC50H01VC5ULFA01XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T10:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC342NRVC3OIPE00LM.html?ref=rss">
+ <title>「マチュピチュ」思わせる斜面の集落　空き家活用、ネックの規制とは</title>
+ <link>https://www.asahi.com/articles/ASVC342NRVC3OIPE00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB7W8CVCBUHBI001M.html?ref=rss">
+ <title>トヨタが米国で軽トラック発売へ　最高時速は40キロの「低速車両」</title>
+ <link>https://www.asahi.com/articles/ASVCB7W8CVCBUHBI001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T09:29:47+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB3JY5VCBUJHB00SM.html?ref=rss">
+ <title>つくば市新DC誘致「事業者任せにしない」　市長、市民に理解求める</title>
+ <link>https://www.asahi.com/articles/ASVCB3JY5VCBUJHB00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T06:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB2SWQVCBULFA00QM.html?ref=rss">
+ <title>全員ツーブロック＆日焼け　プルデンシャルが伏せた「港系」の異様さ</title>
+ <link>https://www.asahi.com/articles/ASVCB2SWQVCBULFA00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-11T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss">
+ <title>【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧</title>
+ <link>https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-10T21:11:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB3S0KVCBULFA02GM.html?ref=rss">
+ <title>タマホーム、社員が火災保険金を不正請求　複数の損保、追加調査要求</title>
+ <link>https://www.asahi.com/articles/ASVCB3S0KVCBULFA02GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-10T20:37:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB23WXVCBULFA016M.html?ref=rss">
+ <title>情報漏洩対策でブロッキングの法的課題を検討　総務省が会議設置</title>
+ <link>https://www.asahi.com/articles/ASVCB23WXVCBULFA016M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-10T19:58:36+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB33XSVCBULFA00BM.html?ref=rss">
+ <title>ホンダ、純利益予想5千億円　27年3月期を上方修正、バイクが好調</title>
+ <link>https://www.asahi.com/articles/ASVCB33XSVCBULFA00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-10T19:36:27+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB3CLKVCBOXIE00PM.html?ref=rss">
+ <title>鳥取ガスが前社長に3千万円賠償求め提訴　前社長側「全面的に争う」</title>
+ <link>https://www.asahi.com/articles/ASVCB3CLKVCBOXIE00PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-10T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB34BSVCBULFA00VM.html?ref=rss">
+ <title>消費減税財源に賃上げ税制見直し案　経産省「売られたけんかは買う」</title>
+ <link>https://www.asahi.com/articles/ASVCB34BSVCBULFA00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-10T19:21:53+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB0G5ZVCBUTIL01YM.html?ref=rss">
+ <title>「なりすまし詐欺広告」メタ社側の賠償責任認めず　前沢友作さん敗訴</title>
+ <link>https://www.asahi.com/articles/ASVCB0G5ZVCBUTIL01YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-10T18:54:36+09:00</dc:date>
+</item>
+</rdf:RDF>
