@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-12T05:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-12T05:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC811HJVC8OXIE01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC812XVVC8OXIE007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC3V8BVCCUTQP025M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB116LVCBUTQP008M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVC811HJVC8OXIE01HM.html?ref=rss">
+ <title>神戸マラソン、足が止まったら…　競歩日本記録保持者が語る攻略法</title>
+ <link>https://www.asahi.com/articles/ASVC811HJVC8OXIE01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-12T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC812XVVC8OXIE007M.html?ref=rss">
+ <title>フィギュア三原舞依さん、神戸マラソンに挑む　「全力でパワー送る」</title>
+ <link>https://www.asahi.com/articles/ASVC812XVVC8OXIE007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-12T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC3V8BVCCUTQP025M.html?ref=rss">
+ <title>ソフトバンク育成9位指名の高校生が入団辞退　「米国で野球に挑戦」</title>
+ <link>https://www.asahi.com/articles/ASVCC3V8BVCCUTQP025M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-11T21:19:04+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB116LVCBUTQP008M.html?ref=rss">
+ <title>織田翔希を強行指名の巨人、横浜高を訪問　本人と松井監督は同席せず</title>
+ <link>https://www.asahi.com/articles/ASVCB116LVCBUTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-10T12:22:34+09:00</dc:date>
+</item>
+</rdf:RDF>
