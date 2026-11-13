@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-13T15:32:26+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-13T15:32:26+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF21JHVCFUTFK00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF0TM8VCFULFA00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF0C96VCFULFA00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF0FMQVCFUTFK003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD3FDMVCDUTFK01GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD4CT0VCDUTFK01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD3HC9VCDUNHB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD4Q6QVCDUTFK001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD44CBVCDUTFK01HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD3T1PVCDUTFK00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD3D76VCDUBNB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD3F1MVCDUTFK00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD2HMRVCDUTFK00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD2JW6VCDUTFK006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD2V87VCDUTFK00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD11SXVCDUTFK005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD1HG9VCDULOB00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD2GJ1VCDULFA01JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC43DRVCCUTFK00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC631LCVC6OXIE01DM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCF21JHVCFUTFK00VM.html?ref=rss">
+ <title>消費減税支援金、給付対象は「勤労者の5割以上」首相が引き上げ言及</title>
+ <link>https://www.asahi.com/articles/ASVCF21JHVCFUTFK00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-13T15:32:26+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF0TM8VCFULFA00VM.html?ref=rss">
+ <title>高市首相、ASEAN関連会議など出席へ　ペルー、チリ首脳の来日も</title>
+ <link>https://www.asahi.com/articles/ASVCF0TM8VCFULFA00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-13T12:13:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF0C96VCFULFA00BM.html?ref=rss">
+ <title>熊本地震の復興基金に520億円　高市首相が表明、防災相に指示も</title>
+ <link>https://www.asahi.com/articles/ASVCF0C96VCFULFA00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-13T10:46:34+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF0FMQVCFUTFK003M.html?ref=rss">
+ <title>山崎正昭・元参院議長が死去　6期目の現職、自民参院幹事長など歴任</title>
+ <link>https://www.asahi.com/articles/ASVCF0FMQVCFUTFK003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-13T10:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD3FDMVCDUTFK01GM.html?ref=rss">
+ <title>日本政府批判の中国発アニメ動画、Xで拡散　「認知戦」に利用か</title>
+ <link>https://www.asahi.com/articles/ASVCD3FDMVCDUTFK01GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-13T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD4CT0VCDUTFK01NM.html?ref=rss">
+ <title>高市政権が強く意識する認知戦　広報予算10倍の理由にも　懸念点は</title>
+ <link>https://www.asahi.com/articles/ASVCD4CT0VCDUTFK01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-13T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD3HC9VCDUNHB007M.html?ref=rss">
+ <title>知事選きっかけの県ファクトチェック　有識者会議が意見案とりまとめ</title>
+ <link>https://www.asahi.com/articles/ASVCD3HC9VCDUNHB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-13T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD4Q6QVCDUTFK001M.html?ref=rss">
+ <title>中国の南シナ海進出、「三位一体」で影響圏拡大　防衛研究所レポート</title>
+ <link>https://www.asahi.com/articles/ASVCD4Q6QVCDUTFK001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-13T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD44CBVCDUTFK01HM.html?ref=rss">
+ <title>石破氏「昔を忘れて未来は語れない」　消費減税法案の退席めぐり発言</title>
+ <link>https://www.asahi.com/articles/ASVCD44CBVCDUTFK01HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD3T1PVCDUTFK00NM.html?ref=rss">
+ <title>【そもそも解説】非核三原則の「持ち込ませず」に例外明記　なぜ？</title>
+ <link>https://www.asahi.com/articles/ASVCD3T1PVCDUTFK00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T21:27:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD3D76VCDUBNB002M.html?ref=rss">
+ <title>青森市の西市長、再選に向けて立候補へ　「さらに発展させていく」</title>
+ <link>https://www.asahi.com/articles/ASVCD3D76VCDUBNB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T19:30:05+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD3F1MVCDUTFK00DM.html?ref=rss">
+ <title>「9条と自衛隊」与党内でも食い違う見解　衆院憲法審で集中討議</title>
+ <link>https://www.asahi.com/articles/ASVCD3F1MVCDUTFK00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD2HMRVCDUTFK00YM.html?ref=rss">
+ <title>在日米軍駐留経費の日本負担、3千億円超へ増額検討　米の圧力背景に</title>
+ <link>https://www.asahi.com/articles/ASVCD2HMRVCDUTFK00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD2JW6VCDUTFK006M.html?ref=rss">
+ <title>トランプ政権の増額要求に苦慮する日本　米軍駐留経費、難航する交渉</title>
+ <link>https://www.asahi.com/articles/ASVCD2JW6VCDUTFK006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD2V87VCDUTFK00FM.html?ref=rss">
+ <title>麻生氏、石破氏らに苦言　「恐怖を植え付けるための処分ではない」</title>
+ <link>https://www.asahi.com/articles/ASVCD2V87VCDUTFK00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T18:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD11SXVCDUTFK005M.html?ref=rss">
+ <title>自維国、衆院31削減法案を提出　「少しでも反対あるからは違う」</title>
+ <link>https://www.asahi.com/articles/ASVCD11SXVCDUTFK005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T18:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD1HG9VCDULOB00RM.html?ref=rss">
+ <title>山中・前横浜市長の後援会存続へ　出直し選で落選「今後はまだ白紙」</title>
+ <link>https://www.asahi.com/articles/ASVCD1HG9VCDULOB00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T17:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD2GJ1VCDULFA01JM.html?ref=rss">
+ <title>アジアで石油共同備蓄、首相がAZECで表明へ　日本のタンク活用案</title>
+ <link>https://www.asahi.com/articles/ASVCD2GJ1VCDULFA01JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T16:57:03+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC43DRVCCUTFK00JM.html?ref=rss">
+ <title>衆院本会議もタブレット持ち込み可に　かつて「品位・権威」の慎重論</title>
+ <link>https://www.asahi.com/articles/ASVCC43DRVCCUTFK00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC631LCVC6OXIE01DM.html?ref=rss">
+ <title>「信ちゃん道路」「青木トンネル」訪ね考えた　簗氏の予算カット発言</title>
+ <link>https://www.asahi.com/articles/ASVC631LCVC6OXIE01DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-12T10:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
