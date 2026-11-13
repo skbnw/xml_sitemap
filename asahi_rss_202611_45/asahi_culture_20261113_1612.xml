@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-13T20:57:14+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-13T20:57:14+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF3T06VCFUCVL035M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF2VKLVCFUCVL02MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF2PCYVCFUCVL02FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF2QQ3VCFUCVL02BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF1DFHVCFUCVL024M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC3CMQVCCUCVL04CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD24MQVCDTLVB005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD10KYVCDOXIE049M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB2T0XVCBUCVL02CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC94J6YVC9UCVL04PM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCF3T06VCFUCVL035M.html?ref=rss">
+ <title>将棋の磯谷祐維女流二段がタイトル初挑戦　「3度目の正直」の23歳</title>
+ <link>https://www.asahi.com/articles/ASVCF3T06VCFUCVL035M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T20:57:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF2VKLVCFUCVL02MM.html?ref=rss">
+ <title>NHK紅白担当「白組演歌ゼロ」は否定　高田みづえさん選出の理由は</title>
+ <link>https://www.asahi.com/articles/ASVCF2VKLVCFUCVL02MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T19:05:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF2PCYVCFUCVL02FM.html?ref=rss">
+ <title>EBiDAN「うれしすぎて滅！」　紅白歌合戦、初出場組の喜びの声</title>
+ <link>https://www.asahi.com/articles/ASVCF2PCYVCFUCVL02FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T18:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF2QQ3VCFUCVL02BM.html?ref=rss">
+ <title>【写真まとめ】紅白初出場　EBiDAN、モナキ、キューストも</title>
+ <link>https://www.asahi.com/articles/ASVCF2QQ3VCFUCVL02BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T18:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF1DFHVCFUCVL024M.html?ref=rss">
+ <title>今年のNHK紅白歌合戦にモナキ、EBiDANら　出場歌手決まる</title>
+ <link>https://www.asahi.com/articles/ASVCF1DFHVCFUCVL024M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T13:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC3CMQVCCUCVL04CM.html?ref=rss">
+ <title>明智光秀の侵攻から守った仏像、たどった苦難　京都・亀岡で重文公開</title>
+ <link>https://www.asahi.com/articles/ASVCC3CMQVCCUCVL04CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD24MQVCDTLVB005M.html?ref=rss">
+ <title>熊本地震による文化財被害410億円　熊本城分を除けば「前回以上」</title>
+ <link>https://www.asahi.com/articles/ASVCD24MQVCDTLVB005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-12T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD10KYVCDOXIE049M.html?ref=rss">
+ <title>あの慣用句生んだ芥川龍之介「藪の中」、元は題名も結末も違うと判明</title>
+ <link>https://www.asahi.com/articles/ASVCD10KYVCDOXIE049M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-12T16:18:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB2T0XVCBUCVL02CM.html?ref=rss">
+ <title>「バッチリチリ脚」笑顔の影で悩んだ日々　坂下千里子さん天職への道</title>
+ <link>https://www.asahi.com/articles/ASVCB2T0XVCBUCVL02CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-12T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC94J6YVC9UCVL04PM.html?ref=rss">
+ <title>シェークスピア、幻の戯曲？日本で初上演　第一人者が語る「らしさ」</title>
+ <link>https://www.asahi.com/articles/ASVC94J6YVC9UCVL04PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-12T12:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
