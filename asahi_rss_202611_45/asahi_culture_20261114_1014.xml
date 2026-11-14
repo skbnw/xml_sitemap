@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-14T18:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-14T18:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCG2GLDVCGUCVL04PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC029TVCCUHMC003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF4SMPVCFIIPE005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF3T06VCFUCVL035M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF2VKLVCFUCVL02MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF2PCYVCFUCVL02FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF2QQ3VCFUCVL02BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF1DFHVCFUCVL024M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC3CMQVCCUCVL04CM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCG2GLDVCGUCVL04PM.html?ref=rss">
+ <title>レコ大実行委、モデルプレス運営社の審査委員を解嘱　広告営業問題で</title>
+ <link>https://www.asahi.com/articles/ASVCG2GLDVCGUCVL04PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-14T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC029TVCCUHMC003M.html?ref=rss">
+ <title>「お笑いの審査はAIにはできない」　面白さを点数化する難しさ</title>
+ <link>https://www.asahi.com/articles/ASVCC029TVCCUHMC003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-14T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF4SMPVCFIIPE005M.html?ref=rss">
+ <title>「アイヌの存在と歴史無視」　指摘受けアート展終了へ　大丸札幌店</title>
+ <link>https://www.asahi.com/articles/ASVCF4SMPVCFIIPE005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-14T08:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF3T06VCFUCVL035M.html?ref=rss">
+ <title>将棋の磯谷祐維女流二段がタイトル初挑戦　「3度目の正直」の23歳</title>
+ <link>https://www.asahi.com/articles/ASVCF3T06VCFUCVL035M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T20:57:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF2VKLVCFUCVL02MM.html?ref=rss">
+ <title>NHK紅白担当「白組演歌ゼロ」は否定　高田みづえさん選出の理由は</title>
+ <link>https://www.asahi.com/articles/ASVCF2VKLVCFUCVL02MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T19:05:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF2PCYVCFUCVL02FM.html?ref=rss">
+ <title>EBiDAN「うれしすぎて滅！」　紅白歌合戦、初出場組の喜びの声</title>
+ <link>https://www.asahi.com/articles/ASVCF2PCYVCFUCVL02FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T18:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF2QQ3VCFUCVL02BM.html?ref=rss">
+ <title>【写真まとめ】紅白初出場　EBiDAN、モナキ、キューストも</title>
+ <link>https://www.asahi.com/articles/ASVCF2QQ3VCFUCVL02BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T18:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF1DFHVCFUCVL024M.html?ref=rss">
+ <title>今年のNHK紅白歌合戦にモナキ、EBiDANら　出場歌手決まる</title>
+ <link>https://www.asahi.com/articles/ASVCF1DFHVCFUCVL024M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T13:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC3CMQVCCUCVL04CM.html?ref=rss">
+ <title>明智光秀の侵攻から守った仏像、たどった苦難　京都・亀岡で重文公開</title>
+ <link>https://www.asahi.com/articles/ASVCC3CMQVCCUCVL04CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-13T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
