@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-11-14T16:15:53+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM129BG0S6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH141K40U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC141490U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC13CL30T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF140AC0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF133200T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC141F10U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC141AH0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC141630U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC134DC0T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC1411Y0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN140400U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC140ZO0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF140RF0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC13A240T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN13D8S0T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGR1302D0T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC140NY0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD109OW0Q6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD135RZ0T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD3121O0R31C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD05BXE0V01C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC140M50U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC140J50U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC140IE0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN140CS0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB140D20U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN1403N0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC140890U6A111C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM129BG0S6A111C2000000/">
+    <title>トランプ氏、レガシー作りへ中ロ朝と会談　中間選大敗後初の外国訪問</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM129BG0S6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T16:07:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH141K40U6A111C2000000/">
+    <title>八村塁、7得点11リバウンド　クリッパーズ1点差で勝利</title>
+    <link>https://www.nikkei.com/article/DGXZQODH141K40U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T15:55:10+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC141490U6A111C2000000/">
+    <title>侍ジャパン、台湾代表と交流試合　2027年3月に台北ドームで</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC141490U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T15:52:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC13CL30T11C26A1000000/">
+    <title>Netflixが値上げ、国内2年ぶり　広告付きプランは11%高の990円</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC13CL30T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T15:50:40+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF140AC0U6A111C2000000/">
+    <title>京都・清凉寺で夕霧祭　島原の桜木太夫が奉納舞</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF140AC0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T15:28:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF133200T11C26A1000000/">
+    <title>京都市で全国コミュニティ・スクール研究大会、教育と地域の連携議論</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF133200T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T15:27:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC141F10U6A111C2000000/">
+    <title>侍ジャパン3連勝で決勝へ　アジアプロ野球、豪にコールド勝ち</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC141F10U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T15:05:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/">
+    <title>マイクロソフト障害が全面復旧　メールやAI、ほぼ丸1日経て</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T15:03:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC141AH0U6A111C2000000/">
+    <title>フィギュアGP、山本草太がSP2位　スケートアメリカ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC141AH0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T14:41:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC141630U6A111C2000000/">
+    <title>卓球世界ツアー、長崎美柚・橋本帆乃香組が準決勝へ　女子ダブルス</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC141630U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T13:55:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC134DC0T11C26A1000000/">
+    <title>CCCがタイ進出、バンコクに「TSUTAYA」　マンガや雑貨販売</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC134DC0T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T13:40:34+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC1411Y0U6A111C2000000/">
+    <title>米大リーグ移籍市場、打者部門1位鈴木誠也　2位に佐藤輝明</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC1411Y0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T13:17:59+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN140400U6A111C2000000/">
+    <title>全米の空港で離陸4時間超停止　通信障害、6600便以上が欠航</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN140400U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T12:47:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC140ZO0U6A111C2000000/">
+    <title>世界アイスホッケー、日本女子は2部降格　オーストリアに敗れ</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC140ZO0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T12:41:48+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF140RF0U6A111C2000000/">
+    <title>京阪HD、LINE登録者情報漏洩　百貨店などアカウントから最大22万件</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF140RF0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T12:34:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC13A240T11C26A1000000/">
+    <title>再建の首里城正殿で消火訓練、23日の一般公開前に対応確認</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC13A240T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T12:29:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN13D8S0T11C26A1000000/">
+    <title>NVIDIAファン氏後任選び、英アームのハース氏に接触　FT報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN13D8S0T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T12:27:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGR1302D0T11C26A1000000/">
+    <title>不貞でトップ辞任、NVIDIAのみならず　ネスレは部下との関係問題に</title>
+    <link>https://www.nikkei.com/article/DGXZQOGR1302D0T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC140NY0U6A111C2000000/">
+    <title>星野陸也が暫定68位、平田憲聖90位　米男子ゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC140NY0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T10:57:14+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD109OW0Q6A111C2000000/">
+    <title>大腸がん検診「郵送方式」に手応え　東邦大など実証研究</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD109OW0Q6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T10:53:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD135RZ0T11C26A1000000/">
+    <title>「筆跡鑑定が必要」に注意、警察署へ手書き郵送指示　特殊詐欺で新手口</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD135RZ0T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T10:50:26+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD3121O0R31C26A0000000/">
+    <title>ミレーの絵画、山梨県立美術館が「撮影可能日」　新たな鑑賞スタイルに</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD3121O0R31C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T10:49:38+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD05BXE0V01C26A1000000/">
+    <title>被爆からの路面電車復旧、軌跡を本に　元広島電鉄社員</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD05BXE0V01C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T10:48:42+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC140M50U6A111C2000000/">
+    <title>山田琵葉がブレイキンで金　夏季ユース五輪閉幕、日本のメダル28個</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC140M50U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T10:41:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC140J50U6A111C2000000/">
+    <title>タマホームが保険代理業を廃業へ　損保各社に申し入れ、不正請求問題</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC140J50U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T10:16:27+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC140IE0U6A111C2000000/">
+    <title>勝みなみ・西郷真央が2打差4位　米女子ゴルフ第2日</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC140IE0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T10:15:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN140CS0U6A111C2000000/">
+    <title>米中ロ首脳が19日に初会談へ　ホワイトハウス発表「核削減を協議」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN140CS0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T09:52:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB140D20U6A111C2000000/">
+    <title>中国と韓国の外相、北京で会談　首脳会談向け地ならし</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB140D20U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T09:14:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN1403N0U6A111C2000000/">
+    <title>米ニューオーリンズでタンカーと遊覧船衝突　129人乗り、救出作業続く</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN1403N0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T08:34:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC140890U6A111C2000000/">
+    <title>サッカーU21日本代表、スペインに0-2で敗れる</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC140890U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-14T08:31:16+09:00</dc:date>
+  </item>
+</rdf:RDF>
