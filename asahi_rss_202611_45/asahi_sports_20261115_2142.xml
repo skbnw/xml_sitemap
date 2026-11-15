@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-16T05:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-16T05:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF1SWYVCFOIPE003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC3STQVCCUZOB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH349CVCHPIHB01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH3197VCHPIHB01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH349YVCHUTQP00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH24FKVCHOXIE00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH1GTQVCHPQIP00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH12Q6VCHUTQP004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCG42RFVCGUTQP01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCG40ZGVCGUTQP00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCG20G2VCGUTQP00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCG1691VCGPTQP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF2QRJVCFPTQP002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF3QRCVCFUTQP008M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCF1SWYVCFOIPE003M.html?ref=rss">
+ <title>被災地の住宅、ホテルにも　アジア大会のコンテナ宿泊施設を再利用へ</title>
+ <link>https://www.asahi.com/articles/ASVCF1SWYVCFOIPE003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-16T05:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC3STQVCCUZOB007M.html?ref=rss">
+ <title>サッカーの街で名将の教え子が対決　山梨・韮崎で16年ぶり市長選</title>
+ <link>https://www.asahi.com/articles/ASVCC3STQVCCUZOB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-16T00:27:02+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH349CVCHPIHB01SM.html?ref=rss">
+ <title>防災を学び伝える大学生、神戸を走る原点は母から聞いた大震災の記憶</title>
+ <link>https://www.asahi.com/articles/ASVCH349CVCHPIHB01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-15T19:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH3197VCHPIHB01BM.html?ref=rss">
+ <title>コベカツ指導者が背中で見せた走り　「挑戦したいと思ってくれたら」</title>
+ <link>https://www.asahi.com/articles/ASVCH3197VCHPIHB01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-15T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH349YVCHUTQP00VM.html?ref=rss">
+ <title>桑木志帆が初の年間女王、ライバルの猛追振り切り5勝目　女子ゴルフ</title>
+ <link>https://www.asahi.com/articles/ASVCH349YVCHUTQP00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-15T18:49:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH24FKVCHOXIE00HM.html?ref=rss">
+ <title>堀越と帝京が全国選手権出場を決める　高校サッカー東京大会決勝</title>
+ <link>https://www.asahi.com/articles/ASVCH24FKVCHOXIE00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-15T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH1GTQVCHPQIP00FM.html?ref=rss">
+ <title>【写真まとめ】雨のミナト神戸、2万人が駆けた　コスプレランナーも</title>
+ <link>https://www.asahi.com/articles/ASVCH1GTQVCHPQIP00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-15T14:00:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH12Q6VCHUTQP004M.html?ref=rss">
+ <title>FIFA会長選、ベンゲル氏は立候補見送りへ　欧米メディアが報道</title>
+ <link>https://www.asahi.com/articles/ASVCH12Q6VCHUTQP004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-15T12:49:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCG42RFVCGUTQP01NM.html?ref=rss">
+ <title>森保ジャパンがブラジルに雪辱　W杯以来の対戦、坂元が決勝ゴール</title>
+ <link>https://www.asahi.com/articles/ASVCG42RFVCGUTQP01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-14T21:33:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCG40ZGVCGUTQP00NM.html?ref=rss">
+ <title>桑木志帆、年間女王へ「ガンガン攻めたい」　自己ベストで首位に浮上</title>
+ <link>https://www.asahi.com/articles/ASVCG40ZGVCGUTQP00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-14T21:18:19+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCG20G2VCGUTQP00HM.html?ref=rss">
+ <title>田嶋氏、FIFA会長選に「まず5票を」　ベンゲル氏出馬なら共闘も</title>
+ <link>https://www.asahi.com/articles/ASVCG20G2VCGUTQP00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-14T16:04:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCG1691VCGPTQP001M.html?ref=rss">
+ <title>大谷翔平から高校時代HRの盛岡大付32歳が一発　マスターズ甲子園</title>
+ <link>https://www.asahi.com/articles/ASVCG1691VCGPTQP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-14T14:19:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF2QRJVCFPTQP002M.html?ref=rss">
+ <title>最後の日本一から30年　京大アメフト部、大学選手権出場なるか</title>
+ <link>https://www.asahi.com/articles/ASVCF2QRJVCFPTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-14T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF3QRCVCFUTQP008M.html?ref=rss">
+ <title>豊昇龍「逃げたと言われたくない」　出場を師匠に直訴、連敗ストップ</title>
+ <link>https://www.asahi.com/articles/ASVCF3QRCVCFUTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-14T06:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
