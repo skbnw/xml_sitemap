@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-11-15T16:41:12+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1510V0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD151390V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB151F60V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1422S0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD151BX0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZMSK3IUG02_V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC150I20V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD1505V0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC150XM0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGS113Z50R11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB1516Q0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN130D10T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM150XB0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12A7N0S6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD296P50Z20C26A9000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH150800V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC150I40V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA150940V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOJC1508J0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZMSK3IUG01_V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB150PV0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN143DB0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA150PE0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN150LW0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM150E20V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCB150M60V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODK121YE0S6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC12BIH0S6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB118700R11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB126UT0S6A111C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1510V0V11C26A1000000/">
+    <title>公然わいせつ疑いで米兵逮捕、沖縄県警　飲酒絡む事件相次ぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1510V0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T16:40:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD151390V11C26A1000000/">
+    <title>大阪・枚方の女児死亡、逮捕の母「夫が複数回殴った」　あざ50カ所超</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD151390V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T16:37:45+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB151F60V11C26A1000000/">
+    <title>バーレーンの米軍施設に攻撃　イラン革命防衛隊、報復か</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB151F60V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T16:34:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1422S0U6A111C2000000/">
+    <title>高知・津野町の農村歌舞伎、9年ぶり上演　「高野の舞台」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1422S0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T16:34:06+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD151BX0V11C26A1000000/">
+    <title>愛知・小牧の住宅に強盗、82歳女性重傷　盗難車運転疑い男ら関与か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD151BX0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T16:32:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZMSK3IUG02_V11C26A1000000/">
+    <title>伊藤園レディースゴルフ最終成績</title>
+    <link>https://www.nikkei.com/article/DGXZMSK3IUG02_V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T16:21:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC150I20V11C26A1000000/">
+    <title>三井住友VISAゴルフ、今平周吾が優勝　濃霧で最終R中止</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC150I20V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T16:10:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD1505V0V11C26A1000000/">
+    <title>天皇皇后両陛下、大阪で海づくり大会出席　稚魚を放流</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD1505V0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T16:09:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC150XM0V11C26A1000000/">
+    <title>米新型戦闘機F15EX、常駐配備の機体が到着　沖縄の嘉手納基地</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC150XM0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T15:50:53+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGS113Z50R11C26A1000000/">
+    <title>ASEAN、ミャンマー首脳復帰なお認めず　「5項目」の履行道半ば</title>
+    <link>https://www.nikkei.com/article/DGXZQOGS113Z50R11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T15:39:46+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB1516Q0V11C26A1000000/">
+    <title>北朝鮮、中国人観光に防疫の障壁　新鴨緑江大橋開通1カ月</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB1516Q0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T15:25:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN130D10T11C26A1000000/">
+    <title>スペースX、ロケット宇宙船のキャッチ成功　完全回収に弾み</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN130D10T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T15:24:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM150XB0V11C26A1000000/">
+    <title>インド乗用車販売、10月12%増　スズキとタタ好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM150XB0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T15:00:17+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12A7N0S6A111C2000000/">
+    <title>日系コンテナ船ONE、3年ぶりに紅海要衝通過　海運正常化に前進</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12A7N0S6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T14:18:49+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD296P50Z20C26A9000000/">
+    <title>豊田通商、「脱炭素への貢献」を事業収益に計上　従業員の意識高める</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD296P50Z20C26A9000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T14:16:36+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH150800V11C26A1000000/">
+    <title>女子ゴルフ桑木志帆、初の年間女王　伊藤園レディースで今季5勝目</title>
+    <link>https://www.nikkei.com/article/DGXZQODH150800V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T14:10:58+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC150I40V11C26A1000000/">
+    <title>スケートアメリカ、中井亜美が今季最高得点でSP首位　山本草太7位</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC150I40V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T13:51:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA150940V11C26A1000000/">
+    <title>小泉防衛相「データを日本守る力に」　防衛省が新AI方針を月内策定</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA150940V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T13:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOJC1508J0V11C26A1000000/">
+    <title>沖縄の陸自15旅団、新装備の16式機動戦闘車を公開　年度内に師団化</title>
+    <link>https://www.nikkei.com/article/DGXZQOJC1508J0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T13:40:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZMSK3IUG01_V11C26A1000000/">
+    <title>三井住友VISA太平洋マスターズゴルフ最終成績</title>
+    <link>https://www.nikkei.com/article/DGXZMSK3IUG01_V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T13:37:08+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB150PV0V11C26A1000000/">
+    <title>トランプ政権が弁護士15人増員　議会対策、野党民主党の追及に備え</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB150PV0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T13:04:03+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN143DB0U6A111C2000000/">
+    <title>全米の空港で欠航・遅延1万3000便超　混乱継続「15日に正常化」</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN143DB0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T12:25:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA150PE0V11C26A1000000/">
+    <title>横田めぐみさん拉致49年、高市首相「一刻も早く祖国に」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA150PE0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T12:24:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN150LW0V11C26A1000000/">
+    <title>米民主党、全米36州の知事選で24勝　アラスカでは28年ぶり</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN150LW0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T12:22:13+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM150E20V11C26A1000000/">
+    <title>インドのモディ首相、ASEAN・クアッドと対中連携　貿易是正も要求</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM150E20V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T11:46:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCB150M60V11C26A1000000/">
+    <title>フランスで10万人デモ　警察と衝突で200人超拘束、5週連続</title>
+    <link>https://www.nikkei.com/article/DGXZQOCB150M60V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T11:46:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODK121YE0S6A111C2000000/">
+    <title>ぴあ、貫く「ユーザー本位」の理念　中立・等距離外交の思わぬ効用</title>
+    <link>https://www.nikkei.com/article/DGXZQODK121YE0S6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T11:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC12BIH0S6A111C2000000/">
+    <title>米台AI連合が「要石」失う　NVIDIAファン氏辞任で開発速度に影響も</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC12BIH0S6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB118700R11C26A1000000/">
+    <title>アンソロピックIPO、19日まで国内募集　AI本丸銘柄に個人マネー参戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB118700R11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB126UT0S6A111C2000000/">
+    <title>ネット証券、個人を米国株へ　アンソロピックIPOは23時間取引の前哨戦</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB126UT0S6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-15T11:00:00+09:00</dc:date>
+  </item>
+</rdf:RDF>
