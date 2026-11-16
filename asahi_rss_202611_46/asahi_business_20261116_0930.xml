@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>経済・マネー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「ビジネスニュース、経済、産業、金融、財政、為替、株価など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-16T18:09:13+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-16T18:09:13+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2SXXVCJPLFA001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2R82VCJULFA006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2JT8VCJULFA008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ0P5PVCJULFA003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2JSSVCJPLFA002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2CSGVCJULFA00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ1TXWVCJULFA02NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF4473VCFULFA01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF3HWLVCFULFA002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCG2Q38VCGULFA019M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCB038QVCBOXIE003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ00NBVCJKJLA001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC60PSSVC6ULFA00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVC411ZXVC4ULLI005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC2RW2VCCULFA004M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2SXXVCJPLFA001M.html?ref=rss">
+ <title>ニデック、半期報告書の提出を1カ月延期　会計不正に伴う訂正作業で</title>
+ <link>https://www.asahi.com/articles/ASVCJ2SXXVCJPLFA001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T18:09:13+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2R82VCJULFA006M.html?ref=rss">
+ <title>ドコモでまた通信障害、今月3度目　こだわりの「真の5G」拡大に影</title>
+ <link>https://www.asahi.com/articles/ASVCJ2R82VCJULFA006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2JT8VCJULFA008M.html?ref=rss">
+ <title>高田・日銀審議委員「利上げペース速める新局面」物価上昇リスク強調</title>
+ <link>https://www.asahi.com/articles/ASVCJ2JT8VCJULFA008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T17:29:49+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ0P5PVCJULFA003M.html?ref=rss">
+ <title>ドコモ、5Gサービスで通信障害、今月3度目　音声通話などに支障</title>
+ <link>https://www.asahi.com/articles/ASVCJ0P5PVCJULFA003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T17:07:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2JSSVCJPLFA002M.html?ref=rss">
+ <title>関西電力、米国での蓄電所事業に進出　東部最大級の蓄電所に出資</title>
+ <link>https://www.asahi.com/articles/ASVCJ2JSSVCJPLFA002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T17:06:40+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss">
+ <title>【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧</title>
+ <link>https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T16:53:44+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2CSGVCJULFA00XM.html?ref=rss">
+ <title>トヨタ、来春闘の協議開始を12月に前倒し　労使の議論深める狙い</title>
+ <link>https://www.asahi.com/articles/ASVCJ2CSGVCJULFA00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T16:15:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ1TXWVCJULFA02NM.html?ref=rss">
+ <title>GDP、世界に占める日本の割合3%に縮小　1人あたりは韓国と差</title>
+ <link>https://www.asahi.com/articles/ASVCJ1TXWVCJULFA02NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T15:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF4473VCFULFA01CM.html?ref=rss">
+ <title>マンションの短期売買への課税強化を検討　政府・与党が価格高騰対策</title>
+ <link>https://www.asahi.com/articles/ASVCF4473VCFULFA01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF3HWLVCFULFA002M.html?ref=rss">
+ <title>予算7千万円「この値段でこれか」　マンション高騰、8軒内覧したが</title>
+ <link>https://www.asahi.com/articles/ASVCF3HWLVCFULFA002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCG2Q38VCGULFA019M.html?ref=rss">
+ <title>マンション短期売買の課税強化「本丸ではない」　専門家語る高騰対策</title>
+ <link>https://www.asahi.com/articles/ASVCG2Q38VCGULFA019M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCB038QVCBOXIE003M.html?ref=rss">
+ <title>レストランの星の数はどうやって決まる？　口コミか専門家の評価か</title>
+ <link>https://www.asahi.com/articles/ASVCB038QVCBOXIE003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss">
+ <title>実質GDP、1年ぶりマイナス　個人消費が不振、スーパーなど影響</title>
+ <link>https://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T09:32:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ00NBVCJKJLA001M.html?ref=rss">
+ <title>7-9月の実質GDP、年0.1%減　4期ぶりのマイナス成長</title>
+ <link>https://www.asahi.com/articles/ASVCJ00NBVCJKJLA001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T09:12:05+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC60PSSVC6ULFA00FM.html?ref=rss">
+ <title>私は健康？歩行データをAI解析　豊田合成、足裏から挑む予防医療</title>
+ <link>https://www.asahi.com/articles/ASVC60PSSVC6ULFA00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-16T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss">
+ <title>ハンズ渋谷店、営業48年で閉店　客ら惜しむ「渋谷が変わる寂しさ」</title>
+ <link>https://www.asahi.com/articles/ASVCH3GT9VCHULFA00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-15T20:28:01+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVC411ZXVC4ULLI005M.html?ref=rss">
+ <title>遺産相続の主導権狙う、きょうだい間の「親の囲い込み」　使い込みも</title>
+ <link>https://www.asahi.com/articles/ASVC411ZXVC4ULLI005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-15T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC2RW2VCCULFA004M.html?ref=rss">
+ <title>マンション向け債券、金利上昇で応募2倍に　資金運用に動く管理組合</title>
+ <link>https://www.asahi.com/articles/ASVCC2RW2VCCULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>ビジネス</dc:subject>
+ <dc:date>2026-11-15T08:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
