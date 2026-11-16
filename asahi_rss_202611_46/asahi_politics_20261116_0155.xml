@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-16T07:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-16T07:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH639XVCHOXIE03JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH33LGVCHUTFK006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH1SY1VCHUDCB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH5GJ6VCHTIPE012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH3CTHVCHPLXB00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF4TN5VCFPIHB013M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCC3STQVCCUZOB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH1T9JVCHUJUB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH4S91VCHULOB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH34DVVCHOXIE01PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH4GF2VCHOXIE02LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF0DR3VCFPLZB00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH3TB6VCHOIPE007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH33SSVCHOXIE015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD2RSRVCDUZOB004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH34MXVCHOXIE03CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH2JD1VCHTIPE00QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH45ZCVCHUDCB00NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH2J1FVCHUZPS006M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCH639XVCHOXIE03JM.html?ref=rss">
+ <title>「負ける夢もみた」圧勝から4年、小金井の市民派市長に吹いた逆風</title>
+ <link>https://www.asahi.com/articles/ASVCH639XVCHOXIE03JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH33LGVCHUTFK006M.html?ref=rss">
+ <title>偽情報だけではない「認知戦」　人の判断を変えるナラティブの脅威</title>
+ <link>https://www.asahi.com/articles/ASVCH33LGVCHUTFK006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH1SY1VCHUDCB003M.html?ref=rss">
+ <title>千葉・松戸市議選、顔ぶれ決まる　定数44の10人が新顔に</title>
+ <link>https://www.asahi.com/articles/ASVCH1SY1VCHUDCB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T02:01:46+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH5GJ6VCHTIPE012M.html?ref=rss">
+ <title>再選挙の福岡市長選、各候補者どうする？「挑む」「まだ決められず」</title>
+ <link>https://www.asahi.com/articles/ASVCH5GJ6VCHTIPE012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T01:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH3CTHVCHPLXB00LM.html?ref=rss">
+ <title>愛媛県知事選、中村氏が5選を果たす　新顔2人との戦いを制す</title>
+ <link>https://www.asahi.com/articles/ASVCH3CTHVCHPLXB00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T01:16:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF4TN5VCFPIHB013M.html?ref=rss">
+ <title>兵庫・尼崎市長に松本真氏が再選、新顔を破る　市議補選は維新が当選</title>
+ <link>https://www.asahi.com/articles/ASVCF4TN5VCFPIHB013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T00:46:51+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html?ref=rss">
+ <title>【解説動画】福岡市長選、法定得票届かず再選挙へ　結果と今後を語る</title>
+ <link>https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T00:37:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCC3STQVCCUZOB007M.html?ref=rss">
+ <title>サッカーの街で名将の教え子が対決　山梨・韮崎で16年ぶり市長選</title>
+ <link>https://www.asahi.com/articles/ASVCC3STQVCCUZOB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T00:27:02+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH1T9JVCHUJUB008M.html?ref=rss">
+ <title>岩手・滝沢市長選、現職の武田哲氏が再選を果たす　元市議の新顔破る</title>
+ <link>https://www.asahi.com/articles/ASVCH1T9JVCHUJUB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T00:25:31+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH4S91VCHULOB001M.html?ref=rss">
+ <title>神奈川・二宮町長に現職の村田邦子氏　元町議の3氏破り4選果たす</title>
+ <link>https://www.asahi.com/articles/ASVCH4S91VCHULOB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T23:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH34DVVCHOXIE01PM.html?ref=rss">
+ <title>新宿区長選、現職の吉住健一氏が当選　自公推薦で組織戦を展開</title>
+ <link>https://www.asahi.com/articles/ASVCH34DVVCHOXIE01PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T23:40:57+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH4GF2VCHOXIE02LM.html?ref=rss">
+ <title>小金井市長、白井亨氏が再選　自民推薦の元慶大ラグビー部監督ら破る</title>
+ <link>https://www.asahi.com/articles/ASVCH4GF2VCHOXIE02LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T23:37:37+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF0DR3VCFPLZB00QM.html?ref=rss">
+ <title>京都・舞鶴市議選の開票終了　議員24人の顔ぶれ決まる</title>
+ <link>https://www.asahi.com/articles/ASVCF0DR3VCFPLZB00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T23:31:49+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH3TB6VCHOIPE007M.html?ref=rss">
+ <title>愛知・弥富市長選、前回落選の横井氏が初当選　元市議と元市部長破る</title>
+ <link>https://www.asahi.com/articles/ASVCH3TB6VCHOIPE007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T23:15:05+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH33SSVCHOXIE015M.html?ref=rss">
+ <title>品川区長選、現職の森沢恭子氏が当選　前回は異例の再選挙</title>
+ <link>https://www.asahi.com/articles/ASVCH33SSVCHOXIE015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T23:00:58+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD2RSRVCDUZOB004M.html?ref=rss">
+ <title>山梨・韮崎市長に小沢氏　16年ぶり選挙、新顔3人の争い制し初当選</title>
+ <link>https://www.asahi.com/articles/ASVCD2RSRVCDUZOB004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T22:28:32+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH34MXVCHOXIE03CM.html?ref=rss">
+ <title>「港区の二の舞いは」東京で苦戦の自民、新宿区長選に募らせた危機感</title>
+ <link>https://www.asahi.com/articles/ASVCH34MXVCHOXIE03CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T22:27:11+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH2JD1VCHTIPE00QM.html?ref=rss">
+ <title>熊本市長選、現職大西氏の4選確実に　市庁舎建設計画への批判かわす</title>
+ <link>https://www.asahi.com/articles/ASVCH2JD1VCHTIPE00QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T22:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH45ZCVCHUDCB00NM.html?ref=rss">
+ <title>千葉県館山市長選、現職の森正一氏が再選　新顔の元市議を破る</title>
+ <link>https://www.asahi.com/articles/ASVCH45ZCVCHUDCB00NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T22:18:39+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH2J1FVCHUZPS006M.html?ref=rss">
+ <title>日中改善、首相に「期待できない」大幅増の67%　朝日世論調査</title>
+ <link>https://www.asahi.com/articles/ASVCH2J1FVCHUZPS006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-15T22:05:00+09:00</dc:date>
+</item>
+</rdf:RDF>
