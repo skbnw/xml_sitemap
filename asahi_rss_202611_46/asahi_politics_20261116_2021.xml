@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-17T05:00:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-17T05:00:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ3TV4VCJUTFK001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ43ZXVCJUTFK00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ3S6QVCJUTFK00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ0S2FVCJUTFK00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ3K6QVCJTIPE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ3SMQVCJUTFK01KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ3D7TVCJUTFK01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ3JMFVCJUTFK01PM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ35Z8VCJTIPE00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2CC7VCJIIPE005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH5GJ6VCHTIPE012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2FN8VCJOXIE030M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2GF3VCJUTFK01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ20ZZVCJTIPE00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCF3HWLVCFULFA002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ0HNJVCJUOHB004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH639XVCHOXIE03JM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH33LGVCHUTFK006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH1SY1VCHUDCB003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH3CTHVCHPLXB00LM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ3TV4VCJUTFK001M.html?ref=rss">
+ <title>社会全体で備え、国民理解促す広報も　識者「総力戦体制の現代版か」</title>
+ <link>https://www.asahi.com/articles/ASVCJ3TV4VCJUTFK001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-17T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ43ZXVCJUTFK00XM.html?ref=rss">
+ <title>「総合的な国力」増強へ　かじ切る高市政権　接近する防衛と経済</title>
+ <link>https://www.asahi.com/articles/ASVCJ43ZXVCJUTFK00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-17T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ3S6QVCJUTFK00HM.html?ref=rss">
+ <title>有事の備え「社会全体で」　協力企業へ補償も　安保3文書で政府方針</title>
+ <link>https://www.asahi.com/articles/ASVCJ3S6QVCJUTFK00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T23:26:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ0S2FVCJUTFK00WM.html?ref=rss">
+ <title>高市首相、マニラ・深圳へ出発　日中接触焦点、米中ロ会談に警戒感も</title>
+ <link>https://www.asahi.com/articles/ASVCJ0S2FVCJUTFK00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T21:04:32+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ3K6QVCJTIPE001M.html?ref=rss">
+ <title>福岡市長選、なぜ再選挙に?　来年1月投開票か、再々選挙の可能性も</title>
+ <link>https://www.asahi.com/articles/ASVCJ3K6QVCJTIPE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T21:03:16+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ3SMQVCJUTFK01KM.html?ref=rss">
+ <title>立憲、党職員の「退職勧奨」検討　財政難で年間3億円超の人件費削減</title>
+ <link>https://www.asahi.com/articles/ASVCJ3SMQVCJUTFK01KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T20:54:28+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ3D7TVCJUTFK01CM.html?ref=rss">
+ <title>定数削減法案、17日審議入りへ　維新幹部は「月末までに衆院通過」</title>
+ <link>https://www.asahi.com/articles/ASVCJ3D7TVCJUTFK01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T20:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ3JMFVCJUTFK01PM.html?ref=rss">
+ <title>防衛費増額「安定財源確保すべきだ」　安保の有識者会議で意見続出</title>
+ <link>https://www.asahi.com/articles/ASVCJ3JMFVCJUTFK01PM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T20:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ35Z8VCJTIPE00LM.html?ref=rss">
+ <title>福岡市長選再選挙、高島市長「前向きに捉えて」　後継指名は再び否定</title>
+ <link>https://www.asahi.com/articles/ASVCJ35Z8VCJTIPE00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T19:31:58+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2CC7VCJIIPE005M.html?ref=rss">
+ <title>米国産生ジャガイモ輸入解禁問題　北海道知事が国に厳格な対応を要望</title>
+ <link>https://www.asahi.com/articles/ASVCJ2CC7VCJIIPE005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T19:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH5GJ6VCHTIPE012M.html?ref=rss">
+ <title>再選挙の福岡市長選、各候補者どうする？「挑む」「まだ決められず」</title>
+ <link>https://www.asahi.com/articles/ASVCH5GJ6VCHTIPE012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T17:31:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2FN8VCJOXIE030M.html?ref=rss">
+ <title>なぜ、福岡市長選は決選投票にならない?　過去に存在した時代も</title>
+ <link>https://www.asahi.com/articles/ASVCJ2FN8VCJOXIE030M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T17:29:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2GF3VCJUTFK01BM.html?ref=rss">
+ <title>関文科相の会館パーティー、医薬品企業が1人9万円　厚労官僚が出席</title>
+ <link>https://www.asahi.com/articles/ASVCJ2GF3VCJUTFK01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T17:05:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ20ZZVCJTIPE00DM.html?ref=rss">
+ <title>再選挙の福岡市長選、トップ3はどんな人　「疑惑」証言した父も応援</title>
+ <link>https://www.asahi.com/articles/ASVCJ20ZZVCJTIPE00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T16:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCF3HWLVCFULFA002M.html?ref=rss">
+ <title>予算7千万円「この値段でこれか」　マンション高騰、8軒内覧したが</title>
+ <link>https://www.asahi.com/articles/ASVCF3HWLVCFULFA002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ0HNJVCJUOHB004M.html?ref=rss">
+ <title>新潟県新発田市長選、現職が無投票で5選　新顔は立候補とりやめ</title>
+ <link>https://www.asahi.com/articles/ASVCJ0HNJVCJUOHB004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T11:09:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH639XVCHOXIE03JM.html?ref=rss">
+ <title>「負ける夢もみた」圧勝から4年、小金井の市民派市長に吹いた逆風</title>
+ <link>https://www.asahi.com/articles/ASVCH639XVCHOXIE03JM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH33LGVCHUTFK006M.html?ref=rss">
+ <title>偽情報だけではない「認知戦」　人の判断を変えるナラティブの脅威</title>
+ <link>https://www.asahi.com/articles/ASVCH33LGVCHUTFK006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH1SY1VCHUDCB003M.html?ref=rss">
+ <title>千葉・松戸市議選、顔ぶれ決まる　定数44の10人が新顔に</title>
+ <link>https://www.asahi.com/articles/ASVCH1SY1VCHUDCB003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T02:01:46+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH3CTHVCHPLXB00LM.html?ref=rss">
+ <title>愛媛県知事選、中村氏が5選を果たす　新顔2人との戦いを制す</title>
+ <link>https://www.asahi.com/articles/ASVCH3CTHVCHPLXB00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-16T01:16:57+09:00</dc:date>
+</item>
+</rdf:RDF>
