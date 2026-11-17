@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/news.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fnews.rdf">
+    <title>日経新聞 速報</title>
+    <link>https://www.nikkei.com/news/category/</link>
+    <description>日経新聞の速報に関するフィードをお届けします。</description>
+    <dc:date>2026-11-17T18:17:38+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC169PJ0W6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC176VB0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF151CD0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD1415Q0U6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUD173ZF0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC173SC0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH177AT0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB171S00X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1654U0W6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC163380W6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC171R40X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC172FP0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC1778O0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC177O70X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOKC178YV0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC166JZ0W6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF178JY0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC172S80X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQODH048YG0U2A400C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA169490W6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOCC166SE0W6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB102TK0Q6A011C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA172WB0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFD1788B0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB1775H0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF177JT0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL1778R0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGM152BT0V11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL177NO0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUC176H00X11C26A1000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC169PJ0W6A111C2000000/">
+    <title>富士通、東京ガスから炭素除去クレジット購入　15年の調達契約</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC169PJ0W6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:15:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC176VB0X11C26A1000000/">
+    <title>会津大学、束原恒夫理事長を再任へ　「AIで製造業の効率化に貢献」</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC176VB0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF151CD0V11C26A1000000/">
+    <title>梅乃宿酒造、奈良労働局の働き方改革「ベストプラクティス企業」に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF151CD0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD1415Q0U6A111C2000000/">
+    <title>イビデンやマキタが最高益　中部の4〜9月期、半導体と自動車で明暗</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD1415Q0U6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:15:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUD173ZF0X11C26A1000000/">
+    <title>福間女流王座、6連覇に王手　伊藤女流四段との将棋・女流王座戦第3局</title>
+    <link>https://www.nikkei.com/article/DGXZQOUD173ZF0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:14:25+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC173SC0X11C26A1000000/">
+    <title>着物のやまと、呉服加工さかたや買収　メンテナンス事業拡充</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC173SC0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:12:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH177AT0X11C26A1000000/">
+    <title>有馬記念とジャパンカップ、1着賞金5億5000万円に増額　JRA事業計画</title>
+    <link>https://www.nikkei.com/article/DGXZQODH177AT0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:12:07+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB171S00X11C26A1000000/">
+    <title>「夏の記憶」が阻む1ドル=160円台　個人・ファンドが円高に備え</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB171S00X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:10:39+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1654U0W6A111C2000000/">
+    <title>香川県、男性育休促進へ企業向け奨励金　11月補正予算案</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1654U0W6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:10:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC163380W6A111C2000000/">
+    <title>鳥取・米子空港のソウル便、10月9割超え　就航10年で営業強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC163380W6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC171R40X11C26A1000000/">
+    <title>広島信用金庫の4〜9月、税引き利益11%増　貸出金利息が拡大</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC171R40X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:10:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC172FP0X11C26A1000000/">
+    <title>IT系のダイテックや阪技、四国に初拠点　香川県・高松市と立地協定</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC172FP0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:06:31+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC1778O0X11C26A1000000/">
+    <title>静岡・伊豆市を自転車の聖地に　アジア大会開催、地域活性化へ</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC1778O0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:06:24+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC177O70X11C26A1000000/">
+    <title>「シウマイ弁当」の余剰米でビール　崎陽軒、食品ロス削減</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC177O70X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:06:15+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOKC178YV0X11C26A1000000/">
+    <title>中日、山崎武司氏が1軍打撃コーチ　新体制スタッフ発表</title>
+    <link>https://www.nikkei.com/article/DGXZQOKC178YV0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:06:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC166JZ0W6A111C2000000/">
+    <title>セトラスHD、香川県坂出市に新研究棟　企業・大学と連携強化</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC166JZ0W6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:04:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF178JY0X11C26A1000000/">
+    <title>阪急阪神ホテルズ、ホテル会員の氏名など33万件漏洩　不正アクセスで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF178JY0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:02:35+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC172S80X11C26A1000000/">
+    <title>川崎信用金庫の4〜9月期　コア業務純益34%増　住宅ローン好調</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC172S80X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:01:50+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQODH048YG0U2A400C2000000/">
+    <title>江夏豊さん死去　最後の侍、貫いたライバル王貞治さんとの真っ向勝負</title>
+    <link>https://www.nikkei.com/article/DGXZQODH048YG0U2A400C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA169490W6A111C2000000/">
+    <title>金融機関のサイバー対策、金融庁検査でAI活用し診断　自民提言案</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA169490W6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOCC166SE0W6A111C2000000/">
+    <title>静岡中央銀行、創立100周年で記念セミナー　取引先ら約200人参加</title>
+    <link>https://www.nikkei.com/article/DGXZQOCC166SE0W6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB102TK0Q6A011C2000000/">
+    <title>信金の預金金利、8割が銀行下回る　格差広がり流出の歯止め重要に</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB102TK0Q6A011C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T18:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA172WB0X11C26A1000000/">
+    <title>日韓首脳が会談、安保・エネルギー巡り協議</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA172WB0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T17:59:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFD1788B0X11C26A1000000/">
+    <title>豊田通商、集合知AIを開発「VIVANTのAIハヤトの機能を想定」</title>
+    <link>https://www.nikkei.com/article/DGXZQOFD1788B0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T17:56:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB1775H0X11C26A1000000/">
+    <title>ハクサイが平年比3割高、長雨余波で流通少なく　農水省の小売価格調査</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB1775H0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T17:50:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF177JT0X11C26A1000000/">
+    <title>ソフト99、オンライン店顧客3813人の個人情報漏洩　不正アクセスで</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF177JT0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T17:47:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL1778R0X11C26A1000000/">
+    <title>外為17時　円相場、続伸　159円台前半　株安受けたリスク回避で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL1778R0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T17:43:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGM152BT0V11C26A1000000/">
+    <title>香港の新世界発展が5000億円調達へ　財務悪化で創業家が支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOGM152BT0V11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T17:42:04+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL177NO0X11C26A1000000/">
+    <title>人民元、対ドルで続伸　16時30分時点は6.6655元</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL177NO0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T17:41:12+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUC176H00X11C26A1000000/">
+    <title>日本GLP「AMJ」に社名変更　27年1月</title>
+    <link>https://www.nikkei.com/article/DGXZQOUC176H00X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-17T17:37:27+09:00</dc:date>
+  </item>
+</rdf:RDF>
