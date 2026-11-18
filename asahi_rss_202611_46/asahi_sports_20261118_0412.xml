@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>スポーツ - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「スポーツニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-18T12:02:10+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-18T12:02:10+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL0TM1VCLUTQP008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK4DZ8VCKUTQP01CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK52H1VCKUTQP028M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ767LVCJUHBI039M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK3C5QVCKUCVL02VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK2TNDVCKUQIP032M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK2C03VCKPITB00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK2D9LVCKUTQP01FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK126DVCKPTQP002M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCL0TM1VCLUTQP008M.html?ref=rss">
+ <title>田嶋幸三氏、FIFA会長選の立候補届を提出　5団体の推薦をクリア</title>
+ <link>https://www.asahi.com/articles/ASVCL0TM1VCLUTQP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-18T12:02:10+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK4DZ8VCKUTQP01CM.html?ref=rss">
+ <title>先発で抑えで、多くの伝説を残した江夏豊さん　球界から悼む声</title>
+ <link>https://www.asahi.com/articles/ASVCK4DZ8VCKUTQP01CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-18T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK52H1VCKUTQP028M.html?ref=rss">
+ <title>森保ジャパン、有終の美飾れず　福田師王が初Gもパラグアイに敗戦</title>
+ <link>https://www.asahi.com/articles/ASVCK52H1VCKUTQP028M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-18T00:23:32+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ767LVCJUHBI039M.html?ref=rss">
+ <title>FIFA会長選、フランスサッカー連盟会長が立候補へ　UEFA発表</title>
+ <link>https://www.asahi.com/articles/ASVCJ767LVCJUHBI039M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-17T22:01:15+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK3C5QVCKUCVL02VM.html?ref=rss">
+ <title>江夏豊さんと入れ違いで阪神へ 江本孟紀さんが語る豪速球とプライド</title>
+ <link>https://www.asahi.com/articles/ASVCK3C5QVCKUCVL02VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-17T19:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK2TNDVCKUQIP032M.html?ref=rss">
+ <title>打倒王に燃えた江夏豊さん　王貞治さんが悼む「どうかゆっくりと」</title>
+ <link>https://www.asahi.com/articles/ASVCK2TNDVCKUQIP032M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-17T18:08:41+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK2C03VCKPITB00DM.html?ref=rss">
+ <title>江夏豊さん死去、広島カープ初の日本一導く　市民は「本当のスター」</title>
+ <link>https://www.asahi.com/articles/ASVCK2C03VCKPITB00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-17T17:10:43+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK2D9LVCKUTQP01FM.html?ref=rss">
+ <title>豊昇龍は千秋楽まで出場見通し　師匠「休むことない」負け越しも覚悟</title>
+ <link>https://www.asahi.com/articles/ASVCK2D9LVCKUTQP01FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-17T16:31:07+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK126DVCKPTQP002M.html?ref=rss">
+ <title>江夏豊さんが78歳で死去　阪神、広島などで活躍した「優勝請負人」</title>
+ <link>https://www.asahi.com/articles/ASVCK126DVCKPTQP002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>スポーツ</dc:subject>
+ <dc:date>2026-11-17T12:28:33+09:00</dc:date>
+</item>
+</rdf:RDF>
