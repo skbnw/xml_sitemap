@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>社会 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般社会ニュース、事件・事故、災害・交通情報、裁判、環境など」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-19T11:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-19T11:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL41Q2VCLUTIL02NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL7G17VCLULOB00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM0CPGVCMTIPE009M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM04L8VCMPIHB002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL0GXWVCLUTIL01BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM048WVCMUHNB001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK14TDVCKUTIL013M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCH4RWXVCHUTFL004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCD1CS7VCDUTFL005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK23CGVCKUTFL015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK2HKLVCKPTIL01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK3QV0VCKPTIL00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3JJ7VCLTIPE01TM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3T8FVCLUTIL02MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL4FQFVCLPPZB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL319YVCLUTIL007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL43DYVCLPTIL019M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3394VCLTIPE00SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3DRFVCLTIPE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3R0ZVCLPTIL00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3H20VCLUBUB004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3D82VCLOXIE003M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3211VCLUJUB00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL35KZVCLOXIE012M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2200VCJUTIL01QM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK2WDBVCKPXLB00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3164VCLOXIE018M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL2VXCVCLUTIL00XM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL2WD2VCLUTIL02WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL168LVCLUTFK005M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL157KVCLPIHB016M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCJ2DFFVCJUTIL01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL2SM8VCLTOLB007M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL0P4ZVCLUTIL00LM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL26L5VCLTIPE00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL2J4RVCLPTIL008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL2JKTVCLIIPE00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK0HR9VCKONFB006M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCL41Q2VCLUTIL02NM.html?ref=rss">
+ <title>ベトナムから特殊詐欺指示?　困窮の留学生勧誘、自宅に携帯100台</title>
+ <link>https://www.asahi.com/articles/ASVCL41Q2VCLUTIL02NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss">
+ <title>浮かぶ秋色3千本　京都「もみじの永観堂」で夜間特別拝観</title>
+ <link>https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL7G17VCLULOB00SM.html?ref=rss">
+ <title>2人死亡ひき逃げ事故、容疑者の勤務先を家宅捜索　神奈川・海老名</title>
+ <link>https://www.asahi.com/articles/ASVCL7G17VCLULOB00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T11:27:04+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM0CPGVCMTIPE009M.html?ref=rss">
+ <title>死亡の男性、骨折60カ所以上　4年前の傷害致死容疑で20代男逮捕</title>
+ <link>https://www.asahi.com/articles/ASVCM0CPGVCMTIPE009M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T11:23:21+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM04L8VCMPIHB002M.html?ref=rss">
+ <title>3歳女児虐待死「なぜ死んだのかわからない」　容疑の父親、逮捕前に</title>
+ <link>https://www.asahi.com/articles/ASVCM04L8VCMPIHB002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T10:29:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL0GXWVCLUTIL01BM.html?ref=rss">
+ <title>愛子さまに新品種のラン、親子3代ゆかり　シンガポール「ラン外交」</title>
+ <link>https://www.asahi.com/articles/ASVCL0GXWVCLUTIL01BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T10:22:14+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM048WVCMUHNB001M.html?ref=rss">
+ <title>前橋市の住宅街で再びクマ出没か　人が追いかけられているとの情報も</title>
+ <link>https://www.asahi.com/articles/ASVCM048WVCMUHNB001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T10:04:43+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK14TDVCKUTIL013M.html?ref=rss">
+ <title>江ノ電の終電前、踏切内で作業　司令がダイヤ見誤り重大インシデント</title>
+ <link>https://www.asahi.com/articles/ASVCK14TDVCKUTIL013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCH4RWXVCHUTFL004M.html?ref=rss">
+ <title>「育休取得反対」論を張る研究者、「新しい父親支援」の形とは？</title>
+ <link>https://www.asahi.com/articles/ASVCH4RWXVCHUTFL004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T07:01:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCD1CS7VCDUTFL005M.html?ref=rss">
+ <title>「かわいいと思えない…」生後2カ月、双子の父が迎えた「限界」</title>
+ <link>https://www.asahi.com/articles/ASVCD1CS7VCDUTFL005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK23CGVCKUTFL015M.html?ref=rss">
+ <title>小林製薬工場の青カビ「生えやすく強い」　同じ種類は全国に分布</title>
+ <link>https://www.asahi.com/articles/ASVCK23CGVCKUTFL015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK2HKLVCKPTIL01SM.html?ref=rss">
+ <title>「資本主義の終わり」元グーグル副社長が語るAI時代の創作と著作権</title>
+ <link>https://www.asahi.com/articles/ASVCK2HKLVCKPTIL01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK3QV0VCKPTIL00VM.html?ref=rss">
+ <title>妻の海外赴任に「駐夫」で同行した元記者、帰国後に選んだ意外な道</title>
+ <link>https://www.asahi.com/articles/ASVCK3QV0VCKPTIL00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3JJ7VCLTIPE01TM.html?ref=rss">
+ <title>23年に男性死亡、仕事仲間を逮捕へ　暴行加え死亡させた疑い　福岡</title>
+ <link>https://www.asahi.com/articles/ASVCL3JJ7VCLTIPE01TM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T06:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3T8FVCLUTIL02MM.html?ref=rss">
+ <title>受刑者の投票制限は「合憲」、判断割れた最高裁　「国会は議論を」</title>
+ <link>https://www.asahi.com/articles/ASVCL3T8FVCLUTIL02MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-19T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL4FQFVCLPPZB008M.html?ref=rss">
+ <title>恋愛トラブルか、知人生徒の胸を複数回刺した疑いで中3を逮捕　岡山</title>
+ <link>https://www.asahi.com/articles/ASVCL4FQFVCLPPZB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T22:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL319YVCLUTIL007M.html?ref=rss">
+ <title>自称「陰謀論者」ナオキマンとは　都市伝説や「人工地震」を多数紹介</title>
+ <link>https://www.asahi.com/articles/ASVCL319YVCLUTIL007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T22:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL43DYVCLPTIL019M.html?ref=rss">
+ <title>盗まれた国産高級車、ロンダリングで暴力団へ？　グループ10人逮捕</title>
+ <link>https://www.asahi.com/articles/ASVCL43DYVCLPTIL019M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T21:26:51+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss">
+ <title>愛子さま、シンガポール大統領と会見　平和な世界築く「パートナー」</title>
+ <link>https://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T21:07:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3394VCLTIPE00SM.html?ref=rss">
+ <title>「48時間以内に送検」ルール守れず　福岡県警、逮捕の容疑者を釈放</title>
+ <link>https://www.asahi.com/articles/ASVCL3394VCLTIPE00SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3DRFVCLTIPE001M.html?ref=rss">
+ <title>佐渡裕さんと育徳館中高管弦楽部の「キセキ」映画に　地元で先行上映</title>
+ <link>https://www.asahi.com/articles/ASVCL3DRFVCLTIPE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3R0ZVCLPTIL00RM.html?ref=rss">
+ <title>3歳女児虐待死、事件2日前に面談　兵庫の児相「異変感じなかった」</title>
+ <link>https://www.asahi.com/articles/ASVCL3R0ZVCLPTIL00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T20:30:59+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3H20VCLUBUB004M.html?ref=rss">
+ <title>秋田のアシカ「リオン」死亡　福岡の水族館へ空路で引っ越し中に</title>
+ <link>https://www.asahi.com/articles/ASVCL3H20VCLUBUB004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3D82VCLOXIE003M.html?ref=rss">
+ <title>大阪都構想の｢協定書｣案を提示　今月中にもとりまとめ国に報告へ</title>
+ <link>https://www.asahi.com/articles/ASVCL3D82VCLOXIE003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T20:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3211VCLUJUB00DM.html?ref=rss">
+ <title>岩手県立高校で「いじめ重大事態」　男子生徒が自死と県教委が公表</title>
+ <link>https://www.asahi.com/articles/ASVCL3211VCLUJUB00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T19:43:17+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL35KZVCLOXIE012M.html?ref=rss">
+ <title>警察庁長官が能登地震の被災地視察　「火災現場、被害の大きさ実感」</title>
+ <link>https://www.asahi.com/articles/ASVCL35KZVCLOXIE012M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T19:20:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2200VCJUTIL01QM.html?ref=rss">
+ <title>受刑者の投票を認めないのは「合憲」　最高裁「国民の意識」を根拠に</title>
+ <link>https://www.asahi.com/articles/ASVCJ2200VCJUTIL01QM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T18:44:49+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK2WDBVCKPXLB00CM.html?ref=rss">
+ <title>持病の意識障害で死亡事故、懲役5年の判決　地検が一度は不起訴に</title>
+ <link>https://www.asahi.com/articles/ASVCK2WDBVCKPXLB00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T18:44:25+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3164VCLOXIE018M.html?ref=rss">
+ <title>公金詐取事件「市長の指示断れず」　徳島県阿波市の男性職員が説明</title>
+ <link>https://www.asahi.com/articles/ASVCL3164VCLOXIE018M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T18:27:49+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL2VXCVCLUTIL00XM.html?ref=rss">
+ <title>日本被団協の「平和を願う歌」詩決まる　ノーベル平和賞記念で募集</title>
+ <link>https://www.asahi.com/articles/ASVCL2VXCVCLUTIL00XM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T18:19:09+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL2WD2VCLUTIL02WM.html?ref=rss">
+ <title>【判決要旨】受刑者の選挙権を一律で認めない規定は「合憲」　最高裁</title>
+ <link>https://www.asahi.com/articles/ASVCL2WD2VCLUTIL02WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T18:09:01+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL168LVCLUTFK005M.html?ref=rss">
+ <title>関文科相、経産官僚呼んだパーティーも開催　バイオ企業関係者が参加</title>
+ <link>https://www.asahi.com/articles/ASVCL168LVCLUTFK005M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T18:03:55+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL157KVCLPIHB016M.html?ref=rss">
+ <title>3歳女児死亡、29歳父親を逮捕　あざ数十カ所、傷害致死容疑を否認</title>
+ <link>https://www.asahi.com/articles/ASVCL157KVCLPIHB016M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T17:55:43+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCJ2DFFVCJUTIL01NM.html?ref=rss">
+ <title>Suica2代目キャラはウサギ　ペンギン後継　ネット投票で最多票</title>
+ <link>https://www.asahi.com/articles/ASVCJ2DFFVCJUTIL01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T17:54:06+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL2SM8VCLTOLB007M.html?ref=rss">
+ <title>同姓同名に個人情報を誤って送付、受取人はSNS投稿で拡散　長崎市</title>
+ <link>https://www.asahi.com/articles/ASVCL2SM8VCLTOLB007M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T17:47:01+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL0P4ZVCLUTIL00LM.html?ref=rss">
+ <title>JR新橋駅前のビルで火災「煙すごい」　避難呼びかけなど一時騒然</title>
+ <link>https://www.asahi.com/articles/ASVCL0P4ZVCLUTIL00LM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T17:44:52+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL26L5VCLTIPE00KM.html?ref=rss">
+ <title>スポーツ合宿で小学生男児にわいせつ容疑　コーチの男逮捕、一部否認</title>
+ <link>https://www.asahi.com/articles/ASVCL26L5VCLTIPE00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T17:40:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL2J4RVCLPTIL008M.html?ref=rss">
+ <title>山口組ナンバー3を逮捕　車の名義変更の際に虚偽の申請をした疑い</title>
+ <link>https://www.asahi.com/articles/ASVCL2J4RVCLPTIL008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T17:34:06+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL2JKTVCLIIPE00BM.html?ref=rss">
+ <title>学習塾で女子生徒を盗撮しようとした疑いで元塾講師の男逮捕　札幌</title>
+ <link>https://www.asahi.com/articles/ASVCL2JKTVCLIIPE00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T17:01:58+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK0HR9VCKONFB006M.html?ref=rss">
+ <title>市営住宅236戸で名義人と居住者異なる、違法増築も　三重・伊賀</title>
+ <link>https://www.asahi.com/articles/ASVCK0HR9VCKONFB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>社会</dc:subject>
+ <dc:date>2026-11-18T17:00:00+09:00</dc:date>
+</item>
+</rdf:RDF>
