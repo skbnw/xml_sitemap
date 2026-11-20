@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-20T11:30:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-20T11:30:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM2QXYVCMPLZB00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK31D5VCKUTPB006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM2SDQVCMTIPE01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK2CKWVCKPQIP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM3DZBVCMUTPB010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK2HKLVCKPTIL01SM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3DRFVCLTIPE001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL3D3LVCLTIPE00YM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL2STDVCLUCVL00VM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL2HRLVCLUCVL00DM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL2BWBVCLUCVL014M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCM2QXYVCMPLZB00RM.html?ref=rss">
+ <title>天下分け目の天王山　その頂に秀吉が築いた山崎城の時代とは？</title>
+ <link>https://www.asahi.com/articles/ASVCM2QXYVCMPLZB00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK31D5VCKUTPB006M.html?ref=rss">
+ <title>冤罪、繰り返さぬために　袴田巌さんらのドキュメンタリー映画公開</title>
+ <link>https://www.asahi.com/articles/ASVCK31D5VCKUTPB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM2SDQVCMTIPE01MM.html?ref=rss">
+ <title>筑豊炭田の閉山から50年　薄れる記憶、埋もれる「遺産」どういかす</title>
+ <link>https://www.asahi.com/articles/ASVCM2SDQVCMTIPE01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK2CKWVCKPQIP001M.html?ref=rss">
+ <title>丸みをおびた文字うかぶ　レトロな電卓とシャーペン、並べて展示</title>
+ <link>https://www.asahi.com/articles/ASVCK2CKWVCKPQIP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM3DZBVCMUTPB010M.html?ref=rss">
+ <title>偶然の「猫かぶり」　静岡県内4館で猫の展覧会、「招き猫」効果も</title>
+ <link>https://www.asahi.com/articles/ASVCM3DZBVCMUTPB010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss">
+ <title>浮かぶ秋色3千本　京都「もみじの永観堂」で夜間特別拝観</title>
+ <link>https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-19T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK2HKLVCKPTIL01SM.html?ref=rss">
+ <title>「資本主義の終わり」元グーグル副社長が語るAI時代の創作と著作権</title>
+ <link>https://www.asahi.com/articles/ASVCK2HKLVCKPTIL01SM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-19T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3DRFVCLTIPE001M.html?ref=rss">
+ <title>佐渡裕さんと育徳館中高管弦楽部の「キセキ」映画に　地元で先行上映</title>
+ <link>https://www.asahi.com/articles/ASVCL3DRFVCLTIPE001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-18T21:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL3D3LVCLTIPE00YM.html?ref=rss">
+ <title>琉球の王よみがえれ　肖像画の修復続く九州国立博物館で報道公開</title>
+ <link>https://www.asahi.com/articles/ASVCL3D3LVCLTIPE00YM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-18T20:45:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL2STDVCLUCVL00VM.html?ref=rss">
+ <title>NHK、訪問営業委託業者1社の業務見直し　グループ企業の不祥事で</title>
+ <link>https://www.asahi.com/articles/ASVCL2STDVCLUCVL00VM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-18T18:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL2HRLVCLUCVL00DM.html?ref=rss">
+ <title>NHK、飲み会の目安「22時ごろまで」「1次会まで」　ルール通達</title>
+ <link>https://www.asahi.com/articles/ASVCL2HRLVCLUCVL00DM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-18T18:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL2BWBVCLUCVL014M.html?ref=rss">
+ <title>国民文化祭　2029年度の開催地を青森県に内定　文化庁が発表</title>
+ <link>https://www.asahi.com/articles/ASVCL2BWBVCLUCVL014M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-18T16:15:00+09:00</dc:date>
+</item>
+</rdf:RDF>
