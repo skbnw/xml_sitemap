@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>政治 - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「一般政治ニュース、国政、地方政治内閣支持率など」に関するページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-21T18:15:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-21T18:15:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCP2TG3VCPUTFK002M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCP24Y6VCPUTFK004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN3F80VCNUTFK015M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN3JQRVCNPLZB008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN454YVCNTIPE01RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM1PGCVCMULLI00BM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM32JVVCMUTFK013M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN1F4QVCNUTFK00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM3HFJVCMUTFK02CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN2551VCNUTFK00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN460DVCNUTFK008M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN41B5VCNIIPE01GM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN3GYVVCNUTFK00CM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN3C5LVCNTIPE013M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN3CSXVCNOXIE039M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN32W3VCNTIPE00WM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN3337VCNUTFK00HM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN2WFBVCNULFA004M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN2FLQVCNTIPE003M.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCP2TG3VCPUTFK002M.html?ref=rss">
+ <title>自民幹事長「法案成立の阻害要因なくす」関文科相の辞任可能性を示唆</title>
+ <link>https://www.asahi.com/articles/ASVCP2TG3VCPUTFK002M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T18:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCP24Y6VCPUTFK004M.html?ref=rss">
+ <title>総裁の意向ばかり気にする自民議員　識者が見る「高市1強」の実像</title>
+ <link>https://www.asahi.com/articles/ASVCP24Y6VCPUTFK004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T16:13:24+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN3F80VCNUTFK015M.html?ref=rss">
+ <title>「プロの政治家」だった福田元首相　日本・世界の行く末を案じた晩年</title>
+ <link>https://www.asahi.com/articles/ASVCN3F80VCNUTFK015M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN3JQRVCNPLZB008M.html?ref=rss">
+ <title>自民・京都が政治資金パーティー再開　裏金問題など経て　ノルマ廃止</title>
+ <link>https://www.asahi.com/articles/ASVCN3JQRVCNPLZB008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN454YVCNTIPE01RM.html?ref=rss">
+ <title>年末年始の選挙を避けるため自主解散案　福岡・福津市議会で採決へ</title>
+ <link>https://www.asahi.com/articles/ASVCN454YVCNTIPE01RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T11:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM1PGCVCMULLI00BM.html?ref=rss">
+ <title>「中道」に投票した人、後継政党への支持は2割だけ　朝日阪大調査</title>
+ <link>https://www.asahi.com/articles/ASVCM1PGCVCMULLI00BM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM32JVVCMUTFK013M.html?ref=rss">
+ <title>野田元首相の弟は立憲と決別「説明つかない」　中道解体の大きな余波</title>
+ <link>https://www.asahi.com/articles/ASVCM32JVVCMUTFK013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN1F4QVCNUTFK00WM.html?ref=rss">
+ <title>「心が折れた」政治活動から身を引く人も　中道を支持した人たちは今</title>
+ <link>https://www.asahi.com/articles/ASVCN1F4QVCNUTFK00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM3HFJVCMUTFK02CM.html?ref=rss">
+ <title>「何で当選できたか分かっているな」期待と恐怖　高市流の自民党統治</title>
+ <link>https://www.asahi.com/articles/ASVCM3HFJVCMUTFK02CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN2551VCNUTFK00KM.html?ref=rss">
+ <title>高市首相、APECで台湾代表と会談せず　昨年はXに投稿、中国反発</title>
+ <link>https://www.asahi.com/articles/ASVCN2551VCNUTFK00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T06:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN460DVCNUTFK008M.html?ref=rss">
+ <title>公明「大胆な修正ない限り賛成できない」　消費減税めぐり6項目要求</title>
+ <link>https://www.asahi.com/articles/ASVCN460DVCNUTFK008M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-21T05:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN41B5VCNIIPE01GM.html?ref=rss">
+ <title>美唄市長「思考停止していた」不適切な処理、5億円超　慣行化の背景</title>
+ <link>https://www.asahi.com/articles/ASVCN41B5VCNIIPE01GM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T21:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html?ref=rss">
+ <title>政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表</title>
+ <link>https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T21:27:35+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN3GYVVCNUTFK00CM.html?ref=rss">
+ <title>高市首相、ペルー・フジモリ大統領と会談　チリ大統領とも会談</title>
+ <link>https://www.asahi.com/articles/ASVCN3GYVVCNUTFK00CM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T20:23:12+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN3C5LVCNTIPE013M.html?ref=rss">
+ <title>障害児施設など突然閉鎖、255人の約半数の受け入れ先未定　福岡</title>
+ <link>https://www.asahi.com/articles/ASVCN3C5LVCNTIPE013M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T19:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN3CSXVCNOXIE039M.html?ref=rss">
+ <title>インフラ整備「バーターではない」　税の偏在是正めぐり小池知事否定</title>
+ <link>https://www.asahi.com/articles/ASVCN3CSXVCNOXIE039M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T19:37:13+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN32W3VCNTIPE00WM.html?ref=rss">
+ <title>麻生コンクリート　無届けで汚水処理変更、工場外排出　県が立ち入り</title>
+ <link>https://www.asahi.com/articles/ASVCN32W3VCNTIPE00WM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T19:10:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN3337VCNUTFK00HM.html?ref=rss">
+ <title>参政「定数削減、合理性ない」と追及、自民「正直、正解はない…」</title>
+ <link>https://www.asahi.com/articles/ASVCN3337VCNUTFK00HM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T18:50:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN2WFBVCNULFA004M.html?ref=rss">
+ <title>「減税以上の値上げが起きる」消費減税めぐる地方公聴会で懸念の声</title>
+ <link>https://www.asahi.com/articles/ASVCN2WFBVCNULFA004M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T18:14:50+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN2FLQVCNTIPE003M.html?ref=rss">
+ <title>蔵内前議長の秘書だった県議、百条委を辞任　調査停滞「本意でない」</title>
+ <link>https://www.asahi.com/articles/ASVCN2FLQVCNTIPE003M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>政治</dc:subject>
+ <dc:date>2026-11-20T17:58:30+09:00</dc:date>
+</item>
+</rdf:RDF>
