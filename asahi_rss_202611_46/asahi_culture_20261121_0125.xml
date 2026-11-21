@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="http://www3.asahi.com/">
+ <title>カルチャー - 朝日新聞</title>
+ <link>https://www.asahi.com/</link>
+ <description>朝日新聞のデジタル版「カルチャー情報とニュース」のページです。</description>
+ <dc:language>ja</dc:language>
+ <dc:rights>Copyright 2026 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>
+ <dc:date>2026-11-20T21:15:00+09:00</dc:date>
+ <dc:publisher>朝日新聞社</dc:publisher>
+ <dc:creator>朝日新聞社</dc:creator>
+ <syn:updatePeriod>hourly</syn:updatePeriod>
+ <syn:updateFrequency>1</syn:updateFrequency>
+ <syn:updateBase>2026-11-20T21:15:00+09:00</syn:updateBase>
+ <items>
+  <rdf:Seq>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN3Q7PVCNUEFT00FM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCN3GQ4VCNTLVB00KM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM2QXYVCMPLZB00RM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK31D5VCKUTPB006M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM2SDQVCMTIPE01MM.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCK2CKWVCKPQIP001M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCM3DZBVCMUTPB010M.html?ref=rss"/>
+   <rdf:li rdf:resource="https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss"/>
+  </rdf:Seq>
+ </items>
+</channel>
+<item rdf:about="https://www.asahi.com/articles/ASVCN3Q7PVCNUEFT00FM.html?ref=rss">
+ <title>雪ミク電車ラストシーズン　雪降る中のお披露目　札幌市電</title>
+ <link>https://www.asahi.com/articles/ASVCN3Q7PVCNUEFT00FM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T21:15:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCN3GQ4VCNTLVB00KM.html?ref=rss">
+ <title>石川さゆりさん、水俣病患者に別れ「会いたかった」　公演前に弔問</title>
+ <link>https://www.asahi.com/articles/ASVCN3GQ4VCNTLVB00KM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T20:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM2QXYVCMPLZB00RM.html?ref=rss">
+ <title>天下分け目の天王山　その頂に秀吉が築いた山崎城の時代とは？</title>
+ <link>https://www.asahi.com/articles/ASVCM2QXYVCMPLZB00RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T11:30:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK31D5VCKUTPB006M.html?ref=rss">
+ <title>冤罪、繰り返さぬために　袴田巌さんらのドキュメンタリー映画公開</title>
+ <link>https://www.asahi.com/articles/ASVCK31D5VCKUTPB006M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T10:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM2SDQVCMTIPE01MM.html?ref=rss">
+ <title>筑豊炭田の閉山から50年　薄れる記憶、埋もれる「遺産」どういかす</title>
+ <link>https://www.asahi.com/articles/ASVCM2SDQVCMTIPE01MM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T09:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCK2CKWVCKPQIP001M.html?ref=rss">
+ <title>丸みをおびた文字うかぶ　レトロな電卓とシャーペン、並べて展示</title>
+ <link>https://www.asahi.com/articles/ASVCK2CKWVCKPQIP001M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCM3DZBVCMUTPB010M.html?ref=rss">
+ <title>偶然の「猫かぶり」　静岡県内4館で猫の展覧会、「招き猫」効果も</title>
+ <link>https://www.asahi.com/articles/ASVCM3DZBVCMUTPB010M.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-20T07:00:00+09:00</dc:date>
+</item>
+<item rdf:about="https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss">
+ <title>浮かぶ秋色3千本　京都「もみじの永観堂」で夜間特別拝観</title>
+ <link>https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html?ref=rss</link>
+ <description></description>
+ <dc:subject>文化</dc:subject>
+ <dc:date>2026-11-19T11:30:00+09:00</dc:date>
+</item>
+</rdf:RDF>
