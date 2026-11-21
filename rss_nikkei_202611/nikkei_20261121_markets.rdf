@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="https://assets.wor.jp/rss/rss/rdf/nikkei/markets.rdf"
+           encoded="https%3A%2F%2Fassets.wor.jp%2Frss%2Frss%2Frdf%2Fnikkei%2Fmarkets.rdf">
+    <title>日経新聞 マーケット</title>
+    <link>https://www.nikkei.com/news/category/markets/</link>
+    <description>日経新聞のマーケットに関するフィードをお届けします。</description>
+    <dc:date>2026-11-21T17:19:19+09:00</dc:date>
+    <dc:language>ja</dc:language>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB192BM0Z11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB11AFC0R11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB206ZC0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20CP60Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20CN60Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN20CVE0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20CLK0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20CLI0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20CLG0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN210130R21C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL2100G0R21C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20CP50Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB109040Q6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUA136P30T11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB106DO0Q6A111C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB205UE0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL211AF0R21C26A0000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20C1Z0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB114SS0R11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20B6I0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOGN20C900Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20B670Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20B460Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB177WO0X11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL20B3G0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUB207RN0Q6A121C2000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOUF115RL0R11C26A1000000/"/>
+        <rdf:li rdf:resource="https://www.nikkei.com/article/DGXZQOFL209M90Q6A121C2000000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB192BM0Z11C26A1000000/">
+    <title>日経平均は下値探る展開か　AI半導体株の期待揺らぐ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB192BM0Z11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T13:00:09+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB11AFC0R11C26A1000000/">
+    <title>世界の原油輸出最大に、1日4700万バレル　ホルムズ迂回・代替で回復</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB11AFC0R11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB206ZC0Q6A121C2000000/">
+    <title>アンソロピック上場「AIの予見性向上」「荒い相場続く」　運用大手CIO</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB206ZC0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T11:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20CP60Q6A121C2000000/">
+    <title>NY円相場、反発　1ドル=158円40〜50銭　米株安や金利低下で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20CP60Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T07:58:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20CN60Q6A121C2000000/">
+    <title>NY債券、長期債続伸　10年債利回り4.94%　米AI株安でリスク回避の買い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20CN60Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T07:30:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN20CVE0Q6A121C2000000/">
+    <title>アンソロピック急落9%安　テック株全体に波及、ナスダック5%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN20CVE0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T07:21:44+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20CLK0Q6A121C2000000/">
+    <title>シカゴ日本株先物概況・20日　日経平均先物は3345円安の5万4555円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20CLK0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T06:50:57+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20CLI0Q6A121C2000000/">
+    <title>日経平均先物、大取の夜間取引で下落　1870円安の5万4550円</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20CLI0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T06:46:33+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20CLG0Q6A121C2000000/">
+    <title>日本株ADR20日、売り優勢　野村やみずほFGが安い</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20CLG0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T06:45:11+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN210130R21C26A1000000/">
+    <title>NVIDIA、株価14%急落　米SECが会計処理を調査とロイター報道</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN210130R21C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T06:40:28+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL2100G0R21C26A1000000/">
+    <title>NYダウ続落、5日で4000ドル超安　7カ月ぶり安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL2100G0R21C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T06:39:19+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/">
+    <title>S&amp;P500が調整局面入り　「重なる最悪の事態」AI株高ピーク過ぎたか</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T06:27:23+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20CP50Q6A121C2000000/">
+    <title>NY商品、原油反発　サウジとフーシの衝突警戒で　金は続落</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20CP50Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T06:01:22+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB109040Q6A111C2000000/">
+    <title>インフレ打撃は高齢者に、話題の日銀リポート　｢処方箋は利上げ｣主張</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB109040Q6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUA136P30T11C26A1000000/">
+    <title>2027年度税制改正、くらしや企業活動どう変わる　主な最新記事まとめ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUA136P30T11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB106DO0Q6A111C2000000/">
+    <title>事業承継M&amp;A、税理士が情報格差埋める　共有データベースで支援</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB106DO0Q6A111C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB205UE0Q6A121C2000000/">
+    <title>三井化学株、JSR1.8兆円買収に揺れる　時価総額の2倍超</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB205UE0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T05:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL211AF0R21C26A0000000/">
+    <title>米国株23時間取引が12月開始　多彩な銘柄、日本の個人投資家も熱視線</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL211AF0R21C26A0000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T04:30:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20C1Z0Q6A121C2000000/">
+    <title>米ナスダック一時4%安、テック株に売り圧力　NYダウは下落に転じる</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20C1Z0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T04:24:02+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB114SS0R11C26A1000000/">
+    <title>事務機大手に再編機運　富士フイルムは事業分離で「先手」</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB114SS0R11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T04:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20B6I0Q6A121C2000000/">
+    <title>ドイツ株20日　続落し約4カ月ぶり安値、週間では7%安　半導体関連に売り</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20B6I0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T03:43:43+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOGN20C900Q6A121C2000000/">
+    <title>アンソロピック株急落、一時15%安　公開価格割れ迫る</title>
+    <link>https://www.nikkei.com/article/DGXZQOGN20C900Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T03:24:21+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20B670Q6A121C2000000/">
+    <title>ロンドン株20日　続落、約5カ月ぶり安値　週間では5.1%安</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20B670Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T03:15:32+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20B460Q6A121C2000000/">
+    <title>欧州国債概況20日　独10年債利回り低下、株安と原油下落で</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20B460Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T02:36:37+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB177WO0X11C26A1000000/">
+    <title>成長を阻むものは誰か</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB177WO0X11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T02:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL20B3G0Q6A121C2000000/">
+    <title>ロンドン外為20日　ユーロ、対ドルで横ばい圏　円は買い優勢</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL20B3G0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-21T01:54:16+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/">
+    <title>世界株安、半導体発のリスク回避加速　日経平均3007円下げ</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-20T22:35:20+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUB207RN0Q6A121C2000000/">
+    <title>10月の超長期債、大手銀が2年ぶり買越額　高利回りに投資妙味</title>
+    <link>https://www.nikkei.com/article/DGXZQOUB207RN0Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-20T21:30:29+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOUF115RL0R11C26A1000000/">
+    <title>I-ne、創業社長がMBO　非公開化へ投資ファンドがTOB</title>
+    <link>https://www.nikkei.com/article/DGXZQOUF115RL0R11C26A1000000/</link>
+    <description></description>
+    <dc:date>2026-11-20T20:00:00+09:00</dc:date>
+  </item>
+  <item rdf:about="https://www.nikkei.com/article/DGXZQOFL209M90Q6A121C2000000/">
+    <title>ロンドン外為9時半　ユーロ、対ドルで下落　対円では1年1カ月ぶり安値</title>
+    <link>https://www.nikkei.com/article/DGXZQOFL209M90Q6A121C2000000/</link>
+    <description></description>
+    <dc:date>2026-11-20T19:05:35+09:00</dc:date>
+  </item>
+</rdf:RDF>
